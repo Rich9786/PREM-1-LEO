@@ -776,11 +776,11 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-escapes/CDN/master.m3u8
 https://dai.google.com/linear/hls/event/_PDxBUttQYqkxPnmh3VOZA/master.m3u8
 #EXTINF:-1 tvg-id="1111" tvg-name="Canal Turismo Travel TV" tvg-logo="https://i2.paste.pics/50d8cde45e0c3efff3bc3fb05c5da6d1.png", Canal Turismo Travel TV | CL
 https://vdo.panelstreaming.live:3936/hybrid/play.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://www.lakeofthepines.cc/uploads/3/4/0/6/34062187/4169883_orig.jpg" group-title="USA",Lakes Live HD
+#EXTINF:-1 tvg-logo="https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/clients/newyorkstate/mirrorlake_eprealbuto00_instagram_640x474_52dc4c7e-2cac-4935-ad50-856c4ea7cb9a.jpg" group-title="USA",Lakes Live HD
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images-platform.99static.com/iMlkPkLmz9S_5tmucFzSt9f1mXs=/0x0:1504x1504/500x500/top/smart/99designs-contests-attachments/124/124409/attachment_124409255" group-title="USA",Forests Live HD
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.livewallpaper.io/media/cache/resolve/lwp_logo/5940047d3dbca92f542e8f42/logo.png" group-title="USA",Mountains Live HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/71/c8/a9/71c8a9d5e8d513230f69ae0db6bb019d--north-carolina-mountains-nc-mountains.jpg" group-title="USA",Mountains Live HD
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/www.differencebetween.com/wp-content/uploads/2019/01/Difference-Between-Brook-and-Creek-fig-2.jpg" group-title="USA",Rivers Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
