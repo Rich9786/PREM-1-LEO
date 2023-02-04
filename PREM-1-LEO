@@ -816,6 +816,8 @@ http://clubtv.link/feb03/key1099/geomex3.php?c=356&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/20bgIyT.png" group-title="DISTRO TV",Saber Mas - GEO 1-2
 http://clubtv.link/feb03/key1099/distro.php?c=saber-mas&f=.m3u8
+#EXTINF:-1 tvg-id="1042" tvg-name="AMX Noticias" tvg-logo="https://i2.paste.pics/6074e29d2a3241e1f3b3051144274188.png", AMX Noticias | MX
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/768px-Sun_Channel_logo.svg.png" group-title="MEXICO",Sun Channel - LIS 2
 
 #EXTINF:-1 logo="https://images-na.ssl-images-amazon.com/images/I/619apfg5DDL.png" group-title="MUNDO Y CULTURA",DW - CL
@@ -832,8 +834,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?Pla
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhvEXzKsZ7-EIq0mcNxoDQq2Pi8G7KAbi1WAxwUqp4yPMYKdYu3Rmf-5T8nw8FG2frPPg&usqp=CAU" group-title="Without category",CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 tvg-id="1042" tvg-name="AMX Noticias" tvg-logo="https://i2.paste.pics/6074e29d2a3241e1f3b3051144274188.png", AMX Noticias | MX
-https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="442" tvg-name="CEAC TV" tvg-logo="https://www.m3u.cl/logo/442_CEAC_TV.png", CEAC TV | CL
 
 #EXTINF:-1 logo="https://i.imgur.com/OO9PaGb.jpg" group-title="MUNDO Y CULTURA",H&H HD - LIS 1
