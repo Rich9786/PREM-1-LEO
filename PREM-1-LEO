@@ -328,15 +328,15 @@ http://clubtv.link/2320mar/top8100/geomex2.php?c=401&f=.m3u8
 http://clubtv.link/2320mar/top8100/geomex3.php?c=401&f=.m3u8
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/Atv.png/revision/latest?cb=20200830194250" group-title="MEXICO",APREDNE TV- MX
 
-#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1279877203828883456/BeLTCX05_400x400.jpg" group-title="MEXICO",MVS TV - GEO MR-1
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1279877203828883456/BeLTCX05_400x400.jpg" group-title="MEXICO",MVSTV - GEO MR-1
 
-#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1279877203828883456/BeLTCX05_400x400.jpg" group-title="MEXICO",MVS TV - GEO MR-2
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1279877203828883456/BeLTCX05_400x400.jpg" group-title="MEXICO",MVSTV - GEO MR-2
 
-#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1279877203828883456/BeLTCX05_400x400.jpg" group-title="MEXICO",MVS TV - GEO AR
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1279877203828883456/BeLTCX05_400x400.jpg" group-title="MEXICO",MVSTV - GEO AR
 
-#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1279877203828883456/BeLTCX05_400x400.jpg" group-title="MEXICO",MVS TV - LIS 3
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1279877203828883456/BeLTCX05_400x400.jpg" group-title="MEXICO",MVSTV - LIS 
 
-#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1279877203828883456/BeLTCX05_400x400.jpg" group-title="MEXICO",MVS TV - MX
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1279877203828883456/BeLTCX05_400x400.jpg" group-title="MEXICO",MVSTV - MX
 
 #EXTINF:-1 logo="https://ventanaver.mx/wp-content/uploads/2022/02/TV-MAS-LOGO.jpg" group-title="MEXICO",TVMAS - GEO BR
  
@@ -712,7 +712,7 @@ http://clubtv.link/2320mar/top8100/lista3.php?c=122
 #EXTINF:-1 logo="https://i.imgur.com/ypR4tvy.jpg" group-title="MUNDO Y CULTURA",H2 - ANDR
 
 #EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://w1.pngwing.com/pngs/818/201/png-transparent-tv-logo-cable-television-hgtv-organization-blue-text-line-thumbnail.png" group-title="TV PREMIUM 2",HGTV SD. - LIS 0
-http://clubtv.link/2320mar/top8100/lista.php?c=2108-209
+http://clubtv.link/2320mar/top8100/lista.php?c=2108-2092
 #EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://w1.pngwing.com/pngs/818/201/png-transparent-tv-logo-cable-television-hgtv-organization-blue-text-line-thumbnail.png" group-title="TV PREMIUM 2",HGTV HD - LIS 0
 http://clubtv.link/2320mar/top8100/lista.php?c=4956-2092
 #EXTINF:-1 logo="https://www.marketingdirecto.com/wp-content/uploads/2012/12/national-geographic.jpg" group-title="MUNDO Y CULTURA",NAT GEO HD - LIS 1
@@ -859,8 +859,8 @@ http://clubtv.link/2320mar/top8100/geomex4.php?c=379&f=.m3u8
 http://clubtv.link/2320mar/top8100/geomex2.php?c=379&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/co_lifetime_m.png" group-title="SERIES Y CINE",LIFETIME - GEO AR
 http://clubtv.link/2320mar/top8100/geomex3.php?c=379&f=.m3u8
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/co_lifetime_m.png" group-title="SERIES Y CINE",LIFETIME - LIS 2
-
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/co_lifetime_m.png" group-title="SERIES Y CINE",LIFETIME HD - LIS 0
+http://clubtv.link/2320mar/top8100/lista.php?c=4701-2092
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/co_lifetime_m.png" group-title="SERIES Y CINE",LIFETIME - Lis 3
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/co_lifetime_m.png" group-title="SERIES Y CINE",LIFETIME - GANDR 3
@@ -988,6 +988,16 @@ http://clubtv.link/2320mar/top8100/lista.php?c=2269-1111
 http://clubtv.link/2320mar/top8100/lista.php?c=2265-1111
 #EXTINF:-1 logo="https://1.bp.blogspot.com/-szrN-QJecdU/YNkpvFgZkrI/AAAAAAABE1w/UfC98_RFJwAe0OOC_757x57NPXj4jBcugCLcBGAsYHQ/s640/Telemundo%2BPR%2B-%2BEn%2BVivo.jpg" group-title="ENTRETENIMIENTO", TELEMUNDO I - PUERTO RICO - LIS 0
 http://clubtv.link/2320mar/top8100/lista.php?c=5662-1111
+#EXTINF:-1 logo="https://cdn.mos.cms.futurecdn.net/Spz7CMmKbv6yKzpfNZ7WfS-1200-80.jpg" group-title="ENTRETENIMIENTO",TELEMUNDO BOSTON I - LIS 0
+http://clubtv.link/2320mar/top8100/lista.php?c=3819-2092
+#EXTINF:-1 logo="https://media.telemundodallas.com/2022/08/KXTX-tvOS_App-Store-1280x768-1.png?fit=1280%2C768&quality=85&strip=all" group-title="ENTRETENIMIENTO",TELEMUNDO DALLAS - LIS 0
+http://clubtv.link/2320mar/top8100/lista.php?c=3821-2092
+#EXTINF:-1 logo="https://media.telemundodallas.com/2022/08/KXTX-tvOS_App-Store-1280x768-1.png?fit=1280%2C768&quality=85&strip=all" group-title="ENTRETENIMIENTO",TELEMUNDO DALLAS I - LIS 0
+http://clubtv.link/2320mar/top8100/lista.php?c=4778-2092
+#EXTINF:-1 logo="https://media.telemundo52.com/2022/08/KVEA-tvOS_App-Store-1280x768-1.png?fit=1280%2C768&quality=85&strip=all" group-title="ENTRETENIMIENTO",TELEMUNDO LA - LIS 0
+http://clubtv.link/2320mar/top8100/lista.php?c=3823-2092
+#EXTINF:-1 logo="https://media.telemundo52.com/2022/08/KVEA-tvOS_App-Store-1280x768-1.png?fit=1280%2C768&quality=85&strip=all" group-title="ENTRETENIMIENTO",TELEMUNDO LA I - LIS 0
+http://clubtv.link/2320mar/top8100/lista.php?c=5476-2092
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnSHDEyFQMmYuCEW6VYPEKDgdl-Sntl2NhvbI4KvK3LZxMCLYNwtY0Xg0PIDBUtPG-9l8&usqp=CAU" group-title="ENTRETENIMIENTO",E! HD - LIS 1
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnSHDEyFQMmYuCEW6VYPEKDgdl-Sntl2NhvbI4KvK3LZxMCLYNwtY0Xg0PIDBUtPG-9l8&usqp=CAU" group-title="ENTRETENIMIENTO",E! - GEO MR-1
@@ -1348,10 +1358,10 @@ http://clubtv.link/2320mar/top8100/geomex3.php?c=250&f=.m3u8
 
 #EXTINF:-1 logo="https://logodix.com/logo/2085350.jpg" group-title="TV PREMIUM",PASIONES HD - LIS 1
 
-#EXTINF:-1 logo="https://logodix.com/logo/2085350.jpg" group-title="TV PREMIUM",PASIONES - LIS 2
-
-#EXTINF:-1 logo="https://logodix.com/logo/2085350.jpg" group-title="TV PREMIUM",PASIONES - LIS 3
-
+#EXTINF:-1 logo="https://logodix.com/logo/2085350.jpg" group-title="TV PREMIUM",PASIONES SD - LIS 0
+http://clubtv.link/2320mar/top8100/lista.php?c=5255-2092
+#EXTINF:-1 logo="https://logodix.com/logo/2085350.jpg" group-title="TV PREMIUM",PASIONES I - LIS 0
+http://clubtv.link/2320mar/top8100/lista.php?c=2378-2092
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLSXSHetqw_1iTfwROFrpL0YX59MWaXVL4DPH3HS_Q=s900-c-k-c0x00ffffff-no-rj" group-title="ENTRETENIMIENTO",RCN Novelas - LIS 1
 
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLSXSHetqw_1iTfwROFrpL0YX59MWaXVL4DPH3HS_Q=s900-c-k-c0x00ffffff-no-rj" group-title="ENTRETENIMIENTO",RCN Novelas - LIS 2
@@ -1578,7 +1588,7 @@ http://clubtv.link/2320mar/top8100/geomex3.php?c=651&f=.m3u8
 
 #EXTINF:-1 logo="https://img2.freepng.es/20181125/uaj/kisspng-logo-tve-internacional-la-1-rtve-tve-hd-5bfae49e01bb39.8822497515431691820071.jpg" group-title="CULTURA",TVE - MX
 
-
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Series_2_por_Movistar_Plus%2B_2022_logo.svg/800px-Series_2_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="ENTRETENIMIENTO",MOVISTAR SERIES 2 P - LIS 0
 
 
 
@@ -1612,8 +1622,8 @@ http://clubtv.link/2320mar/top8100/geomex4.php?c=201&f=.m3u8
 http://clubtv.link/2320mar/top8100/geomex2.php?c=201&f=.m3u8
 #EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel HD - GEO 3
 http://clubtv.link/2320mar/top8100/geomex3.php?c=201&f=.m3u8
-#EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel HD - LIS 2
-
+#EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel HD - LIS 0
+http://clubtv.link/2320mar/top8100/lista.php?c=4712-2092
 #EXTINF:-1 logo="https://i.imgur.com/yA2sydz.png" group-title="SERIES Y CINE",Star Channel - GEO MR-1
 
 #EXTINF:-1 logo="https://i.imgur.com/yA2sydz.png" group-title="SERIES Y CINE",Star Channel - GEO MR-2
