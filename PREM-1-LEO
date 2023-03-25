@@ -623,10 +623,10 @@ http://clubtv.link/2320mar/top8100/lista2.php?c=a0m5&f=.m3u8
 
 #EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2020_09/large.DiscoveryID-sep2020-rec1.png.f831d9a2c85998dff772d2ddf3655360.png" group-title="MUNDO Y CULTURA",DISCOVERY ID - MX
 
-#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Universal_Crime_2021.png/revision/latest?cb=20220102014712&path-prefix=es" group-title="SERIES Y CINE",UNIVERSAL CRIME - LIS 1
-
-#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Universal_Crime_2021.png/revision/latest?cb=20220102014712&path-prefix=es" group-title="SERIES Y CINE",UNIVERSAL CRIME - LIS 2
-
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Universal_Crime_2021.png/revision/latest?cb=20220102014712&path-prefix=es" group-title="SERIES Y CINE",UNIVERSAL CRIME ESTE HD - LIS 0
+http://clubtv.link/2320mar/top8100/lista.php?c=5624-2092
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Universal_Crime_2021.png/revision/latest?cb=20220102014712&path-prefix=es" group-title="SERIES Y CINE",UNIVERSAL CRIME OESTE HD - LIS 0
+http://clubtv.link/2320mar/top8100/lista.php?c=5628-2092
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Universal_Crime_2021.png/revision/latest?cb=20220102014712&path-prefix=es" group-title="SERIES Y CINE",UNIVERSAL CRIME - LIS 3
 http://clubtv.link/2320mar/top8100/lista3.php?c=98
 #EXTINF:-1 logo="https://i.imgur.com/cd0hP5e.png" group-title="MUNDO Y CULTURA",GARAGE TV - GEO MR-1
@@ -849,10 +849,12 @@ http://clubtv.link/2320mar/top8100/lista.php?c=4781-2092
 
 #EXTINF:-1 logo="https://i.imgur.com/OO9PaGb.jpg" group-title="MUNDO Y CULTURA",H&H - ANDR
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Universal_Reality_logo.png/800px-Universal_Reality_logo.png" group-title="SERIES Y CINE",UNIVERSAL REALITY - LIS 2
-
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Universal_Reality_logo.png/800px-Universal_Reality_logo.png" group-title="SERIES Y CINE",UNIVERSAL REALITY - LIS 3
 http://clubtv.link/2320mar/top8100/lista3.php?c=101
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Universal_Reality_logo.png/800px-Universal_Reality_logo.png" group-title="SERIES Y CINE",UNIVERSAL REALITY HD - LIS 0
+http://clubtv.link/2320mar/top8100/lista.php?c=5626-2092
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Universal_Reality_logo.png/800px-Universal_Reality_logo.png" group-title="SERIES Y CINE",UNIVERSAL REALITY HERO HD I - LIS 0
+http://clubtv.link/2320mar/top8100/lista.php?c=5691-2092
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/co_lifetime_m.png" group-title="SERIES Y CINE",LIFETIME - GEO MR-1
 http://clubtv.link/2320mar/top8100/geomex4.php?c=379&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/co_lifetime_m.png" group-title="SERIES Y CINE",LIFETIME - GEO MR-2
@@ -1272,8 +1274,10 @@ http://clubtv.link/2320mar/top8100/lista.php?c=5429-2092
 
 #EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2022_03/large.1606587218_UniversalComedy-Oscuro.png.edc0710afb67e742c9e68589f4006992.png" group-title="SERIES Y CINE",UNIVERSAL COMEDY - LIS 2
 http://clubtv.link/2320mar/top8100/lista2.php?c=a0ac&f=.m3u8
-#EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2022_03/large.1606587218_UniversalComedy-Oscuro.png.edc0710afb67e742c9e68589f4006992.png" group-title="SERIES Y CINE",UNIVERSAL COMEDY - LIS 3
-
+#EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2022_03/large.1606587218_UniversalComedy-Oscuro.png.edc0710afb67e742c9e68589f4006992.png" group-title="SERIES Y CINE",UNIVERSAL COMEDY HD - LIS 0
+http://clubtv.link/2320mar/top8100/lista.php?c=5623-2092
+#EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2022_03/large.1606587218_UniversalComedy-Oscuro.png.edc0710afb67e742c9e68589f4006992.png" group-title="SERIES Y CINE",UNIVERSAL COMEDY HD I - LIS 0
+http://clubtv.link/2320mar/top8100/lista.php?c=5698-2092
 #EXTINF:-1 tvg-logo="https://imgur.com/z0jIlCf.png" group-title="DISTRO TV",Casa Comedy - GEO 1-2
 http://clubtv.link/2320mar/top8100/distro.php?c=casa-comedy&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/z0jIlCf.png" group-title="DISTRO TV",Casa Comedy - TV
@@ -1712,8 +1716,8 @@ http://clubtv.link/2320mar/top8100/geomex4.php?c=207&f=.m3u8
 http://clubtv.link/2320mar/top8100/geomex2.php?c=207&f=.m3u8
 #EXTINF:-1 logo="https://w7.pngwing.com/pngs/897/89/png-transparent-logo-universal-channel-high-definition-television-olympic-channel-television-channel-universal-kids-purple-television-violet-thumbnail.png" group-title="SERIES Y CINE",UNIVERSAL - GEO AR
 http://clubtv.link/2320mar/top8100/geomex3.php?c=207&f=.m3u8
-#EXTINF:-1 logo="https://w7.pngwing.com/pngs/897/89/png-transparent-logo-universal-channel-high-definition-television-olympic-channel-television-channel-universal-kids-purple-television-violet-thumbnail.png" group-title="SERIES Y CINE",UNIVERSAL - Lis 1
-
+#EXTINF:-1 logo="https://w7.pngwing.com/pngs/897/89/png-transparent-logo-universal-channel-high-definition-television-olympic-channel-television-channel-universal-kids-purple-television-violet-thumbnail.png" group-title="SERIES Y CINE",UNIVERSAL FHD I - Lis 0
+http://clubtv.link/2320mar/top8100/lista.php?c=5292-2092
 #EXTINF:-1 logo="https://w7.pngwing.com/pngs/897/89/png-transparent-logo-universal-channel-high-definition-television-olympic-channel-television-channel-universal-kids-purple-television-violet-thumbnail.png" group-title="SERIES Y CINE",UNIVERSAL S1 - LIS 2
 
 #EXTINF:-1 logo="https://w7.pngwing.com/pngs/897/89/png-transparent-logo-universal-channel-high-definition-television-olympic-channel-television-channel-universal-kids-purple-television-violet-thumbnail.png" group-title="SERIES Y CINE",UNIVERSAL S2 - LIS 2
@@ -1728,8 +1732,12 @@ http://clubtv.link/2320mar/top8100/geomex3.php?c=207&f=.m3u8
 http://clubtv.link/2320mar/top8100/lista1.php?c=a0ko
 #EXTINF:-1 logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-premiere-dark-logo.png" group-title="SERIES Y CINE",UNIVERSAL PREMIERE - LIS 2
 http://clubtv.link/2320mar/top8100/lista2.php?c=a0aa&f=.m3u8
-#EXTINF:-1 logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-premiere-dark-logo.png" group-title="SERIES Y CINE",UNIVERSAL PREMIERE - LIS 3
-
+#EXTINF:-1 logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-premiere-dark-logo.png" group-title="SERIES Y CINE",UNIVERSAL PREMIERE HD - LIS 0
+http://clubtv.link/2320mar/top8100/lista.php?c=5625-2092
+#EXTINF:-1 logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-premiere-dark-logo.png" group-title="SERIES Y CINE",UNIVERSAL PREMIERE HERO HD I - LIS 0
+http://clubtv.link/2320mar/top8100/lista.php?c=5693-2092
+#EXTINF:-1 logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-premiere-dark-logo.png" group-title="SERIES Y CINE",UNIVERSAL PREMIERE OESTE HD - LIS 0
+http://clubtv.link/2320mar/top8100/lista.php?c=5629-2092
 #EXTINF:-1 logo="https://static.onecms.io/wp-content/uploads/sites/6/2017/05/syfy.jpg" group-title="SERIES Y CINE",SYFY HD - LIS 1
 
 #EXTINF:-1 logo="https://static.onecms.io/wp-content/uploads/sites/6/2017/05/syfy.jpg" group-title="SERIES Y CINE",SYFY - GEO MR-1
@@ -2142,6 +2150,10 @@ http://clubtv.link/2320mar/top8100/lista3.php?c=a00y
 http://clubtv.link/2320mar/top8100/lista1.php?c=a0kp
 #EXTINF:-1 logo="https://forounivers.com/uploads/monthly_2021_10/large.UNIVERSAL_CINEMA.png.f00b67fc083f7f756c77934e05e07018.png" group-title="CINE",UNIVERSAL CINEMA - LIS 2
 http://clubtv.link/2320mar/top8100/lista2.php?c=a0ab&f=.m3u8
+#EXTINF:-1 logo="https://forounivers.com/uploads/monthly_2021_10/large.UNIVERSAL_CINEMA.png.f00b67fc083f7f756c77934e05e07018.png" group-title="CINE",UNIVERSAL CINEMA HD - LIS 0
+http://clubtv.link/2320mar/top8100/lista.php?c=5627-2092
+#EXTINF:-1 logo="https://forounivers.com/uploads/monthly_2021_10/large.UNIVERSAL_CINEMA.png.f00b67fc083f7f756c77934e05e07018.png" group-title="CINE",UNIVERSAL CINEMA HD I - LIS 0
+http://clubtv.link/2320mar/top8100/lista.php?c=5699-2092
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="CINE",STUDIO UNIVERSAL - GEO MR-1
 http://clubtv.link/2320mar/top8100/geomex4.php?c=492&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="CINE",STUDIO UNIVERSAL - GEO MR-2
