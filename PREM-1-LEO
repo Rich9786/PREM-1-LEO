@@ -624,9 +624,9 @@ http://clubtv.link/2623mar/top1347/lista2.php?c=a0m5&f=.m3u8
 #EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2020_09/large.DiscoveryID-sep2020-rec1.png.f831d9a2c85998dff772d2ddf3655360.png" group-title="MUNDO Y CULTURA",DISCOVERY ID - MX
 
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Universal_Crime_2021.png/revision/latest?cb=20220102014712&path-prefix=es" group-title="SERIES Y CINE",UNIVERSAL CRIME ESTE HD - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=5624-2092
+
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Universal_Crime_2021.png/revision/latest?cb=20220102014712&path-prefix=es" group-title="SERIES Y CINE",UNIVERSAL CRIME OESTE HD - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=5628-2092
+
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Universal_Crime_2021.png/revision/latest?cb=20220102014712&path-prefix=es" group-title="SERIES Y CINE",UNIVERSAL CRIME - LIS 3
 http://clubtv.link/2623mar/top1347/lista3.php?c=98
 #EXTINF:-1 logo="https://i.imgur.com/cd0hP5e.png" group-title="MUNDO Y CULTURA",GARAGE TV - GEO MR-1
@@ -712,9 +712,9 @@ http://clubtv.link/2623mar/top1347/lista3.php?c=122
 #EXTINF:-1 logo="https://i.imgur.com/ypR4tvy.jpg" group-title="MUNDO Y CULTURA",H2 - ANDR
 
 #EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://w1.pngwing.com/pngs/818/201/png-transparent-tv-logo-cable-television-hgtv-organization-blue-text-line-thumbnail.png" group-title="TV PREMIUM 2",HGTV SD. - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=2108-2092
+
 #EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://w1.pngwing.com/pngs/818/201/png-transparent-tv-logo-cable-television-hgtv-organization-blue-text-line-thumbnail.png" group-title="TV PREMIUM 2",HGTV HD - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=4956-2092
+
 #EXTINF:-1 logo="https://www.marketingdirecto.com/wp-content/uploads/2012/12/national-geographic.jpg" group-title="MUNDO Y CULTURA",NAT GEO HD - LIS 1
 
 #EXTINF:-1 logo="https://www.marketingdirecto.com/wp-content/uploads/2012/12/national-geographic.jpg" group-title="MUNDO Y CULTURA",NAT GEO - GEO MR-1
@@ -786,9 +786,9 @@ http://clubtv.link/2623mar/top1347/geomex3.php?c=351&f=.m3u8
 #EXTINF:-1 logo="https://i.ytimg.com/vi/bjibZ7sRbEg/maxresdefault.jpg" group-title="MUNDO Y CULTURA",DISCOVERY THEATER - MX
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Discovery_Familia_logo_%283%29.svg/1200px-Discovery_Familia_logo_%283%29.svg.png" group-title="MUNDO Y CULTURA",DISCOVERY FAMILIA I - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=5516-2092
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Discovery_Familia_logo_%283%29.svg/1200px-Discovery_Familia_logo_%283%29.svg.png" group-title="MUNDO Y CULTURA",DISCOVERY FAMILIA P - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=2343-2092
+
 #EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3dc87a1710825.5600fbeaa48e9.jpg" group-title="MUNDO Y CULTURA",DISCOVERY WORLD - GEO MR-1
 http://clubtv.link/2623mar/top1347/geomex4.php?c=356&f=.m3u8
 #EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3dc87a1710825.5600fbeaa48e9.jpg" group-title="MUNDO Y CULTURA",DISCOVERY WORLD - GEO MR-2
@@ -808,7 +808,7 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8?
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/768px-Sun_Channel_logo.svg.png" group-title="MEXICO",Sun Channel - LIS 2
 
 #EXTINF:-1 logo="https://images-na.ssl-images-amazon.com/images/I/619apfg5DDL.png" group-title="MUNDO Y CULTURA",DW P - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=4801-2092
+
 #EXTINF:-1 logo="https://images-na.ssl-images-amazon.com/images/I/619apfg5DDL.png" group-title="MUNDO Y CULTURA",DW - CL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 logo="https://images-na.ssl-images-amazon.com/images/I/619apfg5DDL.png" group-title="MUNDO Y CULTURA",DW - GEO MR-1
@@ -824,9 +824,9 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?Pla
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhvEXzKsZ7-EIq0mcNxoDQq2Pi8G7KAbi1WAxwUqp4yPMYKdYu3Rmf-5T8nw8FG2frPPg&usqp=CAU" group-title="Without category",CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 logo="https://1.bp.blogspot.com/-9F_oWOfhMf4/XtVPXIG-zuI/AAAAAAAAK7s/SU0-Jh_uAHs1YKZRtNG93QOrrIsBSZXgwCK4BGAsYHg/w640-h370/WIPR%2B-%2BMAYO%2B2020.jpeg" group-title="MUNDO Y CULTURA",WIPR P - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=2445-1111
+
 #EXTINF:-1 logo="https://1.bp.blogspot.com/-9F_oWOfhMf4/XtVPXIG-zuI/AAAAAAAAK7s/SU0-Jh_uAHs1YKZRtNG93QOrrIsBSZXgwCK4BGAsYHg/w640-h370/WIPR%2B-%2BMAYO%2B2020.jpeg" group-title="MUNDO Y CULTURA",WIPR I - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=3590-1111
+
 #EXTINF:-1 tvg-id="442" tvg-name="CEAC TV" tvg-logo="https://www.m3u.cl/logo/442_CEAC_TV.png", CEAC TV | CL
 
 #EXTINF:-1 logo="https://i.imgur.com/OO9PaGb.jpg" group-title="MUNDO Y CULTURA",H&H HD - LIS 1
@@ -838,7 +838,7 @@ http://clubtv.link/2623mar/top1347/geomex2.php?c=374&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/OO9PaGb.jpg" group-title="MUNDO Y CULTURA",H&H - GEO AR
 http://clubtv.link/2623mar/top1347/geomex3.php?c=374&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/OO9PaGb.jpg" group-title="MUNDO Y CULTURA",H&H HD - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=4781-2092
+
 #EXTINF:-1 logo="https://i.imgur.com/OO9PaGb.jpg" group-title="MUNDO Y CULTURA",H&H - LIS 3
 
 #EXTINF:-1 logo="https://i.imgur.com/OO9PaGb.jpg" group-title="MUNDO Y CULTURA",H&H S1 - TV
@@ -852,9 +852,9 @@ http://clubtv.link/2623mar/top1347/lista.php?c=4781-2092
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Universal_Reality_logo.png/800px-Universal_Reality_logo.png" group-title="SERIES Y CINE",UNIVERSAL REALITY - LIS 3
 http://clubtv.link/2623mar/top1347/lista3.php?c=101
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Universal_Reality_logo.png/800px-Universal_Reality_logo.png" group-title="SERIES Y CINE",UNIVERSAL REALITY HD - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=5626-2092
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Universal_Reality_logo.png/800px-Universal_Reality_logo.png" group-title="SERIES Y CINE",UNIVERSAL REALITY HERO HD I - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=5691-2092
+
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/co_lifetime_m.png" group-title="SERIES Y CINE",LIFETIME - GEO MR-1
 http://clubtv.link/2623mar/top1347/geomex4.php?c=379&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/co_lifetime_m.png" group-title="SERIES Y CINE",LIFETIME - GEO MR-2
@@ -862,7 +862,7 @@ http://clubtv.link/2623mar/top1347/geomex2.php?c=379&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/co_lifetime_m.png" group-title="SERIES Y CINE",LIFETIME - GEO AR
 http://clubtv.link/2623mar/top1347/geomex3.php?c=379&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/co_lifetime_m.png" group-title="SERIES Y CINE",LIFETIME HD - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=4701-2092
+
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/co_lifetime_m.png" group-title="SERIES Y CINE",LIFETIME - Lis 3
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/co_lifetime_m.png" group-title="SERIES Y CINE",LIFETIME - GANDR 3
@@ -882,9 +882,9 @@ http://clubtv.link/2623mar/top1347/lista1.php?c=a010
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TLC_Logo_Germany.svg/1280px-TLC_Logo_Germany.svg.png" group-title="MUNDO Y CULTURA",TLC - LIS 2
 http://clubtv.link/2623mar/top1347/lista2.php?c=a0mb&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TLC_Logo_Germany.svg/1280px-TLC_Logo_Germany.svg.png" group-title="MUNDO Y CULTURA",TLC SD - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=2094-2092
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TLC_Logo_Germany.svg/1280px-TLC_Logo_Germany.svg.png" group-title="MUNDO Y CULTURA",TLC HD - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=5319-2092
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TLC_Logo_Germany.svg/1280px-TLC_Logo_Germany.svg.png" group-title="MUNDO Y CULTURA",TLC - TV
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TLC_Logo_Germany.svg/1280px-TLC_Logo_Germany.svg.png" group-title="MUNDO Y CULTURA",TLC - MX
@@ -910,7 +910,7 @@ http://clubtv.link/2623mar/top1347/geomex2.php?c=2145&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="MUNDO Y CULTURA",FOOD NETWORK  - GEO AR
 http://clubtv.link/2623mar/top1347/geomex3.php?c=2145&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="MUNDO Y CULTURA",FOOD NETWORK HD I - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=5415-2092
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="MUNDO Y CULTURA",FOOD NETWORK - MX
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1024px-Discovery_Turbo_logo.svg.png" group-title="MUNDO Y CULTURA",DISCOVERY TURBO HD - LIS 1
@@ -985,21 +985,21 @@ http://clubtv.link/2623mar/top1347/geomex3.php?c=85&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_telemundo_m.png" group-title="ENTRETENIMIENTO",TELEMUNDO INTERNACIONAL - MX
 
 #EXTINF:-1 logo="https://dishcaribbean.com/img/upload/punto2-color-logo.png" group-title="ENTRETENIMIENTO", PUNTO 2 - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=2269-1111
+
 #EXTINF:-1 logo="https://1.bp.blogspot.com/-szrN-QJecdU/YNkpvFgZkrI/AAAAAAABE1w/UfC98_RFJwAe0OOC_757x57NPXj4jBcugCLcBGAsYHQ/s640/Telemundo%2BPR%2B-%2BEn%2BVivo.jpg" group-title="ENTRETENIMIENTO", TELEMUNDO P - PUERTO RICO - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=2265-1111
+
 #EXTINF:-1 logo="https://1.bp.blogspot.com/-szrN-QJecdU/YNkpvFgZkrI/AAAAAAABE1w/UfC98_RFJwAe0OOC_757x57NPXj4jBcugCLcBGAsYHQ/s640/Telemundo%2BPR%2B-%2BEn%2BVivo.jpg" group-title="ENTRETENIMIENTO", TELEMUNDO I - PUERTO RICO - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=5662-1111
+
 #EXTINF:-1 logo="https://cdn.mos.cms.futurecdn.net/Spz7CMmKbv6yKzpfNZ7WfS-1200-80.jpg" group-title="ENTRETENIMIENTO",TELEMUNDO BOSTON I - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=3819-2092
+
 #EXTINF:-1 logo="https://media.telemundodallas.com/2022/08/KXTX-tvOS_App-Store-1280x768-1.png?fit=1280%2C768&quality=85&strip=all" group-title="ENTRETENIMIENTO",TELEMUNDO DALLAS - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=3821-2092
+
 #EXTINF:-1 logo="https://media.telemundodallas.com/2022/08/KXTX-tvOS_App-Store-1280x768-1.png?fit=1280%2C768&quality=85&strip=all" group-title="ENTRETENIMIENTO",TELEMUNDO DALLAS I - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=4778-2092
+
 #EXTINF:-1 logo="https://media.telemundo52.com/2022/08/KVEA-tvOS_App-Store-1280x768-1.png?fit=1280%2C768&quality=85&strip=all" group-title="ENTRETENIMIENTO",TELEMUNDO LA - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=3823-2092
+
 #EXTINF:-1 logo="https://media.telemundo52.com/2022/08/KVEA-tvOS_App-Store-1280x768-1.png?fit=1280%2C768&quality=85&strip=all" group-title="ENTRETENIMIENTO",TELEMUNDO LA I - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=5476-2092
+
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnSHDEyFQMmYuCEW6VYPEKDgdl-Sntl2NhvbI4KvK3LZxMCLYNwtY0Xg0PIDBUtPG-9l8&usqp=CAU" group-title="ENTRETENIMIENTO",E! HD - LIS 1
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnSHDEyFQMmYuCEW6VYPEKDgdl-Sntl2NhvbI4KvK3LZxMCLYNwtY0Xg0PIDBUtPG-9l8&usqp=CAU" group-title="ENTRETENIMIENTO",E! - GEO MR-1
@@ -1009,9 +1009,9 @@ http://clubtv.link/2623mar/top1347/geomex2.php?c=255&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnSHDEyFQMmYuCEW6VYPEKDgdl-Sntl2NhvbI4KvK3LZxMCLYNwtY0Xg0PIDBUtPG-9l8&usqp=CAU" group-title="ENTRETENIMIENTO",E! - GEO AR
 http://clubtv.link/2623mar/top1347/geomex3.php?c=255&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnSHDEyFQMmYuCEW6VYPEKDgdl-Sntl2NhvbI4KvK3LZxMCLYNwtY0Xg0PIDBUtPG-9l8&usqp=CAU" group-title="ENTRETENIMIENTO",E! HD - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=4687-2092
+
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnSHDEyFQMmYuCEW6VYPEKDgdl-Sntl2NhvbI4KvK3LZxMCLYNwtY0Xg0PIDBUtPG-9l8&usqp=CAU" group-title="ENTRETENIMIENTO",E! HD I - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=5494-2092
+
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnSHDEyFQMmYuCEW6VYPEKDgdl-Sntl2NhvbI4KvK3LZxMCLYNwtY0Xg0PIDBUtPG-9l8&usqp=CAU" group-title="ENTRETENIMIENTO",E! - LIS 3
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnSHDEyFQMmYuCEW6VYPEKDgdl-Sntl2NhvbI4KvK3LZxMCLYNwtY0Xg0PIDBUtPG-9l8&usqp=CAU" group-title="ENTRETENIMIENTO",E! S1 - TV
@@ -1029,27 +1029,27 @@ http://clubtv.link/2623mar/top1347/lista.php?c=5494-2092
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/556px-Unicable_logo.svg.png" group-title="ENTRETENIMIENTO",UNICABLE - GEO AR
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/556px-Unicable_logo.svg.png" group-title="ENTRETENIMIENTO",UNICABLE SD - Lis 0
-http://clubtv.link/2623mar/top1347/lista.php?c=2274-2092
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/556px-Unicable_logo.svg.png" group-title="ENTRETENIMIENTO",UNICABLE HD - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=4727-2092
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/556px-Unicable_logo.svg.png" group-title="ENTRETENIMIENTO",UNICABLE HD I - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=4970-2092
+
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/912722688652783616/HR3WcfmT_400x400.jpg" group-title="ENTRETENIMIENTO",TCS+ PLUS - LIS 1
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/960px-Logo_UniM%C3%A1s.svg.png" group-title="ENTRETENIMIENTO",UNIMAS LOSANGELES I - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=3918-2092
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/960px-Logo_UniM%C3%A1s.svg.png" group-title="ENTRETENIMIENTO",UNIMAS DALLAS I - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=5899-2092
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/960px-Logo_UniM%C3%A1s.svg.png" group-title="ENTRETENIMIENTO",UNIMAS EAST I - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=5901-2092
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/960px-Logo_UniM%C3%A1s.svg.png" group-title="ENTRETENIMIENTO",UNIMAS MIAMI I - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=5897-2092
+
 #EXTINF:-1 logo="https://i.ytimg.com/vi/zeNmvwdGw7Y/maxresdefault.jpg" group-title="ENTRETENIMIENTO",UNIMAS SACRAMENTO I - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=5908-2092
+
 #EXTINF:-1 logo="https://i.ytimg.com/vi/zeNmvwdGw7Y/maxresdefault.jpg" group-title="ENTRETENIMIENTO",UNIMAS SAN ANTONIO I - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=5904-2092
+
 #EXTINF:-1 logo="https://i.ytimg.com/vi/zeNmvwdGw7Y/maxresdefault.jpg" group-title="ENTRETENIMIENTO",UNIMAS UNIHD I - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=5910-2092
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/960px-Logo_UniM%C3%A1s.svg.png" group-title="ENTRETENIMIENTO",UNIMAS ALBUQUERQUE SANTA FE - LIS 3
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/960px-Logo_UniM%C3%A1s.svg.png" group-title="ENTRETENIMIENTO",UNIMAS AUSTIN - LIS 3
@@ -1069,11 +1069,11 @@ http://clubtv.link/2623mar/top1347/lista.php?c=5910-2092
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/960px-Logo_UniM%C3%A1s.svg.png" group-title="ENTRETENIMIENTO",UNIMAS SAN ANTONIO - TV
 
 #EXTINF:-1 logo="https://brandemia.org/contenido/subidas/2014/03/galavision_marca.jpg" group-title="ENTRETENIMIENTO",GALAVISION I - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=5912-2092
+
 #EXTINF:-1 logo="https://brandemia.org/contenido/subidas/2014/03/galavision_marca.jpg" group-title="ENTRETENIMIENTO",GALAVISION NEW YORK I - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=5914-2092
+
 #EXTINF:-1 logo="https://brandemia.org/contenido/subidas/2014/03/galavision_marca.jpg" group-title="ENTRETENIMIENTO",GALAVISION SACRAMENTO I - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=5916-2092
+
 #EXTINF:-1 logo="https://brandemia.org/contenido/subidas/2014/03/galavision_marca.jpg" group-title="ENTRETENIMIENTO",GALAVISION PHOENIX - LIS 3
 
 #EXTINF:-1 logo="https://brandemia.org/contenido/subidas/2014/03/galavision_marca.jpg" group-title="ENTRETENIMIENTO",GALAVISION SAN FRANCISCO - LIS 3
@@ -1123,7 +1123,7 @@ https://unlimited2-cl-isp.dps.live/13p/13p.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xn35v8c.png" group-title="Mundo", Univision - ANDR
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/Am%C3%A9rica_Tev%C3%A9_Logo.png" group-title="Mundo", AMÉRICA TEVÉ MIAMI - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=4652-1111
+
 #EXTINF:-1 logo="https://tvbix.com/images/channels/nbc-universo.png" group-title="ENTRETENIMIENTO",UNIVERSO - LIS 1
 
 #EXTINF:-1 logo="http://directostv.teleame.com/wp-content/uploads/2018/06/City-TV-Colombia-en-vivo-Online.png" group-title="ENTRETENIMIENTO",City TV - GANDR 1
@@ -1137,11 +1137,11 @@ http://clubtv.link/2623mar/top1347/lista.php?c=4652-1111
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ecuavisa.png" nada="Ecuador" group-title="TV PREMIUM",Ecuavisa - TV
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ecuavisa.png" nada="Ecuador" group-title="TV PREMIUM",WAPA AMERICA P - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=4240-1111
+
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ecuavisa.png" nada="Ecuador" group-title="TV PREMIUM",WAPA AMERICA I - LIS O
-http://clubtv.link/2623mar/top1347/lista.php?c=4480-1111
+
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ecuavisa.png" nada="Ecuador" group-title="TV PREMIUM",WAPA I - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=2267-1111
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="Mundo", Caracol TV - GANDR 2
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="Mundo", Caracol TV - LIS 1 
@@ -1169,7 +1169,7 @@ http://clubtv.link/2623mar/top1347/lista.php?c=2267-1111
 #EXTINF:-1 logo="https://files.lafm.com.co/assets/public/Canal-RCN.jpg" group-title="ENTRETENIMIENTO",RCN - ANDR
 
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1366852482484367364/5ag356q1_400x400.jpg" group-title="ENTRETENIMIENTO", TELE 11 - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=4092-1111
+
 #EXTINF:-1 logo="https://seeklogo.com/images/R/rts-fondo-verde-logo-10CA7E5573-seeklogo.com.png" group-title="ENTRETENIMIENTO",RTS LIS 1
 
 #EXTINF:-1 logo="https://redgol.cl/__export/1621631802436/sites/redgol/img/2021/05/21/la-red-imagen-corporativa-30anos-canal-iderado-victor-gutierrez-renueva-colores-potenciando-audiencias-ok_crop1621289271938_jpeg_1693159006.jpeg_242310155.jpeg" group-title="ENTRETENIMIENTO",La Red - LIS 3
@@ -1233,7 +1233,7 @@ http://clubtv.link/2623mar/top1347/geomex2.php?c=268&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/68ztlZE.png" group-title="ENTRETENIMIENTO",GOURMET - GEO AR
 http://clubtv.link/2623mar/top1347/geomex3.php?c=268&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/68ztlZE.png" group-title="ENTRETENIMIENTO",GOURMET HD I - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=5882-2092
+
 #EXTINF:-1 logo="https://i.imgur.com/68ztlZE.png" group-title="ENTRETENIMIENTO",GOURMET - LIS 3
 
 #EXTINF:-1 logo="https://i.imgur.com/68ztlZE.png" group-title="ENTRETENIMIENTO",GOURMET - MX
@@ -1265,7 +1265,7 @@ http://clubtv.link/2623mar/top1347/geomex2.php?c=217&f=.m3u8
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/tvpediabrasil/images/1/17/Comedycentral.jpg/revision/latest/top-crop/width/360/height/450?cb=20180804010106&path-prefix=pt-br" group-title="ENTRETENIMIENTO",COMEDY CENTRAL - GEO AR
 http://clubtv.link/2623mar/top1347/geomex3.php?c=217&f=.m3u8
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/tvpediabrasil/images/1/17/Comedycentral.jpg/revision/latest/top-crop/width/360/height/450?cb=20180804010106&path-prefix=pt-br" group-title="ENTRETENIMIENTO",COMEDY CENTRAL HD I - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=5429-2092
+
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/tvpediabrasil/images/1/17/Comedycentral.jpg/revision/latest/top-crop/width/360/height/450?cb=20180804010106&path-prefix=pt-br" group-title="ENTRETENIMIENTO",COMEDY CENTRAL - LIS 3
 
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/tvpediabrasil/images/1/17/Comedycentral.jpg/revision/latest/top-crop/width/360/height/450?cb=20180804010106&path-prefix=pt-br" group-title="ENTRETENIMIENTO",COMEDY CENTRAL - MX
@@ -1275,9 +1275,9 @@ http://clubtv.link/2623mar/top1347/lista.php?c=5429-2092
 #EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2022_03/large.1606587218_UniversalComedy-Oscuro.png.edc0710afb67e742c9e68589f4006992.png" group-title="SERIES Y CINE",UNIVERSAL COMEDY - LIS 2
 http://clubtv.link/2623mar/top1347/lista2.php?c=a0ac&f=.m3u8
 #EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2022_03/large.1606587218_UniversalComedy-Oscuro.png.edc0710afb67e742c9e68589f4006992.png" group-title="SERIES Y CINE",UNIVERSAL COMEDY HD - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=5623-2092
+
 #EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2022_03/large.1606587218_UniversalComedy-Oscuro.png.edc0710afb67e742c9e68589f4006992.png" group-title="SERIES Y CINE",UNIVERSAL COMEDY HD I - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=5698-2092
+
 #EXTINF:-1 tvg-logo="https://imgur.com/z0jIlCf.png" group-title="DISTRO TV",Casa Comedy - GEO 1-2
 http://clubtv.link/2623mar/top1347/distro.php?c=casa-comedy&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/z0jIlCf.png" group-title="DISTRO TV",Casa Comedy - TV
@@ -1303,7 +1303,7 @@ http://clubtv.link/2623mar/top1347/geomex2.php?c=215&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/hn_tru-tv_m.png" group-title="ENTRETENIMIENTO",TRUTV - GEO AR
 http://clubtv.link/2623mar/top1347/geomex3.php?c=215&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/hn_tru-tv_m.png" group-title="ENTRETENIMIENTO",TRUTV HD - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=2053-2092
+
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/hn_tru-tv_m.png" group-title="ENTRETENIMIENTO",TRUTV - LIS 3
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_tru-tv-hd_m.png" group-title="ENTRETENIMIENTO",TRUTV HD - MX
@@ -1365,9 +1365,9 @@ http://clubtv.link/2623mar/top1347/geomex3.php?c=250&f=.m3u8
 #EXTINF:-1 logo="https://logodix.com/logo/2085350.jpg" group-title="TV PREMIUM",PASIONES HD - LIS 1
 
 #EXTINF:-1 logo="https://logodix.com/logo/2085350.jpg" group-title="TV PREMIUM",PASIONES SD - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=5255-2092
+
 #EXTINF:-1 logo="https://logodix.com/logo/2085350.jpg" group-title="TV PREMIUM",PASIONES I - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=2378-2092
+
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLSXSHetqw_1iTfwROFrpL0YX59MWaXVL4DPH3HS_Q=s900-c-k-c0x00ffffff-no-rj" group-title="ENTRETENIMIENTO",RCN Novelas - LIS 1
 
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLSXSHetqw_1iTfwROFrpL0YX59MWaXVL4DPH3HS_Q=s900-c-k-c0x00ffffff-no-rj" group-title="ENTRETENIMIENTO",RCN Novelas - LIS 2
@@ -1441,7 +1441,7 @@ https://unlimited1-cl-isp.dps.live/13e/13e.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2pOEYdP3aPeho-OPc3pjGLsPTosnJt77o-BT0ECGsntIiHk1PFW1LwIT4kTfWXLVw9kY&usqp=CAU" group-title="ENTRETENIMIENTO",MAS CHIC - GEO AR
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2pOEYdP3aPeho-OPc3pjGLsPTosnJt77o-BT0ECGsntIiHk1PFW1LwIT4kTfWXLVw9kY&usqp=CAU" group-title="ENTRETENIMIENTO",MAS CHIC SD - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=4326-2092
+
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2pOEYdP3aPeho-OPc3pjGLsPTosnJt77o-BT0ECGsntIiHk1PFW1LwIT4kTfWXLVw9kY&usqp=CAU" group-title="ENTRETENIMIENTO",MAS CHIC - LIS 3
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2pOEYdP3aPeho-OPc3pjGLsPTosnJt77o-BT0ECGsntIiHk1PFW1LwIT4kTfWXLVw9kY&usqp=CAU" group-title="ENTRETENIMIENTO",MAS CHIC - MX
@@ -1571,9 +1571,9 @@ http://clubtv.link/2623mar/top1347/geomex2.php?c=199&f=.m3u8
 #EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2021/04/Antena-3-logo.png" group-title="ENTRETENIMIENTO",ANTENA 3 - GEO AR
 http://clubtv.link/2623mar/top1347/geomex3.php?c=199&f=.m3u8
 #EXTINF:-1 logo="http://meteoalcorcon.es/3__Antena3HD_220x132.png" group-title="ENTRETENIMIENTO",ANTENA 3 HD INT I S1 - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=3900-2092
+
 #EXTINF:-1 logo="http://meteoalcorcon.es/3__Antena3HD_220x132.png" group-title="ENTRETENIMIENTO",ANTENA 3 HD INT I S2 - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=5880-2092
+
 #EXTINF:-1 logo="https://www.telefonogratuito10.com/wp-content/uploads/2019/10/tel%C3%A9fono-gratuito-antena-3.png" group-title="ENTRETENIMIENTO",ANTENA 3 - MX
 
 #EXTINF:-1 logo="https://www.telefonogratuito10.com/wp-content/uploads/2019/10/tel%C3%A9fono-gratuito-antena-3.png" group-title="ENTRETENIMIENTO",ANTENA 3 - ANDR
@@ -1629,7 +1629,7 @@ http://clubtv.link/2623mar/top1347/geomex2.php?c=201&f=.m3u8
 #EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel HD - GEO 3
 http://clubtv.link/2623mar/top1347/geomex3.php?c=201&f=.m3u8
 #EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel HD - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=4712-2092
+
 #EXTINF:-1 logo="https://i.imgur.com/yA2sydz.png" group-title="SERIES Y CINE",Star Channel - GEO MR-1
 
 #EXTINF:-1 logo="https://i.imgur.com/yA2sydz.png" group-title="SERIES Y CINE",Star Channel - GEO MR-2
@@ -1717,7 +1717,7 @@ http://clubtv.link/2623mar/top1347/geomex2.php?c=207&f=.m3u8
 #EXTINF:-1 logo="https://w7.pngwing.com/pngs/897/89/png-transparent-logo-universal-channel-high-definition-television-olympic-channel-television-channel-universal-kids-purple-television-violet-thumbnail.png" group-title="SERIES Y CINE",UNIVERSAL - GEO AR
 http://clubtv.link/2623mar/top1347/geomex3.php?c=207&f=.m3u8
 #EXTINF:-1 logo="https://w7.pngwing.com/pngs/897/89/png-transparent-logo-universal-channel-high-definition-television-olympic-channel-television-channel-universal-kids-purple-television-violet-thumbnail.png" group-title="SERIES Y CINE",UNIVERSAL FHD I - Lis 0
-http://clubtv.link/2623mar/top1347/lista.php?c=5292-2092
+
 #EXTINF:-1 logo="https://w7.pngwing.com/pngs/897/89/png-transparent-logo-universal-channel-high-definition-television-olympic-channel-television-channel-universal-kids-purple-television-violet-thumbnail.png" group-title="SERIES Y CINE",UNIVERSAL S1 - LIS 2
 
 #EXTINF:-1 logo="https://w7.pngwing.com/pngs/897/89/png-transparent-logo-universal-channel-high-definition-television-olympic-channel-television-channel-universal-kids-purple-television-violet-thumbnail.png" group-title="SERIES Y CINE",UNIVERSAL S2 - LIS 2
@@ -1733,11 +1733,11 @@ http://clubtv.link/2623mar/top1347/lista1.php?c=a0ko
 #EXTINF:-1 logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-premiere-dark-logo.png" group-title="SERIES Y CINE",UNIVERSAL PREMIERE - LIS 2
 http://clubtv.link/2623mar/top1347/lista2.php?c=a0aa&f=.m3u8
 #EXTINF:-1 logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-premiere-dark-logo.png" group-title="SERIES Y CINE",UNIVERSAL PREMIERE HD - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=5625-2092
+
 #EXTINF:-1 logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-premiere-dark-logo.png" group-title="SERIES Y CINE",UNIVERSAL PREMIERE HERO HD I - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=5693-2092
+
 #EXTINF:-1 logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-premiere-dark-logo.png" group-title="SERIES Y CINE",UNIVERSAL PREMIERE OESTE HD - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=5629-2092
+
 #EXTINF:-1 logo="https://static.onecms.io/wp-content/uploads/sites/6/2017/05/syfy.jpg" group-title="SERIES Y CINE",SYFY HD - LIS 1
 
 #EXTINF:-1 logo="https://static.onecms.io/wp-content/uploads/sites/6/2017/05/syfy.jpg" group-title="SERIES Y CINE",SYFY - GEO MR-1
@@ -1769,7 +1769,7 @@ http://clubtv.link/2623mar/top1347/geomex2.php?c=209&f=.m3u8
 #EXTINF:-1 logo="https://img2.freepng.es/20180718/fuo/kisspng-fxx-logo-television-show-television-channel-tv-channel-5b4f9da9c53a95.0344326115319443618079.jpg" group-title="SERIES Y CINE",FX - GEO AR
 http://clubtv.link/2623mar/top1347/geomex3.php?c=209&f=.m3u8
 #EXTINF:-1 logo="https://img2.freepng.es/20180718/fuo/kisspng-fxx-logo-television-show-television-channel-tv-channel-5b4f9da9c53a95.0344326115319443618079.jpg" group-title="SERIES Y CINE",FX - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=2022-2092
+
 #EXTINF:-1 logo="http://2.bp.blogspot.com/-zcucF0qj2Bk/TwsmA-DQKNI/AAAAAAAARp8/OrDuNhamWbY/s1600/fxhd.png" group-title="SERIES Y CINE",FX - LIS 1
 
 #EXTINF:-1 logo="https://img2.freepng.es/20180718/fuo/kisspng-fxx-logo-television-show-television-channel-tv-channel-5b4f9da9c53a95.0344326115319443618079.jpg" group-title="SERIES Y CINE",FX - LIS 2
@@ -1793,7 +1793,7 @@ http://clubtv.link/2623mar/top1347/geomex2.php?c=211&f=.m3u8
 #EXTINF:-1 logo="https://img2.freepng.es/20180504/ipe/kisspng-a-e-networks-logo-television-%E9%AB%98%E6%B8%85iphonex-5aec59750ae019.7595702115254388370446.jpg" group-title="SERIES Y CINE",A&E - GEO AR
 http://clubtv.link/2623mar/top1347/geomex3.php?c=211&f=.m3u8
 #EXTINF:-1 logo="https://img2.freepng.es/20180504/ipe/kisspng-a-e-networks-logo-television-%E9%AB%98%E6%B8%85iphonex-5aec59750ae019.7595702115254388370446.jpg" group-title="SERIES Y CINE",A&E HD I - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=2280-2092
+
 #EXTINF:-1 logo="https://img2.freepng.es/20180504/ipe/kisspng-a-e-networks-logo-television-%E9%AB%98%E6%B8%85iphonex-5aec59750ae019.7595702115254388370446.jpg" group-title="SERIES Y CINE",A&E - LIS 2
 
 #EXTINF:-1 logo="https://img2.freepng.es/20180504/ipe/kisspng-a-e-networks-logo-television-%E9%AB%98%E6%B8%85iphonex-5aec59750ae019.7595702115254388370446.jpg" group-title="SERIES Y CINE",A&E - LIS 3
@@ -1813,7 +1813,7 @@ http://clubtv.link/2623mar/top1347/lista1.php?c=a091
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="SERIES Y CINE",AXN - LIS 2
 http://clubtv.link/2623mar/top1347/lista2.php?c=a084&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="SERIES Y CINE",AXN HD I - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=5881-2092
+
 #EXTINF:-1 logo="https://www.mundoplus.tv/wiki/_media/logos/axnwhite.png" group-title="SERIES Y CINE",AXN WHITE - LIS 2
 
 #EXTINF:-1 logo="https://www.mundoplus.tv/wiki/_media/logos/axnwhite.png" group-title="SERIES Y CINE",AXN WHITE - LIS 3
@@ -1837,7 +1837,7 @@ http://clubtv.link/2623mar/top1347/geomex2.php?c=266&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_tnt-series_m.png" group-title="CINE Y SERIES",TNT SERIES - GEO AR
 http://clubtv.link/2623mar/top1347/geomex3.php?c=266&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_tnt-series_m.png" group-title="CINE Y SERIES",TNT SERIES HD - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=4723-2092
+
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_tnt-series_m.png" group-title="CINE Y SERIES",TNT SERIES - LIS 1
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_tnt-series_m.png" group-title="CINE Y SERIES",TNT SERIES - LIS 3
@@ -2131,7 +2131,7 @@ http://clubtv.link/2623mar/top1347/geomex2.php?c=444&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/AMC_logo_2016.png/1200px-AMC_logo_2016.png" group-title="CINE",AMC - GEO AR 
 http://clubtv.link/2623mar/top1347/geomex3.php?c=444&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/AMC_logo_2016.png/1200px-AMC_logo_2016.png" group-title="CINE",AMC - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=4772-2092
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/AMC_logo_2016.png/1200px-AMC_logo_2016.png" group-title="CINE",AMC - LIS 3
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/AMC_logo_2016.png/1200px-AMC_logo_2016.png" group-title="CINE",AMC - MX
@@ -2151,9 +2151,9 @@ http://clubtv.link/2623mar/top1347/lista1.php?c=a0kp
 #EXTINF:-1 logo="https://forounivers.com/uploads/monthly_2021_10/large.UNIVERSAL_CINEMA.png.f00b67fc083f7f756c77934e05e07018.png" group-title="CINE",UNIVERSAL CINEMA - LIS 2
 http://clubtv.link/2623mar/top1347/lista2.php?c=a0ab&f=.m3u8
 #EXTINF:-1 logo="https://forounivers.com/uploads/monthly_2021_10/large.UNIVERSAL_CINEMA.png.f00b67fc083f7f756c77934e05e07018.png" group-title="CINE",UNIVERSAL CINEMA HD - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=5627-2092
+
 #EXTINF:-1 logo="https://forounivers.com/uploads/monthly_2021_10/large.UNIVERSAL_CINEMA.png.f00b67fc083f7f756c77934e05e07018.png" group-title="CINE",UNIVERSAL CINEMA HD I - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=5699-2092
+
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="CINE",STUDIO UNIVERSAL - GEO MR-1
 http://clubtv.link/2623mar/top1347/geomex4.php?c=492&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="CINE",STUDIO UNIVERSAL - GEO MR-2
@@ -2189,7 +2189,7 @@ http://clubtv.link/2623mar/top1347/geomex2.php?c=136&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png" group-title="CINE",EUROPA CHANNEL - GEO AR
 http://clubtv.link/2623mar/top1347/geomex3.php?c=136&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png" group-title="CINE",EUROPA CHANNEL - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=4218-2092
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png" group-title="CINE",EUROPA CHANNEL HD - LIS 2
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png" group-title="CINE",EUROPA CHANNEL - MX
@@ -2563,7 +2563,7 @@ http://clubtv.link/2623mar/top1347/vix.php?c=340.frequency.stream/340&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Vecinos
 http://clubtv.link/2623mar/top1347/vix.php?c=314.frequency.stream/314&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Una Familia de 10
-http://clubtv.link/2623mar/top1347/lista.php?c=5383-2092
+
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Adrenalina Sport
 http://clubtv.link/2623mar/top1347/vix.php?c=393.frequency.stream/393&f=.m3u8
 #EXTINF:-1 logo="https://vix.com/seo/vix_default.jpg" group-title="VIX", Afizzionados
@@ -3785,9 +3785,9 @@ http://clubtv.link/2623mar/top1347/geomex3.php?c=2564&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein sports LAT" tvg-logo="https://sc.dish.com/shared/images/station-logos/BEIN.png" group-title="DEPORTES",Bein sports ñ (S4) - LIS 1
 
 #EXTINF:-1 logo="https://1.bp.blogspot.com/-AMZ3CjtPuXc/Xna-rB3UTFI/AAAAAAAAAzs/Y_vUYkkddNkCVryV9odGTLUGd4JdPZu8ACLcBGAsYHQ/s1600/Imagen%2B160.png" group-title="DEPORTES", WAPA DEPORTES 2 P - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=2268-1111
+
 #EXTINF:-1 logo="https://1.bp.blogspot.com/-AMZ3CjtPuXc/Xna-rB3UTFI/AAAAAAAAAzs/Y_vUYkkddNkCVryV9odGTLUGd4JdPZu8ACLcBGAsYHQ/s1600/Imagen%2B160.png" group-title="DEPORTES", WAPA DEPORTES I - LIS 0
-http://clubtv.link/2623mar/top1347/lista.php?c=5738-1111
+
 #EXTINF:-1 tvg-logo="https://www.leadersinsport.com/wp-content/uploads/2020/04/MLS-Logo-White-1.png" group-title="USA",MLS
 
 #EXTINF:-1 logo="https://www.koamnewsnow.com/content/uploads/2020/04/NFL-logo.jpg" group-title="DEPORTES",NFL NETWORK
