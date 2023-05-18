@@ -1567,11 +1567,11 @@ https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid
 #EXTINF:-1 tvg-id="Telemadrid.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="C. de Madrid" tvg-name="Telemadrid",Telemadrid
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
 #EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2021/04/Antena-3-logo.png" group-title="ENTRETENIMIENTO",ANTENA 3 - GEO MR-1
-http://clubtv.link/250423abr/top332/geomex4.php?c=199&f=.m3u8
+http://clubtv.link/m1405/top1362/geomex4.php?c=199&f=.m3u8
 #EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2021/04/Antena-3-logo.png" group-title="ENTRETENIMIENTO",ANTENA 3 - GEO MR-2
-http://clubtv.link/250423abr/top332/geomex2.php?c=199&f=.m3u8
+http://clubtv.link/m1405/top1362/geomex2.php?c=199&f=.m3u8
 #EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2021/04/Antena-3-logo.png" group-title="ENTRETENIMIENTO",ANTENA 3 - GEO AR
-http://clubtv.link/250423abr/top332/geomex3.php?c=199&f=.m3u8
+http://clubtv.link/m1405/top1362/geomex3.php?c=199&f=.m3u8
 #EXTINF:-1 logo="http://meteoalcorcon.es/3__Antena3HD_220x132.png" group-title="ENTRETENIMIENTO",ANTENA 3 HD INT I S1 - LIS 0
 
 #EXTINF:-1 logo="http://meteoalcorcon.es/3__Antena3HD_220x132.png" group-title="ENTRETENIMIENTO",ANTENA 3 HD INT I S2 - LIS 0
@@ -1583,11 +1583,11 @@ http://clubtv.link/250423abr/top332/geomex3.php?c=199&f=.m3u8
 #EXTINF:-1 logo="https://www.telefonogratuito10.com/wp-content/uploads/2019/10/tel%C3%A9fono-gratuito-antena-3.png" group-title="ENTRETENIMIENTO",ANTENA 7 - LIS 2
 
 #EXTINF:-1 logo="https://img2.freepng.es/20181125/uaj/kisspng-logo-tve-internacional-la-1-rtve-tve-hd-5bfae49e01bb39.8822497515431691820071.jpg" group-title="CULTURA",TVE - GEO MR-1
-http://clubtv.link/250423abr/top332/geomex4.php?c=651&f=.m3u8
+http://clubtv.link/m1405/top1362/geomex4.php?c=651&f=.m3u8
 #EXTINF:-1 logo="https://img2.freepng.es/20181125/uaj/kisspng-logo-tve-internacional-la-1-rtve-tve-hd-5bfae49e01bb39.8822497515431691820071.jpg" group-title="CULTURA",TVE - GEO MR-2
-http://clubtv.link/250423abr/top332/geomex2.php?c=651&f=.m3u8
+http://clubtv.link/m1405/top1362/geomex2.php?c=651&f=.m3u8
 #EXTINF:-1 logo="https://img2.freepng.es/20181125/uaj/kisspng-logo-tve-internacional-la-1-rtve-tve-hd-5bfae49e01bb39.8822497515431691820071.jpg" group-title="CULTURA",TVE - GEO AR
-http://clubtv.link/250423abr/top332/geomex3.php?c=651&f=.m3u8
+http://clubtv.link/m1405/top1362/geomex3.php?c=651&f=.m3u8
 #EXTINF:-1 logo="https://img2.freepng.es/20181125/uaj/kisspng-logo-tve-internacional-la-1-rtve-tve-hd-5bfae49e01bb39.8822497515431691820071.jpg" group-title="CULTURA",TVE - LIS 2
 
 #EXTINF:-1 logo="https://img2.freepng.es/20181125/uaj/kisspng-logo-tve-internacional-la-1-rtve-tve-hd-5bfae49e01bb39.8822497515431691820071.jpg" group-title="CULTURA",TVE S1 - TV
