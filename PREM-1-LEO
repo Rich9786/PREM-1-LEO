@@ -94,8 +94,10 @@ https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8?PlaylistM3U
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgI6xbHmExVW7aX6ZHPBopvpVAI43A4kvQ1g&usqp=CAU" group-title="MEXICO",TELEVISA PUEBLA - MX
 
-#EXTINF:-1 logo="https://image.pngaaa.com/525/4407525-middle.png" group-title="MEXICO",CANAL 4 GUADALAJARA - LIS 3
-
+#EXTINF:-1 logo="https://image.pngaaa.com/525/4407525-middle.png" group-title="MEXICO",CANAL 4 GUADALAJARA OPC 1 - ANDR 9
+http://clubtv.link/1206m/key4526/android9.php?c=398|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
+#EXTINF:-1 logo="https://image.pngaaa.com/525/4407525-middle.png" group-title="MEXICO",CANAL 4 GUADALAJARA OPC 2 - ANDR 9
+http://clubtv.link/1206m/key4526/android9.php?c=388|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO",CANAL 5 HD - GEO
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO",CANAL 5 HD - GEO 2
@@ -1982,6 +1984,8 @@ http://clubtv.link/1206m/key4526/android6.php?c=0B98DF&f=.m3u8|user-agent=Mozill
 
 #EXTINF:-1 logo="https://forounivers.com/uploads/monthly_2021_08/large.DePeliculaClasico_logoFull-ver.png.3e6967b9a332a1f010a4a6ef26f28e8c.png" group-title="CINE",DE PELICULA CLASICO - ANDR 4
 http://clubtv.link/1206m/key4526/android4.php?c=509|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1 logo="https://pbs.twimg.com/media/ElSrRysXYAE3Tf7.jpg" group-title="CINE",CINE NOSTALGIA - ANDR 8
+http://clubtv.link/1206m/key4526/android8.php?c=748&f=.m3u8|user-agent=SyS1stemAp0
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-pelicula-cine-palomitas-maiz-tira-pelicula-tablilla-entradas-fondo-tiempo-pelicula_41737-248.jpg?size=626&ext=jpg" group-title="Peliculas",TU CINE - GEO 1-2
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/nf-7jm9GoKk/maxresdefault.jpg" group-title="C. Valenciana" tvg-name="Univers TV",NUESTRO CINE TV - LIS 3
