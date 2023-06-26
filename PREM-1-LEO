@@ -2518,10 +2518,10 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/pla
 
 
 
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion/img.jpg" group-title="Peliculas",Cine Accion - LIS 1
-
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion_hd/img.jpg" group-title="HD",Cine Accion HD - LIS 1
-
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion/img.jpg" group-title="Peliculas",Cine Accion - ANDR 4
+http://clubtv.link/2306j/top4565/android4.php?c=962|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/A1wC3pAqT1L._AC_UF1000,1000_QL80_.jpg" group-title="HD",Cine DC Universo COMICS - ANDR 4
+http://clubtv.link/2306j/top4565/android4.php?c=1149|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion_sagas/img.jpg" group-title="Peliculas",Cine Accion Sagas - LIS 1
 
 #EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion_sagas_hd/img.jpg" group-title="HD",Cine Accion Sagas HD - LIS 1
@@ -2540,26 +2540,26 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/pla
 
 #EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia_hd/img.jpg" group-title="HD",Cine Ficcion/Fantasia HD - LIS 1
 
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia_sagas/img.jpg" nada="Peliculas" group-title="TV PREMIUM",Cine Ficcion/Fantasia Sagas - LIS 1
-
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/infantil/img.jpg" group-title="Peliculas",Cine Infantil - LIS 1
-
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia_sagas/img.jpg" nada="Peliculas" group-title="TV PREMIUM",Cine Ficcion/Fantasia Sagas - ANDR 4
+http://clubtv.link/2306j/top4565/android4.php?c=970|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/infantil/img.jpg" group-title="Peliculas",Cine Infantil - ANDR 4
+http://clubtv.link/2306j/top4565/android4.php?c=967|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/infantil_hd/img.jpg" group-title="HD",Cine Infantil HD - LIS 1
 
 #EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/infantil_sagas/img.jpg" group-title="Peliculas",Cine Infantil Sagas - LIS 1
 
 #EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/infantil_sagas/img.jpg" group-title="HD",Cine Infantil Sagas HD - LIS 1
 
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/marvel/img.jpg" group-title="Peliculas",Cine Marvel - LIS 1
-
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/marvel/img.jpg" group-title="Peliculas",Cine Marvel - ANDR 4
+http://clubtv.link/2306j/top4565/android4.php?c=971|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/marvel_hd/img.jpg" group-title="HD",Cine Marvel HD - LIS 1
 
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/romance/img.jpg" group-title="Peliculas",Cine Romance - LIS 1
-
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/romance/img.jpg" group-title="Peliculas",Cine Romance - ANDR 4
+http://clubtv.link/2306j/top4565/android4.php?c=976|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/romance_hd/img.jpg" group-title="HD",Cine Romance HD - LIS 1
 
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/terror/img.jpg" group-title="Peliculas",Cine Terror - LIS 1
-
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/terror/img.jpg" group-title="Peliculas",Cine Terror - ANDR 4
+http://clubtv.link/2306j/top4565/android4.php?c=979|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/terror_hd/img.jpg" group-title="HD",Cine Terror HD - LIS 1
 
 #EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/zombis/img.jpg" group-title="Peliculas",Cine Zombis - LIS 1
@@ -2836,26 +2836,26 @@ http://158.69.226.108:8000/live/Vfjjjhj/Djdkfk/1640.ts
 
 
 
-#EXTINF:-1 logo="https://borealtelevision.com/wp-content/uploads/2021/06/El-Chavo-del-Ocho.jpg" group-title="24/7", EL CHAVO DEL 8 - GANDR 1
-
+#EXTINF:-1 logo="https://borealtelevision.com/wp-content/uploads/2021/06/El-Chavo-del-Ocho.jpg" group-title="24/7", EL CHAVO DEL 8 - ANDR 4
+http://clubtv.link/2306j/top4565/android4.php?c=959|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://borealtelevision.com/wp-content/uploads/2021/06/El-Chavo-del-Ocho.jpg" group-title="24/7", EL CHAVO DEL 8 - GANDR 2
 
 #EXTINF:-1 logo="https://borealtelevision.com/wp-content/uploads/2021/06/El-Chavo-del-Ocho.jpg" group-title="24/7", EL CHAVO DEL 8 - TV
 
-#EXTINF:-1 logo="https://reporteroshoy.mx/wp/wp-content/uploads/2017/08/chapulin-colorado.png" group-title="24/7", EL CHAPULIN COLORADO - GANDR 1
-
+#EXTINF:-1 logo="https://reporteroshoy.mx/wp/wp-content/uploads/2017/08/chapulin-colorado.png" group-title="24/7", EL CHAPULIN COLORADO - ANDR 4
+http://clubtv.link/2306j/top4565/android4.php?c=958|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://reporteroshoy.mx/wp/wp-content/uploads/2017/08/chapulin-colorado.png" group-title="24/7", EL CHAPULIN COLORADO - GANDR 2
 
 #EXTINF:-1 logo="https://reporteroshoy.mx/wp/wp-content/uploads/2017/08/chapulin-colorado.png" group-title="24/7", EL CHAPULIN COLORADO - LIS 3
 
-#EXTINF:-1 logo="https://i.ytimg.com/vi/MM0swZ3TyEM/maxresdefault.jpg" group-title="24/7",Chespirito - LIS 3
-
-#EXTINF:-1 logo="https://elfinalde.s3-accelerate.amazonaws.com/2019/03/6ivwRDbQYq7oqZo0fjNgE7cX0AD-683x1024.jpg" group-title="24/7", ALF - GANDR 2
-
+#EXTINF:-1 logo="https://i.ytimg.com/vi/MM0swZ3TyEM/maxresdefault.jpg" group-title="24/7",Chespirito - ANDR 4
+http://clubtv.link/2306j/top4565/android4.php?c=955|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1 logo="https://elfinalde.s3-accelerate.amazonaws.com/2019/03/6ivwRDbQYq7oqZo0fjNgE7cX0AD-683x1024.jpg" group-title="24/7", ALF - ANDR 4
+http://clubtv.link/2306j/top4565/android4.php?c=935|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://elfinalde.s3-accelerate.amazonaws.com/2019/03/6ivwRDbQYq7oqZo0fjNgE7cX0AD-683x1024.jpg" group-title="24/7", ALF - LIS 3
 
-#EXTINF:-1 logo="https://sm.ign.com/ign_es/tv/d/dinosaurs-/dinosaurs-1_rvd8.jpg" group-title="24/7", Dinosaurios - GANDR 1
-
+#EXTINF:-1 logo="https://sm.ign.com/ign_es/tv/d/dinosaurs-/dinosaurs-1_rvd8.jpg" group-title="24/7", Dinosaurios - ANDR 4
+http://clubtv.link/2306j/top4565/android4.php?c=988|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://lwlies.com/wp-content/uploads/2021/01/dinoaurs-disney-plus.jpg" group-title="24/7", Dinosaurios - GANDR 2
 
 #EXTINF:-1 logo="https://cdn2.mediotiempo.com/uploads/media/2021/08/11/familia-wilkerson-muda-plataforma-streaming.jpg" group-title="24/7", Malcolm in the middle - GANDR 1
@@ -2896,14 +2896,14 @@ http://158.69.226.108:8000/live/Vfjjjhj/Djdkfk/1640.ts
 
 #EXTINF:-1 logo="https://pelisenhd.net/wp-content/uploads/2021/11/pUhJGETy2sec4vEkiqJ9eGeIywc.jpg" group-title="24/7", SMALLVILLE - GANDR 2
 
-#EXTINF:-1 logo="https://larepublica.pe/resizer/_PIVGabfVJWyorwgekc7hny-7lQ=/480x282/top/smart/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/7KYOU764S5HBNJULS5NC7SMM5U.jpg" group-title="24/7", LOS AÑOS MARAVILLOSOS 1988 - GANDR 1
-
+#EXTINF:-1 logo="https://larepublica.pe/resizer/_PIVGabfVJWyorwgekc7hny-7lQ=/480x282/top/smart/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/7KYOU764S5HBNJULS5NC7SMM5U.jpg" group-title="24/7", LOS AÑOS MARAVILLOSOS 1988 - ANDR 4
+http://clubtv.link/2306j/top4565/android4.php?c=1036|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="http://51.222.152.107:81/posters/1610694005289.jpg" group-title="24/7",Shark Tank México Temporada 1 - GANDR 2
 
 #EXTINF:-1 logo="http://51.222.152.107:81/posters/1610694005289.jpg" group-title="24/7",Shark Tank México Temporada 2 - GANDR 2
 
-#EXTINF:-1 logo="https://vl-media.fr/wp-content/uploads/2016/07/Breaking-Bad2-920x694.jpg" group-title="24/7", BREAKING  BAD - GANDR 1
-
+#EXTINF:-1 logo="https://vl-media.fr/wp-content/uploads/2016/07/Breaking-Bad2-920x694.jpg" group-title="24/7", BREAKING  BAD - ANDR 4
+http://clubtv.link/2306j/top4565/android4.php?c=946|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://vl-media.fr/wp-content/uploads/2016/07/Breaking-Bad2-920x694.jpg" group-title="24/7", BREAKING  BAD - GANDR 2
 
 #EXTINF:-1 logo="https://vl-media.fr/wp-content/uploads/2016/07/Breaking-Bad2-920x694.jpg" group-title="24/7", BREAKING  BAD - LIS 3
@@ -2916,8 +2916,8 @@ http://158.69.226.108:8000/live/Vfjjjhj/Djdkfk/1640.ts
 
 #EXTINF:-1 logo="https://static-blogs.diariovasco.com/wp-content/uploads/sites/37/2019/11/destacada-4.jpg" group-title="24/7", Ballers
 
-#EXTINF:-1 logo="https://w0.peakpx.com/wallpaper/844/314/HD-wallpaper-csi-miami-tv-series.jpg" group-title="24/7", CSI: MIAMI - GANDR 1
-
+#EXTINF:-1 logo="https://w0.peakpx.com/wallpaper/844/314/HD-wallpaper-csi-miami-tv-series.jpg" group-title="24/7", CSI: MIAMI - ANDR 4
+http://clubtv.link/2306j/top4565/android4.php?c=986|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://w0.peakpx.com/wallpaper/844/314/HD-wallpaper-csi-miami-tv-series.jpg" group-title="24/7", CSI: MIAMI - GANDR 2
 
 #EXTINF:-1 logo="https://i.pinimg.com/564x/cf/76/ab/cf76ab724e3977e0ccf8c373bd0666b7.jpg" group-title="24/7", LA CASA DE PAPEL - GANDR 1
@@ -2928,16 +2928,16 @@ http://158.69.226.108:8000/live/Vfjjjhj/Djdkfk/1640.ts
 
 #EXTINF:-1 logo="https://www.pcworld.es/cmsdata/features/3803517/luis-miguel-serie-netflix_thumb800.jpg" group-title="24/7", LUIS MIGUEL LA SERIE 2018 - GANDR 2
 
-#EXTINF:-1 logo="https://www.lacasadeel.net/wp-content/uploads/2012/08/juego-de-tronos.jpg" group-title="24/7", JUEGO DE TRONOS - GANDR 1
-
+#EXTINF:-1 logo="https://www.lacasadeel.net/wp-content/uploads/2012/08/juego-de-tronos.jpg" group-title="24/7", JUEGO DE TRONOS - ANDR 4
+http://clubtv.link/2306j/top4565/android4.php?c=1010|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://www.lacasadeel.net/wp-content/uploads/2012/08/juego-de-tronos.jpg" group-title="24/7", JUEGO DE TRONOS - GANDR 2
 
 #EXTINF:-1 logo="https://e7.pngegg.com/pngimages/764/685/png-clipart-youtube-horror-film-scary-movie-comedy-horror-television-text-thumbnail.png" group-title="24/7", Peliculas de terror - GANDR 1
 
 #EXTINF:-1 logo="https://e7.pngegg.com/pngimages/764/685/png-clipart-youtube-horror-film-scary-movie-comedy-horror-television-text-thumbnail.png" group-title="24/7", Peliculas de terror - GANDR 2
 
-#EXTINF:-1 logo="https://e.radio-grpp.io/normal/2018/07/05/065106_640929.jpg" group-title="24/7", Le temes a la oscuridad - GANDR 1
-
+#EXTINF:-1 logo="https://e.radio-grpp.io/normal/2018/07/05/065106_640929.jpg" group-title="24/7", Le temes a la oscuridad - ANDR 4
+http://clubtv.link/2306j/top4565/android4.php?c=1030|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://e.radio-grpp.io/normal/2018/07/05/065106_640929.jpg" group-title="24/7", Le temes a la oscuridad - GANDR 2
 
 #EXTINF:-1 logo="https://i.ytimg.com/vi/CQXnH1pGXDg/maxresdefault.jpg" group-title="24/7", PELICULAS ESTRENOS 2018 - GANDR 1
@@ -2958,34 +2958,36 @@ http://158.69.226.108:8000/live/Vfjjjhj/Djdkfk/1640.ts
 
 #EXTINF:-1 logo="https://www.xlsemanal.com/wp-content/uploads/sites/3/2018/01/dibujos-animados-los-simpson-1.jpg" group-title="24/7", LOS SIMPSONS 
 
-#EXTINF:-1 logo="http://pm1.narvii.com/6054/a2cf24f51368fc7313fe4c8b4d8a052f3a1f23f6_00.jpg" group-title="24/7",Looney Tunes - GANDR 2
-
-#EXTINF:-1 logo="https://imagenes.elpais.com/resizer/xt8Qy6ehmZzJ-_uEVebsKKQNWBA=/414x0/arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/HJYVJWXJTS7QUYDYHCFPOIZDY4.jpg" group-title="24/7", EL COYOTE Y CORRE CAMINOS - GANDR 1
-
+#EXTINF:-1 logo="http://pm1.narvii.com/6054/a2cf24f51368fc7313fe4c8b4d8a052f3a1f23f6_00.jpg" group-title="24/7",Looney Tunes - ANDR 4
+http://clubtv.link/2306j/top4565/android4.php?c=1034|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1 logo="https://imagenes.elpais.com/resizer/xt8Qy6ehmZzJ-_uEVebsKKQNWBA=/414x0/arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/HJYVJWXJTS7QUYDYHCFPOIZDY4.jpg" group-title="24/7", EL COYOTE Y CORRE CAMINOS - ANDR 4
+http://clubtv.link/2306j/top4565/android4.php?c=1003|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://imagenes.elpais.com/resizer/xt8Qy6ehmZzJ-_uEVebsKKQNWBA=/414x0/arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/HJYVJWXJTS7QUYDYHCFPOIZDY4.jpg" group-title="24/7", EL COYOTE Y CORRE CAMINOS - GANDR 2
 
-#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1368172942224457729/dvGvfa2L_400x400.jpg" group-title="24/7",El Gallo Claudio - GANDR 2
-
-#EXTINF:-1 logo="https://http2.mlstatic.com/D_NQ_NP_109311-MLA20527673495_122015-O.jpg" group-title="24/7", LA PANTERA ROSA - GANDR 1
-
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1368172942224457729/dvGvfa2L_400x400.jpg" group-title="24/7",El Gallo Claudio - ANDR 4
+http://clubtv.link/2306j/top4565/android4.php?c=1005|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1 logo="https://http2.mlstatic.com/D_NQ_NP_109311-MLA20527673495_122015-O.jpg" group-title="24/7", LA PANTERA ROSA - ANDR 4
+http://clubtv.link/2306j/top4565/android4.php?c=1024|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://http2.mlstatic.com/D_NQ_NP_109311-MLA20527673495_122015-O.jpg" group-title="24/7", LA PANTERA ROSA - GANDR 2
 
 #EXTINF:-1 logo="https://http2.mlstatic.com/D_NQ_NP_109311-MLA20527673495_122015-O.jpg" group-title="24/7", LA PANTERA ROSA
 
 #EXTINF:-1 tvg-id="" tvg-name="Tom y Jerry" tvg-logo="http://51.222.152.107:81/posters/1610694158427.jpg" group-title="24/7",Tom y Jerry - GANDR 2
 
-#EXTINF:-1 logo="https://ih1.redbubble.net/image.202100413.9876/raf,750x1000,075,t,FFFFFF:97ab1c12de.u5.jpg" group-title="24/7",Cantinflas - GANDR 2
-
-#EXTINF:-1 logo="https://imagenes.expreso.ec/files/image_800_600/uploads/2021/04/28/6089e3c7433e9.png" group-title="24/7", Los picapiedras - GANDR 1
-
+#EXTINF:-1 logo="https://ih1.redbubble.net/image.202100413.9876/raf,750x1000,075,t,FFFFFF:97ab1c12de.u5.jpg" group-title="24/7",Cantinflas - ANDR 4
+http://clubtv.link/2306j/top4565/android4.php?c=953|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1 logo="https://imagenes.expreso.ec/files/image_800_600/uploads/2021/04/28/6089e3c7433e9.png" group-title="24/7", Los picapiedra - ANDR 4
+http://clubtv.link/2306j/top4565/android4.php?c=1037|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://imagenes.expreso.ec/files/image_800_600/uploads/2021/04/28/6089e3c7433e9.png" group-title="24/7", Los picapiedras - GANDR 2
+
+#EXTINF:-1 logo="https://m.media-amazon.com/images/I/71Jg6xzKiaL._RI_.jpg" group-title="24/7", Jonny Bravo
 
 #EXTINF:-1 tvg-id="" tvg-name="Don Gato y su Pandilla" tvg-logo="http://51.222.152.107:81/posters/1610693311265.jpg" group-title="24/7",Don Gato y su Pandilla
 
-#EXTINF:-1 logo="https://i.pinimg.com/550x/08/4d/96/084d960e7148966bfe2e9d63a52081de.jpg" group-title="24/7",El Pajaro Loco - GANDR 2
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animaniacs.png" group-title="24/7",Animaniacs - GANDR 2
-
+#EXTINF:-1 logo="https://i.pinimg.com/550x/08/4d/96/084d960e7148966bfe2e9d63a52081de.jpg" group-title="24/7",El Pajaro Loco - ANDR 4
+http://clubtv.link/2306j/top4565/android4.php?c=1006|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animaniacs.png" group-title="24/7",Animaniacs - ANDR 4
+http://clubtv.link/2306j/top4565/android4.php?c=938|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://images.hive.blog/p/PB8ro82ZpZP35bVGjGoE93K3E4U5KX8KtMBJ2rhrS8qWMRULPVNAxd49CCqL66e5oQ1vCPFrxfvTpJFaW9Q6iYiAmy2Utwq41hurukzDbU2yJNz2?format=match&mode=fit" group-title="24/7", PINKY y CEREBRO
 
 #EXTINF:-1 logo="https://images.hive.blog/p/PB8ro82ZpZP35bVGjGoE93K3E4U5KX8KtMBJ2rhrS8qWMRULPVNAxd49CCqL66e5oQ1vCPFrxfvTpJFaW9Q6iYiAmy2Utwq41hurukzDbU2yJNz2?format=match&mode=fit" group-title="24/7", PINKY y CEREBRO - GANDR 1
@@ -3000,8 +3002,8 @@ http://158.69.226.108:8000/live/Vfjjjhj/Djdkfk/1640.ts
 
 #EXTINF:-1 logo="https://es.web.img3.acsta.net/pictures/14/02/14/13/28/226531.jpg" group-title="24/7", BOB ESPONJA - LIS 3
 
-#EXTINF:-1 logo="https://http2.mlstatic.com/D_NQ_NP_846517-MLM44228598924_122020-O.jpg" group-title="24/7", CORAJE EL PERRO COBARDE - GANDR 1
-
+#EXTINF:-1 logo="https://http2.mlstatic.com/D_NQ_NP_846517-MLM44228598924_122020-O.jpg" group-title="24/7", CORAJE EL PERRO COBARDE - ANDR 4
+http://clubtv.link/2306j/top4565/android4.php?c=985|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://http2.mlstatic.com/D_NQ_NP_846517-MLM44228598924_122020-O.jpg" group-title="24/7", CORAJE EL PERRO COBARDE - GANDR 2
 
 #EXTINF:-1 logo="https://es.web.img2.acsta.net/pictures/14/06/04/11/55/554530.jpg" group-title="Entretenimiento",Garfield - GANDR 2
@@ -3012,16 +3014,16 @@ http://158.69.226.108:8000/live/Vfjjjhj/Djdkfk/1640.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="El Chavo del 8 Animado" tvg-logo="http://51.222.152.107:81/posters/1610693448389.jpg" group-title="24/7",El Chavo del 8 Animado
 
-#EXTINF:-1 logo="https://cde.peru.com//ima/0/0/5/7/8/578558/380x300/lazy-town.jpg" group-title="24/7", LAZY TOWN - GANDR 1
-
+#EXTINF:-1 logo="https://cde.peru.com//ima/0/0/5/7/8/578558/380x300/lazy-town.jpg" group-title="24/7", LAZY TOWN - ANDR 4
+http://clubtv.link/2306j/top4565/android4.php?c=1029|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://cde.peru.com//ima/0/0/5/7/8/578558/380x300/lazy-town.jpg" group-title="24/7", LAZY TOWN - GANDR 2
 
-#EXTINF:-1 logo="https://www.tuenlinea.com/wp-content/uploads/2018/08/Conoce-a-la-actriz-que-interpretar%C3%A1-a-Dora-la-Exploradora-en-su-versi%C3%B3n-live-action.jpg" group-title="24/7", Dora la exploradora - GANDR 1
-
+#EXTINF:-1 logo="https://www.tuenlinea.com/wp-content/uploads/2018/08/Conoce-a-la-actriz-que-interpretar%C3%A1-a-Dora-la-Exploradora-en-su-versi%C3%B3n-live-action.jpg" group-title="24/7", Dora la exploradora - ANDR 4
+http://clubtv.link/2306j/top4565/android4.php?c=991|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://www.tuenlinea.com/wp-content/uploads/2018/08/Conoce-a-la-actriz-que-interpretar%C3%A1-a-Dora-la-Exploradora-en-su-versi%C3%B3n-live-action.jpg" group-title="24/7", Dora la exploradora - GANDR 2
 
-#EXTINF:-1 logo="https://i.ytimg.com/vi/uVMj0EaFEl8/maxresdefault.jpg" group-title="24/7", Jorge el Curioso - GANDR 1
-
+#EXTINF:-1 logo="https://i.ytimg.com/vi/uVMj0EaFEl8/maxresdefault.jpg" group-title="24/7", Jorge el Curioso - ANDR 4
+http://clubtv.link/2306j/top4565/android4.php?c=1018|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://i.ytimg.com/vi/uVMj0EaFEl8/maxresdefault.jpg" group-title="24/7", Jorge el Curioso - GANDR 
 
 #EXTINF:-1 logo="https://i.pinimg.com/originals/15/a0/9d/15a09d7f8b5429bf338a55c5f4011014.jpg" group-title="24/7", Doctora Juguetes
@@ -3036,16 +3038,16 @@ http://158.69.226.108:8000/live/Vfjjjhj/Djdkfk/1640.ts
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/trollhunters.png" group-title="24/7",TrollHunters
 
-#EXTINF:-1 logo="https://res.cloudinary.com/teepublic/image/private/s--lyzjb-8k--/t_Resized%20Artwork/c_fit,g_north_west,h_1054,w_1054/co_ffffff,e_outline:53/co_ffffff,e_outline:inner_fill:53/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/t_watermark_lock/c_limit,f_auto,h_630,q_90,w_630/v1601626888/production/designs/14610343_0.jpg" group-title="24/7", Candy Candy! - LIS 3
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/heyarnold.png" group-title="24/7",Hey Arnold - GANDR 2
-
-#EXTINF:-1 logo="https://www.onlinejuguetes.com/wp-content/uploads/2012/12/juguetes-caillou.jpg" group-title="24/7", CAILLOU - GANDR 1
-
+#EXTINF:-1 logo="https://res.cloudinary.com/teepublic/image/private/s--lyzjb-8k--/t_Resized%20Artwork/c_fit,g_north_west,h_1054,w_1054/co_ffffff,e_outline:53/co_ffffff,e_outline:inner_fill:53/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/t_watermark_lock/c_limit,f_auto,h_630,q_90,w_630/v1601626888/production/designs/14610343_0.jpg" group-title="24/7", Candy Candy! - ANDR 4
+http://clubtv.link/2306j/top4565/android4.php?c=951|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/heyarnold.png" group-title="24/7",Hey Arnold - ANDR 4
+http://clubtv.link/2306j/top4565/android4.php?c=1017|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1 logo="https://www.onlinejuguetes.com/wp-content/uploads/2012/12/juguetes-caillou.jpg" group-title="24/7", CAILLOU - ANDR 4
+http://clubtv.link/2306j/top4565/android4.php?c=950|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://www.onlinejuguetes.com/wp-content/uploads/2012/12/juguetes-caillou.jpg" group-title="24/7", CAILLOU - GANDR 2
 
-#EXTINF:-1 logo="https://i.ebayimg.com/images/g/ZUUAAOSwTUpdVrD0/s-l400.jpg" group-title="24/7",Doraemon - GANDR 2
-
+#EXTINF:-1 logo="https://i.ebayimg.com/images/g/ZUUAAOSwTUpdVrD0/s-l400.jpg" group-title="24/7",Doraemon - ANDR 4
+http://clubtv.link/2306j/top4565/android4.php?c=992|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://i.pinimg.com/originals/aa/c8/c7/aac8c76f0514cef5e8520705dbc51ce4.png"group-title="24/7", Naruto - GANDR 1
 
 #EXTINF:-1 logo="https://i.pinimg.com/originals/aa/c8/c7/aac8c76f0514cef5e8520705dbc51ce4.png"group-title="24/7", Naruto - GANDR 2
@@ -3054,8 +3056,8 @@ http://158.69.226.108:8000/live/Vfjjjhj/Djdkfk/1640.ts
 
 #EXTINF:-1 logo="https://2.bp.blogspot.com/-vJGNlki5TsY/W0y9Pj59ctI/AAAAAAAAJuc/lzdymraXJEYX1_q8HK722jUnFIuv9YO9gCLcBGAs/s1600/Robotech%2B600x305.jpg" group-title="24/7", ROBOTECH - GANDR 2
 
-#EXTINF:-1 logo="https://www.sanborns.com.mx/imagenes-sanborns-ii/1200/7503027549000.jpg" group-title="24/7", Death note - GANDR 1
-
+#EXTINF:-1 logo="https://www.sanborns.com.mx/imagenes-sanborns-ii/1200/7503027549000.jpg" group-title="24/7", Death note - ANDR 4
+http://clubtv.link/2306j/top4565/android4.php?c=987|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://www.sanborns.com.mx/imagenes-sanborns-ii/1200/7503027549000.jpg" group-title="24/7", Death note - GANDR 2
 
 #EXTINF:-1 logo="https://i.pinimg.com/originals/34/ec/3d/34ec3d20367981120a9aaf8e6aa0876d.jpg" group-title="24/7",One Punch Man
@@ -3072,8 +3074,8 @@ http://158.69.226.108:8000/live/Vfjjjhj/Djdkfk/1640.ts
 
 #EXTINF:-1 logo="http://4.bp.blogspot.com/-lpz_qo6jCuI/T6XJI-WFy4I/AAAAAAAAAKI/wakh4IEgfTk/s640/dibujos-animados-de-gi-joe.jpg" group-title="24/7", GiJoe
 
-#EXTINF:-1 logo="https://media.customon.com/unsafe/600x600/img.customon.com//art/2/600/600/ce3535/52315/627a5fa997ae34e1d6cd0ae80317015c.png.jpg" group-title="24/7", He-Man - GANDR 1
-
+#EXTINF:-1 logo="https://media.customon.com/unsafe/600x600/img.customon.com//art/2/600/600/ce3535/52315/627a5fa997ae34e1d6cd0ae80317015c.png.jpg" group-title="24/7", He-Man - ANDR 4
+http://clubtv.link/2306j/top4565/android4.php?c=1014|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://media.customon.com/unsafe/600x600/img.customon.com//art/2/600/600/ce3535/52315/627a5fa997ae34e1d6cd0ae80317015c.png.jpg" group-title="24/7", He-Man - GANDR 2
 
 #EXTINF:-1 logo="https://peru21.pe/resizer/yyo3ydgTC6rY_zl5mrJ7OR5vXFc=/980x0/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/CN5BTSPLFJHK5GJXOX4LKWV3R4.jpg" group-title="24/7", SHERA - GANDR 1
@@ -3108,8 +3110,8 @@ http://158.69.226.108:8000/live/Vfjjjhj/Djdkfk/1640.ts
 
 #EXTINF:-1 logo="https://i.pinimg.com/originals/db/d6/3c/dbd63cf28aa9083093e749e15d66edc8.jpg" group-title="24/7", SUPER CAMPEONES - GANDR 2
 
-#EXTINF:-1 logo="https://media.vandalsports.com/i/640x360/9-2021/202192291236_1.jpg" group-title="24/7", CABALLEROS DEL ZODIACO - GANDR 1
-
+#EXTINF:-1 logo="https://media.vandalsports.com/i/640x360/9-2021/202192291236_1.jpg" group-title="24/7", CABALLEROS DEL ZODIACO - ANDR 4
+http://clubtv.link/2306j/top4565/android4.php?c=947|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://media.vandalsports.com/i/640x360/9-2021/202192291236_1.jpg" group-title="24/7", CABALLEROS DEL ZODIACO - GANDR 2
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/yugioh.png" group-title="24/7",Yu-Gi-Oh!
@@ -3118,26 +3120,26 @@ http://158.69.226.108:8000/live/Vfjjjhj/Djdkfk/1640.ts
 
 #EXTINF:-1 logo="https://i.pinimg.com/originals/dd/27/d5/dd27d50148f414d549e78dd98cd227c9.jpg" group-title="24/7", Pokémon - GANDR 2
 
-#EXTINF:-1 logo="https://elcomercio.pe/resizer/iTt5pXjlsbQ5ZXQCWJB6cDabxtI=/980x0/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/OVV7W525VFADVG2IC3UVWXZGKU.jpg" group-title="24/7", DRAGON BALL 1984 - GANDR 1
-
+#EXTINF:-1 logo="https://elcomercio.pe/resizer/iTt5pXjlsbQ5ZXQCWJB6cDabxtI=/980x0/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/OVV7W525VFADVG2IC3UVWXZGKU.jpg" group-title="24/7", DRAGON BALL 1984 - ANDR 4
+http://clubtv.link/2306j/top4565/android4.php?c=995|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://elcomercio.pe/resizer/iTt5pXjlsbQ5ZXQCWJB6cDabxtI=/980x0/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/OVV7W525VFADVG2IC3UVWXZGKU.jpg" group-title="24/7", DRAGON BALL 1984 - GANDR 2
 
 #EXTINF:-1 logo="https://elcomercio.pe/resizer/iTt5pXjlsbQ5ZXQCWJB6cDabxtI=/980x0/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/OVV7W525VFADVG2IC3UVWXZGKU.jpg" group-title="24/7", DRAGON BALL 1984
 
-#EXTINF:-1 logo="http://4.bp.blogspot.com/_Fiz7GTCvbys/TUok-c0-soI/AAAAAAAACZ4/mlTCB4s_p9A/s1600/dragon-ball-z.jpg" group-title="24/7", DRAGON BALL Z 1989 - GANDR 1
-
+#EXTINF:-1 logo="http://4.bp.blogspot.com/_Fiz7GTCvbys/TUok-c0-soI/AAAAAAAACZ4/mlTCB4s_p9A/s1600/dragon-ball-z.jpg" group-title="24/7", DRAGON BALL Z 1989 - ANDR 4
+http://clubtv.link/2306j/top4565/android4.php?c=1002|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="http://4.bp.blogspot.com/_Fiz7GTCvbys/TUok-c0-soI/AAAAAAAACZ4/mlTCB4s_p9A/s1600/dragon-ball-z.jpg" group-title="24/7", DRAGON BALL Z 1989 - GANDR 2
 
 #EXTINF:-1 logo="http://4.bp.blogspot.com/_Fiz7GTCvbys/TUok-c0-soI/AAAAAAAACZ4/mlTCB4s_p9A/s1600/dragon-ball-z.jpg" group-title="24/7", DRAGON BALL Z 1989
 
-#EXTINF:-1 logo="https://descargarimagenesdegoku.com/wp-content/uploads/2017/01/serie-completa-de-dragon-ball-gt-en-espa%C3%B1ol.jpg" group-title="24/7", DRAGON BALL GT 1996 - GANDR 1
-
+#EXTINF:-1 logo="https://descargarimagenesdegoku.com/wp-content/uploads/2017/01/serie-completa-de-dragon-ball-gt-en-espa%C3%B1ol.jpg" group-title="24/7", DRAGON BALL GT 1996 - ANDR 4
+http://clubtv.link/2306j/top4565/android4.php?c=997|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://descargarimagenesdegoku.com/wp-content/uploads/2017/01/serie-completa-de-dragon-ball-gt-en-espa%C3%B1ol.jpg" group-title="24/7", DRAGON BALL GT 1996 - GANDR 2
 
 #EXTINF:-1 logo="https://descargarimagenesdegoku.com/wp-content/uploads/2017/01/serie-completa-de-dragon-ball-gt-en-espa%C3%B1ol.jpg" group-title="24/7", DRAGON BALL GT 1996
 
-#EXTINF:-1 logo="https://areajugones.sport.es/wp-content/uploads/2021/07/banner-aj-dbz.jpg" group-title="24/7", DRAGON BALL SUPER - GANDR 1
-
+#EXTINF:-1 logo="https://areajugones.sport.es/wp-content/uploads/2021/07/banner-aj-dbz.jpg" group-title="24/7", DRAGON BALL SUPER - ANDR 4
+http://clubtv.link/2306j/top4565/android4.php?c=1000|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://areajugones.sport.es/wp-content/uploads/2021/07/banner-aj-dbz.jpg" group-title="24/7", DRAGON BALL SUPER - GANDR 2
 
 #EXTINF:-1 logo="https://areajugones.sport.es/wp-content/uploads/2021/07/banner-aj-dbz.jpg" group-title="24/7", DRAGON BALL SUPER
