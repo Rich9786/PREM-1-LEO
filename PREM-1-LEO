@@ -1641,7 +1641,7 @@ https://bst.buin.cl/0.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="101462" tvg-name="Mi TV Televisión Clásica" tvg-logo="https://lh3.googleusercontent.com/-j_2wCJpRlBs/X0QTOy-h68I/AAAAAAAA47k/JLK21FNZEy8o85F8WNJ4QRJwDOwsWvrDQCK8BGAsYHg/s0/2020-08-24.png", Mi TV Televisión Clásica
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="101462" tvg-name="Mi TV Televisión Clásica" tvg-logo="https://image.roku.com/developer_channels/prod/5b825016d98fbf3adca1d997e5ee15a003421d1100416a179469dd91f8caa308.png",RETROX TV - ANDR 8
-http://clubtv.link/a2208/key4512/android8.php?c=989|user-agent=S11elW/2.57
+http://clubtv.link/260823/key4512/android8.php?c=989|user-agent=S11elW/2.57
 #EXTINF:-1 tvg-id="1106" tvg-name="ACS Network TV" tvg-logo="https://i2.paste.pics/f4e6f06a328814e84dd4da2c89843129.png", ACS Network TV | PR
 https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="478" tvg-name="Telesistema" tvg-logo="https://www.m3u.cl/logo/478_Telesistema.png", Telesistema | CR
