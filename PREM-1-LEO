@@ -279,10 +279,10 @@ http://clubtv.link/a1509/key4513/android9.php?c=0141|user-agent=FFFFF
 
 #EXTINF:-1 logo="https://www.cablemaster.com.mx/images/Logos/azmundo.jpg" group-title="MEXICO",AZ MUNDO - GEO AR
 
-#EXTINF:-1 logo="https://www.cablemaster.com.mx/images/Logos/azmundo.jpg" group-title="MEXICO",AZ MUNDO - LIS 2
-
-#EXTINF:-1 logo="https://www.cablemaster.com.mx/images/Logos/azmundo.jpg" group-title="MEXICO",AZ MUNDO - LIS 3
-
+#EXTINF:-1 logo="https://www.cablemaster.com.mx/images/Logos/azmundo.jpg" group-title="MEXICO",AZ MUNDO - ANDR 3
+http://clubtv.link/a1509/key4513/android3.php?c=393|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
+#EXTINF:-1 logo="https://www.cablemaster.com.mx/images/Logos/azmundo.jpg" group-title="MEXICO",AZ MUNDO - ANDR 9
+http://clubtv.link/a1509/key4513/android9.php?c=0003|user-agent=FFFFF
 #EXTINF:-1 logo="https://www.cablemaster.com.mx/images/Logos/azmundo.jpg" group-title="MEXICO",AZ MUNDO - MX
 
 #EXTINF:-1 logo="https://www.cablemaster.com.mx/images/Logos/azmundo.jpg" group-title="MEXICO",AZ MUNDO - ANDR
@@ -1150,8 +1150,8 @@ http://clubtv.link/a1509/key4513/android9.php?c=0486|user-agent=FFFFF
 
 #EXTINF:-1 tvg-logo="https://eyboricua.com/wp-content/uploads/2023/03/Logo-TeleOnce.-Facebook.jpg" group-title="Mundo",Tele 11 - ANDR 8
 http://clubtv.link/a1509/key4513/android8.php?c=39|user-agent=S11elW/2.57
-#EXTINF:-1 logo="https://tvbix.com/images/channels/nbc-universo.png" group-title="ENTRETENIMIENTO",UNIVERSO - ANDR 0
-http://clubtv.link/a1509/key4513/android0.php?c=850|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1 logo="https://tvbix.com/images/channels/nbc-universo.png" group-title="ENTRETENIMIENTO",UNIVERSO - ANDR 1
+http://clubtv.link/a1509/key4513/android1.php?c=850|User-Agent=AJIDEOFYWIOCKNnzwguyiavnskjsdiwalamdheysgstejsdy2978
 #EXTINF:-1 logo="http://directostv.teleame.com/wp-content/uploads/2018/06/City-TV-Colombia-en-vivo-Online.png" group-title="ENTRETENIMIENTO",City TV - ANDR 0
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/3/32/Cubavisi%C3%B3n_Logo.png" group-title="ENTRETENIMIENTO",CUBAVISION - ANDR 8
@@ -1200,8 +1200,8 @@ http://clubtv.link/a1509/key4513/android8.php?c=87|user-agent=S11elW/2.57
 
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1366852482484367364/5ag356q1_400x400.jpg" group-title="ENTRETENIMIENTO", TELE 11 - LIS 0
 
-#EXTINF:-1 logo="https://seeklogo.com/images/R/rts-fondo-verde-logo-10CA7E5573-seeklogo.com.png" group-title="ENTRETENIMIENTO",RTS - ANDR 4
-http://clubtv.link/a1509/key4513/android4.php?c=530|user-agent=S11elW/2.57
+#EXTINF:-1 logo="https://seeklogo.com/images/R/rts-fondo-verde-logo-10CA7E5573-seeklogo.com.png" group-title="ENTRETENIMIENTO",RTS - ANDR 1
+http://clubtv.link/a1509/key4513/android1.php?c=744|User-Agent=AJIDEOFYWIOCKNnzwguyiavnskjsdiwalamdheysgstejsdy2978
 #EXTINF:-1 logo="https://redgol.cl/__export/1621631802436/sites/redgol/img/2021/05/21/la-red-imagen-corporativa-30anos-canal-iderado-victor-gutierrez-renueva-colores-potenciando-audiencias-ok_crop1621289271938_jpeg_1693159006.jpeg_242310155.jpeg" group-title="ENTRETENIMIENTO",La Red - CL
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 logo="https://redgol.cl/__export/1621631802436/sites/redgol/img/2021/05/21/la-red-imagen-corporativa-30anos-canal-iderado-victor-gutierrez-renueva-colores-potenciando-audiencias-ok_crop1621289271938_jpeg_1693159006.jpeg_242310155.jpeg" group-title="ENTRETENIMIENTO",La Red HD - LIS 3
@@ -1250,8 +1250,8 @@ http://clubtv.link/a1509/key4513/android4.php?c=1008|user-agent=S11elW/2.57
 
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/606160676197920768/cbOnU666.png" group-title="ENTRETENIMIENTO",GLITZ - LIS 1
 
-#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/606160676197920768/cbOnU666.png" group-title="ENTRETENIMIENTO",GLITZ - LIS 3
-
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/606160676197920768/cbOnU666.png" group-title="ENTRETENIMIENTO",GLITZ - ANDR 9
+http://clubtv.link/a1509/key4513/android9.php?c=0015|user-agent=FFFFF
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/606160676197920768/cbOnU666.png" group-title="ENTRETENIMIENTO",GLITZ - GANDR 3
 
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/606160676197920768/cbOnU666.png" group-title="ENTRETENIMIENTO",GLITZ - MX
@@ -1278,12 +1278,12 @@ http://clubtv.link/a1509/key4513/android2.php?c=219&f=.m3u8
 
 #EXTINF:-1 logo="https://i.imgur.com/pWW9ljW.jpg" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA - GEO AR
 
-#EXTINF:-1 logo="https://i.imgur.com/pWW9ljW.jpg" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA 1 - ANDR 0
-http://clubtv.link/a1509/key4513/android0.php?c=568|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTINF:-1 logo="https://i.imgur.com/pWW9ljW.jpg" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA 2 - ANDR 0
-http://clubtv.link/a1509/key4513/android0.php?c=571|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTINF:-1 logo="https://i.imgur.com/pWW9ljW.jpg" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA 3 - ANDR 0
-http://clubtv.link/a1509/key4513/android0.php?c=572|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1 logo="https://i.imgur.com/pWW9ljW.jpg" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA - ANDR 1
+http://clubtv.link/a1509/key4513/android1.php?c=572|User-Agent=AJIDEOFYWIOCKNnzwguyiavnskjsdiwalamdheysgstejsdy2978
+#EXTINF:-1 logo="https://i.imgur.com/pWW9ljW.jpg" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA - ANDR 6
+http://clubtv.link/a1509/key4513/android6.php?c=572|User-Agent=AJIDEOFYWIOCKNnzwguyiavnskjsdiwalamdheysgstejsdy2978
+#EXTINF:-1 logo="https://i.imgur.com/pWW9ljW.jpg" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA - ANDR 9
+http://clubtv.link/a1509/key4513/android9.php?c=0049|user-agent=FFFFF
 #EXTINF:-1 logo="https://i.imgur.com/pWW9ljW.jpg" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA - TV
 
 #EXTINF:-1 logo="https://i.imgur.com/pWW9ljW.jpg" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA - TV 2
@@ -1296,27 +1296,27 @@ http://clubtv.link/a1509/key4513/android0.php?c=572|User-Agent=NbF7LdU3b3QkP6DGg
 
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/tvpediabrasil/images/1/17/Comedycentral.jpg/revision/latest/top-crop/width/360/height/450?cb=20180804010106&path-prefix=pt-br" group-title="ENTRETENIMIENTO",COMEDY CENTRAL - GEO AR
 
-#EXTINF:-1 logo="https://static.wikia.nocookie.net/tvpediabrasil/images/1/17/Comedycentral.jpg/revision/latest/top-crop/width/360/height/450?cb=20180804010106&path-prefix=pt-br" group-title="ENTRETENIMIENTO",COMEDY CENTRAL - ANDR 0
-http://clubtv.link/a1509/key4513/android0.php?c=500|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTINF:-1 logo="https://static.wikia.nocookie.net/tvpediabrasil/images/1/17/Comedycentral.jpg/revision/latest/top-crop/width/360/height/450?cb=20180804010106&path-prefix=pt-br" group-title="ENTRETENIMIENTO",COMEDY CENTRAL HD - ANDR 0
-http://clubtv.link/a1509/key4513/android0.php?c=506|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTINF:-1 logo="https://static.wikia.nocookie.net/tvpediabrasil/images/1/17/Comedycentral.jpg/revision/latest/top-crop/width/360/height/450?cb=20180804010106&path-prefix=pt-br" group-title="ENTRETENIMIENTO",COMEDY CENTRAL - MX
-
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/tvpediabrasil/images/1/17/Comedycentral.jpg/revision/latest/top-crop/width/360/height/450?cb=20180804010106&path-prefix=pt-br" group-title="ENTRETENIMIENTO",COMEDY CENTRAL - ANDR 1
+http://clubtv.link/a1509/key4513/android1.php?c=500|User-Agent=AJIDEOFYWIOCKNnzwguyiavnskjsdiwalamdheysgstejsdy2978
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/tvpediabrasil/images/1/17/Comedycentral.jpg/revision/latest/top-crop/width/360/height/450?cb=20180804010106&path-prefix=pt-br" group-title="ENTRETENIMIENTO",COMEDY CENTRAL HD - ANDR 6
+http://clubtv.link/a1509/key4513/android6.php?c=506|User-Agent=AJIDEOFYWIOCKNnzwguyiavnskjsdiwalamdheysgstejsdy2978
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/tvpediabrasil/images/1/17/Comedycentral.jpg/revision/latest/top-crop/width/360/height/450?cb=20180804010106&path-prefix=pt-br" group-title="ENTRETENIMIENTO",COMEDY CENTRAL - ANDR 9
+http://clubtv.link/a1509/key4513/android9.php?c=0040|user-agent=FFFFF
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/tvpediabrasil/images/1/17/Comedycentral.jpg/revision/latest/top-crop/width/360/height/450?cb=20180804010106&path-prefix=pt-br" group-title="ENTRETENIMIENTO",COMEDY CENTRAL - ANDR
 
-#EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2022_03/large.1606587218_UniversalComedy-Oscuro.png.edc0710afb67e742c9e68589f4006992.png" group-title="SERIES Y CINE",UNIVERSAL COMEDY - ANDR 0
-http://clubtv.link/a1509/key4513/android0.php?c=830|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2022_03/large.1606587218_UniversalComedy-Oscuro.png.edc0710afb67e742c9e68589f4006992.png" group-title="SERIES Y CINE",UNIVERSAL COMEDY HD - ANDR 0
-http://clubtv.link/a1509/key4513/android0.php?c=833|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2022_03/large.1606587218_UniversalComedy-Oscuro.png.edc0710afb67e742c9e68589f4006992.png" group-title="SERIES Y CINE",UNIVERSAL COMEDY HD - ANDR 1
+http://clubtv.link/a1509/key4513/android1.php?c=833|User-Agent=AJIDEOFYWIOCKNnzwguyiavnskjsdiwalamdheysgstejsdy2978
+#EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2022_03/large.1606587218_UniversalComedy-Oscuro.png.edc0710afb67e742c9e68589f4006992.png" group-title="SERIES Y CINE",UNIVERSAL COMEDY HD - ANDR 6
+http://clubtv.link/a1509/key4513/android6.php?c=833|User-Agent=AJIDEOFYWIOCKNnzwguyiavnskjsdiwalamdheysgstejsdy2978
 #EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2022_03/large.1606587218_UniversalComedy-Oscuro.png.edc0710afb67e742c9e68589f4006992.png" group-title="SERIES Y CINE",UNIVERSAL COMEDY HD I - LIS 0
 
-#EXTINF:-1 tvg-logo="https://imgur.com/z0jIlCf.png" group-title="DISTRO TV",Casa Comedy - GEO 1-2
+#EXTINF:-1 tvg-logo="https://imgur.com/z0jIlCf.png" group-title="DISTRO TV",Casa Comedy - ANDR 1-6
 http://clubtv.link/a1509/key4513/distro.php?c=casa-comedy&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/z0jIlCf.png" group-title="DISTRO TV",Casa Comedy - TV
 
-#EXTINF:-1 tvg-logo="https://imgur.com/R6L274o.png" group-title="DISTRO TV",Spanglish - GEO 1-2
+#EXTINF:-1 tvg-logo="https://imgur.com/R6L274o.png" group-title="DISTRO TV",Spanglish - ANDR 1-6
 http://clubtv.link/a1509/key4513/distro.php?c=spanglish&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/3qWnqKg.png" group-title="DISTRO TV",Juntos - GEO 1-2
+#EXTINF:-1 tvg-logo="https://imgur.com/3qWnqKg.png" group-title="DISTRO TV",Juntos - ANDR 1-6
 http://clubtv.link/a1509/key4513/distro.php?c=juntos&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3qWnqKg.png" group-title="DISTRO TV",Juntos - TV
 
@@ -1334,13 +1334,12 @@ http://clubtv.link/a1509/key4513/distro.php?c=juntos&f=.m3u8
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/hn_tru-tv_m.png" group-title="ENTRETENIMIENTO",TRUTV - GEO AR
 
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/hn_tru-tv_m.png" group-title="ENTRETENIMIENTO",TRUTV - ANDR 0
-http://clubtv.link/a1509/key4513/android0.php?c=812|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/hn_tru-tv_m.png" group-title="ENTRETENIMIENTO",TRUTV - ANDR 9
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/hn_tru-tv_m.png" group-title="ENTRETENIMIENTO",TRUTV LAT - ANDR 1
+
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/hn_tru-tv_m.png" group-title="ENTRETENIMIENTO",TRUTV LAT - ANDR 6
+
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_tru-tv-hd_m.png" group-title="ENTRETENIMIENTO",TRUTV  - ANDR 9
 http://clubtv.link/a1509/key4513/android9.php?c=0107|user-agent=FFFFF
-
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_tru-tv-hd_m.png" group-title="ENTRETENIMIENTO",TRUTV HD - MX
-
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/hn_tru-tv_m.png" group-title="ENTRETENIMIENTO",TRUTV - MX
 
 #EXTINF:-1 tvg-id="PMCRoyale.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/srVaOna.png" group-title="Iran",PMC Royale
@@ -1371,14 +1370,14 @@ https://playout4multirtmp.tulix.tv/live7/Stream1/playlist.m3u8
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/1223px-Logo_tlnovelas_feb2019.png" group-title="ENTRETENIMIENTO",TL NOVELAS - GEO AR 
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/1223px-Logo_tlnovelas_feb2019.png" group-title="ENTRETENIMIENTO",TL NOVELAS - ANDR 0
-http://clubtv.link/a1509/key4513/android0.php?c=787|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/1223px-Logo_tlnovelas_feb2019.png" group-title="ENTRETENIMIENTO",TL NOVELAS SUR - ANDR 0
-http://clubtv.link/a1509/key4513/android0.php?c=791|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/1223px-Logo_tlnovelas_feb2019.png" group-title="ENTRETENIMIENTO",TL NOVELAS - MX
-
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/1223px-Logo_tlnovelas_feb2019.png" group-title="ENTRETENIMIENTO",TL NOVELAS - ANDR
-
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/1223px-Logo_tlnovelas_feb2019.png" group-title="ENTRETENIMIENTO",TL NOVELAS - ANDR 1
+http://clubtv.link/a1509/key4513/android1.php?c=787|User-Agent=AJIDEOFYWIOCKNnzwguyiavnskjsdiwalamdheysgstejsdy2978
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/1223px-Logo_tlnovelas_feb2019.png" group-title="ENTRETENIMIENTO",TL NOVELAS - ANDR 6
+http://clubtv.link/a1509/key4513/android6.php?c=787|User-Agent=AJIDEOFYWIOCKNnzwguyiavnskjsdiwalamdheysgstejsdy2978
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1094949901597851648/JRWm9Ec9_400x400.jpg" group-title="ENTRETENIMIENTO",TL NOVELAS |US| - ANDR 1
+http://clubtv.link/a1509/key4513/android1.php?c=1126|User-Agent=AJIDEOFYWIOCKNnzwguyiavnskjsdiwalamdheysgstejsdy2978
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1094949901597851648/JRWm9Ec9_400x400.jpg" group-title="ENTRETENIMIENTO",TL NOVELAS |US| - ANDR 6
+http://clubtv.link/a1509/key4513/android6.php?c=1126|User-Agent=AJIDEOFYWIOCKNnzwguyiavnskjsdiwalamdheysgstejsdy2978
 #EXTINF:-1 logo="https://www.pngkit.com/png/detail/298-2981889_49-novelas-az-clic.png" group-title="ENTRETENIMIENTO",AZ CORAZON HD - LIS 1
 
 #EXTINF:-1 logo="https://www.pngkit.com/png/detail/298-2981889_49-novelas-az-clic.png" group-title="ENTRETENIMIENTO",AZ CORAZON - GEO MR-1
@@ -1387,31 +1386,29 @@ http://clubtv.link/a1509/key4513/android0.php?c=791|User-Agent=NbF7LdU3b3QkP6DGg
 
 #EXTINF:-1 logo="https://www.pngkit.com/png/detail/298-2981889_49-novelas-az-clic.png" group-title="ENTRETENIMIENTO",AZ CORAZON - GEO AR-3
 
-#EXTINF:-1 logo="https://www.pngkit.com/png/detail/298-2981889_49-novelas-az-clic.png" group-title="ENTRETENIMIENTO",AZ CORAZON - ANDR 0
-http://clubtv.link/a1509/key4513/android0.php?c=409|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTINF:-1 logo="https://www.pngkit.com/png/detail/298-2981889_49-novelas-az-clic.png" group-title="ENTRETENIMIENTO",AZ CORAZON - LIS 3
-
-#EXTINF:-1 logo="https://www.pngkit.com/png/detail/298-2981889_49-novelas-az-clic.png" group-title="ENTRETENIMIENTO",AZ CORAZON - GANDR 1
-
+#EXTINF:-1 logo="https://www.pngkit.com/png/detail/298-2981889_49-novelas-az-clic.png" group-title="ENTRETENIMIENTO",AZ CORAZON - ANDR 1
+http://clubtv.link/a1509/key4513/android1.php?c=409|User-Agent=AJIDEOFYWIOCKNnzwguyiavnskjsdiwalamdheysgstejsdy2978
+#EXTINF:-1 logo="https://www.pngkit.com/png/detail/298-2981889_49-novelas-az-clic.png" group-title="ENTRETENIMIENTO",AZ CORAZON - ANDR 6
+http://clubtv.link/a1509/key4513/android6.php?c=409|User-Agent=AJIDEOFYWIOCKNnzwguyiavnskjsdiwalamdheysgstejsdy2978
 #EXTINF:-1 logo="https://www.pngkit.com/png/detail/298-2981889_49-novelas-az-clic.png" group-title="ENTRETENIMIENTO",AZ CORAZON - MX
 
-#EXTINF:-1 logo="https://logodix.com/logo/2085350.jpg" group-title="TV PREMIUM",PASIONES - ANDR 0
-http://clubtv.link/a1509/key4513/android0.php?c=746|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTINF:-1 logo="https://logodix.com/logo/2085350.jpg" group-title="TV PREMIUM",PASIONES HD - ANDR 0
-http://clubtv.link/a1509/key4513/android0.php?c=748|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1 logo="https://logodix.com/logo/2085350.jpg" group-title="TV PREMIUM",PASIONES HD - ANDR 1
+http://clubtv.link/a1509/key4513/android1.php?c=748|User-Agent=AJIDEOFYWIOCKNnzwguyiavnskjsdiwalamdheysgstejsdy2978
+#EXTINF:-1 logo="https://logodix.com/logo/2085350.jpg" group-title="TV PREMIUM",PASIONES HD - ANDR 6
+http://clubtv.link/a1509/key4513/android6.php?c=748|User-Agent=AJIDEOFYWIOCKNnzwguyiavnskjsdiwalamdheysgstejsdy2978
 #EXTINF:-1 logo="https://logodix.com/logo/2085350.jpg" group-title="TV PREMIUM",PASIONES I - LIS 0
 
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLSXSHetqw_1iTfwROFrpL0YX59MWaXVL4DPH3HS_Q=s900-c-k-c0x00ffffff-no-rj" group-title="ENTRETENIMIENTO",RCN Novelas - ANDR 0
-http://clubtv.link/a1509/key4513/android0.php?c=743|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLSXSHetqw_1iTfwROFrpL0YX59MWaXVL4DPH3HS_Q=s900-c-k-c0x00ffffff-no-rj" group-title="ENTRETENIMIENTO",RCN Novelas - LIS 2
-
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLSXSHetqw_1iTfwROFrpL0YX59MWaXVL4DPH3HS_Q=s900-c-k-c0x00ffffff-no-rj" group-title="ENTRETENIMIENTO",RCN Novelas - ANDR 1
+http://clubtv.link/a1509/key4513/android1.php?c=743|User-Agent=AJIDEOFYWIOCKNnzwguyiavnskjsdiwalamdheysgstejsdy2978
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLSXSHetqw_1iTfwROFrpL0YX59MWaXVL4DPH3HS_Q=s900-c-k-c0x00ffffff-no-rj" group-title="ENTRETENIMIENTO",RCN Novelas - ANDR 6
+http://clubtv.link/a1509/key4513/android6.php?c=743|User-Agent=AJIDEOFYWIOCKNnzwguyiavnskjsdiwalamdheysgstejsdy2978
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLSXSHetqw_1iTfwROFrpL0YX59MWaXVL4DPH3HS_Q=s900-c-k-c0x00ffffff-no-rj" group-title="ENTRETENIMIENTO",RCN Novelas S1 - TV
 
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLSXSHetqw_1iTfwROFrpL0YX59MWaXVL4DPH3HS_Q=s900-c-k-c0x00ffffff-no-rj" group-title="ENTRETENIMIENTO",RCN Novelas S2 - TV
 
 #EXTINF:-1 tvg-id="1112" tvg-name="EnerGeek Fanpop" tvg-logo="https://i.paste.pics/39967f7d4d6090271478ced70e7eb0be.png", EnerGeek Fanpop | CL
 https://stream.wifispeed.cl:3247/live/energeek2live.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://imgur.com/kUduzlM.png" group-title="DISTRO TV",Wapp - GEO 1-2
+#EXTINF:-1 tvg-logo="https://imgur.com/kUduzlM.png" group-title="DISTRO TV",Wapp - ANDR 1-6
 http://clubtv.link/a1509/key4513/distro.php?c=wapptv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kUduzlM.png" group-title="DISTRO TV",Wapp - TV
 
@@ -1421,11 +1418,11 @@ http://clubtv.link/a1509/key4513/distro.php?c=wapptv&f=.m3u8
 
 #EXTINF:-1 logo="https://www.pandaancha.mx/plds/articulos/froala/hola-853x480-574972218.jpg" group-title="ENTRETENIMIENTO",HOLA TV HD - GEO 3
 
-#EXTINF:-1 logo="https://www.pandaancha.mx/plds/articulos/froala/hola-853x480-574972218.jpg" group-title="ENTRETENIMIENTO",HOLA TV - ANDR 0
-http://clubtv.link/a1509/key4513/android0.php?c=669|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTINF:-1 logo="https://www.pandaancha.mx/plds/articulos/froala/hola-853x480-574972218.jpg" group-title="ENTRETENIMIENTO",HOLA TV HD - ANDR 0
-http://clubtv.link/a1509/key4513/android0.php?c=671|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTINF:-1 logo="https://www.pandaancha.mx/plds/articulos/froala/hola-853x480-574972218.jpg" group-title="ENTRETENIMIENTO",HOLA TV - LIS 3
+#EXTINF:-1 logo="https://www.pandaancha.mx/plds/articulos/froala/hola-853x480-574972218.jpg" group-title="ENTRETENIMIENTO",HOLA TV - ANDR 1
+http://clubtv.link/a1509/key4513/android1.php?c=671|User-Agent=AJIDEOFYWIOCKNnzwguyiavnskjsdiwalamdheysgstejsdy2978
+#EXTINF:-1 logo="https://www.pandaancha.mx/plds/articulos/froala/hola-853x480-574972218.jpg" group-title="ENTRETENIMIENTO",HOLA TV HD - ANDR 6
+http://clubtv.link/a1509/key4513/android6.php?c=671|User-Agent=AJIDEOFYWIOCKNnzwguyiavnskjsdiwalamdheysgstejsdy2978
+#EXTINF:-1 logo="https://www.pandaancha.mx/plds/articulos/froala/hola-853x480-574972218.jpg" group-title="ENTRETENIMIENTO",HOLA TV HD - LIS 3
 
 #EXTINF:-1 logo="https://www.pandaancha.mx/plds/articulos/froala/hola-853x480-574972218.jpg" group-title="ENTRETENIMIENTO",HOLA TV - MX
 
@@ -1457,10 +1454,10 @@ http://clubtv.link/a1509/key4513/android0.php?c=671|User-Agent=NbF7LdU3b3QkP6DGg
 
 #EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2020/01/MTV-simbolo.jpg" group-title="MUSICA",MTV - GEO AR
 
-#EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2020/01/MTV-simbolo.jpg" group-title="MUSICA",MTV - LIS 1
-
-#EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2020/01/MTV-simbolo.jpg" group-title="MUSICA",MTV HD - ANDR 0
-http://clubtv.link/a1509/key4513/android0.php?c=702|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2020/01/MTV-simbolo.jpg" group-title="MUSICA",MTV HD - ANDR 1
+http://clubtv.link/a1509/key4513/android1.php?c=702|User-Agent=AJIDEOFYWIOCKNnzwguyiavnskjsdiwalamdheysgstejsdy2978
+#EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2020/01/MTV-simbolo.jpg" group-title="MUSICA",MTV HD - ANDR 6
+http://clubtv.link/a1509/key4513/android6.php?c=702|User-Agent=AJIDEOFYWIOCKNnzwguyiavnskjsdiwalamdheysgstejsdy2978
 #EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2020/01/MTV-simbolo.jpg" group-title="MUSICA",MTV S2 - TV
 
 #EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2020/01/MTV-simbolo.jpg" group-title="MUSICA",MTV - MX
@@ -1473,10 +1470,10 @@ https://unlimited1-cl-isp.dps.live/13e/13e.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2pOEYdP3aPeho-OPc3pjGLsPTosnJt77o-BT0ECGsntIiHk1PFW1LwIT4kTfWXLVw9kY&usqp=CAU" group-title="ENTRETENIMIENTO",MAS CHIC - GEO AR
 
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2pOEYdP3aPeho-OPc3pjGLsPTosnJt77o-BT0ECGsntIiHk1PFW1LwIT4kTfWXLVw9kY&usqp=CAU" group-title="ENTRETENIMIENTO",MAS CHIC - ANDR 0
-http://clubtv.link/a1509/key4513/android0.php?c=692|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2pOEYdP3aPeho-OPc3pjGLsPTosnJt77o-BT0ECGsntIiHk1PFW1LwIT4kTfWXLVw9kY&usqp=CAU" group-title="ENTRETENIMIENTO",MAS CHIC HD - ANDR 0
-http://clubtv.link/a1509/key4513/android0.php?c=696|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2pOEYdP3aPeho-OPc3pjGLsPTosnJt77o-BT0ECGsntIiHk1PFW1LwIT4kTfWXLVw9kY&usqp=CAU" group-title="ENTRETENIMIENTO",MAS CHIC HD - ANDR 1
+http://clubtv.link/a1509/key4513/android1.php?c=696|User-Agent=AJIDEOFYWIOCKNnzwguyiavnskjsdiwalamdheysgstejsdy2978
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2pOEYdP3aPeho-OPc3pjGLsPTosnJt77o-BT0ECGsntIiHk1PFW1LwIT4kTfWXLVw9kY&usqp=CAU" group-title="ENTRETENIMIENTO",MAS CHIC HD - ANDR 6
+http://clubtv.link/a1509/key4513/android6.php?c=696|User-Agent=AJIDEOFYWIOCKNnzwguyiavnskjsdiwalamdheysgstejsdy2978
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2pOEYdP3aPeho-OPc3pjGLsPTosnJt77o-BT0ECGsntIiHk1PFW1LwIT4kTfWXLVw9kY&usqp=CAU" group-title="ENTRETENIMIENTO",MAS CHIC - MX
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2pOEYdP3aPeho-OPc3pjGLsPTosnJt77o-BT0ECGsntIiHk1PFW1LwIT4kTfWXLVw9kY&usqp=CAU" group-title="ENTRETENIMIENTO",MAS CHIC - ANDR
