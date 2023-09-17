@@ -699,9 +699,9 @@ http://clubtv.link/a1509/key4513/android1.php?c=1876|User-Agent=AJIDEOFYWIOCKNnz
 http://clubtv.link/a1509/key4513/android6.php?c=1876|User-Agent=AJIDEOFYWIOCKNnzwguyiavnskjsdiwalamdheysgstejsdy2978
 #EXTINF:-1 logo="https://www.formulatv.com/images/articulos/55000/55629_d8fe9d8dd9-t.jpg" group-title="MUNDO Y CULTURA",Odisea - ANDR 5
 http://clubtv.link/a1509/key4513/android5.php?c=34|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
-#EXTINF:-1 logo="https://www.formulatv.com/images/articulos/55000/55629_d8fe9d8dd9-t.jpg" group-title="MUNDO Y CULTURA",Odisea - ESP2
+#EXTINF:-1 logo="https://www.formulatv.com/images/articulos/55000/55629_d8fe9d8dd9-t.jpg" group-title="MUNDO Y CULTURA",Odisea - ESP 2
 http://clubtv.link/a1509/key4513/esp2.php?c=2194
-#EXTINF:-1 logo="https://www.formulatv.com/images/articulos/55000/55629_d8fe9d8dd9-t.jpg" group-title="MUNDO Y CULTURA",Odisea - ESP3
+#EXTINF:-1 logo="https://www.formulatv.com/images/articulos/55000/55629_d8fe9d8dd9-t.jpg" group-title="MUNDO Y CULTURA",Odisea - ESP 3
 http://clubtv.link/a1509/key4513/esp3.php?c=2194
 #EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",HISTORY HD - LIS 1
 
@@ -1638,7 +1638,7 @@ http://clubtv.link/a1509/key4513/android6.php?c=401|User-Agent=AJIDEOFYWIOCKNnzw
 
 #EXTINF:-1 logo="https://img2.freepng.es/20181125/uaj/kisspng-logo-tve-internacional-la-1-rtve-tve-hd-5bfae49e01bb39.8822497515431691820071.jpg" group-title="CULTURA",TVE - ANDR 9
 http://clubtv.link/a1509/key4513/android9.php?c=0467|user-agent=FFFFF
-#EXTINF:-1 logo="https://img2.freepng.es/20181125/uaj/kisspng-logo-tve-internacional-la-1-rtve-tve-hd-5bfae49e01bb39.8822497515431691820071.jpg" group-title="CULTURA",TVE EUROPA - ESP2 
+#EXTINF:-1 logo="https://img2.freepng.es/20181125/uaj/kisspng-logo-tve-internacional-la-1-rtve-tve-hd-5bfae49e01bb39.8822497515431691820071.jpg" group-title="CULTURA",TVE EUROPA - ESP 2 
 http://clubtv.link/a1509/key4513/esp2.php?c=5943
 #EXTINF:-1 logo="https://img2.freepng.es/20181125/uaj/kisspng-logo-tve-internacional-la-1-rtve-tve-hd-5bfae49e01bb39.8822497515431691820071.jpg" group-title="CULTURA",TVE - MX
 
@@ -1934,9 +1934,9 @@ https://s2.tvdatta.com:3402/hybrid/play.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1277473937220395008/99WZK56l_400x400.jpg" group-title="SERIES Y CINE",A3SERIES - GEO MR-2
 
-#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1277473937220395008/99WZK56l_400x400.jpg" group-title="SERIES Y CINE",A3SERIES - GEO AR
-
-#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1277473937220395008/99WZK56l_400x400.jpg" group-title="SERIES Y CINE",A3SERIES - ESP3
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1277473937220395008/99WZK56l_400x400.jpg" group-title="SERIES Y CINE",A3SERIES - ESP 2
+http://clubtv.link/a1509/key4513/esp2.php?c=9102
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1277473937220395008/99WZK56l_400x400.jpg" group-title="SERIES Y CINE",A3SERIES - ESP 3
 http://clubtv.link/a1509/key4513/esp3.php?c=9102
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1277473937220395008/99WZK56l_400x400.jpg" group-title="SERIES Y CINE",A3SERIES - ANDR 9
 http://clubtv.link/a1509/key4513/android9.php?c=0028|user-agent=FFFFF
@@ -1960,9 +1960,9 @@ http://158.69.226.108:8000/live/Vfjjjhj/Djdkfk/1640.ts
 
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRn7ZA8fMdfyh2hUcpsq9lfFyY0BoteFosPBkzcng=s900-c-k-c0x00ffffff-no-rj" group-title="CINE",A3CINE - GEO MR-1
 
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRn7ZA8fMdfyh2hUcpsq9lfFyY0BoteFosPBkzcng=s900-c-k-c0x00ffffff-no-rj" group-title="CINE",A3CINE - GEO MR-2
-
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRn7ZA8fMdfyh2hUcpsq9lfFyY0BoteFosPBkzcng=s900-c-k-c0x00ffffff-no-rj" group-title="CINE",A3CINE - ESP3
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRn7ZA8fMdfyh2hUcpsq9lfFyY0BoteFosPBkzcng=s900-c-k-c0x00ffffff-no-rj" group-title="CINE",A3CINE - ESP 2
+http://clubtv.link/a1509/key4513/esp2.php?c=283299
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRn7ZA8fMdfyh2hUcpsq9lfFyY0BoteFosPBkzcng=s900-c-k-c0x00ffffff-no-rj" group-title="CINE",A3CINE - ESP 3
 http://clubtv.link/a1509/key4513/esp3.php?c=283299
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRn7ZA8fMdfyh2hUcpsq9lfFyY0BoteFosPBkzcng=s900-c-k-c0x00ffffff-no-rj" group-title="CINE",A3CINE - ANDR 8
 http://clubtv.link/a1509/key4513/android8.php?c=028
@@ -2166,9 +2166,9 @@ http://clubtv.link/a1509/key4513/android9.php?c=0105|user-agent=FFFFF
 http://clubtv.link/a1509/key4513/android1.php?c=770|User-Agent=AJIDEOFYWIOCKNnzwguyiavnskjsdiwalamdheysgstejsdy2978
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="CINE",TCM - ANDR 6
 http://clubtv.link/a1509/key4513/android6.php?c=770|User-Agent=AJIDEOFYWIOCKNnzwguyiavnskjsdiwalamdheysgstejsdy2978
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/1280px-TCM_logo.svg.png" group-title="CINE",TCM - ESP2
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/1280px-TCM_logo.svg.png" group-title="CINE",TCM - ESP 2
 http://clubtv.link/a1509/key4513/esp2.php?c=1134
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/1280px-TCM_logo.svg.png" group-title="CINE",TCM - ESP3
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/1280px-TCM_logo.svg.png" group-title="CINE",TCM - ESP 3
 http://clubtv.link/a1509/key4513/esp3.php?c=1134
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="CINE",TCM - TV
 
@@ -2295,13 +2295,13 @@ http://clubtv.link/a1509/key4513/android9.php?c=0478|user-agent=FFFFF
 #EXTINF:-1 logo="https://www.newslinereport.com/online/nota_paramount-channel-expande-su-distribucin-a-travs-de-claro.jpg" group-title="CINE",PARAMOUNT CHANNEL - GEO AR
 
 #EXTINF:-1 logo="https://www.newslinereport.com/online/nota_paramount-channel-expande-su-distribucin-a-travs-de-claro.jpg" group-title="CINE",PARAMOUNT CHANNEL - ANDR 3
-http://clubtv.link/a1509/key4513/android3.php?c=117|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
+
 #EXTINF:-1 logo="https://www.newslinereport.com/online/nota_paramount-channel-expande-su-distribucin-a-travs-de-claro.jpg" group-title="CINE",PARAMOUNT CHANNEL HD - ANDR 1
 http://clubtv.link/a1509/key4513/android1.php?c=739|User-Agent=AJIDEOFYWIOCKNnzwguyiavnskjsdiwalamdheysgstejsdy2978
-#EXTINF:-1 logo="https://www.newslinereport.com/online/nota_paramount-channel-expande-su-distribucin-a-travs-de-claro.jpg" group-title="CINE",PARAMOUNT CHANNEL - ANDR 6
+#EXTINF:-1 logo="https://www.newslinereport.com/online/nota_paramount-channel-expande-su-distribucin-a-travs-de-claro.jpg" group-title="CINE",PARAMOUNT CHANNEL HD - ANDR 6
 http://clubtv.link/a1509/key4513/android6.php?c=739|User-Agent=AJIDEOFYWIOCKNnzwguyiavnskjsdiwalamdheysgstejsdy2978
-#EXTINF:-1 logo="https://www.newslinereport.com/online/nota_paramount-channel-expande-su-distribucin-a-travs-de-claro.jpg" group-title="CINE",PARAMOUNT CHANNEL - MX
-
+#EXTINF:-1 logo="https://www.newslinereport.com/online/nota_paramount-channel-expande-su-distribucin-a-travs-de-claro.jpg" group-title="CINE",PARAMOUNT CHANNEL HD - LIS 2
+http://clubtv.link/a1509/key4513/lista2.php?c=a075
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es" group-title="CINE",SONY CINE - LIS 1
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1200px-Sony_Movies_Logo.svg.png" group-title="CINE",SONY MOVIES - ANDR 4
@@ -2363,11 +2363,11 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="897" tvg-name="Retro Play TV" tvg-logo="https://i2.paste.pics/90f2f266cb4f68333119a06b99d65d10.png", Retro Play TV | CL
 https://v4.tustreaming.cl/retroplaytv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="116640" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV HD - CL
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
+https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="108904" tvg-name="GEN TV" tvg-logo="https://lh3.googleusercontent.com/-C5rX_zRruQw/X1TKqOXYS-I/AAAAAAAA5UA/IOKCb1AwbRsqtVnLmUBAvTj-8pnxmF7MgCK8BGAsYHg/s0/2020-09-06.png", GEN TV
 https://inliveserver.com:1936/14056/14056/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1331" tvg-name="Super TV" tvg-logo="https://www.tvplus.mx/wp-content/uploads/2021/10/supertv-playvideo.jpg", Super TV | CL
-
+https://ss8.domint.net:3128/stv_str/tv55/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1320" tvg-name="TV PRIME Movie" tvg-logo="https://i.paste.pics/9589e4ec10d95b3d940aa71538bc8afb.png", TV PRIME Movie | CL
 https://tv.clientetvstudio.net:3489/live/tvprimecllive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1322" tvg-name="TVPJ 2" tvg-logo="https://i.paste.pics/3a6934e8e137e270694013358a4f01dd.png", TVPJ 2 | EC
