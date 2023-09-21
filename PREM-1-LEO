@@ -827,12 +827,14 @@ http://clubtv.link/ag2009/top6219/android3.php?c=26|user-agent=LKSDJ87F943532Q35
 http://clubtv.link/ag2009/top6219/android9.php?c=0045|user-agent=FFFFF
 #EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3dc87a1710825.5600fbeaa48e9.jpg" group-title="MUNDO Y CULTURA",DISCOVERY WORLD - MX
 
-#EXTINF:-1 tvg-logo="https://imgur.com/20bgIyT.png" group-title="DISTRO TV",Saber Mas - GEO 1-2
+#EXTINF:-1 tvg-logo="https://imgur.com/20bgIyT.png" group-title="DISTRO TV",Saber Mas - ANDR 1-6
 http://clubtv.link/ag2009/top6219/distro.php?c=saber-mas&f=.m3u8
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/yFEU3yG.png" group-title="ENTRETENIMIENTO",Clic	- LIS 3
+https://clubtv.link/ag2009/top6219/runtime.php?c=4827
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/768px-Sun_Channel_logo.svg.png" group-title="MEXICO",Sun Channel - LIS 2
+http://clubtv.link/ag2009/top6219/lista2.php?c=a044
 #EXTINF:-1 tvg-id="1042" tvg-name="AMX Noticias" tvg-logo="https://i2.paste.pics/6074e29d2a3241e1f3b3051144274188.png", AMX Noticias | MX
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/768px-Sun_Channel_logo.svg.png" group-title="MEXICO",Sun Channel - LIS 2
-
 #EXTINF:-1 logo="https://images-na.ssl-images-amazon.com/images/I/619apfg5DDL.png" group-title="MUNDO Y CULTURA",DW - ANDR 8
 http://clubtv.link/ag2009/top6219/android8.php?c=379|user-agent=S11elW/2.57
 #EXTINF:-1 logo="https://images-na.ssl-images-amazon.com/images/I/619apfg5DDL.png" group-title="MUNDO Y CULTURA",DW - ANDR 9
@@ -1423,7 +1425,8 @@ http://clubtv.link/ag2009/top6219/android6.php?c=743|User-Agent=AJIDEOFYWIOCKNnz
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLSXSHetqw_1iTfwROFrpL0YX59MWaXVL4DPH3HS_Q=s900-c-k-c0x00ffffff-no-rj" group-title="ENTRETENIMIENTO",RCN Novelas S1 - TV
 
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLSXSHetqw_1iTfwROFrpL0YX59MWaXVL4DPH3HS_Q=s900-c-k-c0x00ffffff-no-rj" group-title="ENTRETENIMIENTO",RCN Novelas S2 - TV
-
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/NGeikk3.png" group-title="ENTRETENIMIENTO",Corazon
+https://clubtv.link/ag2009/top6219/runtime.php?c=4826
 #EXTINF:-1 tvg-id="1112" tvg-name="EnerGeek Fanpop" tvg-logo="https://i.paste.pics/39967f7d4d6090271478ced70e7eb0be.png", EnerGeek Fanpop | CL
 https://stream.wifispeed.cl:3247/live/energeek2live.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://imgur.com/kUduzlM.png" group-title="DISTRO TV",Wapp - ANDR 1-6
@@ -1519,7 +1522,7 @@ https://5d8d85cf2c308.streamlock.net:1936/live/WXP6YT/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://graph.facebook.com/canalcosta/picture?width=200&height=200" group-title="",Canalcosta TV Señal 2
 https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/WXP6YT/playlist.m3u8
 #EXTINF:-1 tvg-id="OndaCadiz.TV" tvg-logo="https://graph.facebook.com/ondacadiz/picture?width=200&height=200" group-title="Andalucía" tvg-name="Onda Cádiz",Onda Cádiz
-https://adc-hls.flumotion.com/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/PTVMalaga/picture?width=200&height=200" group-title="Andalucía" tvg-name="PTV Málaga",PTV Málaga
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/PTVCOR/picture?width=200&height=200" group-title="Andalucía" tvg-name="PTV Córdoba",PTV Córdoba
@@ -1531,7 +1534,7 @@ https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
 #EXTINF:-1 tvg-id="InterAlmeria.TV" tvg-logo="https://graph.facebook.com/Interalmeriatv/picture?width=200&height=200" group-title="Andalucía" tvg-name="Interalmería TV",Interalmería TV
 https://interalmeria.tv/directo/live.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/multimedia.sanroque/picture?width=200&height=200" group-title="Andalucía" tvg-name="Canal San Roque",Canal San Roque
-https://elastic10.todostreaming.es/live/sanroque-livestream.m3u8
+
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/esteponatelevision/picture?width=200&height=200" group-title="Andalucía" tvg-name="Estepona TV",Estepona TV
 https://cloudvideo.servers10.com:8081/8022/index.m3u8
 #EXTINF:-1 tvg-id="Torrevision.TV" tvg-logo="https://graph.facebook.com/torremolinostv/picture?width=200&height=200" group-title="Andalucía" tvg-name="Torrevisión",Torrevisión
@@ -1549,7 +1552,7 @@ https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/udlaspalmasoficial/picture?width=200&height=200" group-title="Deportivos" tvg-name="UD Las Palmas TV",UD Las Palmas TV
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/cordobatvonline/picture?width=200&height=200" group-title="Andalucía" tvg-name="Córdoba TV",Córdoba TV
-https://cloudvideo.servers10.com:8081/8020/index.m3u8
+
 #EXTINF:-1 tvg-id="Canarias.TV" tvg-logo="https://graph.facebook.com/188600904655/picture?width=200&height=200" group-title="Canarias" tvg-name="TV Canaria",TV Canaria
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/radiotelevisionmogan/picture?width=200&height=200" group-title="Canarias" tvg-name="RTV Mogán",RTV Mogán
@@ -1559,11 +1562,11 @@ https://cloudvideo.servers10.com:8081/8028/index.m3u8
 #EXTINF:-1 tvg-id="84989" tvg-name="Canal 74 TeVe" tvg-logo="https://lh3.googleusercontent.com/-TYq4HDXXrKg/X1gGWf_2AWI/AAAAAAAA5ZQ/apHThKFoYGM5Yyixt53Afu2I10KkbCdjwCK8BGAsYHg/s0/2020-09-08.png", Canal 74 TeVe
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniul77h5k49gRHKksoqZSLmJI5-gN6qJ8UDLcSB=s200-c-k-c0x00ffffff-no-rj" group-title="C. de Madrid" tvg-name="GCM TV",GCM TV
-https://cloud.streamingconnect.tv:455/tbmadrid/tbmadrid.m3u8
+
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/televisiondesanvicente/picture?width=200&height=200" group-title="C. Valenciana" tvg-name="TV de San Vicente",TV de San Vicente
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/televigo/picture?width=200&height=200" group-title="Galicia" tvg-name="TeleVigo",TeleVigo
-https://cloud.streamingconnect.tv:455/televigo/televigo.m3u8
+
 #EXTINF:-1 tvg-id="MelillaTV.TV" tvg-logo="https://graph.facebook.com/TelevisionMelilla/picture?width=200&height=200" group-title="Melilla" tvg-name="Melilla TV",Melilla TV
 https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="HuelvaTV.TV" tvg-logo="https://graph.facebook.com/Huelvatv/picture?width=200&height=200" group-title="Andalucía" tvg-name="Huelva TV",Huelva TV
@@ -1571,7 +1574,7 @@ https://5d8d85cf2c308.streamlock.net:1936/huelvatv/htvdirecto/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalMalaga.TV" tvg-logo="https://graph.facebook.com/CanalMalagaRTVMunicipal/picture?width=200&height=200" group-title="Andalucía" tvg-name="Canal Málaga",Canal Málaga
 https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="Extremadura.TV" tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200" group-title="Extremadura" tvg-name="Canal Extremadura",Canal Extremadura
-https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Punt3Television/picture?width=200&height=200" group-title="C. Valenciana" tvg-name="Punt 3 Vall Uixó",Punt 3 Vall Uixó HD
 https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
 #EXTINF:-1 tvg-id="AragonTV.TV" tvg-logo="https://graph.facebook.com/AragonTV/picture?width=200&height=200" group-title="Aragón" tvg-name="Aragón TV",Aragón TV
@@ -1587,7 +1590,7 @@ https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/288850935035196/picture?width=200&height=200" group-title="Canarias" tvg-name="Lancelot TV",Lancelot TV
 https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/PTVGranada/picture?width=200&height=200" group-title="Andalucía" tvg-name="PTV Granada",PTV Granada
-https://streamer.zapitv.com/PTV-GRANADA/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/tvlinares/picture?width=200&height=200" group-title="Andalucía" tvg-name="PTV Linares",PTV Linares (Telehits)
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/costadelsoltv/picture?width=200&height=200" group-title="Andalucía" tvg-name="CostadelSol TV",CostadelSol TV
@@ -1595,23 +1598,23 @@ https://limited11.todostreaming.es/live/benalmadena-livestream.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/noroestetvladesiempre/picture?width=200&height=200" group-title="Canarias" tvg-name="Noroeste TV",Noroeste TV
 https://cloudvideo.servers10.com:8081/8032/index.m3u8
 #EXTINF:-1 tvg-id="101Antequera.TV" tvg-logo="https://pbs.twimg.com/profile_images/1026753292322459648/KelWPobh_200x200.jpg" group-title="Andalucía" tvg-name="101 Tele Antequera",101 Tele Antequera
-https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8
+
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Teletoledo/picture?width=200&height=200" group-title="Castilla-La Mancha" tvg-name="TeleToledo",TeleToledo
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/GuadaTV.TV/picture?width=200&height=200" group-title="Castilla-La Mancha" tvg-name="Guada TV",Guada TV
 https://cloud.streamingconnect.tv:455/guadatv/guadatv.m3u8
 #EXTINF:-1 tvg-id="Distrito.TV" tvg-logo="https://graph.facebook.com/2004860103163343/picture?width=200&height=200" group-title="C. de Madrid" tvg-name="Distrito TV",Distrito TV
-https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/levantetv/picture?width=200&height=200" group-title="C. Valenciana" tvg-name="Levante TV",Levante TV
-https://play.cdn.enetres.net/C2F6CBB67E5B4D08A16CE5FE67ABCEC9023/029/playlist.m3u8
+
 #EXTINF:-1 tvg-id="101Malaga.TV" tvg-logo="https://graph.facebook.com/101tvmalaga/picture?width=200&height=200" group-title="Andalucía" tvg-name="101TV Málaga",101TV Málaga
 https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/canalsierradecadiz/picture?width=200&height=200" group-title="Andalucía" tvg-name="Canal Sierra de Cádiz",Canal Sierra de Cádiz HD (1080)
-http://217.125.136.93:8080/canalsierradecadiz1080.m3u8
+
 #EXTINF:-1 tvg-id="LaOtra.TV" tvg-logo="https://pbs.twimg.com/profile_images/1279727978268839938/jSZUiboT_200x200.jpg" group-title="C. de Madrid" tvg-name="LaOtra",LaOtra
-https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/index.m3u8
+
 #EXTINF:-1 tvg-id="Telemadrid.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="C. de Madrid" tvg-name="Telemadrid",Telemadrid
-https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
+
 #EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2021/04/Antena-3-logo.png" group-title="ENTRETENIMIENTO",ANTENA 3 - GEO MR-1
 
 #EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2021/04/Antena-3-logo.png" group-title="ENTRETENIMIENTO",ANTENA 3 - GEO MR-2
@@ -2480,15 +2483,15 @@ http://clubtv.link/ag2009/top6219/android9.php?c=0077|user-agent=FFFFF
 https://live.limplay.ml/limtv.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/iO3mkwW.png" group-title="DISTRO TV",Top Cine - GEO 1-2
+#EXTINF:-1 tvg-logo="https://imgur.com/iO3mkwW.png" group-title="DISTRO TV",Top Cine - ANDR 1-6
 http://clubtv.limk/ag2009/top6219/distro.php?c=top-cine-latam&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/iO3mkwW.png" group-title="DISTRO TV",Top Cine Latam - TV
 
-#EXTINF:-1 tvg-logo="https://imgur.com/RaPCveu.png" group-title="DISTRO TV",Cine Real - GEO 1-2
+#EXTINF:-1 tvg-logo="https://imgur.com/RaPCveu.png" group-title="DISTRO TV",Cine Real - ANDR 1-6
 http://clubtv.link/ag2009/top6219/distro.php?c=cine-real-latam&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RaPCveu.png" group-title="DISTRO TV",Cine Real - TV
 
-#EXTINF:-1 tvg-logo="https://imgur.com/ZgYlMv1.png" group-title="DISTRO TV",Cine Sureño - GEO 1-2
+#EXTINF:-1 tvg-logo="https://imgur.com/ZgYlMv1.png" group-title="DISTRO TV",Cine Sureño - ANDR 1-6
 http://clubtv.link/ag2009/top6219/distro.php?c=cine-sureno&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ZgYlMv1.png" group-title="DISTRO TV",Cine Sureño - TV
 
@@ -2496,6 +2499,18 @@ http://clubtv.link/ag2009/top6219/distro.php?c=cine-sureno&f=.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://imgur.com/iO3mkwW.png" group-title="DISTRO TV",Full HD - LIS 1
 
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/Gmnvh9I.png" group-title="CINE Y SERIES",RunTime
+https://clubtv.link/ag2009/top6219/runtime.php?c=2154
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/LhYX209.png" group-title="CINE Y SERIES",Accion
+https://clubtv.link/ag2009/top6219/runtime.php?c=2550
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/uRMHvKV.png" group-title="CINE Y SERIES",Comedia
+https://clubtv.link/ag2009/top6219/runtime.php?c=2551
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/vZu909y.png" group-title="CINE Y SERIES",Crimen
+https://clubtv.link/ag2009/top6219/runtime.php?c=3533
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/5cNpgAO.png" group-title="ENTRETENIMIENTO",Romance
+https://clubtv.link/ag2009/top6219/runtime.php?c=3532
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/S3qCgKW.png" group-title="CINE Y SERIES",Familia
+https://clubtv.link/ag2009/top6219/runtime.php?c=3528
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-pelicula-cine-palomitas-maiz-tira-pelicula-tablilla-entradas-fondo-tiempo-pelicula_41737-248.jpg?size=626&ext=jpg" group-title="Peliculas",Cine Sala 1 HD - LIS 1
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-pelicula-cine-palomitas-maiz-tira-pelicula-tablilla-entradas-fondo-tiempo-pelicula_41737-248.jpg?size=626&ext=jpg" group-title="Peliculas",Cine Sala 2 HD - LIS 1
