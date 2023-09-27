@@ -1197,10 +1197,10 @@ http://clubtv.link/2509a/top6219/android4.php?c=12|user-agent=S11elW/2.57
 http://clubtv.link/2509a/top6219/android2.php?c=157&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="Mundo", Caracol S2 - ANDR 2
 http://clubtv.link/2509a/top6219/android2.php?c=226&f=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="ENTRETENIMIENTO", Caracol HD - LIS 0
-https://clubtv.link/2509a/top6219/lista.php?c=a04a
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="ENTRETENIMIENTO", Caracol S1 TV - TV
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="ENTRETENIMIENTO", Caracol Internacional - ANDR 5
+https://clubtv.link/2509a/top6219/lista.php?c=a04ahttp://clubtv.link/2509a/top6219/android5.php?c=28|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="ENTRETENIMIENTO", Caracol Internacional - ANDR 7
+http://clubtv.link/2509a/top6219/android7.php?c=28|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="ENTRETENIMIENTO", Caracol S2 TV - TV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="ENTRETENIMIENTO", Caracol TV Internacional - TV
@@ -1215,6 +1215,10 @@ https://clubtv.link/2509a/top6219/lista.php?c=a04a
 https://clubtv.link/2509a/top6219/lista.php?c=a031
 #EXTINF:-1 logo="https://files.lafm.com.co/assets/public/Canal-RCN.jpg" group-title="ENTRETENIMIENTO",RCN HD - ANDR 9
 http://clubtv.link/2509a/top6219/android9.php?c=0113|user-agent=FFFFF
+#EXTINF:-1 logo="https://files.lafm.com.co/assets/public/Canal-RCN.jpg" group-title="ENTRETENIMIENTO",RCN - ANDR 5
+http://clubtv.link/2509a/top6219/android5.php?c=29|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
+#EXTINF:-1 logo="https://files.lafm.com.co/assets/public/Canal-RCN.jpg" group-title="ENTRETENIMIENTO",RCN - ANDR 7
+http://clubtv.link/2509a/top6219/android7.php?c=29|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
 #EXTINF:-1 logo="https://files.lafm.com.co/assets/public/Canal-RCN.jpg" group-title="ENTRETENIMIENTO",RCN - ANDR 4
 http://clubtv.link/2509a/top6219/android4.php?c=87|user-agent=S11elW/2.57
 #EXTINF:-1 logo="https://files.lafm.com.co/assets/public/Canal-RCN.jpg" group-title="ENTRETENIMIENTO",RCN - ANDR 8
@@ -1249,10 +1253,14 @@ http://clubtv.link/2509a/top6219/android4.php?c=527|user-agent=S11elW/2.57
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/eltrecechile.png" nada="Chile" group-title="TV PREMIUM",Canal Trece HD - LIS 1
 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/Televisi__n_Nacional_de_Chile_-_TVN-logo-E99BE24030-seeklogo.com.png" nada="Chile" group-title="TV PREMIUM",TVN HD - LIS 0
+https://clubtv.link/2509a/top6219/lista.php?c=a026
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/Televisi__n_Nacional_de_Chile_-_TVN-logo-E99BE24030-seeklogo.com.png" nada="Chile" group-title="TV PREMIUM",TVN CHILE S1 - ANDR 4
 http://clubtv.link/2509a/top6219/android4.php?c=544|user-agent=S11elW/2.57
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/Televisi__n_Nacional_de_Chile_-_TVN-logo-E99BE24030-seeklogo.com.png" nada="Chile" group-title="TV PREMIUM",TVN CHILE S2 - ANDR 4
 http://clubtv.link/2509a/top6219/android4.php?c=669|user-agent=S11elW/2.57
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkIsJk_M3phBcd2R5bEgmHDujl9G5YNcZebcHu-w94-LLtrRAURafj14FaTRp5kkJkG4M&usqp=CAU" nada="Chile" group-title="TV PREMIUM",CHILEVISON HD - LIS 0
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkIsJk_M3phBcd2R5bEgmHDujl9G5YNcZebcHu-w94-LLtrRAURafj14FaTRp5kkJkG4M&usqp=CAU" nada="Chile" group-title="TV PREMIUM",CHILEVISON - ANDR 4
 http://clubtv.link/2509a/top6219/android4.php?c=654|user-agent=S11elW/2.57
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJxy5LRrXJkBZDPvVrdilqfg0SDtaliye0gKZ4LlVS0ghdwfCSVvlF4sLza2J-bOnyiws&usqp=CAU" nada="Chile" group-title="TV PREMIUM",TC TELEVISION - ANDR 4
