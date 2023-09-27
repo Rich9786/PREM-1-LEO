@@ -132,14 +132,30 @@ http://clubtv.link/2509a/top6219/android9.php?c=0150|user-agent=FFFFF
 
 #EXTINF:-1 logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Multimedios-TV-Canal-6-en-vivo-Online.png" group-title="MEXICO",MULTIMEDIOS MTY - GEO MR-2
 
-#EXTINF:-1 logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Multimedios-TV-Canal-6-en-vivo-Online.png" group-title="MEXICO",MULTIMEDIOS MTY - GEO AR
-
-#EXTINF:-1 logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Multimedios-TV-Canal-6-en-vivo-Online.png" group-title="MEXICO",MULTIMEDIOS MX - ANDR 8
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRKv4UxtVWqdBAYXYDt6szmGdMx60S-G3LyI08oEas=s900-c-k-c0x00ffffff-no-rj" group-title="MEXICO",MULTIMEDIOS BAJIO - GEO
+https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRKv4UxtVWqdBAYXYDt6szmGdMx60S-G3LyI08oEas=s900-c-k-c0x00ffffff-no-rj" group-title="MEXICO",MULTIMEDIOS PUEBLA - GEO
+https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRKv4UxtVWqdBAYXYDt6szmGdMx60S-G3LyI08oEas=s900-c-k-c0x00ffffff-no-rj" group-title="MEXICO",MULTIMEDIOS Guadalajara - FLUX
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8?fluxustv.m3u8
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRKv4UxtVWqdBAYXYDt6szmGdMx60S-G3LyI08oEas=s900-c-k-c0x00ffffff-no-rj" group-title="MEXICO",MULTIMEDIOS Guadalajara - GEO
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+#EXTINF:-1 logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Multimedios-TV-Canal-6-en-vivo-Online.png" group-title="MEXICO",MULTIMEDIOS CDMX - GEO
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+#EXTINF:-1 logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Multimedios-TV-Canal-6-en-vivo-Online.png" group-title="MEXICO",MULTIMEDIOS CDMX - ANDR 8
 http://clubtv.link/2509a/top6219/android8.php?c=732|user-agent=S11elW/2.57
 #EXTINF:-1 logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Multimedios-TV-Canal-6-en-vivo-Online.png" group-title="MEXICO",MULTIMEDIOS MTY - FLUX
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?fluxustv.m3u8
+#EXTINF:-1 logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Multimedios-TV-Canal-6-en-vivo-Online.png" group-title="MEXICO",MULTIMEDIOS MTY - GEO
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Multimedios-TV-Canal-6-en-vivo-Online.png" group-title="MEXICO",MULTIMEDIOS Laguna - FLUX
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?fluxustv.m3u8
+#EXTINF:-1 logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Multimedios-TV-Canal-6-en-vivo-Online.png" group-title="MEXICO",MULTIMEDIOS Laguna - GEO
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:-1 logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Multimedios-TV-Canal-6-en-vivo-Online.png" group-title="MEXICO",MULTIMEDIOS CIUDAD JUAREZ - GEO
+https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8
+#EXTINF:-1 logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Multimedios-TV-Canal-6-en-vivo-Online.png" group-title="MEXICO",MULTIMEDIOS SALTILLO - GEO
+https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRKv4UxtVWqdBAYXYDt6szmGdMx60S-G3LyI08oEas=s900-c-k-c0x00ffffff-no-rj" group-title="MEXICO",MULTIMEDIOS CDMX S1 - GEO NR-1
 
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRKv4UxtVWqdBAYXYDt6szmGdMx60S-G3LyI08oEas=s900-c-k-c0x00ffffff-no-rj" group-title="MEXICO",MULTIMEDIOS CDMX S2 - GEO MR-2
@@ -152,8 +168,6 @@ https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?fluxustv.m
 
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRKv4UxtVWqdBAYXYDt6szmGdMx60S-G3LyI08oEas=s900-c-k-c0x00ffffff-no-rj" group-title="MEXICO",MULTIMEDIOS CDMX S2 - GEO 3 AR
 
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRKv4UxtVWqdBAYXYDt6szmGdMx60S-G3LyI08oEas=s900-c-k-c0x00ffffff-no-rj" group-title="MEXICO",MULTIMEDIOS Guadalajara - FLUX
-https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8?fluxustv.m3u8
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Multimedios_4.png/revision/latest/scale-to-width-down/250?cb=20210617030329&path-prefix=es" group-title="MEXICO",MULTIMEDIOS S1 - MX
 
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRKv4UxtVWqdBAYXYDt6szmGdMx60S-G3LyI08oEas=s900-c-k-c0x00ffffff-no-rj" group-title="MEXICO",MULTIMEDIOS CDMX S2 - MX
