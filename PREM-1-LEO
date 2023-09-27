@@ -1187,11 +1187,11 @@ http://clubtv.link/2509a/top6219/android4.php?c=671|user-agent=S11elW/2.57
 https://mdstrm.com/live-stream-playlist/603ea23f928cc5255563012c.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ecuavisa.png" nada="Ecuador" group-title="TV PREMIUM",Ecuavisa - ANDR 4
 http://clubtv.link/2509a/top6219/android4.php?c=524|user-agent=S11elW/2.57
-#EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/wapa-tv-en-vivo-1392.jpg" nada="Ecuador" group-title="TV PREMIUM",WAPA - ANDR 4
+#EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/wapa-tv-en-vivo-1392.jpg" nada="Ecuador" group-title="TV PREMIUM",WAPA TV - ANDR 9
+http://clubtv.link/2509a/top6219/android9.php?c=0225|user-agent=FFFFF
+#EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/wapa-tv-en-vivo-1392.jpg" nada="Ecuador" group-title="TV PREMIUM",WAPA TV - ANDR 4
 http://clubtv.link/2509a/top6219/android4.php?c=12|user-agent=S11elW/2.57
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ecuavisa.png" nada="Ecuador" group-title="TV PREMIUM",WAPA AMERICA I - LIS O
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ecuavisa.png" nada="Ecuador" group-title="TV PREMIUM",WAPA I - LIS 0
+#EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/wapa-tv-en-vivo-1392.jpg" nada="Ecuador" group-title="TV PREMIUM",WAPA I - LIS 0
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="Mundo", Caracol S1 - ANDR 2
 http://clubtv.link/2509a/top6219/android2.php?c=157&f=.m3u8
@@ -1297,12 +1297,14 @@ http://clubtv.link/2509a/top6219/android9.php?c=0015|user-agent=FFFFF
 
 #EXTINF:-1 logo="https://i.imgur.com/68ztlZE.png" group-title="ENTRETENIMIENTO",GOURMET - GEO AR
 
-#EXTINF:-1 logo="https://i.imgur.com/68ztlZE.png" group-title="ENTRETENIMIENTO",GOURMET - ANDR 1
-http://clubtv.link/2509a/top6219/android1.php?c=576|User-Agent=AJIDEOFYWIOCKNnzwguyiavnskjsdiwalamdheysgstejsdy2978
-#EXTINF:-1 logo="https://i.imgur.com/68ztlZE.png" group-title="ENTRETENIMIENTO",GOURMET - ANDR 6
-http://clubtv.link/2509a/top6219/android6.php?c=576|User-Agent=AJIDEOFYWIOCKNnzwguyiavnskjsdiwalamdheysgstejsdy2978
-#EXTINF:-1 logo="https://i.imgur.com/68ztlZE.png" group-title="ENTRETENIMIENTO",GOURMET - ANDR 2
-http://clubtv.link/2509a/top6219/android2.php?c=219&f=.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/68ztlZE.png" group-title="ENTRETENIMIENTO",GOURMET HD - LIS 0
+https://clubtv.link/2509a/top6219/lista.php?c=a02l
+#EXTINF:-1 logo="https://i.imgur.com/68ztlZE.png" group-title="ENTRETENIMIENTO",GOURMET - ANDR 9
+http://clubtv.link/2509a/top6219/android9.php?c=0051|user-agent=FFFFF
+#EXTINF:-1 logo="https://i.imgur.com/68ztlZE.png" group-title="ENTRETENIMIENTO",GOURMET - LIS 3
+http://clubtv.link/2509a/top6219/lista3.php?c=219
+#EXTINF:-1 logo="https://i.imgur.com/68ztlZE.png" group-title="ENTRETENIMIENTO",GOURMET - ANDR 7
+http://clubtv.link/2509a/top6219/android7.php?c=396|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
 #EXTINF:-1 logo="https://canalcocina.es/images/canalcocina.png" group-title="ENTRETENIMIENTO",CANAL COCINA - ESP2
 http://clubtv.link/2509a/top6219/esp2.php?c=1167
 #EXTINF:-1 logo="https://canalcocina.es/images/canalcocina.png" group-title="ENTRETENIMIENTO",CANAL COCINA - ESP3
@@ -1315,10 +1317,10 @@ http://clubtv.link/2509a/top6219/esp3.php?c=1167
 
 #EXTINF:-1 logo="https://i.imgur.com/pWW9ljW.jpg" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA - GEO AR
 
-#EXTINF:-1 logo="https://i.imgur.com/pWW9ljW.jpg" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA - ANDR 1
-http://clubtv.link/2509a/top6219/android1.php?c=572|User-Agent=AJIDEOFYWIOCKNnzwguyiavnskjsdiwalamdheysgstejsdy2978
-#EXTINF:-1 logo="https://i.imgur.com/pWW9ljW.jpg" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA - ANDR 6
-http://clubtv.link/2509a/top6219/android6.php?c=572|User-Agent=AJIDEOFYWIOCKNnzwguyiavnskjsdiwalamdheysgstejsdy2978
+#EXTINF:-1 logo="https://i.imgur.com/pWW9ljW.jpg" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA - ANDR 5
+http://clubtv.link/2509a/top6219/android5.php?c=395|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
+#EXTINF:-1 logo="https://i.imgur.com/pWW9ljW.jpg" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA - ANDR 7
+http://clubtv.link/2509a/top6219/android7.php?c=395|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
 #EXTINF:-1 logo="https://i.imgur.com/pWW9ljW.jpg" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA - ANDR 9
 http://clubtv.link/2509a/top6219/android9.php?c=0049|user-agent=FFFFF
 #EXTINF:-1 logo="https://i.imgur.com/pWW9ljW.jpg" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA - TV
@@ -1333,27 +1335,27 @@ http://clubtv.link/2509a/top6219/android9.php?c=0049|user-agent=FFFFF
 
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/tvpediabrasil/images/1/17/Comedycentral.jpg/revision/latest/top-crop/width/360/height/450?cb=20180804010106&path-prefix=pt-br" group-title="ENTRETENIMIENTO",COMEDY CENTRAL - GEO AR
 
-#EXTINF:-1 logo="https://static.wikia.nocookie.net/tvpediabrasil/images/1/17/Comedycentral.jpg/revision/latest/top-crop/width/360/height/450?cb=20180804010106&path-prefix=pt-br" group-title="ENTRETENIMIENTO",COMEDY CENTRAL - ANDR 1
-http://clubtv.link/2509a/top6219/android1.php?c=500|User-Agent=AJIDEOFYWIOCKNnzwguyiavnskjsdiwalamdheysgstejsdy2978
-#EXTINF:-1 logo="https://static.wikia.nocookie.net/tvpediabrasil/images/1/17/Comedycentral.jpg/revision/latest/top-crop/width/360/height/450?cb=20180804010106&path-prefix=pt-br" group-title="ENTRETENIMIENTO",COMEDY CENTRAL HD - ANDR 6
-http://clubtv.link/2509a/top6219/android6.php?c=506|User-Agent=AJIDEOFYWIOCKNnzwguyiavnskjsdiwalamdheysgstejsdy2978
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/tvpediabrasil/images/1/17/Comedycentral.jpg/revision/latest/top-crop/width/360/height/450?cb=20180804010106&path-prefix=pt-br" group-title="ENTRETENIMIENTO",COMEDY CENTRAL HD - LIS 0
+https://clubtv.link/2509a/top6219/lista.php?c=a02i
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/tvpediabrasil/images/1/17/Comedycentral.jpg/revision/latest/top-crop/width/360/height/450?cb=20180804010106&path-prefix=pt-br" group-title="ENTRETENIMIENTO",COMEDY CENTRAL HD - LIS 2
+http://clubtv.link/2509a/top6219/lista2.php?c=a05p
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/tvpediabrasil/images/1/17/Comedycentral.jpg/revision/latest/top-crop/width/360/height/450?cb=20180804010106&path-prefix=pt-br" group-title="ENTRETENIMIENTO",COMEDY CENTRAL - ANDR 9
 http://clubtv.link/2509a/top6219/android9.php?c=0040|user-agent=FFFFF
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/tvpediabrasil/images/1/17/Comedycentral.jpg/revision/latest/top-crop/width/360/height/450?cb=20180804010106&path-prefix=pt-br" group-title="ENTRETENIMIENTO",COMEDY CENTRAL - ANDR
 
-#EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2022_03/large.1606587218_UniversalComedy-Oscuro.png.edc0710afb67e742c9e68589f4006992.png" group-title="SERIES Y CINE",UNIVERSAL COMEDY HD - ANDR 1
-http://clubtv.link/2509a/top6219/android1.php?c=833|User-Agent=AJIDEOFYWIOCKNnzwguyiavnskjsdiwalamdheysgstejsdy2978
-#EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2022_03/large.1606587218_UniversalComedy-Oscuro.png.edc0710afb67e742c9e68589f4006992.png" group-title="SERIES Y CINE",UNIVERSAL COMEDY HD - ANDR 6
-http://clubtv.link/2509a/top6219/android6.php?c=833|User-Agent=AJIDEOFYWIOCKNnzwguyiavnskjsdiwalamdheysgstejsdy2978
+#EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2022_03/large.1606587218_UniversalComedy-Oscuro.png.edc0710afb67e742c9e68589f4006992.png" group-title="SERIES Y CINE",UNIVERSAL COMEDY HD - LIS 0
+https://clubtv.link/2509a/top6219/lista.php?c=a09h
+#EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2022_03/large.1606587218_UniversalComedy-Oscuro.png.edc0710afb67e742c9e68589f4006992.png" group-title="SERIES Y CINE",UNIVERSAL COMEDY HD - LIS 2
+http://clubtv.link/2509a/top6219/lista2.php?c=a05w
 #EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2022_03/large.1606587218_UniversalComedy-Oscuro.png.edc0710afb67e742c9e68589f4006992.png" group-title="SERIES Y CINE",UNIVERSAL COMEDY HD I - LIS 0
 
-#EXTINF:-1 tvg-logo="https://imgur.com/z0jIlCf.png" group-title="DISTRO TV",Casa Comedy - ANDR 1-6
+#EXTINF:-1 tvg-logo="https://imgur.com/z0jIlCf.png" group-title="DISTRO TV",Casa Comedy - ANDR 5-7
 http://clubtv.link/2509a/top6219/distro.php?c=casa-comedy&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/z0jIlCf.png" group-title="DISTRO TV",Casa Comedy - TV
 
-#EXTINF:-1 tvg-logo="https://imgur.com/R6L274o.png" group-title="DISTRO TV",Spanglish - ANDR 1-6
+#EXTINF:-1 tvg-logo="https://imgur.com/R6L274o.png" group-title="DISTRO TV",Spanglish - ANDR 5-7
 http://clubtv.link/2509a/top6219/distro.php?c=spanglish&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/3qWnqKg.png" group-title="DISTRO TV",Juntos - ANDR 1-6
+#EXTINF:-1 tvg-logo="https://imgur.com/3qWnqKg.png" group-title="DISTRO TV",Juntos - ANDR 5-7
 http://clubtv.link/2509a/top6219/distro.php?c=juntos&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3qWnqKg.png" group-title="DISTRO TV",Juntos - TV
 
@@ -1371,12 +1373,14 @@ http://clubtv.link/2509a/top6219/distro.php?c=juntos&f=.m3u8
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/hn_tru-tv_m.png" group-title="ENTRETENIMIENTO",TRUTV - GEO AR
 
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/hn_tru-tv_m.png" group-title="ENTRETENIMIENTO",TRUTV LAT - ANDR 1
-http://clubtv.link/2509a/top6219/android1.php?c=812|User-Agent=AJIDEOFYWIOCKNnzwguyiavnskjsdiwalamdheysgstejsdy2978
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/hn_tru-tv_m.png" group-title="ENTRETENIMIENTO",TRUTV LAT - ANDR 6
-http://clubtv.link/2509a/top6219/android6.php?c=812|User-Agent=AJIDEOFYWIOCKNnzwguyiavnskjsdiwalamdheysgstejsdy2978
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_tru-tv-hd_m.png" group-title="ENTRETENIMIENTO",TRUTV HD - LIS 0
+https://clubtv.link/2509a/top6219/lista.php?c=a02k
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/hn_tru-tv_m.png" group-title="ENTRETENIMIENTO",TRUTV - ANDR 5
+http://clubtv.link/2509a/top6219/android5.php?c=394|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/hn_tru-tv_m.png" group-title="ENTRETENIMIENTO",TRUTV - ANDR 7
+http://clubtv.link/2509a/top6219/android7.php?c=394|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_tru-tv-hd_m.png" group-title="ENTRETENIMIENTO",TRUTV  - ANDR 9
-http://clubtv.link/2509a/top6219/android9.php?c=0107|user-agent=FFFFF
+http://clubtv.link/2509a/top6219/android9.php?c=0051|user-agent=FFFFF
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/hn_tru-tv_m.png" group-title="ENTRETENIMIENTO",TRUTV - MX
 
 #EXTINF:-1 tvg-id="PMCRoyale.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/srVaOna.png" group-title="Iran",PMC Royale
