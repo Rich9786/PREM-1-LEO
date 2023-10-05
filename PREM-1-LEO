@@ -789,27 +789,27 @@ http://clubtv.link/oc0310/top6219/android8.php?c=172|user-agent=S11elW/2.57
 #EXTINF:-1 logo="https://img2.freepng.es/20180516/fww/kisspng-nat-geo-wild-national-geographic-television-channe-live-stream-5afcbccd447341.5207558215265128452804.jpg" group-title="MUNDO Y CULTURA",NAT GEO WILD - MX
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/b0b1be396300c5e3e4f8a42612c1f3affeb4c90557f31060485d3b137b6ce9ad.png" group-title="MUNDO Y CULTURA",Silence TV WORLD
-http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/UWsEbEWXGqZGJ_T2_di9ZJrq_Cks99Ab98rtvKXTi2fgw4J4d76XH4lRvwj6910G5YYb3A7B5gMaDgLKoGVS_sOH-O1ZHhVfCPyD1S3WF5jHFEDdNwOTpnT_br-arOCmyr20-ze8d9Qszw=w1200-h630-p-k-no-nu" group-title="USA",eScapes HD
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-escapes/CDN/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tNOTUWP.png" group-title="USA",Soar HD
 https://dai.google.com/linear/hls/event/_PDxBUttQYqkxPnmh3VOZA/master.m3u8
 #EXTINF:-1 tvg-id="1111" tvg-name="Canal Turismo Travel TV" tvg-logo="https://i2.paste.pics/50d8cde45e0c3efff3bc3fb05c5da6d1.png", Canal Turismo Travel TV | CL
-https://vdo.panelstreaming.live:3936/hybrid/play.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-logo="https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/clients/newyorkstate/mirrorlake_eprealbuto00_instagram_640x474_52dc4c7e-2cac-4935-ad50-856c4ea7cb9a.jpg" group-title="USA",Lakes Live HD
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://images-platform.99static.com/iMlkPkLmz9S_5tmucFzSt9f1mXs=/0x0:1504x1504/500x500/top/smart/99designs-contests-attachments/124/124409/attachment_124409255" group-title="USA",Forests Live HD
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/71/c8/a9/71c8a9d5e8d513230f69ae0db6bb019d--north-carolina-mountains-nc-mountains.jpg" group-title="USA",Mountains Live HD
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i2.wp.com/www.differencebetween.com/wp-content/uploads/2019/01/Difference-Between-Brook-and-Creek-fig-2.jpg" group-title="USA",Rivers Live
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+
 #EXTINF:-1 tvg-id="StreetMusic4U.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/DVfEmq7.png" group-title="MUNDO Y CULTURA",Street Music HD
-https://59d39900ebfb8.streamlock.net/streetmusic/streetmusic/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/FTV/picture?width=200&height=200" group-title="Int. Otros" tvg-name="Fashion TV",Fashion TV - TDT
 https://publica.cloudycdn.services/playlist.m3u8?network_id=569
 #EXTINF:-1 tvg-id="WorldFashionChannel.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/JyslMHb.jpg" group-title="International",World Fashion Channel (1080p)
-https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
+
 #EXTINF:-1 logo="https://i.ytimg.com/vi/bjibZ7sRbEg/maxresdefault.jpg" group-title="MUNDO Y CULTURA",DISCOVERY THEATER - GEO MR-1
 
 #EXTINF:-1 logo="https://i.ytimg.com/vi/bjibZ7sRbEg/maxresdefault.jpg" group-title="MUNDO Y CULTURA",DISCOVERY THEATER - LIS 0
@@ -1327,10 +1327,10 @@ http://clubtv.link/oc0310/top6219/android9.php?c=0051|user-agent=FFFFF
 http://clubtv.link/oc0310/top6219/lista3.php?c=219
 #EXTINF:-1 logo="https://i.imgur.com/68ztlZE.png" group-title="ENTRETENIMIENTO",GOURMET - ANDR 7
 http://clubtv.link/oc0310/top6219/android7.php?c=396|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
-#EXTINF:-1 logo="https://canalcocina.es/images/canalcocina.png" group-title="ENTRETENIMIENTO",CANAL COCINA - ESP2
-http://clubtv.link/oc0310/top6219/esp2.php?c=1167
-#EXTINF:-1 logo="https://canalcocina.es/images/canalcocina.png" group-title="ENTRETENIMIENTO",CANAL COCINA - ESP3
-http://clubtv.link/oc0310/top6219/esp3.php?c=1167
+#EXTINF:-1 logo="https://canalcocina.es/images/canalcocina.png" group-title="ENTRETENIMIENTO",CANAL COCINA HD - ESP
+http://clubtv.link/oc0310/top6219/esp.php?c=3590
+#EXTINF:-1 logo="https://canalcocina.es/images/canalcocina.png" group-title="ENTRETENIMIENTO",CANAL COCINA HD - ESP3
+http://clubtv.link/oc0310/top6219/esp3.php?c=321148
 #EXTINF:-1 logo="https://yt3.ggpht.com/-V-00YQE5U4k/AAAAAAAAAAI/AAAAAAAAAAA/RWMkolRg0Y0/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="ENTRETENIMIENTO",COCINA TV - LIS 3
 
 #EXTINF:-1 logo="https://i.imgur.com/pWW9ljW.jpg" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA - GEO MR-1
@@ -1985,6 +1985,8 @@ http://clubtv.link/oc0310/top6219/lista2.php?c=a03a
 
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1277473937220395008/99WZK56l_400x400.jpg" group-title="SERIES Y CINE",A3SERIES - GEO MR-2
 
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1674339363893784576/EDy8_OYM_400x400.jpg" group-title="SERIES Y CINE",A3SERIES HD - LIS 0
+https://clubtv.link/oc0310/top6219/lista.php?c=a02g
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1674339363893784576/EDy8_OYM_400x400.jpg" group-title="SERIES Y CINE",A3SERIES - LIS 0
 https://clubtv.link/oc0310/top6219/lista.php?c=a04t
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1674339363893784576/EDy8_OYM_400x400.jpg" group-title="SERIES Y CINE",A3SERIES - LIS 2
@@ -2012,9 +2014,9 @@ http://158.69.226.108:8000/live/Vfjjjhj/Djdkfk/1640.ts
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRn7ZA8fMdfyh2hUcpsq9lfFyY0BoteFosPBkzcng=s900-c-k-c0x00ffffff-no-rj" group-title="CINE",A3CINE - GEO MR-1
 
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRn7ZA8fMdfyh2hUcpsq9lfFyY0BoteFosPBkzcng=s900-c-k-c0x00ffffff-no-rj" group-title="CINE",A3CINE - ESP 2
-http://clubtv.link/oc0310/top6219/esp2.php?c=283299
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRn7ZA8fMdfyh2hUcpsq9lfFyY0BoteFosPBkzcng=s900-c-k-c0x00ffffff-no-rj" group-title="CINE",A3CINE - ESP 3
-http://clubtv.link/oc0310/top6219/esp3.php?c=283299
+
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRn7ZA8fMdfyh2hUcpsq9lfFyY0BoteFosPBkzcng=s900-c-k-c0x00ffffff-no-rj" group-title="CINE",A3CINE - ANDR 0
+https://clubtv.link/oc0310/top6219/android0.php?c=403|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRn7ZA8fMdfyh2hUcpsq9lfFyY0BoteFosPBkzcng=s900-c-k-c0x00ffffff-no-rj" group-title="CINE",A3CINE - ANDR 9
 http://clubtv.link/oc0310/top6219/android9.php?c=0028|user-agent=FFFFF
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRn7ZA8fMdfyh2hUcpsq9lfFyY0BoteFosPBkzcng=s900-c-k-c0x00ffffff-no-rj" group-title="CINE",A3CINE - MX
