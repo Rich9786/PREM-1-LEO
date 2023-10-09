@@ -1462,13 +1462,13 @@ http://clubtv.link/710oc/top6219/distro.php?c=juntos&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/hn_tru-tv_m.png" group-title="ENTRETENIMIENTO",TRUTV - GEO AR
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_tru-tv-hd_m.png" group-title="ENTRETENIMIENTO",TRUTV HD - LIS 0
+
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/hn_tru-tv_m.png" group-title="ENTRETENIMIENTO",TRUTV - ANDR 9
+http://clubtv.link/710oc/top6219/android9.php?c=0107|user-agent=FFFFF
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/hn_tru-tv_m.png" group-title="ENTRETENIMIENTO",TRUTV HD - LIS 0
 https://clubtv.link/710oc/top6219/lista.php?c=a02k
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/hn_tru-tv_m.png" group-title="ENTRETENIMIENTO",TRUTV - ANDR 5
-http://clubtv.link/710oc/top6219/android5.php?c=394|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/hn_tru-tv_m.png" group-title="ENTRETENIMIENTO",TRUTV - ANDR 7
-http://clubtv.link/710oc/top6219/android7.php?c=394|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_tru-tv-hd_m.png" group-title="ENTRETENIMIENTO",TRUTV  - ANDR 9
-http://clubtv.link/710oc/top6219/android9.php?c=0051|user-agent=FFFFF
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_tru-tv-hd_m.png" group-title="ENTRETENIMIENTO",TRUTV  - LIS 3
+https://clubtv.link/710oc/top6219/lista3.php?c=a02k
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/hn_tru-tv_m.png" group-title="ENTRETENIMIENTO",TRUTV - MX
 
 #EXTINF:-1 tvg-id="PMCRoyale.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/srVaOna.png" group-title="Iran",PMC Royale
@@ -1507,40 +1507,45 @@ http://clubtv.link/710oc/top6219/android7.php?c=390|user-agent=LKSDJ87F943532Q35
 http://clubtv.link/710oc/top6219/android5.php?c=391|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1094949901597851648/JRWm9Ec9_400x400.jpg" group-title="ENTRETENIMIENTO",UNIVISION TLNOVELAS - ANDR 7
 http://clubtv.link/710oc/top6219/android7.php?c=391|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
-#EXTINF:-1 logo="https://static.latamwbd.com/2023-06/TNT_NOVELAS_logo.jpg?w=900" group-title="ENTRETENIMIENTO",TNT NOVELAS - ANDR 1
-
-#EXTINF:-1 logo="https://static.latamwbd.com/2023-06/TNT_NOVELAS_logo.jpg?w=900" group-title="ENTRETENIMIENTO",TNT NOVELAS - ANDR 6
-
 #EXTINF:-1 logo="https://static.latamwbd.com/2023-06/TNT_NOVELAS_logo.jpg?w=900" group-title="ENTRETENIMIENTO",TNT NOVELAS - ANDR 9
 http://clubtv.link/710oc/top6219/android9.php?c=0098|user-agent=FFFFF
+#EXTINF:-1 logo="https://static.latamwbd.com/2023-06/TNT_NOVELAS_logo.jpg?w=900" group-title="ENTRETENIMIENTO",TNT NOVELAS - ANDR 1
+http://clubtv.link/710oc/top6219/android1.php?c=a0pj
+#EXTINF:-1 logo="https://static.latamwbd.com/2023-06/TNT_NOVELAS_logo.jpg?w=900" group-title="ENTRETENIMIENTO",TNT NOVELAS - ANDR 2
+http://clubtv.link/710oc/top6219/android2.php?c=a0pj
 #EXTINF:-1 logo="https://www.pngkit.com/png/detail/298-2981889_49-novelas-az-clic.png" group-title="ENTRETENIMIENTO",AZ CORAZON HD - LIS 1
 
 #EXTINF:-1 logo="https://www.pngkit.com/png/detail/298-2981889_49-novelas-az-clic.png" group-title="ENTRETENIMIENTO",AZ CORAZON - GEO MR-1
 
-#EXTINF:-1 logo="https://www.pngkit.com/png/detail/298-2981889_49-novelas-az-clic.png" group-title="ENTRETENIMIENTO",AZ CORAZON - GEO MR-2
-
-#EXTINF:-1 logo="https://www.pngkit.com/png/detail/298-2981889_49-novelas-az-clic.png" group-title="ENTRETENIMIENTO",AZ CORAZON - GEO AR-3
-
-#EXTINF:-1 logo="https://www.pngkit.com/png/detail/298-2981889_49-novelas-az-clic.png" group-title="ENTRETENIMIENTO",AZ CORAZON - LIS 0
-https://clubtv.link/710oc/top6219/lista.php?c=a05n
+#EXTINF:-1 logo="https://www.pngkit.com/png/detail/298-2981889_49-novelas-az-clic.png" group-title="ENTRETENIMIENTO",AZ CORAZON - ANDR 1
+http://clubtv.link/710oc/top6219/android1.php?c=a0pg
+#EXTINF:-1 logo="https://www.pngkit.com/png/detail/298-2981889_49-novelas-az-clic.png" group-title="ENTRETENIMIENTO",AZ CORAZON - ANDR 2
+http://clubtv.link/710oc/top6219/android2.php?c=a0pg
+#EXTINF:-1 logo="https://www.pngkit.com/png/detail/298-2981889_49-novelas-az-clic.png" group-title="ENTRETENIMIENTO",AZ CORAZON - ANDR 5
+http://clubtv.link/710oc/top6219/android7.php?c=31|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
 #EXTINF:-1 logo="https://www.pngkit.com/png/detail/298-2981889_49-novelas-az-clic.png" group-title="ENTRETENIMIENTO",AZ CORAZON - ANDR 7
 http://clubtv.link/710oc/top6219/android7.php?c=31|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
 #EXTINF:-1 logo="https://www.pngkit.com/png/detail/298-2981889_49-novelas-az-clic.png" group-title="ENTRETENIMIENTO",AZ CORAZON - ANDR 9
 http://clubtv.link/710oc/top6219/android9.php?c=0030|user-agent=FFFFF
+
+#EXTINF:-1 logo="https://logodix.com/logo/2085350.jpg" group-title="TV PREMIUM",PASIONES HD - ANDR 1
+http://clubtv.link/710oc/top6219/android1.php?c=a0td
+#EXTINF:-1 logo="https://logodix.com/logo/2085350.jpg" group-title="TV PREMIUM",PASIONES HD - ANDR 2
+http://clubtv.link/710oc/top6219/android2.php?c=a0td
 #EXTINF:-1 logo="https://logodix.com/logo/2085350.jpg" group-title="TV PREMIUM",PASIONES HD - LIS 0
-https://clubtv.link/710oc/top6219/lista.php?c=a0at
+
 #EXTINF:-1 logo="https://logodix.com/logo/2085350.jpg" group-title="TV PREMIUM",PASIONES HD - LIS 2
 http://clubtv.link/710oc/top6219/lista2.php?c=a079
 #EXTINF:-1 logo="https://logodix.com/logo/2085350.jpg" group-title="TV PREMIUM",PASIONES - ANDR 9
 http://clubtv.link/710oc/top6219/android9.php?c=0112|user-agent=FFFFF
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLSXSHetqw_1iTfwROFrpL0YX59MWaXVL4DPH3HS_Q=s900-c-k-c0x00ffffff-no-rj" group-title="ENTRETENIMIENTO",RCN Novelas - LIS 0
-https://clubtv.link/710oc/top6219/lista.php?c=a07a
+
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLSXSHetqw_1iTfwROFrpL0YX59MWaXVL4DPH3HS_Q=s900-c-k-c0x00ffffff-no-rj" group-title="ENTRETENIMIENTO",RCN Novelas - LIS 2
 http://clubtv.link/710oc/top6219/lista2.php?c=a040
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLSXSHetqw_1iTfwROFrpL0YX59MWaXVL4DPH3HS_Q=s900-c-k-c0x00ffffff-no-rj" group-title="ENTRETENIMIENTO",RCN Novelas S1 - TV
-
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLSXSHetqw_1iTfwROFrpL0YX59MWaXVL4DPH3HS_Q=s900-c-k-c0x00ffffff-no-rj" group-title="ENTRETENIMIENTO",RCN Novelas S2 - TV
-
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLSXSHetqw_1iTfwROFrpL0YX59MWaXVL4DPH3HS_Q=s900-c-k-c0x00ffffff-no-rj" group-title="ENTRETENIMIENTO",RCN Novelas - ANDR 1
+http://clubtv.link/710oc/top6219/android1.php?c=a0r5
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLSXSHetqw_1iTfwROFrpL0YX59MWaXVL4DPH3HS_Q=s900-c-k-c0x00ffffff-no-rj" group-title="ENTRETENIMIENTO",RCN Novelas - ANDR 2
+http://clubtv.link/710oc/top6219/android2.php?c=a0r5
 #EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/NGeikk3.png" group-title="ENTRETENIMIENTO",Corazon
 https://clubtv.link/710oc/top6219/runtime.php?c=4826
 #EXTINF:-1 tvg-id="1112" tvg-name="EnerGeek Fanpop" tvg-logo="https://i.paste.pics/39967f7d4d6090271478ced70e7eb0be.png", EnerGeek Fanpop | CL
@@ -1556,13 +1561,15 @@ http://clubtv.link/710oc/top6219/distro.php?c=wapptv&f=.m3u8
 #EXTINF:-1 logo="https://www.pandaancha.mx/plds/articulos/froala/hola-853x480-574972218.jpg" group-title="ENTRETENIMIENTO",HOLA TV HD - GEO 3
 
 #EXTINF:-1 logo="https://www.pandaancha.mx/plds/articulos/froala/hola-853x480-574972218.jpg" group-title="ENTRETENIMIENTO",HOLA TV HD - LIS 0
-https://clubtv.link/710oc/top6219/lista.php?c=a02a
+
 #EXTINF:-1 logo="https://www.pandaancha.mx/plds/articulos/froala/hola-853x480-574972218.jpg" group-title="ENTRETENIMIENTO",HOLA TV HD - LIS 2
 http://clubtv.link/710oc/top6219/lista2.php?c=a05o
+#EXTINF:-1 logo="https://www.pandaancha.mx/plds/articulos/froala/hola-853x480-574972218.jpg" group-title="ENTRETENIMIENTO",HOLA TV - ANDR 1
+http://clubtv.link/710oc/top6219/android1.php?c=a0st
+#EXTINF:-1 logo="https://www.pandaancha.mx/plds/articulos/froala/hola-853x480-574972218.jpg" group-title="ENTRETENIMIENTO",HOLA TV - ANDR 2
+http://clubtv.link/710oc/top6219/android2.php?c=a0st
 #EXTINF:-1 logo="https://www.pandaancha.mx/plds/articulos/froala/hola-853x480-574972218.jpg" group-title="ENTRETENIMIENTO",HOLA TV - ANDR 9
 http://clubtv.link/710oc/top6219/android9.php?c=0080|user-agent=FFFFF
-#EXTINF:-1 logo="https://www.pandaancha.mx/plds/articulos/froala/hola-853x480-574972218.jpg" group-title="ENTRETENIMIENTO",HOLA TV - MX
-
 #EXTINF:-1 logo="https://www.eluniversal.com.mx/sites/default/files/2016/11/09/ALFOMBRA-E13-EU101116-2_Drupal%20Main%20Image.var_1478751216.jpg" group-title="MUSICA",AZ CLIC HD - GEO
 
 #EXTINF:-1 logo="https://www.eluniversal.com.mx/sites/default/files/2016/11/09/ALFOMBRA-E13-EU101116-2_Drupal%20Main%20Image.var_1478751216.jpg" group-title="MUSICA",AZ CLIC HD - GEO 2
@@ -1591,12 +1598,14 @@ http://clubtv.link/710oc/top6219/android9.php?c=0080|user-agent=FFFFF
 
 #EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2020/01/MTV-simbolo.jpg" group-title="MUSICA",MTV - GEO AR
 
-#EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2020/01/MTV-simbolo.jpg" group-title="MUSICA",MTV HD - LIS 0
-https://clubtv.link/710oc/top6219/lista.php?c=a049
+#EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2020/01/MTV-simbolo.jpg" group-title="MUSICA",MTV HD - ANDR 1
+http://clubtv.link/710oc/top6219/android1.php?c=a0pz
+#EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2020/01/MTV-simbolo.jpg" group-title="MUSICA",MTV HD - ANDR 2
+http://clubtv.link/710oc/top6219/android2.php?c=a0pz
 #EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2020/01/MTV-simbolo.jpg" group-title="MUSICA",MTV HD - LIS 2
 http://clubtv.link/710oc/top6219/lista2.php?c=a06k
 #EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2020/01/MTV-simbolo.jpg" group-title="MUSICA",MTV - ANDR 9
-http://clubtv.link/710oc/top6219/android9.php?c=0085|user-agent=FFFFF
+
 #EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2020/01/MTV-simbolo.jpg" group-title="MUSICA",MTV - MX
 
 #EXTINF:-1 tvg-id="979" tvg-name="13 Entretencion" tvg-logo="https://i2.paste.pics/a59418e1a9cb4068b83345be503f722c.png", 13 Entretencion | CL
@@ -1607,14 +1616,14 @@ https://unlimited1-cl-isp.dps.live/13e/13e.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2pOEYdP3aPeho-OPc3pjGLsPTosnJt77o-BT0ECGsntIiHk1PFW1LwIT4kTfWXLVw9kY&usqp=CAU" group-title="ENTRETENIMIENTO",MAS CHIC - GEO AR
 
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2pOEYdP3aPeho-OPc3pjGLsPTosnJt77o-BT0ECGsntIiHk1PFW1LwIT4kTfWXLVw9kY&usqp=CAU" group-title="ENTRETENIMIENTO",MAS CHIC - ANDR 9
-http://clubtv.link/710oc/top6219/android9.php?c=0083|user-agent=FFFFF
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2pOEYdP3aPeho-OPc3pjGLsPTosnJt77o-BT0ECGsntIiHk1PFW1LwIT4kTfWXLVw9kY&usqp=CAU" group-title="ENTRETENIMIENTO",MAS CHIC - LIS 0
-https://clubtv.link/710oc/top6219/lista.php?c=a04m
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2pOEYdP3aPeho-OPc3pjGLsPTosnJt77o-BT0ECGsntIiHk1PFW1LwIT4kTfWXLVw9kY&usqp=CAU" group-title="ENTRETENIMIENTO",MAS CHIC - ANDR 1
+http://clubtv.link/710oc/top6219/android1.php?c=a0nu
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2pOEYdP3aPeho-OPc3pjGLsPTosnJt77o-BT0ECGsntIiHk1PFW1LwIT4kTfWXLVw9kY&usqp=CAU" group-title="ENTRETENIMIENTO",MAS CHIC - ANDR 2
+http://clubtv.link/710oc/top6219/android2.php?c=a0nu
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2pOEYdP3aPeho-OPc3pjGLsPTosnJt77o-BT0ECGsntIiHk1PFW1LwIT4kTfWXLVw9kY&usqp=CAU" group-title="ENTRETENIMIENTO",MAS CHIC - LIS 2
 http://clubtv.link/710oc/top6219/lista2.php?c=a00r
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2pOEYdP3aPeho-OPc3pjGLsPTosnJt77o-BT0ECGsntIiHk1PFW1LwIT4kTfWXLVw9kY&usqp=CAU" group-title="ENTRETENIMIENTO",MAS CHIC - ANDR
-
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2pOEYdP3aPeho-OPc3pjGLsPTosnJt77o-BT0ECGsntIiHk1PFW1LwIT4kTfWXLVw9kY&usqp=CAU" group-title="ENTRETENIMIENTO",MAS CHIC - ANDR 9
+http://clubtv.link/710oc/top6219/android9.php?c=0083|user-agent=FFFFF
 
 
 
