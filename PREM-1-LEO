@@ -2153,11 +2153,11 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
 #EXTINF:-1 logo="https://seeklogo.com/images/T/tbs-tv-channel-logo-6D967A4842-seeklogo.com.png" group-title="CINE",TBS - MX
 
-#EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2018_10/large.CineLatinoSilver.png.dc59ff451209bc0dc6aa40711daeb94c.png" group-title="CINE",Cine Latino - LIS 0
+#EXTINF:-1 logo="https://cinelatino.com/wp-content/uploads/2022/03/cine_latino.png" group-title="CINE",Cine Latino - LIS 0
 https://clubtv.link/oc1210/key4516/lista.php?c=a0a9
-#EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2018_10/large.CineLatinoSilver.png.dc59ff451209bc0dc6aa40711daeb94c.png" group-title="CINE",Cine Latino - LIS 2
+#EXTINF:-1 logo="https://cinelatino.com/wp-content/uploads/2022/03/cine_latino.png" group-title="CINE",Cine Latino - LIS 2
 http://clubtv.link/oc1210/key4516/lista2.php?c=a06p
-#EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2018_10/large.CineLatinoSilver.png.dc59ff451209bc0dc6aa40711daeb94c.png" group-title="CINE",Cine Latino - ANDR 9
+#EXTINF:-1 logo="https://cinelatino.com/wp-content/uploads/2022/03/cine_latino.png" group-title="CINE",Cine Latino - ANDR 9
 http://clubtv.link/oc1210/key4516/android9.php?c=0007|user-agent=FFFFF
 #EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2018_10/large.CineLatinoSilver.png.dc59ff451209bc0dc6aa40711daeb94c.png" group-title="CINE",Cine Latino - ANDR
 
@@ -2183,13 +2183,13 @@ http://clubtv.link/oc1210/key4516/android9.php?c=0009|user-agent=FFFFF
 
 #EXTINF:-1 logo="https://forounivers.com/uploads/monthly_2021_08/large.DePeliculaPlus_logoFull-ver.png.f5f1631094cd8ac8819ca11e8676b28c.png" group-title="CINE",DE PELICULA + - GEO AR
 
-#EXTINF:-1 logo="https://forounivers.com/uploads/monthly_2021_08/large.DePeliculaPlus_logoFull-ver.png.f5f1631094cd8ac8819ca11e8676b28c.png" group-title="CINE",DE PELICULA + - ANDR 1
+#EXTINF:-1 logo="https://live.staticflickr.com/871/40587920114_afa303deb7_w.jpg" group-title="CINE",DE PELICULA + - ANDR 1
 http://clubtv.link/oc1210/key4516/android1.php?c=512|User-Agent=AJIDEOFYWIOCKNnzwguyiavnskjsdiwalamdheysgstejsdy2978
-#EXTINF:-1 logo="https://forounivers.com/uploads/monthly_2021_08/large.DePeliculaPlus_logoFull-ver.png.f5f1631094cd8ac8819ca11e8676b28c.png" group-title="CINE",DE PELICULA + - ANDR 6
+#EXTINF:-1 logo="https://live.staticflickr.com/871/40587920114_afa303deb7_w.jpg" group-title="CINE",DE PELICULA + - ANDR 6
 http://clubtv.link/oc1210/key4516/android6.php?c=512|User-Agent=AJIDEOFYWIOCKNnzwguyiavnskjsdiwalamdheysgstejsdy2978
-#EXTINF:-1 logo="https://forounivers.com/uploads/monthly_2021_08/large.DePeliculaPlus_logoFull-ver.png.f5f1631094cd8ac8819ca11e8676b28c.png" group-title="CINE",DE PELICULA + - ANDR 9
+#EXTINF:-1 logo="https://live.staticflickr.com/871/40587920114_afa303deb7_w.jpg" group-title="CINE",DE PELICULA + - ANDR 9
 http://clubtv.link/oc1210/key4516/android9.php?c=0009|user-agent=FFFFF
-#EXTINF:-1 logo="https://forounivers.com/uploads/monthly_2021_08/large.DePeliculaClasico_logoFull-ver.png.3e6967b9a332a1f010a4a6ef26f28e8c.png" group-title="CINE",DE PELICULA CLASICO - ANDR 9
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/30/De_Pel%C3%ADcula_Cl%C3%A1sico.png" group-title="CINE",DE PELICULA CLASICO - ANDR 9
 http://clubtv.link/oc1210/key4516/android9.php?c=0021|user-agent=FFFFF
 #EXTINF:-1 logo="https://pbs.twimg.com/media/ElSrRysXYAE3Tf7.jpg" group-title="CINE",CINE NOSTALGIA - ANDR 8
 http://clubtv.link/oc1210/key4516/android8.php?c=748|user-agent=S11elW/2.57
