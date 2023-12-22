@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/EkMMbwB.png" group-title="",17/12/2023 - GEO-TV-MX-LIST-ANDR SD-HD
+#EXTINF:-1 tvg-logo="https://imgur.com/EkMMbwB.png" group-title="",22/12/2023 - GEO-TV-MX-LIST-ANDR SD-HD
 http://tecnotv.club/https:/DI2112/key4513/geomex.php?c=108&p=3&k=tecnotv&f=.m3u8
 
 
@@ -258,22 +258,22 @@ https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/chunklist.m3u8?fluxust
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png" group-title="MEXICO",ONCE - GEO AR
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png" group-title="MEXICO",ONCE - ANDR 8
-
+http://clubtv.link/DI2112/key4513/android8.php?c=208.88.246.11:5473/111OnceTvMexico/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8&token=tecnotv|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png" group-title="MEXICO",ONCE - ANDR 9
 
 
 #EXTINF:-1 logo="https://www.m3u.cl/logo/772_Canal_Once_Mexico.png" group-title="MEXICO",ONCE HD - MX
 
-#EXTINF:-1 tvg-id="98123" tvg-name="Canal Catorce" tvg-logo="https://lh3.googleusercontent.com/-q7jIr6lWtWE/XzguPkxejlI/AAAAAAAA4cE/vp0f0PtM-eIcHrNeOhL9rxByMIa-35FFQCK8BGAsYHg/s0/2020-08-15.jpg", Canal Catorce - ANDR 9
-
+#EXTINF:-1 tvg-id="98123" tvg-name="Canal Catorce" tvg-logo="https://lh3.googleusercontent.com/-q7jIr6lWtWE/XzguPkxejlI/AAAAAAAA4cE/vp0f0PtM-eIcHrNeOhL9rxByMIa-35FFQCK8BGAsYHg/s0/2020-08-15.jpg", Canal Catorce - ANDR 8
+http://clubtv.link/DI2112/key4513/android8.php?c=208.88.246.11:5473/130unavoz/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8&token=tecnotv|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UfI0M2b.png" group-title="MEXICO",Capital 21
 
-#EXTINF:-1 logo="http://ccmpunila.weebly.com/uploads/1/5/5/3/15537570/8216048.jpg?368" group-title="MEXICO",CANAL 22 - ANDR 9
-
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Tv_UNAM.png" group-title="MEXICO",TV UNAM - ANDR 9
-
-#EXTINF:-1 logo="http://ccmpunila.weebly.com/uploads/1/5/5/3/15537570/8216048.jpg?368" group-title="MEXICO",CANAL 22.1
-
+#EXTINF:-1 logo="http://ccmpunila.weebly.com/uploads/1/5/5/3/15537570/8216048.jpg?368" group-title="MEXICO",CANAL 22 - ANDR 8
+http://clubtv.link/DI2112/key4513/android8.php?c=208.88.246.11:5473/122canal22/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8&token=tecnotv|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 logo="http://ccmpunila.weebly.com/uploads/1/5/5/3/15537570/8216048.jpg?368" group-title="MEXICO",CANAL 22.1 - ANDR 8
+http://clubtv.link/DI2112/key4513/android8.php?c=208.88.246.11:5473/304Canal222/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8&token=tecnotv|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Tv_UNAM.png" group-title="MEXICO",TV UNAM - ANDR 8
+http://clubtv.link/DI2112/key4513/android8.php?c=208.88.246.11:5473/120tvunam/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8&token=tecnotv|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 logo="https://www.underconsideration.com/brandnew/archives/imagen_logo.png" group-title="MEXICO",IMAGEN TV HD - GEO
 
 #EXTINF:-1 logo="https://www.underconsideration.com/brandnew/archives/imagen_logo.png" group-title="MEXICO",IMAGEN TV HD - GEO 2
@@ -646,47 +646,47 @@ http://iptveiksprivado.com/images/vod/canalesculturales.png
 
 
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/5/58/CanalDiscoveryIDLA.png" group-title="MUNDO Y CULTURA",DISCOVERY ID - ANDR 1
-http://clubtv.link/se0111/key7132/android1.php?c=a0tf
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/5/58/CanalDiscoveryIDLA.png" group-title="MUNDO Y CULTURA",DISCOVERY ID - ANDR 2
-http://clubtv.link/se0111/key7132/android2.php?c=a0tf
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/5/58/CanalDiscoveryIDLA.png" group-title="MUNDO Y CULTURA",DISCOVERY ID - LIS 0
-
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/5/58/CanalDiscoveryIDLA.png" group-title="MUNDO Y CULTURA",DISCOVERY ID HD - LIS 2
-http://clubtv.link/se0111/key7132/lista2.php?c=a082&f=.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/5/58/CanalDiscoveryIDLA.png" group-title="MUNDO Y CULTURA",DISCOVERY ID - ANDR 0
+https://clubtv.link/DI2112/key4513/android0.php?c=68&token=CanalesGratisEnTecnotv.club&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/5/58/CanalDiscoveryIDLA.png" group-title="MUNDO Y CULTURA",DISCOVERY ID - ANDR 6
+http://clubtv.link/DI2112/key4513/android6.php?c=68&token=CanalesGratisEnTecnotv.club|user-agent=Dalvik/2.1.0
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/5/58/CanalDiscoveryIDLA.png" group-title="MUNDO Y CULTURA",DISCOVERY ID HD - ANDR 0
+https://clubtv.link/DI2112/key4513/android0.php?c=825&token=CanalesGratisEnTecnotv.club&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/5/58/CanalDiscoveryIDLA.png" group-title="MUNDO Y CULTURA",DISCOVERY ID HD - ANDR 6
+http://clubtv.link/DI2112/key4513/android6.php?c=825&token=CanalesGratisEnTecnotv.club|user-agent=Dalvik/2.1.0
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/5/58/CanalDiscoveryIDLA.png" group-title="MUNDO Y CULTURA",DISCOVERY ID HD - LIS 3
-https://clubtv.link/se0111/key7132/lista3.php?c=a0av
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/5/58/CanalDiscoveryIDLA.png" group-title="MUNDO Y CULTURA",DISCOVERY ID - MX
 
-#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Universal_Crime_2021.png/revision/latest?cb=20220102014712&path-prefix=es" group-title="SERIES Y CINE",UNIVERSAL CRIME - ANDR 1
-http://clubtv.link/se0111/key7132/android1.php?c=a0t0
-#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Universal_Crime_2021.png/revision/latest?cb=20220102014712&path-prefix=es" group-title="SERIES Y CINE",UNIVERSAL CRIME - ANDR 2
-http://clubtv.link/se0111/key7132/android2.php?c=a0t0
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Universal_Crime_2021.png/revision/latest?cb=20220102014712&path-prefix=es" group-title="SERIES Y CINE",UNIVERSAL CRIME - ANDR 0
+https://clubtv.link/DI2112/key4513/android0.php?c=904&token=CanalesGratisEnTecnotv.club&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Universal_Crime_2021.png/revision/latest?cb=20220102014712&path-prefix=es" group-title="SERIES Y CINE",UNIVERSAL CRIME - ANDR 6
+http://clubtv.link/DI2112/key4513/android6.php?c=904&token=CanalesGratisEnTecnotv.club|user-agent=Dalvik/2.1.0
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Universal_Crime_2021.png/revision/latest?cb=20220102014712&path-prefix=es" group-title="SERIES Y CINE",UNIVERSAL CRIME HD - LIS 0
-https://clubtv.link/se0111/key7132/lista3.php?c=a09g&f=.m3u8
+
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Universal_Crime_2021.png/revision/latest?cb=20220102014712&path-prefix=es" group-title="SERIES Y CINE",UNIVERSAL CRIME HD - LIS 2
-http://clubtv.link/se0111/key7132/lista2.php?c=a09d&f=.m3u8
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Extranormal_Punto_2.jpg" group-title="SERIES Y CINE",EXTRANORMAL - ANDR 4
-http://clubtv.link/se0111/key7132/android5.php?c=406|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
+http://clubtv.link/DI2112/key4513/android4.php?c=406&token=CanalesGratisEnTecnotv.club|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Extranormal_Punto_2.jpg" group-title="SERIES Y CINE",EXTRANORMAL - ANDR 5
-http://clubtv.link/se0111/key7132/android5.php?c=406|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
+http://clubtv.link/DI2112/key4513/android5.php?c=406&token=CanalesGratisEnTecnotv.club|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Extranormal_Punto_2.jpg" group-title="SERIES Y CINE",EXTRANORMAL - ANDR 7
-http://clubtv.link/se0111/key7132/android7.php?c=406|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
+http://clubtv.link/DI2112/key4513/android7.php?c=406&token=CanalesGratisEnTecnotv.club|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
 #EXTINF:-1 logo="https://img2.freepng.es/20180426/bwq/kisspng-discovery-channel-television-channel-discovery-hd-5ae15a0b4e05e1.0298670015247180913196.jpg" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL HD - LIS 1
 
-#EXTINF:-1 logo="https://img2.freepng.es/20180426/bwq/kisspng-discovery-channel-television-channel-discovery-hd-5ae15a0b4e05e1.0298670015247180913196.jpg" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL HD - ANDR 8
-http://clubtv.link/se0111/key7132/android8.php?c=0158|user-agent=FFFFF
-#EXTINF:-1 logo="https://img2.freepng.es/20180426/bwq/kisspng-discovery-channel-television-channel-discovery-hd-5ae15a0b4e05e1.0298670015247180913196.jpg" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL HD - ANDR 9
-http://clubtv.link/se0111/key7132/android9.php?c=0158|user-agent=FFFFF
-#EXTINF:-1 logo="https://img2.freepng.es/20180426/bwq/kisspng-discovery-channel-television-channel-discovery-hd-5ae15a0b4e05e1.0298670015247180913196.jpg" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL HD - ANDR 1
-http://clubtv.link/se0111/key7132/android1.php?c=a0tb
 #EXTINF:-1 logo="https://img2.freepng.es/20180426/bwq/kisspng-discovery-channel-television-channel-discovery-hd-5ae15a0b4e05e1.0298670015247180913196.jpg" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL HD - ANDR 2
-http://clubtv.link/se0111/key7132/android2.php?c=a0tb
-#EXTINF:-1 logo="https://img2.freepng.es/20180426/bwq/kisspng-discovery-channel-television-channel-discovery-hd-5ae15a0b4e05e1.0298670015247180913196.jpg" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL - LIS 2
-http://clubtv.link/se0111/key7132/lista2.php?c=a07y&f=.m3u8
-#EXTINF:-1 logo="https://img2.freepng.es/20180426/bwq/kisspng-discovery-channel-television-channel-discovery-hd-5ae15a0b4e05e1.0298670015247180913196.jpg" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL - LIS 3
-https://clubtv.link/se0111/key7132/lista3.php?c=a0ar&f=.m3u8
+http://clubtv.link/DI2112/key4513/android2.php?c=518&token=CanalesGratisEnTecnotv.club|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1 logo="https://img2.freepng.es/20180426/bwq/kisspng-discovery-channel-television-channel-discovery-hd-5ae15a0b4e05e1.0298670015247180913196.jpg" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL HD - ANDR 3
+http://clubtv.link/DI2112/key4513/android3.php?c=a01n&token=CanalesGratisEnTecnotv.club
+#EXTINF:-1 logo="https://img2.freepng.es/20180426/bwq/kisspng-discovery-channel-television-channel-discovery-hd-5ae15a0b4e05e1.0298670015247180913196.jpg" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL HD - ANDR 0
+https://clubtv.link/DI2112/key4513/android0.php?c=639&token=CanalesGratisEnTecnotv.club&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 logo="https://img2.freepng.es/20180426/bwq/kisspng-discovery-channel-television-channel-discovery-hd-5ae15a0b4e05e1.0298670015247180913196.jpg" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL HD - ANDR 6
+http://clubtv.link/DI2112/key4513/android6.php?c=639&token=CanalesGratisEnTecnotv.club|user-agent=Dalvik/2.1.0
+#EXTINF:-1 logo="https://img2.freepng.es/20180426/bwq/kisspng-discovery-channel-television-channel-discovery-hd-5ae15a0b4e05e1.0298670015247180913196.jpg" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL - ANDR 4
+http://clubtv.link/DI2112/key4513/android4.php?c=119&token=CanalesGratisEnTecnotv.club|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
 #EXTINF:-1 logo="https://img2.freepng.es/20180426/bwq/kisspng-discovery-channel-television-channel-discovery-hd-5ae15a0b4e05e1.0298670015247180913196.jpg" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL - ANDR 5
+http://clubtv.link/DI2112/key4513/android5.php?c=119&token=CanalesGratisEnTecnotv.club|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
+#EXTINF:-1 logo="https://img2.freepng.es/20180426/bwq/kisspng-discovery-channel-television-channel-discovery-hd-5ae15a0b4e05e1.0298670015247180913196.jpg" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL - ANDR 7
 
 #EXTINF:-1 logo="https://img2.freepng.es/20180426/bwq/kisspng-discovery-channel-television-channel-discovery-hd-5ae15a0b4e05e1.0298670015247180913196.jpg" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL - LIS 3
 
@@ -698,19 +698,19 @@ https://clubtv.link/se0111/key7132/lista3.php?c=a0ar&f=.m3u8
 
 #EXTINF:-1 logo="https://img2.freepng.es/20180426/bwq/kisspng-discovery-channel-television-channel-discovery-hd-5ae15a0b4e05e1.0298670015247180913196.jpg" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL - ANDR
 
-#EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="MUNDO Y CULTURA",ANIMAL PLANET - ANDR 8
-http://clubtv.link/se0111/key7132/android8.php?c=0131|user-agent=FFFFF
-#EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="MUNDO Y CULTURA",ANIMAL PLANET - ANDR 9
-http://clubtv.link/se0111/key7132/android9.php?c=0131|user-agent=FFFFF
-#EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="MUNDO Y CULTURA",ANIMAL PLANET - ANDR 1
-http://clubtv.link/se0111/key7132/android1.php?c=a0q4
+#EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="MUNDO Y CULTURA",ANIMAL PLANET - ANDR 3
+http://clubtv.link/DI2112/key4513/android3.php?c=a00m&token=CanalesGratisEnTecnotv.club
+#EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="MUNDO Y CULTURA",ANIMAL PLANET - ANDR 0
+https://clubtv.link/DI2112/key4513/android0.php?c=3&token=CanalesGratisEnTecnotv.club&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="MUNDO Y CULTURA",ANIMAL PLANET - ANDR 6
+http://clubtv.link/DI2112/key4513/android6.php?c=3&token=CanalesGratisEnTecnotv.club|user-agent=Dalvik/2.1.0
 #EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="MUNDO Y CULTURA",ANIMAL PLANET - ANDR 2
-http://clubtv.link/se0111/key7132/android2.php?c=a0q4
-#EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="MUNDO Y CULTURA",ANIMAL PLANET HD - LIS 2
-http://clubtv.link/se0111/key7132/lista2.php?c=a049&f=.m3u8
-#EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="MUNDO Y CULTURA",ANIMAL PLANET HD - LIS 3
-https://clubtv.link/se0111/key7132/lista3.php?c=a03k&f=.m3u8
+http://clubtv.link/DI2112/key4513/android2.php?c=441&token=CanalesGratisEnTecnotv.club|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="MUNDO Y CULTURA",ANIMAL PLANET - ANDR 4
+http://clubtv.link/DI2112/key4513/android4.php?c=109&token=CanalesGratisEnTecnotv.club|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
+#EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="MUNDO Y CULTURA",ANIMAL PLANET - ANDR 5
+http://clubtv.link/DI2112/key4513/android5.php?c=109&token=CanalesGratisEnTecnotv.club|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
+#EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="MUNDO Y CULTURA",ANIMAL PLANET - ANDR 7
 
 #EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="MUNDO Y CULTURA",ANIMAL PLANET - ANDR 8
 
@@ -724,33 +724,37 @@ https://clubtv.link/se0111/key7132/lista3.php?c=a03k&f=.m3u8
 
 #EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="MUNDO Y CULTURA",ANIMAL PLANET - MX
 
-#EXTINF:-1 logo="https://mms.businesswire.com/media/20160221005252/es/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="MUNDO Y CULTURA",Love Nature HD - ANDR 3
-http://clubtv.link/se0111/key7132/android3.php?c=141|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-#EXTINF:-1 logo="https://mms.businesswire.com/media/20160221005252/es/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="MUNDO Y CULTURA",Love Nature HD - LIS 0
-https://clubtv.link/se0111/key7132/lista.php?c=a044
-#EXTINF:-1 logo="https://www.formulatv.com/images/articulos/55000/55629_d8fe9d8dd9-t.jpg" group-title="MUNDO Y CULTURA",Odisea - ANDR 3
-http://clubtv.link/se0111/key7132/android4.php?c=34|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
+#EXTINF:-1 logo="https://mms.businesswire.com/media/20160221005252/es/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="MUNDO Y CULTURA",Love Nature - ANDR 1
+http://clubtv.link/DI2112/key4513/android1.php?c=4285&token=CanalesGratisEnTecnotv.club
+#EXTINF:-1 logo="https://mms.businesswire.com/media/20160221005252/es/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="MUNDO Y CULTURA",Love Nature HD - ANDR 1
+http://clubtv.link/DI2112/key4513/android1.php?c=4189&token=CanalesGratisEnTecnotv.club
+#EXTINF:-1 logo="https://www.formulatv.com/images/articulos/55000/55629_d8fe9d8dd9-t.jpg" group-title="MUNDO Y CULTURA",Odisea - ANDR 4
+http://clubtv.link/DI2112/key4513/android4.php?c=34&token=CanalesGratisEnTecnotv.club|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
 #EXTINF:-1 logo="https://www.formulatv.com/images/articulos/55000/55629_d8fe9d8dd9-t.jpg" group-title="MUNDO Y CULTURA",Odisea - ANDR 5
-http://clubtv.link/se0111/key7132/android5.php?c=34|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
+http://clubtv.link/DI2112/key4513/android5.php?c=34&token=CanalesGratisEnTecnotv.club|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
 #EXTINF:-1 logo="https://www.formulatv.com/images/articulos/55000/55629_d8fe9d8dd9-t.jpg" group-title="MUNDO Y CULTURA",Odisea - ANDR 7
-http://clubtv.link/se0111/key7132/android7.php?c=34|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
+http://clubtv.link/DI2112/key4513/android7.php?c=34&token=CanalesGratisEnTecnotv.club|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
 #EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",HISTORY CHANNEL HD - ANDR 0
 
-#EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",HISTORY  - ANDR 1
-http://clubtv.link/se0111/key7132/android1.php?c=a0px
-#EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",HISTORY HD- ANDR 2
-http://clubtv.link/se0111/key7132/android2.php?c=a0px
-#EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",HISTORY  - ANDR 5
-http://clubtv.link/se0111/key7132/android5.php?c=115|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
-#EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",HISTORY HD- ANDR 7
-http://clubtv.link/se0111/key7132/android7.php?c=115|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
-#EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",HISTORY CHANNEL HD - LIS 0 
-https://clubtv.link/se0111/key7132/lista.php?c=a01r
-#EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",HISTORY HD - LIS 0
-https://clubtv.link/se0111/key7132/lista.php?c=a064
-#EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",HISTORY HD - LIS 2
-http://clubtv.link/se0111/key7132/lista2.php?c=a02s
-#EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",HISTORY  - LIS 3
+#EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",HISTORY ES - ANDR 0
+https://clubtv.link/DI2112/key4513/android0.php?c=718&token=CanalesGratisEnTecnotv.club&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",HISTORY ES - ANDR 6
+http://clubtv.link/DI2112/key4513/android6.php?c=718&token=CanalesGratisEnTecnotv.club|user-agent=Dalvik/2.1.0
+#EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",HISTORY S1 - ANDR 0
+https://clubtv.link/DI2112/key4513/android0.php?c=61&token=CanalesGratisEnTecnotv.club&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",HISTORY S1 - ANDR 6
+http://clubtv.link/DI2112/key4513/android6.php?c=61&token=CanalesGratisEnTecnotv.club|user-agent=Dalvik/2.1.0
+#EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",HISTORY S2 - ANDR 0
+https://clubtv.link/DI2112/key4513/android0.php?c=67&token=CanalesGratisEnTecnotv.club&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",HISTORY S2 - ANDR 6
+http://clubtv.link/DI2112/key4513/android6.php?c=67&token=CanalesGratisEnTecnotv.club|user-agent=Dalvik/2.1.0
+#EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",HISTORY HD - ANDR 0 
+https://clubtv.link/DI2112/key4513/android0.php?c=642&token=CanalesGratisEnTecnotv.club&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",HISTORY HD - ANDR 6
+http://clubtv.link/DI2112/key4513/android6.php?c=642&token=CanalesGratisEnTecnotv.club|user-agent=Dalvik/2.1.0
+#EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",HISTORY - LIS 1
+
+#EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",HISTORY - LIS 2
 
 #EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",HISTORY HD- LIS 4
 
@@ -762,40 +766,42 @@ http://clubtv.link/se0111/key7132/lista2.php?c=a02s
 
 #EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",HISTORY - MX
 
-#EXTINF:-1 logo="https://i.imgur.com/ypR4tvy.jpg" group-title="MUNDO Y CULTURA",HISTORY 2 - ANDR 1
-http://clubtv.link/se0111/key7132/android1.php?c=a0r7
-#EXTINF:-1 logo="https://i.imgur.com/ypR4tvy.jpg" group-title="MUNDO Y CULTURA",HISTORY 2 - ANDR 2
-http://clubtv.link/se0111/key7132/android2.php?c=a0r7
-#EXTINF:-1 logo="https://i.imgur.com/ypR4tvy.jpg" group-title="MUNDO Y CULTURA",HISTORY 2 HD - LIS 0
-https://clubtv.link/se0111/key7132/lista.php?c=a04f
-#EXTINF:-1 logo="https://i.imgur.com/ypR4tvy.jpg" group-title="MUNDO Y CULTURA",HISTORY 2 - ANDR 9
-http://clubtv.link/se0111/key7132/android9.php?c=0070|user-agent=FFFFF
-#EXTINF:-1 logo="https://i.imgur.com/ypR4tvy.jpg" group-title="MUNDO Y CULTURA",H2 HISTORY 2 - ANDR 8
-
-#EXTINF:-1 logo="https://i.imgur.com/ypR4tvy.jpg" group-title="MUNDO Y CULTURA",H2 - Lis 3
+#EXTINF:-1 logo="https://i.imgur.com/ypR4tvy.jpg" group-title="MUNDO Y CULTURA",HISTORY 2 HD - ANDR 3
+http://clubtv.link/DI2112/key4513/android3.php?c=a04x&token=CanalesGratisEnTecnotv.club
+#EXTINF:-1 logo="https://i.imgur.com/ypR4tvy.jpg" group-title="MUNDO Y CULTURA",HISTORY 2 - LIS 1
+https://clubtv.link/DI2112/key4513/lista1.php?c=a042&token=TvGratisEnTecnotv.club&f=.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/ypR4tvy.jpg" group-title="MUNDO Y CULTURA",HISTORY 2 - LIS 2
+http://clubtv.link/DI2112/key4513/lista2.php?c=a05b&f=.m3u8&token=TvGratisEnTecnotv.club
+#EXTINF:-1 logo="https://i.imgur.com/ypR4tvy.jpg" group-title="MUNDO Y CULTURA",HISTORY 2 - LIS 3
+https://clubtv.link/DI2112/key4513/lista3.php?c=a00v&token=TvGratisEnTecnotv.club&f=.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/ypR4tvy.jpg" group-title="MUNDO Y CULTURA",HISTORY 2 - LIS 4
+http://clubtv.link/DI2112/key4513/lista4.php?c=a036&token=CanalesGratisEnTecnotv.club&f=.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/ypR4tvy.jpg" group-title="MUNDO Y CULTURA",HISTORY 2 - Lis 5
 
 #EXTINF:-1 logo="https://i.imgur.com/ypR4tvy.jpg" group-title="MUNDO Y CULTURA",H2 - ANDR
 
-#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://w1.pngwing.com/pngs/818/201/png-transparent-tv-logo-cable-television-hgtv-organization-blue-text-line-thumbnail.png" group-title="TV PREMIUM 2",HGTV - ANDR 1
-http://clubtv.link/se0111/key7132/android1.php?c=a0nx
-#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://w1.pngwing.com/pngs/818/201/png-transparent-tv-logo-cable-television-hgtv-organization-blue-text-line-thumbnail.png" group-title="TV PREMIUM 2",HGTV - ANDR 2
-http://clubtv.link/se0111/key7132/android2.php?c=a0nx
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://w1.pngwing.com/pngs/818/201/png-transparent-tv-logo-cable-television-hgtv-organization-blue-text-line-thumbnail.png" group-title="TV PREMIUM 2",HGTV - ANDR 0
+https://clubtv.link/DI2112/key4513/android0.php?c=23&token=CanalesGratisEnTecnotv.club&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://w1.pngwing.com/pngs/818/201/png-transparent-tv-logo-cable-television-hgtv-organization-blue-text-line-thumbnail.png" group-title="TV PREMIUM 2",HGTV - ANDR 6
+http://clubtv.link/DI2112/key4513/android6.php?c=23&token=CanalesGratisEnTecnotv.club|user-agent=Dalvik/2.1.0
 #EXTINF:-1 logo="https://www.marketingdirecto.com/wp-content/uploads/2012/12/national-geographic.jpg" group-title="MUNDO Y CULTURA",NAT GEO HD - LIS 1
 
 #EXTINF:-1 logo="https://www.marketingdirecto.com/wp-content/uploads/2012/12/national-geographic.jpg" group-title="MUNDO Y CULTURA",NAT GEO - GEO MR-1
 
 #EXTINF:-1 logo="https://www.marketingdirecto.com/wp-content/uploads/2012/12/national-geographic.jpg" group-title="MUNDO Y CULTURA",NAT GEO - GEO MR-2  
 
-#EXTINF:-1 logo="https://www.marketingdirecto.com/wp-content/uploads/2012/12/national-geographic.jpg" group-title="MUNDO Y CULTURA",NAT GEO HD - ANDR 1
-http://clubtv.link/se0111/key7132/android1.php?c=a0t8
-#EXTINF:-1 logo="https://www.marketingdirecto.com/wp-content/uploads/2012/12/national-geographic.jpg" group-title="MUNDO Y CULTURA",NAT GEO HD - ANDR 2
-http://clubtv.link/se0111/key7132/android2.php?c=a0t8
-#EXTINF:-1 logo="https://www.marketingdirecto.com/wp-content/uploads/2012/12/national-geographic.jpg" group-title="MUNDO Y CULTURA",NAT GEO HD - LIS 0 
-https://clubtv.link/se0111/key7132/lista.php?c=a036
-#EXTINF:-1 logo="https://www.marketingdirecto.com/wp-content/uploads/2012/12/national-geographic.jpg" group-title="MUNDO Y CULTURA",NAT GEO HD - LIS 2
-http://clubtv.link/se0111/key7132/lista2.php?c=a074
+#EXTINF:-1 logo="https://www.marketingdirecto.com/wp-content/uploads/2012/12/national-geographic.jpg" group-title="MUNDO Y CULTURA",NAT GEO - ANDR 2
+http://clubtv.link/DI2112/key4513/android2.php?c=708&token=CanalesGratisEnTecnotv.club|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1 logo="https://www.marketingdirecto.com/wp-content/uploads/2012/12/national-geographic.jpg" group-title="MUNDO Y CULTURA",NAT GEO - ANDR 0
+https://clubtv.link/DI2112/key4513/android0.php?c=76&token=CanalesGratisEnTecnotv.club&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 logo="https://www.marketingdirecto.com/wp-content/uploads/2012/12/national-geographic.jpg" group-title="MUNDO Y CULTURA",NAT GEO - ANDR 6
+http://clubtv.link/DI2112/key4513/android6.php?c=76&token=CanalesGratisEnTecnotv.club|user-agent=Dalvik/2.1.0
+#EXTINF:-1 logo="https://www.marketingdirecto.com/wp-content/uploads/2012/12/national-geographic.jpg" group-title="MUNDO Y CULTURA",NAT GEO HD - ANDR 0 
+https://clubtv.link/DI2112/key4513/android0.php?c=644&token=CanalesGratisEnTecnotv.club&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 logo="https://www.marketingdirecto.com/wp-content/uploads/2012/12/national-geographic.jpg" group-title="MUNDO Y CULTURA",NAT GEO HD - ANDR 6
+http://clubtv.link/DI2112/key4513/android6.php?c=644&token=CanalesGratisEnTecnotv.club|user-agent=Dalvik/2.1.0
 #EXTINF:-1 logo="https://www.marketingdirecto.com/wp-content/uploads/2012/12/national-geographic.jpg" group-title="MUNDO Y CULTURA",NAT GEO - ANDR 9
-http://clubtv.link/se0111/key7132/android9.php?c=0088|user-agent=FFFFF
+
 #EXTINF:-1 logo="https://www.marketingdirecto.com/wp-content/uploads/2012/12/national-geographic.jpg" group-title="MUNDO Y CULTURA",NAT GEO - TV 
 
 #EXTINF:-1 logo="https://www.marketingdirecto.com/wp-content/uploads/2012/12/national-geographic.jpg" group-title="MUNDO Y CULTURA",NAT GEO - MX
@@ -803,7 +809,7 @@ http://clubtv.link/se0111/key7132/android9.php?c=0088|user-agent=FFFFF
 #EXTINF:-1 logo="https://www.marketingdirecto.com/wp-content/uploads/2012/12/national-geographic.jpg" group-title="MUNDO Y CULTURA",NAT GEO - ANDR 0
 
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/496293907886403584/yQYuZTjL_400x400.png" group-title="MUNDO Y CULTURA",NAT GEO MUNDO - ANDR 3
-http://clubtv.link/se0111/key7132/android3.php?c=166|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+http://clubtv.link/DI2112/key4513/android2.php?c=1131&token=CanalesGratisEnTecnotv.club|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/496293907886403584/yQYuZTjL_400x400.png" group-title="MUNDO Y CULTURA",NAT GEO MUNDO - ANDR 1
 
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/496293907886403584/yQYuZTjL_400x400.png" group-title="MUNDO Y CULTURA",NAT GEO MUNDO - ANDR 8
@@ -844,44 +850,44 @@ https://59d39900ebfb8.streamlock.net/streetmusic/streetmusic/playlist.m3u8
 https://publica.cloudycdn.services/playlist.m3u8?network_id=569
 #EXTINF:-1 tvg-id="WorldFashionChannel.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/JyslMHb.jpg" group-title="International",World Fashion Channel (1080p)
 
-#EXTINF:-1 logo="https://i.ytimg.com/vi/bjibZ7sRbEg/maxresdefault.jpg" group-title="MUNDO Y CULTURA",DISCOVERY THEATER - ANDR 1
-http://clubtv.link/se0111/key7132/android1.php?c=a0sr
-#EXTINF:-1 logo="https://i.ytimg.com/vi/bjibZ7sRbEg/maxresdefault.jpg" group-title="MUNDO Y CULTURA",DISCOVERY THEATER - ANDR 2
-http://clubtv.link/se0111/key7132/android2.php?c=a0sr
+#EXTINF:-1 logo="https://i.ytimg.com/vi/bjibZ7sRbEg/maxresdefault.jpg" group-title="MUNDO Y CULTURA",DISCOVERY THEATER - ANDR 0
+https://clubtv.link/DI2112/key4513/android0.php?c=27&token=CanalesGratisEnTecnotv.club&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 logo="https://i.ytimg.com/vi/bjibZ7sRbEg/maxresdefault.jpg" group-title="MUNDO Y CULTURA",DISCOVERY THEATER - ANDR 6
+http://clubtv.link/DI2112/key4513/android6.php?c=27&token=CanalesGratisEnTecnotv.club|user-agent=Dalvik/2.1.0
+#EXTINF:-1 logo="https://i.ytimg.com/vi/bjibZ7sRbEg/maxresdefault.jpg" group-title="MUNDO Y CULTURA",DISCOVERY THEATER - ANDR 4
+http://clubtv.link/DI2112/key4513/android4.php?c=100&token=CanalesGratisEnTecnotv.club|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
 #EXTINF:-1 logo="https://i.ytimg.com/vi/bjibZ7sRbEg/maxresdefault.jpg" group-title="MUNDO Y CULTURA",DISCOVERY THEATER - ANDR 5
-http://clubtv.link/se0111/key7132/android5.php?c=100|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
+http://clubtv.link/DI2112/key4513/android5.php?c=100&token=CanalesGratisEnTecnotv.club|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
 #EXTINF:-1 logo="https://i.ytimg.com/vi/bjibZ7sRbEg/maxresdefault.jpg" group-title="MUNDO Y CULTURA",DISCOVERY THEATER - ANDR 7
-http://clubtv.link/se0111/key7132/android7.php?c=100|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
-#EXTINF:-1 logo="https://i.ytimg.com/vi/bjibZ7sRbEg/maxresdefault.jpg" group-title="MUNDO Y CULTURA",DISCOVERY THEATER - ANDR 9
-http://clubtv.link/se0111/key7132/android9.php?c=0044|user-agent=FFFFF
+http://clubtv.link/DI2112/key4513/android7.php?c=100&token=CanalesGratisEnTecnotv.club|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
 #EXTINF:-1 logo="https://i.ytimg.com/vi/bjibZ7sRbEg/maxresdefault.jpg" group-title="MUNDO Y CULTURA",DISCOVERY THEATER - LIS 0
-https://clubtv.link/se0111/key7132/lista.php?c=a097
-#EXTINF:-1 logo="https://i.ytimg.com/vi/bjibZ7sRbEg/maxresdefault.jpg" group-title="MUNDO Y CULTURA",DISCOVERY THEATER - LIS 2
-http://clubtv.link/se0111/key7132/lista2.php?c=a05m
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Discovery_Familia_logo_%283%29.svg/1200px-Discovery_Familia_logo_%283%29.svg.png" group-title="MUNDO Y CULTURA",DISCOVERY FAMILIA - ANDR 4
 
+#EXTINF:-1 logo="https://i.ytimg.com/vi/bjibZ7sRbEg/maxresdefault.jpg" group-title="MUNDO Y CULTURA",DISCOVERY THEATER - LIS 2
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Discovery_Familia_logo_%283%29.svg/1200px-Discovery_Familia_logo_%283%29.svg.png" group-title="MUNDO Y CULTURA",DISCOVERY FAMILIA - ANDR 2
+http://clubtv.link/DI2112/key4513/android2.php?c=1132&token=CanalesGratisEnTecnotv.club|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Discovery_Familia_logo_%283%29.svg/1200px-Discovery_Familia_logo_%283%29.svg.png" group-title="MUNDO Y CULTURA",DISCOVERY FAMILIA - LIS 1
 
 #EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3dc87a1710825.5600fbeaa48e9.jpg" group-title="MUNDO Y CULTURA",DISCOVERY WORLD - GEO MR-1
 
-#EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3dc87a1710825.5600fbeaa48e9.jpg" group-title="MUNDO Y CULTURA",DISCOVERY WORLD HD - ANDR 1
-http://clubtv.link/se0111/key7132/android1.php?c=a0tc
-#EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3dc87a1710825.5600fbeaa48e9.jpg" group-title="MUNDO Y CULTURA",DISCOVERY WORLD HD - ANDR 2
-http://clubtv.link/se0111/key7132/android2.php?c=a0tc
-#EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3dc87a1710825.5600fbeaa48e9.jpg" group-title="MUNDO Y CULTURA",DISCOVERY WORLD - ANDR 3
-http://clubtv.link/se0111/key7132/android3.php?c=26|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
-#EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3dc87a1710825.5600fbeaa48e9.jpg" group-title="MUNDO Y CULTURA",DISCOVERY WORLD HD - ANDR 9
-http://clubtv.link/se0111/key7132/android9.php?c=0045|user-agent=FFFFF
-#EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3dc87a1710825.5600fbeaa48e9.jpg" group-title="MUNDO Y CULTURA",DISCOVERY WORLD HD - LIS 0
-https://clubtv.link/se0111/key7132/lista.php?c=a037
+#EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3dc87a1710825.5600fbeaa48e9.jpg" group-title="MUNDO Y CULTURA",DISCOVERY WORLD - ANDR 0
+https://clubtv.link/DI2112/key4513/android0.php?c=187&token=CanalesGratisEnTecnotv.club&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3dc87a1710825.5600fbeaa48e9.jpg" group-title="MUNDO Y CULTURA",DISCOVERY WORLD - ANDR 6
+http://clubtv.link/DI2112/key4513/android6.php?c=187&token=CanalesGratisEnTecnotv.club|user-agent=Dalvik/2.1.0
+#EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3dc87a1710825.5600fbeaa48e9.jpg" group-title="MUNDO Y CULTURA",DISCOVERY WORLD HD - ANDR 4
+http://clubtv.link/DI2112/key4513/android4.php?c=26&token=CanalesGratisEnTecnotv.club|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
+#EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3dc87a1710825.5600fbeaa48e9.jpg" group-title="MUNDO Y CULTURA",DISCOVERY WORLD HD - ANDR 5
+http://clubtv.link/DI2112/key4513/android5.php?c=26&token=CanalesGratisEnTecnotv.club|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
+#EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3dc87a1710825.5600fbeaa48e9.jpg" group-title="MUNDO Y CULTURA",DISCOVERY WORLD HD - ANDR 7
+http://clubtv.link/DI2112/key4513/android7.php?c=26&token=CanalesGratisEnTecnotv.club|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
 #EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3dc87a1710825.5600fbeaa48e9.jpg" group-title="MUNDO Y CULTURA",DISCOVERY WORLD HD - LIS 2
-http://clubtv.link/se0111/key7132/lista2.php?c=a078
+
 #EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3dc87a1710825.5600fbeaa48e9.jpg" group-title="MUNDO Y CULTURA",DISCOVERY WORLD - MX
 
 #EXTINF:-1 tvg-logo="https://imgur.com/20bgIyT.png" group-title="DISTRO TV",Saber Mas - ANDR 1-6
-http://clubtv.link/se0111/top77645/distro.php?c=saber-mas&f=.m3u8
+http://clubtv.link/DI2112/key4513/distro.php?c=saber-mas&f=.m3u8
 #EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/yFEU3yG.png" group-title="ENTRETENIMIENTO",Clic	- LIS 3
-https://clubtv.link/se0111/key7132/runtime.php?c=4827
+https://clubtv.link/DI2112/key4513/runtime.php?c=4827
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/768px-Sun_Channel_logo.svg.png" group-title="MEXICO",Sun Channel - LIS 0
 https://clubtv.link/se0111/key7132/lista.php?c=a02n
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/768px-Sun_Channel_logo.svg.png" group-title="MEXICO",Sun Channel - LIS 2
