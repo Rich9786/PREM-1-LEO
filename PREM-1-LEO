@@ -646,13 +646,13 @@ http://iptveiksprivado.com/images/vod/canalesculturales.png
 
 
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/5/58/CanalDiscoveryIDLA.png" group-title="MUNDO Y CULTURA",DISCOVERY ID - ANDR 0
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/tvcable/images/1/17/CanalIDLA.png/revision/latest?cb=20231116173622&path-prefix=es" group-title="MUNDO Y CULTURA",DISCOVERY ID - ANDR 0
 https://clubtv.link/DI2112/key4513/android0.php?c=68&token=CanalesGratisEnTecnotv.club&f=.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/5/58/CanalDiscoveryIDLA.png" group-title="MUNDO Y CULTURA",DISCOVERY ID - ANDR 6
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/tvcable/images/1/17/CanalIDLA.png/revision/latest?cb=20231116173622&path-prefix=es" group-title="MUNDO Y CULTURA",DISCOVERY ID - ANDR 6
 http://clubtv.link/DI2112/key4513/android6.php?c=68&token=CanalesGratisEnTecnotv.club|user-agent=Dalvik/2.1.0
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/5/58/CanalDiscoveryIDLA.png" group-title="MUNDO Y CULTURA",DISCOVERY ID HD - ANDR 0
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/tvcable/images/1/17/CanalIDLA.png/revision/latest?cb=20231116173622&path-prefix=es" group-title="MUNDO Y CULTURA",DISCOVERY ID HD - ANDR 0
 https://clubtv.link/DI2112/key4513/android0.php?c=825&token=CanalesGratisEnTecnotv.club&f=.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/5/58/CanalDiscoveryIDLA.png" group-title="MUNDO Y CULTURA",DISCOVERY ID HD - ANDR 6
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/tvcable/images/1/17/CanalIDLA.png/revision/latest?cb=20231116173622&path-prefix=es" group-title="MUNDO Y CULTURA",DISCOVERY ID HD - ANDR 6
 http://clubtv.link/DI2112/key4513/android6.php?c=825&token=CanalesGratisEnTecnotv.club|user-agent=Dalvik/2.1.0
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/5/58/CanalDiscoveryIDLA.png" group-title="MUNDO Y CULTURA",DISCOVERY ID HD - LIS 3
 
@@ -888,20 +888,20 @@ http://clubtv.link/DI2112/key4513/android7.php?c=26&token=CanalesGratisEnTecnotv
 http://clubtv.link/DI2112/key4513/distro.php?c=saber-mas&f=.m3u8
 #EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/yFEU3yG.png" group-title="ENTRETENIMIENTO",Clic	- LIS 3
 https://clubtv.link/DI2112/key4513/runtime.php?c=4827
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/768px-Sun_Channel_logo.svg.png" group-title="MEXICO",Sun Channel - LIS 0
-https://clubtv.link/se0111/key7132/lista.php?c=a02n
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/768px-Sun_Channel_logo.svg.png" group-title="MEXICO",Sun Channel - LIS 1
+https://clubtv.link/DI2112/key4513/lista1.php?c=a044&token=TvGratisEnTecnotv.club&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/768px-Sun_Channel_logo.svg.png" group-title="MEXICO",Sun Channel - LIS 2
-http://clubtv.link/se0111/key7132/lista2.php?c=a044
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/768px-Sun_Channel_logo.svg.png" group-title="MEXICO",Sun Channel - ANDR 1
-http://clubtv.link/se0111/key7132/android1.php?c=a0r9
+http://clubtv.link/DI2112/key4513/lista2.php?c=a05d&f=.m3u8&token=TvGratisEnTecnotv.club
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/768px-Sun_Channel_logo.svg.png" group-title="MEXICO",Sun Channel - LIS 4
+http://clubtv.link/DI2112/key4513/lista4.php?c=a32y&token=CanalesGratisEnTecnotv.club&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/768px-Sun_Channel_logo.svg.png" group-title="MEXICO",Sun Channel - ANDR 2
-http://clubtv.link/se0111/key7132/android2.php?c=a0r9
+
 #EXTINF:-1 tvg-id="1042" tvg-name="AMX Noticias" tvg-logo="https://i2.paste.pics/6074e29d2a3241e1f3b3051144274188.png", AMX Noticias | MX
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 logo="https://images-na.ssl-images-amazon.com/images/I/619apfg5DDL.png" group-title="MUNDO Y CULTURA",DW - ANDR 8
 
 #EXTINF:-1 logo="https://images-na.ssl-images-amazon.com/images/I/619apfg5DDL.png" group-title="MUNDO Y CULTURA",DW - ANDR 9
-http://clubtv.link/se0111/key7132/android9.php?c=0501|user-agent=FFFFF
+
 #EXTINF:-1 logo="https://images-na.ssl-images-amazon.com/images/I/619apfg5DDL.png" group-title="MUNDO Y CULTURA",DW - CL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 logo="https://images-na.ssl-images-amazon.com/images/I/619apfg5DDL.png" group-title="MUNDO Y CULTURA",DW - GEO MR-1
