@@ -488,6 +488,8 @@ https://marine2.miplay.cl/ntv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1015" tvg-name="Planetatv Kids" tvg-logo="https://www.m3u.cl/logo/1015_Planetatv_Kids.png", Planetatv Kids
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 logo="https://plataformas.news/online/nota_clan-se-incorpora-a-dishlatino.gif" group-title="SERIES Y CINE",CLAN (ES) - ESP 2
+http://clubtv.link/DI2112/key4513/esp2.php?c=80696
 #EXTINF:-1 logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="INFANTIL",CARTOON NETWORK - GEO MR-1
 
 #EXTINF:-1 logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="INFANTIL",CARTOON NETWORK - GEO MR-2
@@ -624,7 +626,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/pla
 
 #EXTINF:-1 tvg-id="1335" tvg-name="VariedTV" tvg-logo="https://i.paste.pics/afb90bf11a606a30ee4294c8b32cf9e4.png", VariedTV | AR
 https://6362ca6f1fc28.streamlock.net:443/8066/8066/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1461545043022553089/hYHGCePB_400x400.jpg" group-title="INFANTIL",ENERGEEK - ANDR
 
 #EXTINF:-1 tvg-id="46" tvg-name="Chavo TV" tvg-logo="https://www.m3u.cl/logo/46_Chavo_TV.png", Chavo TV | CL
@@ -2164,8 +2165,8 @@ http://158.69.226.108:8000/live/Vfjjjhj/Djdkfk/1640.ts
 
 
 
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRn7ZA8fMdfyh2hUcpsq9lfFyY0BoteFosPBkzcng=s900-c-k-c0x00ffffff-no-rj" group-title="CINE",A3CINE - GEO MR-1
-
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRn7ZA8fMdfyh2hUcpsq9lfFyY0BoteFosPBkzcng=s900-c-k-c0x00ffffff-no-rj" group-title="CINE",A3CINE - ESP 2
+http://clubtv.link/DI2112/key4513/esp2.php?c=124320
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRn7ZA8fMdfyh2hUcpsq9lfFyY0BoteFosPBkzcng=s900-c-k-c0x00ffffff-no-rj" group-title="CINE",A3CINE - ESP 2
 
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRn7ZA8fMdfyh2hUcpsq9lfFyY0BoteFosPBkzcng=s900-c-k-c0x00ffffff-no-rj" group-title="CINE",A3CINE - ANDR 0
@@ -2194,14 +2195,14 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
 #EXTINF:-1 logo="https://seeklogo.com/images/T/tbs-tv-channel-logo-6D967A4842-seeklogo.com.png" group-title="CINE",TBS - MX
 
-#EXTINF:-1 logo="https://cinelatino.com/wp-content/uploads/2022/03/cine_latino.png" group-title="CINE",Cine Latino - LIS 3
-https://clubtv.link/se0111/key7132/lista3.php?c=a0a9
-#EXTINF:-1 logo="https://cinelatino.com/wp-content/uploads/2022/03/cine_latino.png" group-title="CINE",Cine Latino - LIS 2
-http://clubtv.link/se0111/key7132/lista2.php?c=a06p
-#EXTINF:-1 logo="https://cinelatino.com/wp-content/uploads/2022/03/cine_latino.png" group-title="CINE",Cine Latino - ANDR 9
-http://clubtv.link/se0111/key7132/android9.php?c=0007|user-agent=FFFFF
-#EXTINF:-1 logo="https://cinelatino.com/wp-content/uploads/2022/03/cine_latino.png" group-title="CINE",Cine Latino - LIS 0
-https://clubtv.link/se0111/key7132/lista.php?c=a0a9
+#EXTINF:-1 logo="https://cinelatino.com/wp-content/uploads/2022/03/cine_latino.png" group-title="CINE",Cine Latino - ANDR 0
+https://clubtv.link/DI2112/key4513/android0.php?c=295&token=CanalesGratisEnTecnotv.club&f=.m3u8|user-agent=Dalvik/2.1.0
+#EXTINF:-1 logo="https://cinelatino.com/wp-content/uploads/2022/03/cine_latino.png" group-title="CINE",Cine Latino - ANDR 6
+http://clubtv.link/DI2112/key4513/android6.php?c=295&token=CanalesGratisEnTecnotv.club|user-agent=Dalvik/2.1.0
+#EXTINF:-1 logo="https://cinelatino.com/wp-content/uploads/2022/03/cine_latino.png" group-title="CINE",Cine Latino - ANDR 2
+http://clubtv.link/DI2112/key4513/android2.php?c=492&token=CanalesGratisEnTecnotv.club|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1 logo="https://cinelatino.com/wp-content/uploads/2022/03/cine_latino.png" group-title="CINE",Cine Latino - ANDR 3
+http://clubtv.link/DI2112/key4513/android3.php?c=a02c&token=CanalesGratisEnTecnotv.club
 #EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2018_10/large.CineLatinoSilver.png.dc59ff451209bc0dc6aa40711daeb94c.png" group-title="CINE",Cine Latino - ANDR
 
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1352654088824102912/T-yulvxI_400x400.jpg" group-title="CINE",DE PELICULA OPC 1 - ANDR 8
