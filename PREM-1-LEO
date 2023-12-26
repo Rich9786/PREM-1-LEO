@@ -2319,15 +2319,15 @@ http://clubtv.link/DI2112/key4513/lista6.php?c=a03l&token=GratiTvEnTecnotv.club&
 
 #EXTINF:-1 logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_11/large.543972-8c.png.39b2c22efafad7ae47cef4f1f3aa440b.png" group-title="CINE",GOLDEN PLUS HD - ANDR 1
 http://clubtv.link/DI2112/key4513/android1.php?c=238&token=CanalesGratisEnTecnotv.club
-#EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.e3f131696adc926862a7a22e2fa2f108.png" group-title="CINE",GOLDEN PLUS - ANDR 0
+#EXTINF:-1 logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_11/large.543972-8c.png.39b2c22efafad7ae47cef4f1f3aa440b.png" group-title="CINE",GOLDEN PLUS - ANDR 0
 https://clubtv.link/DI2112/key4513/android0.php?c=58&token=CanalesGratisEnTecnotv.club&f=.m3u8|user-agent=Dalvik/2.1.0
-#EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.e3f131696adc926862a7a22e2fa2f108.png" group-title="CINE",GOLDEN PLUS - ANDR 6
+#EXTINF:-1 logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_11/large.543972-8c.png.39b2c22efafad7ae47cef4f1f3aa440b.png" group-title="CINE",GOLDEN PLUS - ANDR 6
 http://clubtv.link/DI2112/key4513/android6.php?c=58&token=CanalesGratisEnTecnotv.club|user-agent=Dalvik/2.1.0
-#EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.e3f131696adc926862a7a22e2fa2f108.png" group-title="CINE",GOLDEN PLUS HD - LIS 4
+#EXTINF:-1 logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_11/large.543972-8c.png.39b2c22efafad7ae47cef4f1f3aa440b.png" group-title="CINE",GOLDEN PLUS HD - LIS 4
 http://clubtv.link/DI2112/key4513/lista4.php?c=a038&token=GratiTvEnTecnotv.club&f=.m3u8
-#EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.e3f131696adc926862a7a22e2fa2f108.png" group-title="CINE",GOLDEN PLUS HD - LIS 6
+#EXTINF:-1 logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_11/large.543972-8c.png.39b2c22efafad7ae47cef4f1f3aa440b.png" group-title="CINE",GOLDEN PLUS HD - LIS 6
 http://clubtv.link/DI2112/key4513/lista6.php?c=a01f&token=GratiTvEnTecnotv.club&f=.m3u8
-#EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.e3f131696adc926862a7a22e2fa2f108.png" group-title="CINE",GOLDEN + - ANDR 9
+#EXTINF:-1 logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_11/large.543972-8c.png.39b2c22efafad7ae47cef4f1f3aa440b.png" group-title="CINE",GOLDEN + - ANDR 9
 
 #EXTINF:-1 logo="https://startvmexico.com/wp-content/uploads/2018/10/gedge.png" group-title="CINE",G-EDGE - GEO MR-1
 
@@ -2349,12 +2349,12 @@ http://clubtv.link/DI2112/key4513/android2.php?c=613&token=CanalesGratisEnTecnot
 
 #EXTINF:-1 logo="https://xview.mx/img/xview/canales/logos/series/mc.png" group-title="CINE",MULTICINEMA S1 - LIS 1
 
-#EXTINF:-1 logo="https://xview.mx/img/xview/canales/logos/series/mc.png" group-title="CINE",MULTICINEMA - LIS 0
-https://clubtv.link/se0111/key7132/lista.php?c=a07o
-#EXTINF:-1 logo="https://xview.mx/img/xview/canales/logos/series/mc.png" group-title="CINE",MULTICINEMA - LIS 2
-http://clubtv.link/se0111/key7132/lista2.php?c=a04f
-#EXTINF:-1 logo="https://xview.mx/img/xview/canales/logos/series/mc.png" group-title="CINE",MULTICINEMA - LIS 3
-https://clubtv.link/se0111/key7132/lista3.php?c=a07o
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MC_logo_2022.png/800px-MC_logo_2022.png" group-title="CINE",MULTICINEMA - LIS 1
+https://clubtv.link/DI2112/key4513/lista1.php?c=a04f&token=GratiTvEnTecnotv.club&f=.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MC_logo_2022.png/800px-MC_logo_2022.png" group-title="CINE",MULTICINEMA - LIS 2
+http://clubtv.link/DI2112/key4513/android8.php?c=208.88.246.11:5473/607MC/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8&token=tecnotv|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MC_logo_2022.png/800px-MC_logo_2022.png" group-title="CINE",MULTICINEMA - LIS 3
+
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/a4fcb1bf-cfa6-47b0-941a-7e09f802139e_m.jpg" group-title="CINE",MULTIPREMIER - ANDR 8
 http://clubtv.link/se0111/key7132/android8.php?c=105|user-agent=vsaClient/1.0.6.REYSTREAM.DEJA.DE.ROBAR.PUTO
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/a4fcb1bf-cfa6-47b0-941a-7e09f802139e_m.jpg" group-title="CINE",MULTIPREMIER - LIS 0
