@@ -750,7 +750,7 @@ http://clubtv.link/EN0102/key4513/lista6.php?c=a01p&token=TECNOTVCLUB&f=.m3u8
 #EXTINF:-1 logo="https://mms.businesswire.com/media/20160221005252/es/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="MUNDO Y CULTURA",Love Nature - ANDR 1
 http://clubtv.link/EN0102/key4513/android1.php?c=4285&token=TECNOTVCLUB
 #EXTINF:-1 logo="https://mms.businesswire.com/media/20160221005252/es/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="MUNDO Y CULTURA",Love Nature HD - ANDR 1
-http://clubtv.link/EN0102/key4513/android1.php?c=4189&token=TECNOTVCLUB
+
 #EXTINF:-1 logo="https://www.formulatv.com/images/articulos/55000/55629_d8fe9d8dd9-t.jpg" group-title="MUNDO Y CULTURA",Odisea - ANDR 4
 http://clubtv.link/EN0102/key4513/android4.php?c=34&token=TECNOTVCLUB|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
 #EXTINF:-1 logo="https://www.formulatv.com/images/articulos/55000/55629_d8fe9d8dd9-t.jpg" group-title="MUNDO Y CULTURA",Odisea - ANDR 5
@@ -1057,14 +1057,14 @@ http://clubtv.link/EN0102/key4513/esp2.php?c=2209
 
 #EXTINF:-1 logo="https://i.imgur.com/68ztlZE.png" group-title="ENTRETENIMIENTO",GOURMET HD - LIS 6
 http://clubtv.link/EN0102/key4513/lista6.php?c=a00o&token=TECNOTVCLUB&f=.m3u8
-#EXTINF:-1 logo="https://i.imgur.com/68ztlZE.png" group-title="ENTRETENIMIENTO",GOURMET - ANDR 1
-http://clubtv.link/EN0102/key4513/android1.php?c=4269&token=TECNOTVCLUB
 #EXTINF:-1 logo="https://i.imgur.com/68ztlZE.png" group-title="ENTRETENIMIENTO",GOURMET - ANDR 4
 http://clubtv.link/EN0102/key4513/android4.php?c=396&token=TECNOTVCLUB|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
 #EXTINF:-1 logo="https://i.imgur.com/68ztlZE.png" group-title="ENTRETENIMIENTO",GOURMET - ANDR 5
 http://clubtv.link/EN0102/key4513/android5.php?c=396&token=TECNOTVCLUB|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
 #EXTINF:-1 logo="https://i.imgur.com/68ztlZE.png" group-title="ENTRETENIMIENTO",GOURMET - ANDR 6
 http://clubtv.link/EN0102/key4513/android6.php?c=396&token=TECNOTVCLUB|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
+#EXTINF:-1 logo="https://i.imgur.com/68ztlZE.png" group-title="ENTRETENIMIENTO",GOURMET - ANDR 7
+http://clubtv.link/EN0102/key4513/android7.php?c=396&token=TECNOTVCLUB|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
 #EXTINF:-1 logo="https://canalcocina.es/images/canalcocina.png" group-title="ENTRETENIMIENTO",CANAL COCINA HD - ESP
 
 #EXTINF:-1 logo="https://canalcocina.es/images/canalcocina.png" group-title="ENTRETENIMIENTO",CANAL COCINA HD - ESP2
@@ -1860,14 +1860,16 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8?PlaylistM3UCL
 https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="478" tvg-name="Telesistema" tvg-logo="https://www.m3u.cl/logo/478_Telesistema.png", Telesistema | CR
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel - ANDR 0
+https://clubtv.link/EN0102/key4513/android0.php?c=595&token=TECNOTVCLUB|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel - ANDR 2
-http://clubtv.link/DI2623/key4513/android2.php?c=595&token=CanalesGratisEnTecnotv.club|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+http://clubtv.link/EN0102/key4513/android2.php?c=595&token=TECNOTVCLUB|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel - ANDR 3
-http://clubtv.link/DI2623/key4513/android3.php?c=a048&token=TECNOTVCLUB
+http://clubtv.link/EN0102/key4513/android3.php?c=a048&token=TECNOTVCLUB
 #EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel HD - LIS 1
-https://clubtv.link/DI2623/key4513/lista1.php?c=a05c&token=TECNOTVCLUB&f=.m3u8
+https://clubtv.link/EN0102/key4513/lista1.php?c=a05c&token=TECNOTVCLUB&f=.m3u8
 #EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel - LIS 2
-http://clubtv.link/DI2623/key4513/lista2.php?c=a070&f=.m3u8&token=TECNOTVCLUB
+http://clubtv.link/EN0102/key4513/lista2.php?c=a070&f=.m3u8&token=TECNOTVCLUB
 #EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel - ANDR 9
 
 #EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel HD - LIS 0
@@ -1890,18 +1892,16 @@ http://clubtv.link/DI2623/key4513/lista2.php?c=a070&f=.m3u8&token=TECNOTVCLUB
 
 #EXTINF:-1 logo="https://i.imgur.com/yA2sydz.png" group-title="SERIES Y CINE",Star Channel - lis 1 
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="SERIES Y CINE",SONY - ANDR 2
-http://clubtv.link/DI2623/key4513/android2.php?c=750&token=TECNOTVCLUB|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="SERIES Y CINE",SONY - ANDR 0
-https://clubtv.link/DI2623/key4513/android0.php?c=145&token=TECNOTVCLUB&f=.m3u8|user-agent=Dalvik/2.1.0
+https://clubtv.link/EN0102/key4513/android0.php?c=754&token=TECNOTVCLUB|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="SERIES Y CINE",SONY - ANDR 2
+http://clubtv.link/EN0102/key4513/android2.php?c=754&token=TECNOTVCLUB|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="SERIES Y CINE",SONY - ANDR 1
-http://clubtv.link/DI2623/key4513/android1.php?c=34&token=TECNOTVCLUB
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="SERIES Y CINE",SONY HD - ANDR 0
-https://clubtv.link/DI2623/key4513/android0.php?c=498&token=TECNOTVCLUB&f=.m3u8|user-agent=Dalvik/2.1.0
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="SERIES Y CINE",SONY HD - ANDR 1
-http://clubtv.link/DI2623/key4513/android1.php?c=257&token=TECNOTVCLUB
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="SERIES Y CINE",SONY HD - ANDR 2
-http://clubtv.link/DI2623/key4513/android2.php?c=754&token=TECNOTVCLUB|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="SERIES Y CINE",SONY - ANDR 0
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="SERIES Y CINE",SONY HD - ANDR 1
@@ -1929,17 +1929,21 @@ http://clubtv.link/DI2623/key4513/android2.php?c=754&token=TECNOTVCLUB|User-Agen
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/26ba2241-cf4e-42a7-b0e8-c8bbd06392c9_m.jpg" group-title="SERIES Y CINE",WARNER HD - GEO 3
 
 #EXTINF:-1 logo="https://1.bp.blogspot.com/-JQNiUM4A2QI/X9TG0We7WCI/AAAAAAAA7lg/ELH2-qgU4pE0ENl7bTw9ya9dCAO5kkzcACLcBGAsYHQ/s378/warner-channel.png" group-title="SERIES Y CINE",WARNER (ES) - ANDR 0
-https://clubtv.link/DI2623/key4513/android0.php?c=982&token=TECNOTVCLUB&f=.m3u8|user-agent=Dalvik/2.1.0
+
 #EXTINF:-1 logo="https://1.bp.blogspot.com/-JQNiUM4A2QI/X9TG0We7WCI/AAAAAAAA7lg/ELH2-qgU4pE0ENl7bTw9ya9dCAO5kkzcACLcBGAsYHQ/s378/warner-channel.png" group-title="SERIES Y CINE",WARNER (ES) - ANDR 6
-http://clubtv.link/DI2623/key4513/android6.php?c=982&token=TECNOTVCLUB|user-agent=Dalvik/2.1.0
+
 #EXTINF:-1 logo="https://1.bp.blogspot.com/-JQNiUM4A2QI/X9TG0We7WCI/AAAAAAAA7lg/ELH2-qgU4pE0ENl7bTw9ya9dCAO5kkzcACLcBGAsYHQ/s378/warner-channel.png" group-title="SERIES Y CINE",WARNER HD - ANDR 0
-https://clubtv.link/DI2623/key4513/android0.php?c=503&token=TECNOTVCLUB&f=.m3u8|user-agent=Dalvik/2.1.0
+
 #EXTINF:-1 logo="https://1.bp.blogspot.com/-JQNiUM4A2QI/X9TG0We7WCI/AAAAAAAA7lg/ELH2-qgU4pE0ENl7bTw9ya9dCAO5kkzcACLcBGAsYHQ/s378/warner-channel.png" group-title="SERIES Y CINE",WARNER HD - ANDR 1
-http://clubtv.link/DI2623/key4513/android1.php?c=267&token=TECNOTVCLUB
+
+#EXTINF:-1 logo="https://1.bp.blogspot.com/-JQNiUM4A2QI/X9TG0We7WCI/AAAAAAAA7lg/ELH2-qgU4pE0ENl7bTw9ya9dCAO5kkzcACLcBGAsYHQ/s378/warner-channel.png" group-title="SERIES Y CINE",WARNER HD - ANDR 0
+https://clubtv.link/EN0102/key4513/android0.php?c=859&token=TECNOTVCLUB|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://1.bp.blogspot.com/-JQNiUM4A2QI/X9TG0We7WCI/AAAAAAAA7lg/ELH2-qgU4pE0ENl7bTw9ya9dCAO5kkzcACLcBGAsYHQ/s378/warner-channel.png" group-title="SERIES Y CINE",WARNER HD - ANDR 2
-http://clubtv.link/DI2623/key4513/android2.php?c=859&token=TECNOTVCLUB|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+http://clubtv.link/EN0102/key4513/android2.php?c=859&token=TECNOTVCLUB|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1 logo="https://1.bp.blogspot.com/-JQNiUM4A2QI/X9TG0We7WCI/AAAAAAAA7lg/ELH2-qgU4pE0ENl7bTw9ya9dCAO5kkzcACLcBGAsYHQ/s378/warner-channel.png" group-title="SERIES Y CINE",WARNER - ANDR 0
+https://clubtv.link/EN0102/key4513/android0.php?c=854&token=TECNOTVCLUB|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://1.bp.blogspot.com/-JQNiUM4A2QI/X9TG0We7WCI/AAAAAAAA7lg/ELH2-qgU4pE0ENl7bTw9ya9dCAO5kkzcACLcBGAsYHQ/s378/warner-channel.png" group-title="SERIES Y CINE",WARNER - ANDR 2
-http://clubtv.link/DI2623/key4513/android2.php?c=854&token=TECNOTVCLUB|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+http://clubtv.link/EN0102/key4513/android2.php?c=854&token=TECNOTVCLUB|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://1.bp.blogspot.com/-JQNiUM4A2QI/X9TG0We7WCI/AAAAAAAA7lg/ELH2-qgU4pE0ENl7bTw9ya9dCAO5kkzcACLcBGAsYHQ/s378/warner-channel.png" group-title="SERIES Y CINE",WARNER HD S3 - LIS 2 
 
 #EXTINF:-1 logo="https://1.bp.blogspot.com/-JQNiUM4A2QI/X9TG0We7WCI/AAAAAAAA7lg/ELH2-qgU4pE0ENl7bTw9ya9dCAO5kkzcACLcBGAsYHQ/s378/warner-channel.png" group-title="SERIES Y CINE",WARNER S2 - TV 
@@ -1974,14 +1978,14 @@ http://clubtv.link/DI2623/key4513/android2.php?c=854&token=TECNOTVCLUB|User-Agen
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/hn_tru-tv_m.png" group-title="ENTRETENIMIENTO",TRUTV - MX
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Universal_TV_HD_Logo_2018.png" group-title="SERIES Y CINE",UNIVERSAL HD - ANDR 0
-https://clubtv.link/DI2623/key4513/android0.php?c=502&token=TECNOTVCLUB&f=.m3u8|user-agent=Dalvik/2.1.0
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Universal_TV_HD_Logo_2018.png" group-title="SERIES Y CINE",UNIVERSAL HD - ANDR 1
-http://clubtv.link/DI2623/key4513/android1.php?c=266&token=TECNOTVCLUB
+http://clubtv.link/EN0102/key4513/android1.php?c=266&token=TECNOTVCLUB
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Universal_TV_HD_Logo_2018.png" group-title="SERIES Y CINE",UNIVERSAL HD - ANDR 0
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Universal_TV_HD_Logo_2018.png" group-title="SERIES Y CINE",UNIVERSAL HD - ANDR 2
-http://clubtv.link/DI2623/key4513/android2.php?c=823&token=TECNOTVCLUB|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+http://clubtv.link/EN0102/key4513/android2.php?c=823&token=TECNOTVCLUB|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Universal_TV_HD_Logo_2018.png" group-title="SERIES Y CINE",UNIVERSAL HD - ANDR 4
-http://clubtv.link/DI2623/key4513/android4.php?c=127&token=TECNOTVCLUB|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
+http://clubtv.link/EN0102/key4513/android4.php?c=127&token=TECNOTVCLUB|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
 #EXTINF:-1 logo="https://w7.pngwing.com/pngs/897/89/png-transparent-logo-universal-channel-high-definition-television-olympic-channel-television-channel-universal-kids-purple-television-violet-thumbnail.png" group-title="SERIES Y CINE",UNIVERSAL - GEO MR-1
 
 #EXTINF:-1 logo="https://w7.pngwing.com/pngs/897/89/png-transparent-logo-universal-channel-high-definition-television-olympic-channel-television-channel-universal-kids-purple-television-violet-thumbnail.png" group-title="SERIES Y CINE",UNIVERSAL - GEO MR-2
