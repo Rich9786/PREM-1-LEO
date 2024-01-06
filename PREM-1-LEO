@@ -62,7 +62,7 @@ http://www.intermusika.org/___TMP___/media/Dance/Aqua/Aqua%20-%20Barbie%20Girl.m
 
 #EXTINF:-1 tvg-id="134238" tvg-name="Paka Paka" tvg-logo="https://www.totalmedios.com/img/noticias/2015/03/54fedb71a1c1d__838x390.jpg", Paka Paka
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="134293" tvg-name="Pequeradio TV" tvg-logo="https://www.totalmedios.com/img/noticias/2015/03/54fedb71a1c1d__838x390.jpg", Pequeradio TV S1
+#EXTINF:-1 tvg-id="134293" tvg-name="Pequeradio TV" tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="Infantiles", Pequeradio TV S1
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="Infantiles" tvg-name="Pequeradio TV",Pequeradio TV S2
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
