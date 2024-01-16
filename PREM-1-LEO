@@ -1651,10 +1651,10 @@ https://videostreaming.cloudserverlatam.com:443/8000/8000/playlist.m3u8?Playlist
 https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="897" tvg-name="Retro Play TV" tvg-logo="https://www.m3u.cl/logo/897_Retro_Play_TV.png", Retro Play TV | CL
 https://v4.tustreaming.cl/retroplaytv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="106792" tvg-name="Retro Plus TV" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV 1
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="110972" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV 2
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="106792" tvg-name="Retro Plus TV" tvg-logo="https://i.pinimg.com/736x/b5/07/78/b50778f3a3a4c77eaeb9c5d709bfc6ab.jpg", Retro Plus TV 1
+https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="110972" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://i.pinimg.com/736x/b5/07/78/b50778f3a3a4c77eaeb9c5d709bfc6ab.jpg", Retro Plus TV 2
+https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1055" tvg-name="Mega Cine TV" tvg-logo="https://canalesdominicanos.live/template/images/radios/teve-musica.png", TU MUSICA HD | DO
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="471" tvg-name="Memorias TV" tvg-logo="https://i2.paste.pics/6679119106cf69f194a4d375b391a2a2.png", Memorias TV | PE
@@ -1688,7 +1688,7 @@ https://loop-country-2.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nm3N3aw.png" group-title="USA",Bluegrass 4U SEÑAL
 
 #EXTINF:-1 tvg-id="SexyKpopTV.br" tvg-name="Sexy Kpop TV" tvg-country="BR" tvg-language="" tvg-logo="https://i.imgur.com/jsQmxyV.jpg" group-title="Brazil",Sexy Kpop TV (720p)
-https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+https://250weu.bozztv.com/ssh101/ssh101/kpoptv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="133949" tvg-name="Ekiz TV" tvg-logo="https://lh3.googleusercontent.com/-gDK3j68Mc6o/YFYnQ_VgDyI/AAAAAAABAy0/COi6QK7t40UXPZuYPWHnOwi61yO0QRVUwCK8BGAsYHg/s512/2021-03-20.jpg", Ekiz TV
 
 #EXTINF:-1 tvg-id="1" tvg-name="Rewind TV" tvg-logo="https://www.m3u.cl/logo/1_Rewind_TV.png", Rewind TV
