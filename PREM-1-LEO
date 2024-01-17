@@ -2534,89 +2534,24 @@ http://158.69.226.108:8000/live/Vfjjjhj/Djdkfk/1642.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", Música Clássica 
-http://6d9a.webradio.upx.net.br:9970/stream
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", Trilhas Sonoras 
-http://6d9a.webradio.upx.net.br:9896/stream
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", STUDIO DO AMOR 
-http://192.99.150.31:8962/stream?
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", ROBERTO CARLOS 
-http://192.99.150.31:9137/stream
 
 #EXTINF:-1 tvg-logo="http://pwaimg.listenlive.co/STEREOREY_827871_config_default_cover_image.png" group-title="C-AUDIO", Stereorey
-http://15373.live.streamtheworld.com/STEREOREYAAC
+
 
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.emisoras.com/upload/radio_logo/16/3_1447268604_alfa-963.jpg" group-title="C-AUDIO", Alfa Fm 96.3 FM
 http://radioonline.netgate.com.uy:8000/alfafm
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", Pagode 
-http://6d9a.webradio.upx.net.br:9061/stream
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", Bossa Nova 
-http://6d9a.webradio.upx.net.br:9974/stream
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", LA GUARIDA RADIO
-http://198.178.123.20:10458/listen.pls?sid=1 
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", Radios Chilenas", Imagina (88.1 FM)
-http://14073.live.streamtheworld.com/IMAGINAAAC.aac
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", Radio Romina (92.5 FM Antofagasta)
-http://198.50.154.235:10246/;
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", Radio Almeyda (94.3 FM Diego de Almagro)
-http://192.99.18.164:9974/stream
-
 #EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", Concierto (88.5 FM)
 http://19793.live.streamtheworld.com/CONCIERTOAAC.aac
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", Radio Uno (97.1 FM)
-http://17933.live.streamtheworld.com/RADIO_UNOAAC.aac
 
 #EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", Radio La Voz De Yungay (102.7 FM Ñuble)
 http://stream5.eltelon.com/archi-yungay.aac?type=.flv
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", Lo Actual (96.7 FM Calama)
-http://rs.comtic.net:8000/;
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", Portales (1180 AM)
-http://s6.jcwebnew.com:8060/stream
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", Radio Canal 95 (88.1 FM Antofagasta)
-http://sonando.us.digitalproserver.com/canal95_aac
-
 #EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", Futuro (88.9 FM)
 http://19793.live.streamtheworld.com/FUTUROAAC.aac
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", FM Mas (89.1 Arica)
-http://cast.radioservicios.cl:8026/fmmas
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", Pudahuel (90.5 FM)
-http://17953.live.streamtheworld.com/PUDAHUELAAC.aac
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", Radio Alegria del Transporte (90.9 FM Calama)
-http://s6.medionline.cl:9364/;
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", Radio Mirador (90.9 FM Lautaro)
-http://demo.dyndns.biz:8016/;
-
 #EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", Radio Entretenida FM (92.5 FM Vilcun)
 http://atanua.broadcastchile.cl:7000/;
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", Radio Comunicativa (93.7 FM Ovalle)
-http://ip.audiostreaming.cl:9996/;
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", Rock and Pop (94.1 FM)
-http://18423.live.streamtheworld.com/ROCK_AND_POPAAC.aac
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", Radio La Discusion (94.7 FM Chillan)
-http://stream5.eltelon.com/radio-la-discusion.aac
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", Radio Universidad de Tarapaca (95.9 FM Arica)
-http://stream5.eltelon.com:8000/universidad-de-tarapaca.aac
 
 #EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", Radio Genesis (96.5 FM Curacautin)
 http://stream5.eltelon.com/genesis.aac
@@ -2630,77 +2565,17 @@ http://stream5.eltelon.com/san-bartolome.aac
 #EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", Radio Sol (97.7 FM Antofagasta)(Alt)
 http://stream5.eltelon.com/sol-radio.aac
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", Positiva (98.5 FM Temuco)
-http://mimix.mercurio.cl:8000/temuco2
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", Arcoiris (99.3 FM Coyhaique)
-http://s6.jcwebnew.com:8120/;
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", Radio Positiva (FM 99.5 Valdivia)
-http://mimix.mercurio.cl:8000/valdivia2
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", Futura FM (100.7 Talca)
-http://stream5.eltelon.com/futura.aac
-
 #EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", Radio Festiva (100.9 FM Copiapo)
 http://s6.jcwebnew.com:8070/;
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", Los 40 Principales (101.7 FM)
-http://18733.live.streamtheworld.com/LOS40_CHILEAAC.aac
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", Radio Madero (102.5 FM Antofagasta)
-http://unlimited1-cl.digitalproserver.com/madero_antofagasta/mp3/icecast.audio
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", Radio Nativa (106.5 FM Lumaco)
-http://stream5.eltelon.com/nativa.aac
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", Radio Plus FM (106.9 FM Antofagasta)
-http://sonando.us.digitalproserver.com/fmplus_aac
-
 #EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", Radio Club 80 (Online)
 http://play.enhd.co:7024/;
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", Radio Anglo Latina (Online)
-http://streaming.radioanglolatina.com:8012/;
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", Radio Siente (Online - Arica)
-http://radio1.us.mediastre.am/siente.aac
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", MIX FM
-http://astro2.rastream.com/mix
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", New Rock 
-http://6d9a.webradio.upx.net.br:8028/stream
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", Pop Hits 
-http://6d9a.webradio.upx.net.br:9046/stream
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", Lounge 
-http://6d9a.webradio.upx.net.br:9064/stream
-
-#EXTINF:0 type="stream" tvg-logo="http://enlaradio.com.ar/adjuntos/image/FM/elr_metro.png" , METRO 95.1
-http://mp3.metroaudio1.stream.avstreaming.net:7200/metro
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", Años 2000 
-http://6d9a.webradio.upx.net.br:9940/stream
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", Pop Rock 
-http://6d9a.webradio.upx.net.br:8016/stream
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", Fiesta 
-http://6d9a.webradio.upx.net.br:9070/stream
-
-#EXTINF:-1 tvg-logo="http://www.radiosplay.com/logos/3/2/6/7/32679.png" group-title="Radios", Radio PortalFoxMix 
-http://167.114.119.122:9934/;
 
 #EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", Loading Trance Radio
 http://ua.ah.fm:8000/afterhours
 
 #EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", 181. Fm Power
 http://relay2.181.fm:8128/;?type=.flv
-
-#EXTINF:0 type="stream" tvg-logo="http://cdn-radiotime-logos.tunein.com/s112745q.png" , RADIO ROCK 93.7
-http://mp3.metroaudio1.stream.avstreaming.net:7200/metro
 
 #EXTINF:0 type="stream" tvg-logo="https://goo.gl/TBKbAm" , RADIO LATINA 101.1
 http://streaming.latina101.com.ar:8080/RadioLatina
@@ -2808,7 +2683,7 @@ https://ice55.securenetsystems.net/DASH39
 #EXTINF:0 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Rinse.png" group-title="- DASH RADIO",Rinse FM
 https://ice55.securenetsystems.net/DASH70
 
-#EXTINF:0 tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/iCRAFT/icraft_324.png" group-title="- DASH RADIO",iCraft Radio Powered By T-Boz
+#EXTINF:0 tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/iCRAFT/icraft_324.png" group-title="- DASH RADIO",iCraft Radio Chilout Powered By T-Boz Chilout
 https://ice55.securenetsystems.net/DASH54
 
 #EXTINF:0 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/BeatJunkieRadio.png" group-title="- DASH RADIO",Beat Junkie Radio
@@ -2835,7 +2710,7 @@ https://ice55.securenetsystems.net/DASH2
 #EXTINF:0 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/SWING/Swing-Color.png" group-title="- DASH RADIO",Swing
 https://ice55.securenetsystems.net/DASH80
 
-#EXTINF:0 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Ratpack.png" group-title="- DASH RADIO",Ratpack
+#EXTINF:0 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Ratpack.png" group-title="- DASH RADIO",Ratpack Baladas 50s y 60s
 https://ice55.securenetsystems.net/DASH5
 
 #EXTINF:0 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/TheCut.png" group-title="- DASH RADIO",The Cut
@@ -2880,13 +2755,13 @@ https://ice55.securenetsystems.net/DASH35
 #EXTINF:0 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/YG.png" group-title="- DASH RADIO",YG Presents
 https://ice55.securenetsystems.net/DASH28
 
-#EXTINF:0 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/TheBridge.png" group-title="- DASH RADIO",The Bridge
+#EXTINF:0 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/TheBridge.png" group-title="- DASH RADIO",The Bridge Smooth Jazz
 https://ice55.securenetsystems.net/DASH44
 
-#EXTINF:0 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/ReggaeKing.png" group-title="- DASH RADIO",Reggae King
+#EXTINF:0 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/ReggaeKing.png" group-title="- DASH RADIO",Reggae King Suave
 https://ice55.securenetsystems.net/DASH79
 
-#EXTINF:0 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/TheRanch.png" group-title="- DASH RADIO",The Ranch
+#EXTINF:0 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/TheRanch.png" group-title="- DASH RADIO",The Ranch Country
 https://ice55.securenetsystems.net/DASH13
 
 #EXTINF:0 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/TheCross2016Color.png" group-title="- DASH RADIO",The Cross
@@ -2895,7 +2770,7 @@ https://ice55.securenetsystems.net/DASH42
 #EXTINF:0 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/DashIndie.png" group-title="- DASH RADIO",Dash Indie
 https://ice55.securenetsystems.net/DASH32
 
-#EXTINF:0 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/ParadiseCity.png" group-title="- DASH RADIO",Paradise City
+#EXTINF:0 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/ParadiseCity.png" group-title="- DASH RADIO",Paradise City 70s
 https://ice55.securenetsystems.net/DASH20
 
 #EXTINF:0 tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/CHURCHOFROCK/churchR_324.png" group-title="- DASH RADIO",Church of Rock & Roll
@@ -2904,7 +2779,7 @@ https://ice55.securenetsystems.net/DASH21
 #EXTINF:0 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/TheStrip.png" group-title="- DASH RADIO",The Strip
 https://ice55.securenetsystems.net/DASH24
 
-#EXTINF:0 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Cinescore.png" group-title="- DASH RADIO",Cinescore
+#EXTINF:0 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Cinescore.png" group-title="- DASH RADIO",Cinescore Temas de Cine
 https://ice55.securenetsystems.net/DASH29
 
 #EXTINF:0 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Love.png" group-title="- DASH RADIO",Love Songs
@@ -2913,8 +2788,10 @@ https://ice55.securenetsystems.net/DASH66
 
 
 
+
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/bd/bd/d8/bdbdd86c306e0105d2e0564f0ae60d10.png" group-title="LABEL",~ USA Radio ~
 http://www.lengua.com/anthems/USA.mp3
+
 
 
 
@@ -2946,23 +2823,9 @@ http://66.85.88.174:80/hot108
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://jewishmusicstream.com/wp-content/uploads/2011/07/icon.jpg" group-title="USA",JewishMusic Stream
 http://stream.jewishmusicstream.com:8000/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/5f/ce/17570/c175.png" group-title="USA",Jazz 91.7 FM San Antonio
-http://131.194.66.88:9000/krtu_live-36kb
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/fpv5bl5ujhk8.jpeg" group-title="USA",Poder 97.1 FM Rochester
-http://poder971.serverroom.net:9242
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.smoothjazz.com/themes/smoothjazz/images/sj-circle-logo.png" group-title="USA",SmoothJazz.com Global Radio
-http://144.217.153.67:80/live
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jazzgroove.org/theme/16/img/logo-circle-white1-no-org.png" group-title="USA",The Jazz Groove
-http://199.180.75.116:80/stream
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ideastream-production.s3.amazonaws.com/images/about/logo-wcpn.png" group-title="USA",WCPN 90.3 FM Cleveland
 http://audio1.ideastream.org/wcpn128.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://a1-images.myspacecdn.com/images04/2/6ac571914e3e431fb7c3c8251613c94c/300x300.jpg" group-title="USA",WLOY Loyola Radio
-http://64.202.98.51:8130/live
 
 
 
@@ -2973,23 +2836,12 @@ http://www.lengua.com/anthems/Canada.mp3
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canuckradios.com/wp-content/uploads/2017/03/allhits-86.6.jpg" group-title="CANADA",All Hits 86.6 FM Brantford
-http://149.56.147.197:8326/stream
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cbc.ca/labradormorning/CBC_RadioOne_Gen_4c.jpg" group-title="CANADA",CBC Radio One
-http://liveradio.cbc.ca/i/CBCR1_OTT@348188/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.theisabel.ca/sites/default/files/uploads/content/cbc_radio_two.jpeg" group-title="CANADA",CBC Radio 2
-http://liveradiocanada.cbc.ca/i/CBCR2_TOR@382863/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/555195858430345216/OiBKQ64G_400x400.jpeg" group-title="CANADA",Pulse FM - Hit Music Now!
-http://176.31.107.8:8946/stream
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i3.radionomy.com/radios/400/e65d7c77-6f45-486c-b8de-2eafa8d6a6b1.png" group-title="CANADA",Retro Hits
 http://149.56.183.178:8300/stream
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i3.radionomy.com/radios/400/d2d4b3c3-10f1-4e72-b9d6-7c2105739179.jpg" group-title="CANADA",rockXradio
 http://158.69.227.214:8000/stream
+
 
 
 
@@ -3000,50 +2852,13 @@ http://www.lengua.com/anthems/nationalanthemukgreatbritain.mp3
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/884423852578787328/pWi2ihQa.jpg" group-title="UK",Absolute Radio - 00s
-http://icy-e-bab-04-cr.sharp-stream.com:80/absolute00s.mp3
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/884423852578787328/pWi2ihQa.jpg" group-title="UK",Absolute Radio - 90s
-http://icy-e-bab-04-cr.sharp-stream.com:80/absolute90s.mp3
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/884423852578787328/pWi2ihQa.jpg" group-title="UK",Absolute Radio - Classic Rock
-http://icy-e-bab-04-cr.sharp-stream.com:80/absoluteclassicrock.mp3
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.fatboyslim.org/wp-content/uploads/2006/10/bbc_radio1-520x245.png" group-title="UK",BBC Radio 1 [Opt-1]
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.fatboyslim.org/wp-content/uploads/2006/10/bbc_radio1-520x245.png" group-title="UK",BBC Radio 1 [Opt-2]
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_one.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s3-eu-west-1.amazonaws.com/wise-buddah-buffalo/Public/JINGLES/IMAGES/CLIENT_LOGOS/BBC/BBC_Radio_2_Client.png" group-title="UK",BBC Radio 2 [Opt-1]
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s3-eu-west-1.amazonaws.com/wise-buddah-buffalo/Public/JINGLES/IMAGES/CLIENT_LOGOS/BBC/BBC_Radio_2_Client.png" group-title="UK",BBC Radio 2 [Opt-2]
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_two.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ichef.bbci.co.uk/images/ic/480xn/p041cg2r.jpg" group-title="UK",BBC Radio 3 [Opt-1]
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_p
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thecwa.co.uk/wp-content/uploads/2016/07/BBC-Radio-4-logo-300x320.jpg" group-title="UK",BBC Radio 4 [Opt-1]
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thecwa.co.uk/wp-content/uploads/2016/07/BBC-Radio-4-logo-300x320.jpg" group-title="UK",BBC Radio 4 [Opt-2]
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_fourfm.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ichef.bbci.co.uk/corporate2/images/width/live/p0/4h/bf/p04hbf9n.jpg/624" group-title="UK",BBC Radio 6 Music [Opt-1]
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://burnsideradiouk.com/BurnsideRadioWhite.png" group-title="UK",Burnside Radio 105.0 FM Swansea
-http://aries.streaming.zfast.co.uk:8084/burnsideradiouk.aac
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.capitalfm.com/assets_v4r/capital/img/default_image_track.png" group-title="UK",Capital 95.8 FM London
 http://media-sov.musicradio.com:80/CapitalMP3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple5/v4/2a/a1/1b/2aa11b5a-0b6d-06de-f04d-8249b0444ed5/source/512x512bb.jpg" group-title="UK",Energy FM
-http://188.40.135.197:8434/listen.
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2014/06/Garden-County-Radio.jpg" group-title="UK",Garden County Radio Dublin
-http://5.63.151.52:7044/stream
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Hfmlogo.jpg" group-title="UK",Harborough FM 102.3 [AAC]
 http://edge-audio-03-gos2.sharp-stream.com:80/harboroughfm.aac
@@ -3054,26 +2869,11 @@ http://78.129.251.150:8181/stream
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/51/ec/9458/c175.png" group-title="UK",Heart 106.2 FM London
 http://media-sov.musicradio.com:80/HeartLondonMP3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Kiss_Network_logo.svg/1200px-Kiss_Network_logo.svg.png" group-title="UK",Kiss FM 100.0 London
-http://5.63.151.52:7038/stream
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.promolyrics.com/sites/default/files/logosticker.png" group-title="UK",Mondo Bongo Radio
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.promolyrics.com/sites/default/files/logosticker.png" group-title="UK",Mondo Bongo Jazz Radio
 http://5.63.151.52:7082/stream
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.pigpenradio.org/listen/pigpen_radio_listen_logo.png" group-title="UK",Pigpen Radio
-http://178.79.158.160:8213/;
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s255316d.png" group-title="UK",Pirate Oldies Cornwall
-http://str1.sad.ukrd.com:80/pirateoldies-low
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s13606d.png" group-title="UK",Radio Paradise
 http://stream-uk1.radioparadise.com/mp3-192
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://route2take.co.uk/wp-content/uploads/2014/10/silkBigger1.png" group-title="UK",Silk 106.9 FM
-http://edge-audio-03-gos2.sharp-stream.com:80/tcsilk.mp3
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foldedwing.co.uk/images/general/Station898fm.jpg" group-title="UK",Station 89.8 FM
-http://station898fm.primcast.com:8998
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.invubu.com/radio/radio_images/logos/powerstationuk/powerstationuk-logo500.png" group-title="UK",The Power Station
 http://5.63.151.52:7032/stream
@@ -3103,26 +2903,16 @@ http://www.lengua.com/anthems/Australia.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/491755252043898881/cRRs4BMl.jpeg" group-title="AUSTRALIA",4CRB 89.3 FM
 http://stream.4crb.com:8000/stream/1/
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/e/ec/ABC_Jazz.png" group-title="AUSTRALIA",ABC Jazz
-http://abcradiolivehls-lh.akamaihd.net/i/abcjazz_1@327288/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.coles.com.au/customer-service/www.coles.com.au/~/media/images/colesa/about-coles/coles-logo.jpg" group-title="AUSTRALIA",Coles Radio
 http://coles.streaming.novaentertainment.com.au/sa_nt
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://us0-cdn.onlineradiobox.com/img/logo/8/28488.png" group-title="AUSTRALIA",Curtin FM 100.1
-http://192.99.17.12:6192/stream
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://valleychamber.com.au/wp-content/uploads/job-manager-uploads/company_logo/2016/04/Nova_1069_logo.svg.png" group-title="AUSTRALIA",Nova 106.9 Brisbane
 http://streaming.novaentertainment.com.au/nova1069
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://onlinetamilradio.in/img/puradsi-fm.jpg" group-title="AUSTRALIA",Puradsi FM Tamil
-http://107.182.231.73:9994/stream
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/TerritoryFM.png" group-title="AUSTRALIA",Territory FM 104.1 Darwin
 http://streaming.territoryfm.com:8000/TerritoryFM
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://shop.rrr.org.au/assets/red-logo-detail-230-x-250.jpg" group-title="AUSTRALIA",Triple R 102.7 FM
-http://public-radio1.internode.on.net:8002/114
+
 
 
 
@@ -3133,35 +2923,22 @@ http://www.lengua.com/anthems/Germany.mp3
 
 
 
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.byte.fm/static/images/logo_fb.png" group-title="GERMANY",ByteFM
 http://bytefm.cast.addradio.de/bytefm/main/mid/stream.mp3
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/13/3b/3216/c300.png" group-title="GERMANY",Casablanca Radio Stuttgart
-http://85.214.234.214:8005
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/35/a1/7020/c175.png" group-title="GERMANY",Country 108 Berlin
 http://tuner.country108.com:80
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://db.radioline.fr/pictures/radio_9d736e9ed878eef0211d535cddd66faf/logo200.jpg" group-title="GERMANY",eRadio One Blue
-http://stage-blue-high.eradio-one.de:62005
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/WZXJNfU.jpg" group-title="GERMANY",Laut.fm - Zone-Mix
-http://laut.fm/zone-mix
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.de/images/broadcasts/e6/59/40170/1/c175.png" group-title="GERMANY",NDR Plus
-http://addrad.io/4WRJWn
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/68/04/8485/c175.png" group-title="GERMANY",Radio Altstadtwelle
-http://46.4.77.85:8002
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/5e/13/32455/c175.png" group-title="GERMANY",Radio PSR Weihnachts-Superhits
-http://regiocast.hoerradar.de/psr-event01-mp3-mq?sABC=56np67n5#0#6r2s6730spp499143pn15p6q7277r432#enqvbfher
 
 
 
 
 #EXTINF:-1 tvg-logo="https://bahaiprayers.net/Content/Images/flags/L%C3%ABtzebuergesch.png" group-title="LABEL",~ Luxembourg Radio ~
 http://www.lengua.com/anthems/Luxembourg.mp3
+
+
 
 
 
