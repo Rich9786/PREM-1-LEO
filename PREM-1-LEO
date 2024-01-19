@@ -1,3 +1,4 @@
+
 #EXTM3U                                                                                                                                                                                                                                                                                                               #EXTM3U
 
 
@@ -117,7 +118,7 @@ https://publica.cloudycdn.services/playlist.m3u8?network_id=569
 #EXTINF:-1 tvg-id="WorldFashionChannel.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/JyslMHb.jpg" group-title="International",World Fashion Channel (1080p)
 
 #EXTINF:-1 tvg-logo="https://imgur.com/20bgIyT.png" group-title="DISTRO TV",Saber Mas - LIS 1-5
-http://clubtv.link/1501EN/key4513/distro.php?c=saber-mas&f=.m3u8
+http://clubtv.link/1501EN/key4513/distro.php?c=saber-mas
 #EXTINF:-1 tvg-logo="https://imgur.com/20bgIyT.png" group-title="DISTRO TV",Saber Mas - TOP CL
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1042" tvg-name="AMX Noticias" tvg-logo="https://i2.paste.pics/6074e29d2a3241e1f3b3051144274188.png", AMX Noticias | MX
@@ -154,7 +155,7 @@ https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://imgur.com/R6L274o.png" group-title="DISTRO TV",Spanglish - ANDR 5-7
 
 #EXTINF:-1 tvg-logo="https://imgur.com/3qWnqKg.png" group-title="DISTRO TV",Juntos - LIS 1-5
-http://clubtv.link/1501EN/key4513/distro.php?c=juntos&f=.m3u8
+http://clubtv.link/1501EN/key4513/distro.php?c=juntos
 #EXTINF:-1 tvg-logo="https://imgur.com/3qWnqKg.png" group-title="DISTRO TV",Juntos TV - TOP CL
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-ono/playlist.m3u8?PlaylistM3UCL
 
