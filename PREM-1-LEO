@@ -20,6 +20,8 @@ http://127.0.0.1
 
 #EXTINF:-1 logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2018_01/large.aztecaunovertical.png.c70f24f7f9a3f8d8e1f0d9b2c31f0d59.png" group-title="MEXICO",AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1 logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2018_01/large.aztecaunovertical.png.c70f24f7f9a3f8d8e1f0d9b2c31f0d59.png" group-title="MEXICO",AZTECA UNO - TV4 SR REGIO
+http://167.114.156.136:25461/INFINITV/ZX89NM22/82
 #EXTINF:-1 logo="https://i.imgur.com/KJcg1FB.jpg" group-title="MEXICO",TV4 (4.1) - CL
 https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KJcg1FB.jpg" group-title="MEXICO",TV4 HD (4.1) - GEO 
@@ -125,16 +127,20 @@ http://iptveiksprivado.com/images/vod/canalesculturales.png
 
 
 
-#EXTINF:-1 logo="https://static.wikia.nocookie.net/tvcable/images/1/17/CanalIDLA.png/revision/latest?cb=20231116173622&path-prefix=es" group-title="MUNDO Y CULTURA",DISCOVERY ID HD - TV2 SR REGIO
-http://167.250.222.35:16000/play/a082/index.m3u8
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/tvcable/images/1/17/CanalIDLA.png/revision/latest?cb=20231116173622&path-prefix=es" group-title="MUNDO Y CULTURA",DISCOVERY ID HD - TV4 SR REGIO
 http://45.166.92.22:58001/play/a01s/index.m3u8
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/tvcable/images/1/17/CanalIDLA.png/revision/latest?cb=20231116173622&path-prefix=es" group-title="MUNDO Y CULTURA",DISCOVERY ID HD - TV2 SR REGIO
+http://167.250.222.35:16000/play/a082/index.m3u8
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Universal_Crime_2021.png/revision/latest?cb=20220102014712&path-prefix=es" group-title="SERIES Y CINE",UNIVERSAL CRIME HD - TV2 SR REGIO
 http://167.250.222.35:16000/play/a09d/index.m3u8
+#EXTINF:-1 logo="https://img2.freepng.es/20180426/bwq/kisspng-discovery-channel-television-channel-discovery-hd-5ae15a0b4e05e1.0298670015247180913196.jpg" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL HD - TV4 SR REGIO
+http://45.166.92.22:58001/play/a01n/index.m3u8
 #EXTINF:-1 logo="https://img2.freepng.es/20180426/bwq/kisspng-discovery-channel-television-channel-discovery-hd-5ae15a0b4e05e1.0298670015247180913196.jpg" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL HD - TV2 SR REGIO
 http://167.250.222.35:16000/play/a07y/index.m3u8
+#EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="MUNDO Y CULTURA",ANIMAL PLANET HD - TV4 SR REGIO
+http://45.166.92.22:58001/play/a00m/index.m3u8
 #EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="MUNDO Y CULTURA",ANIMAL PLANET HD - TV2 SR REGIO
-http://190.149.66.90:4000/play/a01j/index.m3u8http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=4285
+http://190.149.66.90:4000/play/a01j/index.m3u8
 #EXTINF:-1 logo="https://mms.businesswire.com/media/20160221005252/es/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="MUNDO Y CULTURA",Love Nature - TV SR REGIO
 http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=4285
 #EXTINF:-1 logo="https://mms.businesswire.com/media/20160221005252/es/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="MUNDO Y CULTURA",Love Nature HD - TV SR REGIO
