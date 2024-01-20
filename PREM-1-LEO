@@ -18,7 +18,7 @@ http://127.0.0.1
 
 
 
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg5A0Y0BsuoR4scl4azR505Z2me5MbYDSBuwNKLV4q2bjlcVRti_7rzS6H_C5RY1a23pI&usqp=CAU" group-title="MEXICO",AZTECA UNO
+#EXTINF:-1 logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2018_01/large.aztecaunovertical.png.c70f24f7f9a3f8d8e1f0d9b2c31f0d59.png" group-title="MEXICO",AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/KJcg1FB.jpg" group-title="MEXICO",TV4 (4.1) - CL
 https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8?PlaylistM3UCL
