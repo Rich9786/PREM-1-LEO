@@ -90,6 +90,8 @@ http://www.intermusika.org/___TMP___/media/Dance/Aqua/Aqua%20-%20Barbie%20Girl.m
 
 
 
+
+
 #EXTINF:-1 tvg-id="134238" tvg-name="Paka Paka" tvg-logo="https://www.totalmedios.com/img/noticias/2015/03/54fedb71a1c1d__838x390.jpg", Paka Paka
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="Infantiles", Pequeradio TV S1
@@ -118,9 +120,9 @@ https://6362ca6f1fc28.streamlock.net:443/8066/8066/playlist.m3u8?PlaylistM3UCL
 
 
 
-
 #EXTINF:-1 tvg-id="" tvg-name="==== CANALES MUNDO Y CULTURA ====" tvg-logo="https://www.europarl.europa.eu/resources/library/images/20210520PHT04402/20210520PHT04402_original.jpg" group-title="Culturales",== MUNDO Y CULTURA ==
 http://iptveiksprivado.com/images/vod/canalesculturales.png
+
 
 
 
@@ -175,24 +177,59 @@ https://dai.google.com/linear/hls/event/_PDxBUttQYqkxPnmh3VOZA/master.m3u8
 
 #EXTINF:-1 logo="https://yt3.googleusercontent.com/ytc/AIf8zZTU8M5BZIYFbKA8bRJe6A7CDv30RQVDf4HsQDK7=s900-c-k-c0x00ffffff-no-rj" group-title="MUNDO Y CULTURA",ZEN CHANNEL (ES) - TV3 SR REGIO
 https://linear-125.frequency.stream/dist/vix/125/hls/master/playlist.m3u8
-#EXTINF:-1 logo="https://i.ytimg.com/vi/bjibZ7sRbEg/maxresdefault.jpg" group-title="MUNDO Y CULTURA",DISCOVERY THEATER - 
-
+#EXTINF:-1 logo="https://i.ytimg.com/vi/bjibZ7sRbEg/maxresdefault.jpg" group-title="MUNDO Y CULTURA",DISCOVERY THEATER - TV4 SR REGIO
+http://45.166.92.22:58001/play/a014/index.m3u8
+#EXTINF:-1 logo="https://i.ytimg.com/vi/bjibZ7sRbEg/maxresdefault.jpg" group-title="MUNDO Y CULTURA",DISCOVERY THEATER - TV2 SR REGIO
+http://190.149.66.90:4000/play/a03n/index.m3u8
+#EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3dc87a1710825.5600fbeaa48e9.jpg" group-title="MUNDO Y CULTURA",DISCOVERY WORLD HD - TV4 SR REGIO
+http://45.166.92.22:58001/play/a01p/index.m3u8
+#EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3dc87a1710825.5600fbeaa48e9.jpg" group-title="MUNDO Y CULTURA",DISCOVERY WORLD HD - TV2 SR REGIO
+http://190.149.66.90:4000/play/a052/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/20bgIyT.png" group-title="DISTRO TV",Saber Mas - LIS 1-5
 http://clubtv.link/2001en/key4513/distro.php?c=saber-mas
 #EXTINF:-1 tvg-logo="https://imgur.com/20bgIyT.png" group-title="DISTRO TV",Saber Mas - TOP CL
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1042" tvg-name="AMX Noticias" tvg-logo="https://i2.paste.pics/6074e29d2a3241e1f3b3051144274188.png", AMX Noticias | MX
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/768px-Sun_Channel_logo.svg.png" group-title="MEXICO",Sun Channel OPC 1 - TV2 SR REGIO
+http://190.149.66.90:4000/play/a02e/index.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/768px-Sun_Channel_logo.svg.png" group-title="MEXICO",Sun Channel OPC 2 - TV2 SR REGIO
+http://167.250.222.35:16000/play/a05d/index.m3u8
 #EXTINF:-1 logo="https://images-na.ssl-images-amazon.com/images/I/619apfg5DDL.png" group-title="MUNDO Y CULTURA",DW - CL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhvEXzKsZ7-EIq0mcNxoDQq2Pi8G7KAbi1WAxwUqp4yPMYKdYu3Rmf-5T8nw8FG2frPPg&usqp=CAU" group-title="Without category",CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/OO9PaGb.jpg" group-title="MUNDO Y CULTURA",H&H HD - TV4 SR REGIO
+http://45.166.92.22:58001/play/a015/index.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/OO9PaGb.jpg" group-title="MUNDO Y CULTURA",H&H HD - TV2 SR REGIO
+http://190.149.66.90:4000/play/a03o/index.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Universal_Reality_logo.png/800px-Universal_Reality_logo.png" group-title="SERIES Y CINE",UNIVERSAL REALITY HD OPC 1 - TV2 SR REGIO
+http://190.149.66.90:4000/play/a03v/index.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Universal_Reality_logo.png/800px-Universal_Reality_logo.png" group-title="SERIES Y CINE",UNIVERSAL REALITY HD OPC 2 - TV2 SR REGIO
+http://167.250.222.35:16000/play/a09c/index.m3u8
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/co_lifetime_m.png" group-title="SERIES Y CINE",LIFETIME OPC 1 - TV2 SR REGIO
+http://190.149.66.90:4000/play/a010/index.m3u8
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/co_lifetime_m.png" group-title="SERIES Y CINE",LIFETIME OPC 2 - TV2 SR REGIO
+http://167.250.222.35:16000/play/a02n/index.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TLC_Logo_Germany.svg/1280px-TLC_Logo_Germany.svg.png" group-title="MUNDO Y CULTURA",TLC - TV4 SR REGIO
+http://45.166.92.22:58001/play/a04o/index.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TLC_Logo_Germany.svg/1280px-TLC_Logo_Germany.svg.png" group-title="MUNDO Y CULTURA",TLC OPC 1 - TV2 SR REGIO
+http://190.149.66.90:4000/play/a039/index.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TLC_Logo_Germany.svg/1280px-TLC_Logo_Germany.svg.png" group-title="MUNDO Y CULTURA",TLC OPC 2 - TV2 SR REGIO
+http://167.250.222.35:16000/play/a06g/index.m3u8
+#EXTINF:-1 logo="https://img2.freepng.es/20180705/vyw/kisspng-discovery-science-discovery-channel-investigation-tv-2-science-fiction-5b3dc0a7216761.4710949115307736711368.jpg" group-title="MUNDO Y CULTURA",DISCOVERY SCIENCE - TV4 SR REGIO
+http://167.114.156.136:25461/INFINITV/ZX89NM22/216
+
+
+
 
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="==== CANALES ENTRETENIMIENTO ====" tvg-logo="https://img.freepik.com/vector-gratis/personajes-personas-sosteniendo-ilustracion-iconos-multimedia_53876-35228.jpg?size=626&ext=jpg" group-title="Entretenimiento",== ENTRETENIMIENTO ==
 http://158.69.226.108:8000/live/Vfjjjhj/Djdkfk/1638.ts
+
+
 
 
 
