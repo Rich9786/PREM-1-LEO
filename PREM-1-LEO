@@ -691,9 +691,9 @@ http://45.166.92.22:58001/play/a00v/index.m3u8
 http://190.149.66.90:4000/play/a01r/index.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="TV PREMIUM",DHE HD OPC 2 - TV2 SR REGIO
 http://167.250.222.35:16000/play/a04i/index.m3u8
-#EXTINF:-1 logo="https://forounivers.com/uploads/monthly_2021_10/large.UNIVERSAL_CINEMA.png.f00b67fc083f7f756c77934e05e07018.png" group-title="CINE",UNIVERSAL CINEMA HD - 
+#EXTINF:-1 logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-cinema-dark-logo.png" group-title="CINE",UNIVERSAL CINEMA HD - TV4 SR REGIO
 http://45.166.92.22:58001/play/a01t/index.m3u8
-#EXTINF:-1 logo="https://forounivers.com/uploads/monthly_2021_10/large.UNIVERSAL_CINEMA.png.f00b67fc083f7f756c77934e05e07018.png" group-title="CINE",UNIVERSAL CINEMA HD - 
+#EXTINF:-1 logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-cinema-dark-logo.png" group-title="CINE",UNIVERSAL CINEMA HD - TV2 SR REGIO
 http://190.149.66.90:4000/play/a056/index.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="CINE",STUDIO UNIVERSAL HD - TV4 SR REGIO
 http://45.166.92.22:58001/play/a00k/index.m3u8
@@ -707,9 +707,9 @@ http://45.166.92.22:58001/play/a00t/index.m3u8
 http://190.149.66.90:4000/play/a01p/index.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png" group-title="CINE",EUROPA CHANNEL HD OPC 2 - TV2 SR REGIO
 http://167.250.222.35:16000/play/a04g/index.m3u8
-#EXTINF:-1 logo="https://televisiongratisenvivo.com/wp-content/uploads/2018/09/EURO-CHANNEL-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg" group-title="CINE",EURO Channel OPC 1 - TV2 SR REGIO
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/7/73/EUROCHANNEL_2007.jpg/revision/latest?cb=20210514180238&path-prefix=es" group-title="CINE",EURO Channel OPC 1 - TV2 SR REGIO
 http://190.149.66.90:4000/play/a02b/index.m3u8
-#EXTINF:-1 logo="https://televisiongratisenvivo.com/wp-content/uploads/2018/09/EURO-CHANNEL-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg" group-title="CINE",EURO Channel OPC 2 - TV2 SR REGIO
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/7/73/EUROCHANNEL_2007.jpg/revision/latest?cb=20210514180238&path-prefix=es" group-title="CINE",EURO Channel OPC 2 - TV2 SR REGIO
 http://167.250.222.35:16000/play/a05a/index.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/cl_film-arts_m.png" group-title="CINE Y SERIES",FILM & ARTS - TV4 SR REGIO
 http://45.166.92.22:58001/play/a00o/index.m3u8
