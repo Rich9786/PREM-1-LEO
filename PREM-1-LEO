@@ -470,8 +470,10 @@ http://clubtv.link/EN2401en/key4513/lista5.php?c=128&token=TecnotvGenerador&f=.m
 
 #EXTINF:-1 logo="https://img2.freepng.es/20181125/uaj/kisspng-logo-tve-internacional-la-1-rtve-tve-hd-5bfae49e01bb39.8822497515431691820071.jpg" group-title="CULTURA",TVE EUROPA - ESP 2 
 
-#EXTINF:-1 logo="https://img2.freepng.es/20181125/uaj/kisspng-logo-tve-internacional-la-1-rtve-tve-hd-5bfae49e01bb39.8822497515431691820071.jpg" group-title="CULTURA",TVE - MX
-
+#EXTINF:-1 logo="https://play-lh.googleusercontent.com/aR9SDM7f3rL-HF5iIfl2s0eE53sM02o0zocJ_60S7ndD7lq97pFwmxnxBbbjxmcf4w" group-title="CULTURA",TRECE - ESP
+http://clubtv.link/EN2401en/key4513/esp.php?c=2231
+#EXTINF:-1 logo="https://play-lh.googleusercontent.com/aR9SDM7f3rL-HF5iIfl2s0eE53sM02o0zocJ_60S7ndD7lq97pFwmxnxBbbjxmcf4w" group-title="CULTURA",TRECE - ESP 2
+http://clubtv.link/EN2401en/key4513/esp2.php?c=2231
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Series_2_por_Movistar_Plus%2B_2022_logo.svg/800px-Series_2_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="ENTRETENIMIENTO",MOVISTAR SERIES 2 P - LIS 0
 
 #EXTINF:-1 logo="https://c4d.com.mx/canalesrtve/wp-content/uploads/2021/09/head_star-tve_movil.webp" group-title="MUNDO Y CULTURA",STAR TVE - GEO MR-1
@@ -489,9 +491,9 @@ http://190.149.66.90:4000/play/a01t/index.m3u8
 #EXTINF:-1 logo="https://c4d.com.mx/canalesrtve/wp-content/uploads/2021/09/head_star-tve_movil.webp" group-title="MUNDO Y CULTURA",STAR TVE HD OPC 2 - TV2 SR REGIO
 http://167.250.222.35:16000/play/a04k/index.m3u8
 #EXTINF:-1 logo="https://getvectorlogo.com/wp-content/uploads/2019/07/dmax-vector-logo.png" group-title="MUNDO Y CULTURA",DMAX ESP
-http://clubtv.link/EN2401en/key4513/esp.php?c=44341
+
 #EXTINF:-1 logo="https://getvectorlogo.com/wp-content/uploads/2019/07/dmax-vector-logo.png" group-title="MUNDO Y CULTURA",DMAX ESP 2
-http://clubtv.link/EN2401en/key4513/esp2.php?c=44341
+
 #EXTINF:-1 logo="https://getvectorlogo.com/wp-content/uploads/2019/07/dmax-vector-logo.png" group-title="MUNDO Y CULTURA",DMAX ESP 3
 http://clubtv.link/EN2401en/key4513/esp3.php?c=7913
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/tvcable/images/e/e4/FDF.png/revision/latest/scale-to-width-down/160?cb=20121223212117&path-prefix=es" group-title="MUNDO Y CULTURA",PDF ESP
@@ -502,14 +504,26 @@ http://clubtv.link/EN2401en/key4513/esp2.php?c=14585
 http://clubtv.link/EN2401en/key4513/esp.php?c=80611
 #EXTINF:-1 logo="https://brandemia.org/sites/default/files/sites/default/files/nuevo_logo_axn.jpg" group-title="MUNDO Y CULTURA",AXN (ES) - ESP 2
 http://clubtv.link/EN2401en/key4513/esp2.php?c=80611
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/AXN_Movies_logo.jpg/800px-AXN_Movies_logo.jpg" group-title="MUNDO Y CULTURA",AXN MOVIES (ES) - ESP
+http://clubtv.link/EN2401en/key4513/esp.php?c=2233
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/AXN_Movies_logo.jpg/800px-AXN_Movies_logo.jpg" group-title="MUNDO Y CULTURA",AXN MOVIES (ES) - ESP 2
+http://clubtv.link/EN2401en/key4513/esp2.php?c=2233
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Be-Mad.png" group-title="MUNDO Y CULTURA",BE MAD ESP
-http://clubtv.link/EN2401en/key4513/esp.php?c=80612
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Be-Mad.png" group-title="MUNDO Y CULTURA",BE MAD ESP 2
-http://clubtv.link/EN2401en/key4513/esp2.php?c=80612
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Be-Mad.png" group-title="MUNDO Y CULTURA",
 
-
-
+#EXTINF:-1 logo="https://vercanalestv.online/wp-content/uploads/2021/10/calle13icono.jpg" group-title="MUNDO Y CULTURA",CALLE 13 - ESP
+http://clubtv.link/EN2401en/key4513/esp.php?c=80621
+#EXTINF:-1 logo="https://vercanalestv.online/wp-content/uploads/2021/10/calle13icono.jpg" group-title="MUNDO Y CULTURA",CALLE 13 - ESP 2
+http://clubtv.link/EN2401en/key4513/esp2.php?c=80621
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/LOGO_COSMO.png" group-title="MUNDO Y CULTURA",COSMO - ESP
+http://clubtv.link/EN2401en/key4513/esp.php?c=80614
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/LOGO_COSMO.png" group-title="MUNDO Y CULTURA",COSMO - ESP
+http://clubtv.link/EN2401en/key4513/esp2.php?c=80614
+#EXTINF:-1 logo="https://w7.pngwing.com/pngs/553/127/png-transparent-energy-mediaset-espana-comunicacion-television-channel-factoria-de-ficcion-energy-television-text-logo.png" group-title="MUNDO Y CULTURA",ENERGY - ESP
+http://clubtv.link/EN2401en/key4513/esp.php?c=80616
+#EXTINF:-1 logo="https://w7.pngwing.com/pngs/553/127/png-transparent-energy-mediaset-espana-comunicacion-television-channel-factoria-de-ficcion-energy-television-text-logo.png" group-title="MUNDO Y CULTURA",ENERGY - ESP 2
+http://clubtv.link/EN2401en/key4513/esp2.php?c=80616
 
 
 
