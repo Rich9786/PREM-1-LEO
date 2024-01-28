@@ -438,10 +438,10 @@ https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
 
 #EXTINF:-1 logo="http://meteoalcorcon.es/3__Antena3HD_220x132.png" group-title="ENTRETENIMIENTO",ANTENA 3 HD - ANDR 5
 
-#EXTINF:-1 logo="https://images.produ.com/noticias/0517/big-Antena3Logo.jpg" group-title="ENTRETENIMIENTO",ANTENA 3 INTERNACIONAL OPC 1 - ESP
+#EXTINF:-1 logo="https://images.produ.com/noticias/0517/big-Antena3Logo.jpg" group-title="ENTRETENIMIENTO",ANTENA 3 INTERNACIONAL - ESP
 http://clubtv.link/EN2401en/key4513/esp.php?c=90938
-#EXTINF:-1 logo="https://images.produ.com/noticias/0517/big-Antena3Logo.jpg" group-title="ENTRETENIMIENTO",ANTENA 3 INTERNACIONAL OPC 2 - ESP
-http://clubtv.link/EN2401en/key4513/esp.php?c=124320
+#EXTINF:-1 logo="https://images.produ.com/noticias/0517/big-Antena3Logo.jpg" group-title="ENTRETENIMIENTO",ANTENA 3 INTERNACIONAL - LIS 6
+http://clubtv.link/EN2401en/key4513/lista6.php?c=351&token=TecnotvGenerador&f=.m3u8
 #EXTINF:-1 logo="http://meteoalcorcon.es/3__Antena3HD_220x132.png" group-title="ENTRETENIMIENTO",ANTENA 3 HD OPC 1 - ESP 
 http://clubtv.link/EN2401en/key4513/esp.php?c=50460
 #EXTINF:-1 logo="http://meteoalcorcon.es/3__Antena3HD_220x132.png" group-title="ENTRETENIMIENTO",ANTENA 3 HD OPC 2 - ESP 
