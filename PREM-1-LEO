@@ -156,14 +156,14 @@ http://167.250.222.35:16000/play/a02b/index.m3u8
 http://190.149.66.90:4000/play/a00r/index.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/9FOKuui.jpg" group-title="INFANTIL",DISNEY JR OPC 2 - TV2 SR REGIO
 http://167.250.222.35:16000/play/a02d/index.m3u8
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1347112024925474817/FsTxCmRL_400x400.jpg" group-title="INFANTIL",BIT ME HD - ANDR 0
+http://clubtv.link/F0502b/key4513/android0.php?c=30313&token=TecnotvGenerador2024|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1347112024925474817/FsTxCmRL_400x400.jpg" group-title="INFANTIL",BIT ME OPC 1 - ANDR 0
-http://clubtv.link/F0502b/key4513/android0.php?c=464&token=TecnotvGenerador2024|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1347112024925474817/FsTxCmRL_400x400.jpg" group-title="INFANTIL",BIT ME OPC 2 - ANDR 2
-http://clubtv.link/F0502b/key4513/android2.php?c=464&token=TecnotvGenerador2024|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1347112024925474817/FsTxCmRL_400x400.jpg" group-title="INFANTIL",BIT ME OPC 1 - ANDR 4
-http://clubtv.link/F0502b/key4513/android4.php?c=33&token=TecnotvGenerador2024|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
-#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1347112024925474817/FsTxCmRL_400x400.jpg" group-title="INFANTIL",BIT ME OPC 2 - ANDR 5
+http://clubtv.link/F0502b/key4513/android0.php?c=114141&token=TecnotvGenerador2024|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1347112024925474817/FsTxCmRL_400x400.jpg" group-title="INFANTIL",BIT ME - ANDR 5
 http://clubtv.link/F0502b/key4513/android5.php?c=33&token=TecnotvGenerador2024|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1347112024925474817/FsTxCmRL_400x400.jpg" group-title="INFANTIL",BIT ME OPC 2 - ANDR 0
+http://clubtv.link/F0502b/key4513/android0.php?c=114140&token=TecnotvGenerador2024|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 logo="https://plataformas.news/online/nota_clan-se-incorpora-a-dishlatino.gif" group-title="SERIES Y CINE",CLAN (ES) - ESP 2
  
 #EXTINF:-1 tvg-logo="https://imgur.com/RRNQ7jI.png" group-title="DISTRO TV",Chiquilines - | US
@@ -276,7 +276,7 @@ http://45.166.92.22:58001/play/a01p/index.m3u8
 #EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3dc87a1710825.5600fbeaa48e9.jpg" group-title="MUNDO Y CULTURA",DISCOVERY WORLD HD - TV2 SR REGIO
 http://190.149.66.90:4000/play/a052/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/20bgIyT.png" group-title="DISTRO TV",Saber Mas - LIS 1-5
-http://clubtv.link/Fe0102/key4513/distro.php?c=saber-mas
+http://clubtv.link/F0502b/key4513/distro.php?c=saber-mas
 #EXTINF:-1 tvg-logo="https://imgur.com/20bgIyT.png" group-title="DISTRO TV",Saber Mas - TOP CL
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1042" tvg-name="AMX Noticias" tvg-logo="https://i2.paste.pics/6074e29d2a3241e1f3b3051144274188.png", AMX Noticias | MX
@@ -743,9 +743,9 @@ http://190.149.66.90:4000/play/a03f/index.m3u8
 #EXTINF:-1 logo="https://1.bp.blogspot.com/-JQNiUM4A2QI/X9TG0We7WCI/AAAAAAAA7lg/ELH2-qgU4pE0ENl7bTw9ya9dCAO5kkzcACLcBGAsYHQ/s378/warner-channel.png" group-title="SERIES Y CINE",WARNER HD OPC 2 - TV2 SR REGIO
 http://167.250.222.35:16000/play/a06m/index.m3u8
 #EXTINF:-1 logo="https://w7.pngwing.com/pngs/897/89/png-transparent-logo-universal-channel-high-definition-television-olympic-channel-television-channel-universal-kids-purple-television-violet-thumbnail.png" group-title="SERIES Y CINE",UNIVERSAL - ANDR 0
-http://clubtv.link/F0502b/key4513/android0.php?c=820&token=TecnotvGenerador2024|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+http://clubtv.link/F0502b/key4513/android0.php?c=3103&token=TecnotvGenerador2024|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 logo="https://w7.pngwing.com/pngs/897/89/png-transparent-logo-universal-channel-high-definition-television-olympic-channel-television-channel-universal-kids-purple-television-violet-thumbnail.png" group-title="SERIES Y CINE",UNIVERSAL - ANDR 2
-http://clubtv.link/F0502b/key4513/android2.php?c=820&token=TecnotvGenerador2024|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+http://clubtv.link/F0502b/key4513/android2.php?c=138&token=TecnotvGenerador2024|user-agent=Mozilla/5.0
 #EXTINF:-1 logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-premiere-dark-logo.png" group-title="SERIES Y CINE",UNIVERSAL PREMIERE HD OPC 1 - TV2 SR REGIO
 http://190.149.66.90:4000/play/a03t/index.m3u8
 #EXTINF:-1 logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-premiere-dark-logo.png" group-title="SERIES Y CINE",UNIVERSAL PREMIERE HD OPC 2 - TV2 SR REGIO
@@ -755,9 +755,9 @@ http://190.149.66.90:4000/play/a03u/index.m3u8
 #EXTINF:-1 logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-premiere-dark-logo.png" group-title="SERIES Y CINE",UNIVERSAL PREMIERE O HD OPC 2 - TV2 SR REGIO
 http://167.250.222.35:16000/play/a09b/index.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6nG1fHhEe2l2lGmZKOFP5SjbK1CsErwjWwtVz3jk_G-6xJYDjTItukvwtks-ijuddXfw&usqp=CAU" group-title="SERIES Y CINE",USA - ANDR 0
-http://clubtv.link/F0502b/key4513/android0.php?c=764&token=TecnotvGenerador2024|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTINF:-1 logo="https://static.wikia.nocookie.net/sailormoonenglishanime/images/a/ac/USA_Network_%28Milgreen%29.png/revision/latest?cb=20141101163109" group-title="SERIES Y CINE",USA - ANDR 2
-http://clubtv.link/F0502b/key4513/android2.php?c=764&token=TecnotvGenerador2024|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+http://clubtv.link/F0502b/key4513/android0.php?c=30377&token=TecnotvGenerador2024|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/sailormoonenglishanime/images/a/ac/USA_Network_%28Milgreen%29.png/revision/latest?cb=20141101163109" group-title="SERIES Y CINE",USA - ANDR 10
+http://clubtv.link/F0502b/key4513/android10.php?c=189&token=TecnotvGenerador2024
 #EXTINF:-1 logo="https://img2.freepng.es/20180718/fuo/kisspng-fxx-logo-television-show-television-channel-tv-channel-5b4f9da9c53a95.0344326115319443618079.jpg" group-title="SERIES Y CINE",FX HD - TV4 SR REGIO
 http://45.166.92.22:58001/play/a00s/index.m3u8
 #EXTINF:-1 logo="https://img2.freepng.es/20180718/fuo/kisspng-fxx-logo-television-show-television-channel-tv-channel-5b4f9da9c53a95.0344326115319443618079.jpg" group-title="SERIES Y CINE",FX HD OPC 1 - TV2 SR REGIO
