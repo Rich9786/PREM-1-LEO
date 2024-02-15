@@ -289,6 +289,8 @@ http://190.149.66.90:4000/play/a052/index.m3u8
 http://clubtv.link/F1302o/key4513/distro.php?c=saber-mas
 #EXTINF:-1 tvg-logo="https://imgur.com/20bgIyT.png" group-title="DISTRO TV",Saber Mas - TOP CL
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1042" tvg-name="AMX Noticias" tvg-logo="https://i.scdn.co/image/ab67656300005f1f58dc388ee02e8e71c52c05ea",APRENDE MAS - TV2 SR REGIO
+http://181.78.105.146:2000/play/a04i/index.m3u8
 #EXTINF:-1 tvg-id="1042" tvg-name="AMX Noticias" tvg-logo="https://i2.paste.pics/6074e29d2a3241e1f3b3051144274188.png", AMX Noticias | MX
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="MUNDO Y CULTURA",FOOD NETWORK OPC 1 - ANDR 0
@@ -305,6 +307,8 @@ http://167.250.222.35:16000/play/a05d/index.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhvEXzKsZ7-EIq0mcNxoDQq2Pi8G7KAbi1WAxwUqp4yPMYKdYu3Rmf-5T8nw8FG2frPPg&usqp=CAU" group-title="Without category",CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bzNiQNs.png" group-title="LATIN AMERICA",TV Marti - CUBA
+https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 logo="https://i.imgur.com/OO9PaGb.jpg" group-title="MUNDO Y CULTURA",H&H HD - TV4 SR REGIO
 http://45.166.92.22:58001/play/a015/index.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/OO9PaGb.jpg" group-title="MUNDO Y CULTURA",H&H HD - TV2 SR REGIO
@@ -1870,12 +1874,16 @@ http://158.69.226.108:8000/live/Vfjjjhj/Djdkfk/1644.ts
 
 #EXTINF:-1 logo="https://radionotas.com/wp-content/uploads/2017/10/ADN-40.jpg" group-title="NOTICIAS",ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-logo="https://media-cdn.t24.com.tr/media/library/2021/02/1613030823817-110220210206437738460.jpg" group-title="SPAIN",Euronews en Español TV
-https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="EuronewsenEspanol.fr" tvg-country="INT" tvg-language="Spanish" tvg-logo="https://media-cdn.t24.com.tr/media/library/2021/02/1613030823817-110220210206437738460.jpg" group-title="International",Euronews en Español
-https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media-cdn.t24.com.tr/media/library/2021/02/1613030823817-110220210206437738460.jpg" group-title="SPAIN",Euronews en Español - TV3 SR REGIO
+https://linear-255.frequency.stream/dist/vix/dist/vix/255/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="EuronewsenEspanol.fr" tvg-country="INT" tvg-language="Spanish" tvg-logo="https://media-cdn.t24.com.tr/media/library/2021/02/1613030823817-110220210206437738460.jpg" group-title="International",Euronews en Español - ANDR 0
+http://clubtv.link/F1302o/key4513/distro.php?c=euronews-spa&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bzNiQNs.png" group-title="LATIN AMERICA",TV Marti - CU
+https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://media-cdn.t24.com.tr/media/library/2021/02/1613030823817-110220210206437738460.jpg" group-title="SPAIN",Euronews en Español S2
 
+#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="Informativos" tvg-name="24h",24h - ES
+https://ztnr.rtve.es/ztnr/1694255.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="Informativos" tvg-name="24h",24h - ESP
 http://clubtv.link/F1302o/key4513/esp.php?c=80610
 #EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="Informativos" tvg-name="24h",24h - ESP 2
@@ -1898,10 +1906,12 @@ https://estrella-news-oando.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/FRANCE_24_ESPA%C3%91OL_2018.png/revision/latest/scale-to-width-down/250?cb=20200904040305" group-title="NOTICIAS",FRANCE 24 - TV
 
-#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/FRANCE_24_ESPA%C3%91OL_2018.png/revision/latest/scale-to-width-down/250?cb=20200904040305" group-title="NOTICIAS",FRANCE 24 - MX
-
-#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/FRANCE_24_ESPA%C3%91OL_2018.png/revision/latest/scale-to-width-down/250?cb=20200904040305" group-title="NOTICIAS",FRANCE 24 - ANDR
-
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/FRANCE_24_ESPA%C3%91OL_2018.png/revision/latest/scale-to-width-down/250?cb=20200904040305" group-title="NOTICIAS",FRANCE 24 OPC 1 - TV2 SR REGIO
+http://190.149.66.90:4000/play/a019/index.m3u8
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/FRANCE_24_ESPA%C3%91OL_2018.png/revision/latest/scale-to-width-down/250?cb=20200904040305" group-title="NOTICIAS",FRANCE 24 OPC 2 - TV2 SR REGIO
+http://167.250.222.35:16000/play/a02w/index.m3u8
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/FRANCE_24_ESPA%C3%91OL_2018.png/revision/latest/scale-to-width-down/250?cb=20200904040305" group-title="NOTICIAS",FRANCE 24 - TV3 SR REGIO
+http://45.166.92.22:58001/play/a057/index.m3u8
 #EXTINF:-1 tvg-id="499" tvg-name="Telesur" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/TeleSUR_2014-1.png/revision/latest?cb=20210308032444&path-prefix=es", Telesur | VE
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="MÉXICO" tvg-id="806" tvg-name="HispanTV" tvg-logo="https://www.m3u.cl/logo/806_HispanTV.png",HispanTV 
@@ -1940,8 +1950,8 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UC
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/0/03/MILENIO_Logo.png" group-title="NOTICIAS",MILENIO HD - MX
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/0/03/MILENIO_Logo.png" group-title="NOTICIAS",MILENIO - MX 
-
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/0/03/MILENIO_Logo.png" group-title="NOTICIAS",MILENIO - TV2 SR REGIO
+http://181.78.105.146:2000/play/a00y/index.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/0/03/MILENIO_Logo.png" group-title="NOTICIAS",MILENIO - ANDR
 
 #EXTINF:-1 logo="http://directostv.teleame.com/wp-content/uploads/2018/07/Excelsior-TV-en-vivo-Online.png" group-title="NOTICIAS",EXCELSIOR TV - GEO MR-1
@@ -2351,7 +2361,7 @@ https://loop-country-2.roku.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nm3N3aw.png" group-title="USA",Bluegrass 4U SEÑAL
 
-#EXTINF:-1 tvg-id="SexyKpopTV.br" tvg-name="Sexy Kpop TV" tvg-country="BR" tvg-language="" tvg-logo="https://i.imgur.com/jsQmxyV.jpg" group-title="Brazil",Sexy Kpop TV (720p)
+#EXTINF:-1 tvg-id="SexyKpopTV.br" tvg-name="Sexy Kpop TV" tvg-country="BR" tvg-language="" tvg-logo="https://i.imgur.com/jsQmxyV.jpg" group-title="Brazil", Kpop TV - BR
 https://250weu.bozztv.com/ssh101/ssh101/kpoptv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="133949" tvg-name="Ekiz TV" tvg-logo="https://lh3.googleusercontent.com/-gDK3j68Mc6o/YFYnQ_VgDyI/AAAAAAABAy0/COi6QK7t40UXPZuYPWHnOwi61yO0QRVUwCK8BGAsYHg/s512/2021-03-20.jpg", Ekiz TV
 
