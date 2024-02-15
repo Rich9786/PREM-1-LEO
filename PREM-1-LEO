@@ -58,6 +58,8 @@ http://181.78.105.146:2000/play/a00j/index.m3u8
 http://181.78.105.146:2000/play/a045/index.m3u8
 #EXTINF:-1 logo="https://digitaltv.prensariozone.com/wp-content/uploads/2021/07/Mexiquense-1024x576.png" group-title="MEXICO",MEXIQUENSE TV 
 https://5ca3e84a76d30.streamlock.net:443/mexiquense/videomexiquense/playlist.m3u8?TecnoPlaylist
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1597288038979305475/XbWJtMeK_400x400.jpg" group-title="MEXICO",MX NUESTRO CINE - TV2 SR REGIO
+http://181.78.105.146:2000/play/a04h/index.m3u8
 #EXTINF:-1 logo="https://www.theobserver.mx/wp-content/uploads/2023/06/mexiquense.jpg" group-title="MEXICO",MEXIQUENSE TV - MX
 
 #EXTINF:-1 logo="https://www.theobserver.mx/wp-content/uploads/2023/06/mexiquense.jpg" group-title="MEXICO",MEXIQUENSE TV - FLUX
