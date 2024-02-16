@@ -34,6 +34,8 @@ https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8?PlaylistM3U
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO",CANAL 5 - TV2 SR REGIO
 http://181.78.105.146:2000/play/a038/index.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO",CANAL 5 HD - ANDR 0
+http://clubtv.link/F1302o/key4513/android0.php?c=30315&token=TecnotvGenerador2024|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Multimedios-TV-Canal-6-en-vivo-Online.png" group-title="MEXICO",MULTIMEDIOS MTY - FLUX
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?fluxustv.m3u8
 #EXTINF:-1 logo="https://img2.freepng.es/20180419/age/kisspng-azteca-7-logo-television-channel-canal-5-complex-5ad96187c0d452.9554829215241957197898.jpg" group-title="MEXICO",AZTECA 7 OPC 1 - TV SR REGIO
@@ -48,19 +50,31 @@ http://181.78.105.146:2000/play/a08z/index.m3u8
 https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Logotipo_oficial_del_Canal_10_Chiapas_perteneciente_al_Sistema_Chiapaneco_de_Radio%2C_Televisi%C3%B3n_y_Cinematograf%C3%ADa.png" group-title="MEXICO",Canal 10 Chiapas - FLUX
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/chunklist.m3u8?fluxustv.m3u8
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1116025020822634497/Pd-Rvw-k_400x400.jpg" group-title="MEXICO",EXPRESA TV CELAYA - ANDR 0
+http://clubtv.link/F1302o/key4513/android0.php?c=10790&token=TecnotvGenerador2024|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png" group-title="MEXICO",ONCE - TV2 SR REGIO
 http://181.78.105.146:2000/play/a03a/index.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png" group-title="MEXICO",ONCE OPC 1 - ANDR 0
+http://clubtv.link/F1302o/key4513/android0.php?c=111510&token=TecnotvGenerador2024|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png" group-title="MEXICO",ONCE OPC 2 - ANDR 0
+http://clubtv.link/F1302o/key4513/android0.php?c=19660&token=TecnotvGenerador2024|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="98123" tvg-name="Canal Catorce" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_Canal_14_M%C3%A9xico.svg/640px-Logo_Canal_14_M%C3%A9xico.svg.png", Canal Catorce - TV2 SR REGIO
 http://181.78.105.146:2000/play/a044/index.m3u8
+#EXTINF:-1 tvg-id="98123" tvg-name="Canal Catorce" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_Canal_14_M%C3%A9xico.svg/640px-Logo_Canal_14_M%C3%A9xico.svg.png", Canal Catorce - ANDR 0
+http://clubtv.link/F1302o/key4513/android0.php?c=2137&token=TecnotvGenerador2024|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 logo="http://ccmpunila.weebly.com/uploads/1/5/5/3/15537570/8216048.jpg?368" group-title="MEXICO",CANAL 22 - TV2 SR REGIO
 http://181.78.105.146:2000/play/a00j/index.m3u8
+#EXTINF:-1 logo="http://ccmpunila.weebly.com/uploads/1/5/5/3/15537570/8216048.jpg?368" group-title="MEXICO",CANAL 22 - ANDR 0
+http://clubtv.link/F1302o/key4513/android0.php?c=3482&token=TecnotvGenerador2024|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 logo="http://ccmpunila.weebly.com/uploads/1/5/5/3/15537570/8216048.jpg?368" group-title="MEXICO",CANAL 22 HD - ANDR 0
+http://clubtv.link/F1302o/key4513/android0.php?c=37806&token=TecnotvGenerador2024|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Tv_UNAM.png" group-title="MEXICO",TV UNAM - TV2 SR REGIO
 http://181.78.105.146:2000/play/a045/index.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Tv_UNAM.png" group-title="MEXICO",TV UNAM OPC 1 - ANDR 0
 http://clubtv.link/F1302o/key4513/android0.php?c=19669&token=TecnotvGenerador2024|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Tv_UNAM.png" group-title="MEXICO",TV UNAM OPC 2 - ANDR 0
 http://clubtv.link/F1302o/key4513/android0.php?c=2138&token=TecnotvGenerador2024|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 logo="https://digitaltv.prensariozone.com/wp-content/uploads/2021/07/Mexiquense-1024x576.png" group-title="MEXICO",MEXIQUENSE TV 
+#EXTINF:-1 logo="https://digitaltv.prensariozone.com/wp-content/uploads/2021/07/Mexiquense-1024x576.png" group-title="MEXICO",MEXIQUENSE TV - ANDR 0
 https://5ca3e84a76d30.streamlock.net:443/mexiquense/videomexiquense/playlist.m3u8?TecnoPlaylist
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1597288038979305475/XbWJtMeK_400x400.jpg" group-title="MEXICO",MX NUESTRO CINE - TV2 SR REGIO
 http://181.78.105.146:2000/play/a04h/index.m3u8
@@ -1090,12 +1104,20 @@ http://clubtv.link/F1302o/key4513/android2.php?c=180&token=TecnotvGenerador2024|
 http://clubtv.link/F1302o/key4513/lista6.php?c=517&token=TecnotvCLUBTV&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_hbo-signature_m.png" group-title="CINE",HBO Signature S2 - ANDR 5
 http://clubtv.link/F1302o/key4513/android5.php?c=124&token=TecnotvGenerador2024|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
-#EXTINF:-1 tvg-id="1016" tvg-name="PlanetaTV Movies" tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png", PlanetaTV Movies | CL
-https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
 #EXTINF:-1 logo="https://uspto.report/TM/90216993/mark.png" group-title="CINE Y SERIES",HORRORFY - TOP CL
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1304564443192406016/SDsQY5e4.jpg" group-title="CINE Y SERIES",MORBIDO - ANDR 0
+http://clubtv.link/F1302o/key4513/android0.php?c=38481&token=TecnotvGenerador2024|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="1420" tvg-name="Terror TV" tvg-logo="https://cdn.m3u.cl/logo/1420_Terror_TV.png", Terror TV | TOP CL
 https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 logo="https://anime.es/wp-content/uploads/sites/36/2021/12/img_61acb19436f72.jpg" group-title="CINE Y SERIES",PANICO HD OPC 1 - ANDR 0
+http://clubtv.link/F1302o/key4513/android0.php?c=49777&token=TecnotvGenerador2024|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 logo="https://anime.es/wp-content/uploads/sites/36/2021/12/img_61acb19436f72.jpg" group-title="CINE Y SERIES",PANICO HD OPC 2 - ANDR 0
+http://clubtv.link/F1302o/key4513/android0.php?c=11868&token=TecnotvGenerador2024|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 logo="https://anime.es/wp-content/uploads/sites/36/2021/12/img_61acb19436f72.jpg" group-title="CINE Y SERIES",PANICO HD OPC 3 - ANDR 0
+http://clubtv.link/F1302o/key4513/android0.php?c=49778&token=TecnotvGenerador2024|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="1016" tvg-name="PlanetaTV Movies" tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png", PlanetaTV Movies | CL
+https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="96699" tvg-name="Orbit TV" tvg-logo="https://orbittv.net/images/orbit_logo4.png", Orbit TV HD - CL
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="96701" tvg-name="FMTV 1" tvg-logo="https://1.bp.blogspot.com/-yT22aG5TnjY/XxE7ri-XgKI/AAAAAAAAB_o/yRmzQT8Wm8Eq8OxtHuyElQr2PONDRrHVgCLcBGAsYHQ/s540/frecuenciamusicaltv_logoroku.jpg", Frecuencia Musical TV | US-CL
@@ -1988,8 +2010,10 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UC
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/0/03/MILENIO_Logo.png" group-title="NOTICIAS",MILENIO - TV2 SR REGIO
 http://181.78.105.146:2000/play/a00y/index.m3u8
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/0/03/MILENIO_Logo.png" group-title="NOTICIAS",MILENIO - ANDR
-
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/0/03/MILENIO_Logo.png" group-title="NOTICIAS",MILENIO HD - ANDR 0
+http://clubtv.link/F1302o/key4513/android0.php?c=30358&token=TecnotvGenerador2024|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/0/03/MILENIO_Logo.png" group-title="NOTICIAS",MILENIO - ANDR 0
+http://clubtv.link/F1302o/key4513/android0.php?c=37795&token=TecnotvGenerador2024|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 logo="http://directostv.teleame.com/wp-content/uploads/2018/07/Excelsior-TV-en-vivo-Online.png" group-title="NOTICIAS",EXCELSIOR TV - GEO MR-1
 
 #EXTINF:-1 logo="http://directostv.teleame.com/wp-content/uploads/2018/07/Excelsior-TV-en-vivo-Online.png" group-title="NOTICIAS",EXCELSIOR TV - GEO MR-2
