@@ -559,7 +559,7 @@ https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
 #EXTINF:-1 logo="https://images.produ.com/noticias/0517/big-Antena3Logo.jpg" group-title="ENTRETENIMIENTO",ANTENA 3 INTERNACIONAL - ESP
 http://clubtv.link/Feb1702/key4513/esp.php?c=90938
 #EXTINF:-1 logo="https://images.produ.com/noticias/0517/big-Antena3Logo.jpg" group-title="ENTRETENIMIENTO",ANTENA 3 INTERNACIONAL - LIS 6
-http://clubtv.link/Feb1702/key4513/lista6.php?c=351&token=TecnotvGeneradorCLUB2024&f=.m3u8
+http://clubtv.link/Feb1702/key4513/lista6.php?c=351&token=TECNOTVGENERADORTV&f=.m3u8
 #EXTINF:-1 logo="http://meteoalcorcon.es/3__Antena3HD_220x132.png" group-title="ENTRETENIMIENTO",ANTENA 3 HD OPC 1 - ESP 
 http://clubtv.link/Feb1702/key4513/esp.php?c=50460
 #EXTINF:-1 logo="http://meteoalcorcon.es/3__Antena3HD_220x132.png" group-title="ENTRETENIMIENTO",ANTENA 3 HD OPC 2 - ESP 
@@ -933,7 +933,7 @@ http://clubtv.link/Feb1702/key4513/android4.php?c=435&token=TecnotvGenerador2024
 #EXTINF:-1 logo="https://etb.com/negocios/img1/guia/logos/logo-goldenphd.jpg" group-title="CINE",GOLDEN PREMIER - ANDR 5 
 http://clubtv.link/Feb1702/key4513/android5.php?c=435&token=TecnotvGenerador2024|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
 #EXTINF:-1 logo="https://etb.com/negocios/img1/guia/logos/logo-goldenphd.jpg" group-title="CINE",GOLDEN PREMIER 2 - LIS 1
-http://clubtv.link/Feb1702/key4513/lista1.php?c=a019&token=TecnotvCLUBTV&f=.m3u8
+http://clubtv.link/Feb1702/key4513/lista1.php?c=a019&token=TECNOTVGENERADORTV&f=.m3u8
 #EXTINF:-1 logo="https://image.similarpng.com/very-thumbnail/2020/04/GooglePlus-logo-premium-of-golden-social-media-png.png" group-title="CINE",GOLDEN PLUS OPC 1 - ANDR 0
 http://clubtv.link/Feb1702/key4513/android0.php?c=38455&token=TecnotvGenerador2024|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 logo="https://image.similarpng.com/very-thumbnail/2020/04/GooglePlus-logo-premium-of-golden-social-media-png.png" group-title="CINE",GOLDEN PLUS OPC 2 - ANDR 0
