@@ -2281,70 +2281,16 @@ https://rpn3.bozztv.com/ssh101/ssh101/musica/playlist.m3u8?PlaylistM3UCL
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="112615" tvg-name="Video Tour Channel" tvg-logo="https://lh3.googleusercontent.com/-QUz4UviUPiE/X3YnewzIm7I/AAAAAAAA6Ho/xpUvyAvSX6Qj0Lvl8qhuZnDdz9VPZWy4QCK8BGAsYHg/s0/2020-10-01.png", Video Tour Channel
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="111629" tvg-name="Mix 24-7 Retro" tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png", Mix 24-7 Retro
-
-#EXTINF:-1 tvg-id="6" tvg-name="Mix 24-7 VdjMix Retro" tvg-logo="https://www.m3u.cl/logo/6_Mix_24_7_VdjMix_Retro.png", Mix 24-7 VdjMix Retro
-
-#EXTINF:-1 tvg-id="116605" tvg-name="Mix 24-7 Conciertos Live" tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png", Mix 24-7 Conciertos Live
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KiInumZ.png" group-title="USA",Live X Live
 https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KiInumZ.png" group-title="USA",Live X Live (Opt-2)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumolivexlive/CDN/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.coolstreaming.us/img/ch/image96541126632.jpg" group-title="",Muxx.tv
-
-#EXTINF:-1 tvg-id="StreetMusic4U.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/DVfEmq7.png" group-title="International",Street Music 4U (720p)
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9TbpsS0.png" group-title="USA",CMC-USA
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://logopond.com/logos/b7c21e65f85d4735f07051afcf70fe75.png" group-title="USA",Loop Country
-https://loop-country-2.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aL4DvbN.png" group-title="USA",Country Music 4U 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MLqDkEz.png" group-title="USA",Ditty TV
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nm3N3aw.png" group-title="USA",Bluegrass 4U SEÑAL
-
-#EXTINF:-1 tvg-id="SexyKpopTV.br" tvg-name="Sexy Kpop TV" tvg-country="BR" tvg-language="" tvg-logo="https://i.imgur.com/jsQmxyV.jpg" group-title="Brazil", Kpop TV - BR
-https://250weu.bozztv.com/ssh101/ssh101/kpoptv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="133949" tvg-name="Ekiz TV" tvg-logo="https://lh3.googleusercontent.com/-gDK3j68Mc6o/YFYnQ_VgDyI/AAAAAAABAy0/COi6QK7t40UXPZuYPWHnOwi61yO0QRVUwCK8BGAsYHg/s512/2021-03-20.jpg", Ekiz TV
-
-#EXTINF:-1 tvg-id="1" tvg-name="Rewind TV" tvg-logo="https://www.m3u.cl/logo/1_Rewind_TV.png", Rewind TV
-https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="http://onlinestream.live/logos/6465.png" group-title="",MUSIC +
-http://s02.diazol.hu:10192/stream.m3u8
-#EXTINF:-1 tvg-id="80288" tvg-name="Music Top" tvg-logo="https://lh3.googleusercontent.com/-6Em4fzTLMuU/XjtHLf96jvI/AAAAAAAAvqU/q3DfxbUdSiMDRDB1VBh_3hu3WDK_Nr-egCK8BGAsYHg/s0/2020-02-05.png" group-title="ARGENTINA",MUSICTOP SEÑAL 1
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="80288" tvg-name="Music Top" tvg-logo="https://lh3.googleusercontent.com/-6Em4fzTLMuU/XjtHLf96jvI/AAAAAAAAvqU/q3DfxbUdSiMDRDB1VBh_3hu3WDK_Nr-egCK8BGAsYHg/s0/2020-02-05.png", Music Top SEÑAL 2
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="796" tvg-name="Euro Indie Music" tvg-logo="https://www.m3u.cl/logo/796_Euro_Indie_Music.png", Euro Indie Music | GB
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTfWf9uw6MQhCynBdxYKsmneD2Olrx6wYRzGTlVD5TEZd1s2aJ-" group-title="Without category",DEEJAY TV
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS68xV11JqMUxOYQ1YF4ZCFpwlJFidMiQu7meI9c3GyBeIOhKVr" group-title="Without category",Ocko Expres
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VG3m7v1.jpg" group-title="MUSICA",Radio Capital TV SEÑAL 1
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VG3m7v1.jpg" group-title="MUSICA",Radio Capital TV SEÑAL 2
-
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51NpwMKMM8L.png" group-title="AUSTRIA",KroneHit TV
 http://bitcdn-kronehit.bitmovin.com/v2/hls/fluxustv.m3u8
-#EXTINF:-1 tvg-id="RadioJavanTV.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/4XTyMST.jpg" group-title="Iran",Radio Javan TV (720p)
+#EXTINF:-1 tvg-id="RadioJavanTV.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/4XTyMST.jpg" group-title="Iran",Radio Javan TV 
 https://stream.rjtv.stream/live/smil:rjtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.pngkit.com/png/detail/369-3697965_music-tv-sri-lanka.png" group-title="",AlbKanale Music TV
-
-#EXTINF:-1 tvg-id="109959" tvg-name="m2o TV" tvg-logo="https://lh3.googleusercontent.com/-8k2_MMN4_Bc/X0Khp3P6tWI/AAAAAAAA46E/RE_IEG7uAo4WhxuJy71et8N5L1BRugBLgCK8BGAsYHg/s0/2020-08-23.png", m2o TV SEÑAL 1
-
-#EXTINF:-1 tvg-id="109959" tvg-name="m2o TV" tvg-logo="https://lh3.googleusercontent.com/-8k2_MMN4_Bc/X0Khp3P6tWI/AAAAAAAA46E/RE_IEG7uAo4WhxuJy71et8N5L1BRugBLgCK8BGAsYHg/s0/2020-08-23.png", m2o TV SEÑAL 2
-
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://static.colectivosvip.com/public/colectivos/390/logo.png" group-title="",Mola TV
-http://ventdelnord.tv:8080/mola/directe.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTLXeYWCueJPQmzVmkMbhvMCGlkPOX07CBX4XxZ1ijOts7TEYFi" group-title="Without category",Rock Tv
-https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8
-#EXTINF:-1 tvg-id="1008" tvg-name="Cloud FM" tvg-logo="https://www.m3u.cl/logo/1008_Cloud_FM.png", Cloud FM | CL
-https://videostreaming.cloudserverlatam.com:443/CLOUDFM/CLOUDFM/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://dancestar.tv/images/swirl_2.jpg" group-title="USA",Dancestar TV
-https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
 
 
 
