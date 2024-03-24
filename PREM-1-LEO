@@ -806,28 +806,28 @@ http://clubtv.link/MZ2403/key4513/android0.php?c=764&token=TecnotvGeneradorPlusT
 http://clubtv.link/MZ2403/key4513/android10.php?c=0097&token=TecnotvGeneradorPlusTv24|user-agent=CCCCC
 #EXTINF:-1 logo="https://www.shutterstock.com/image-vector/fx-letter-logo-design-on-260nw-1787159732.jpg" group-title="SERIES Y CINE",FX HD - TV4 SR REGIO
 http://45.166.92.22:58001/play/a00s/index.m3u8
-#EXTINF:-1 logo="https://www.shutterstock.com/image-vector/fx-letter-logo-design-on-260nw-1787159732.jpg" group-title="SERIES Y CINE",FX HD OPC 1 - TV2 SR REGIO
+#EXTINF:-1 logo="https://www.shutterstock.com/image-vector/fx-letter-logo-design-on-260nw-1787159732.jpg" group-title="SERIES Y CINE",FX HD - TV2 SR REGIO
 http://190.149.66.90:4000/play/a01o/index.m3u8
 #EXTINF:-1 logo="https://www.shutterstock.com/image-vector/fx-letter-logo-design-on-260nw-1787159732.jpg" group-title="SERIES Y CINE",FX HD OPC 2 - TV2 SR REGIO
-http://167.250.222.35:16000/play/a04f/index.m3u8
+
 #EXTINF:-1 logo="https://e7.pngegg.com/pngimages/128/889/png-clipart-a-e-networks-logo-television-%E9%AB%98%E6%B8%85iphonex-miscellaneous-television.png" group-title="SERIES Y CINE",A&E - TV4 SR REGIO
 http://45.166.92.22:58001/play/a00p/index.m3u8
 #EXTINF:-1 logo="https://e7.pngegg.com/pngimages/128/889/png-clipart-a-e-networks-logo-television-%E9%AB%98%E6%B8%85iphonex-miscellaneous-television.png" group-title="SERIES Y CINE",A&E - TV2 SR REGIO
-http://167.250.222.35:16000/play/a04c/index.m3u8
+
 #EXTINF:-1 logo="https://e7.pngegg.com/pngimages/128/889/png-clipart-a-e-networks-logo-television-%E9%AB%98%E6%B8%85iphonex-miscellaneous-television.png" group-title="SERIES Y CINE",A&E - ANDR 0
 http://clubtv.link/MZ2403/key4513/android0.php?c=417&token=TecnotvGeneradorPlusTv24|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="SERIES Y CINE",AXN HD - TV4 SR REGIO
 http://45.166.92.22:58001/play/a02n/index.m3u8
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="SERIES Y CINE",AXN HD OPC 1 - TV2 SR REGIO
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="SERIES Y CINE",AXN HD - TV2 SR REGIO
 http://190.149.66.90:4000/play/a04r/index.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="SERIES Y CINE",AXN HD OPC 2 - TV2 SR REGIO
-http://167.250.222.35:16000/play/a07o/index.m3u8
+
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_tnt-series_m.png" group-title="CINE Y SERIES",TNT SERIES HD - TV4 SR REGIO
 http://45.166.92.22:58001/play/a01m/index.m3u8
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_tnt-series_m.png" group-title="CINE Y SERIES",TNT SERIES HD OPC 1 - TV2 SR REGIO
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_tnt-series_m.png" group-title="CINE Y SERIES",TNT SERIES HD - TV2 SR REGIO
 http://190.149.66.90:4000/play/a050/index.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_tnt-series_m.png" group-title="CINE Y SERIES",TNT SERIES HD OPC 2 - TV2 SR REGIO
-http://167.250.222.35:16000/play/a07x/index.m3u8
+
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1674339363893784576/EDy8_OYM_400x400.jpg" group-title="SERIES Y CINE",A3SERIES HD - ESP
 
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1674339363893784576/EDy8_OYM_400x400.jpg" group-title="SERIES Y CINE",A3SERIES HD - ESP 2
