@@ -246,9 +246,9 @@ http://clubtv.link/MZ2403/key4513/android4.php?c=406&token=TecnotvGeneradorPlusT
 http://clubtv.link/MZ2403/key4513/android5.php?c=406&token=TecnotvGeneradorPlusTv24|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
 #EXTINF:-1 logo="https://ideakreativa.net/wp-content/uploads/2019/04/discover-nuevo-logo.jpg" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL HD - TV4 SR REGIO
 http://45.166.92.22:58001/play/a01n/index.m3u8
-#EXTINF:-1 logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL HD - TV2 SR REGIO
+#EXTINF:-1 logo="https://ideakreativa.net/wp-content/uploads/2019/04/discover-nuevo-logo.jpg" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL HD - TV2 SR REGIO
 http://190.149.66.90:4000/play/a051/index.m3u8
-#EXTINF:-1 logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" group-title="MUNDO Y CULTURA",ANIMAL PLANET HD - TV4 SR REGIO
+#EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="MUNDO Y CULTURA",ANIMAL PLANET HD - TV4 SR REGIO
 http://45.166.92.22:58001/play/a00m/index.m3u8
 #EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="MUNDO Y CULTURA",ANIMAL PLANET HD - TV2 SR REGIO
 http://190.149.66.90:4000/play/a01j/index.m3u8
@@ -312,6 +312,8 @@ https://linear-125.frequency.stream/dist/vix/125/hls/master/playlist.m3u8
 http://45.166.92.22:58001/play/a014/index.m3u8
 #EXTINF:-1 logo="https://i.ytimg.com/vi/bjibZ7sRbEg/maxresdefault.jpg" group-title="MUNDO Y CULTURA",DISCOVERY THEATER - TV2 SR REGIO
 http://190.149.66.90:4000/play/a03n/index.m3u8
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1193950715334594560/v_LlUXBT_400x400.jpg" group-title="MUNDO Y CULTURA",ATLAS 
+http://45.160.15.130:2909/play/042
 #EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3dc87a1710825.5600fbeaa48e9.jpg" group-title="MUNDO Y CULTURA",DISCOVERY WORLD HD - TV4 SR REGIO
 http://45.166.92.22:58001/play/a01p/index.m3u8
 #EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3dc87a1710825.5600fbeaa48e9.jpg" group-title="MUNDO Y CULTURA",DISCOVERY WORLD HD - TV2 SR REGIO
