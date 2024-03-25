@@ -121,7 +121,7 @@ https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 http://190.149.66.90:4000/play/a02z/index.m3u8
 #EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/97aaa555530797.5988a3bebfb71.png" group-title="INFANTIL",AniMotion - TV5 SR REGIO
 http://45.160.15.130:2909/play/008
-#EXTINF:-1 logo="https://fmh.la/images/team/logo_kids.png" group-title="INFANTIL",FMH KIDS - TV5 SR REGIO
+#EXTINF:-1 logo="https://www.latincable.pe/images/canales-tv/fmhkids.jpg" group-title="INFANTIL",FMH KIDS - TV5 SR REGIO
 http://45.160.15.130:2909/play/003
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/discovery-kids/images/a/a3/2021-act.png/revision/latest?cb=20210608141228&path-prefix=es" group-title="INFANTIL",DISCOVERY KIDS S1 - TV2 SR REGIO
 http://181.78.105.146:2000/play/a015/index.m3u8
