@@ -404,14 +404,26 @@ http://167.114.156.136:25461/INFINITV/ZX89NM22/165
 http://clubtv.link/MZ2403/key4513/android0.php?c=850&token=TecnotvGeneradorPlusTv24|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://tvbix.com/images/channels/nbc-universo.png" group-title="ENTRETENIMIENTO",UNIVERSO - ANDR 1
 http://clubtv.link/MZ2403/key4513/android1.php?c=156&token=TecnotvGeneradorPlusTv24|user-agent=type21.08k
-#EXTINF:-1 logo="https://www.elnaveghable.cl/sites/elnaveghable.cl/files/imagen_noticia/logo_mega_nuevo.jpg" group-title="ENTRETENIMIENTO",MEGA TV - CL
+#EXTINF:-1 logo="https://www.elnaveghable.cl/sites/elnaveghable.cl/files/imagen_noticia/logo_mega_nuevo.jpg" group-title="ENTRETENIMIENTO",MEGA HD TV - TV5 SR REGIO
+http://45.160.15.130:2909/play/065
+#EXTINF:-1 logo="https://www.elnaveghable.cl/sites/elnaveghable.cl/files/imagen_noticia/logo_mega_nuevo.jpg" group-title="ENTRETENIMIENTO",MEGA HD TV - CL
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 logo="https://redgol.cl/__export/1621631802436/sites/redgol/img/2021/05/21/la-red-imagen-corporativa-30anos-canal-iderado-victor-gutierrez-renueva-colores-potenciando-audiencias-ok_crop1621289271938_jpeg_1693159006.jpeg_242310155.jpeg" group-title="ENTRETENIMIENTO",La Red - TV5 SR REGIO
+http://45.160.15.130:2909/play/062
 #EXTINF:-1 logo="https://redgol.cl/__export/1621631802436/sites/redgol/img/2021/05/21/la-red-imagen-corporativa-30anos-canal-iderado-victor-gutierrez-renueva-colores-potenciando-audiencias-ok_crop1621289271938_jpeg_1693159006.jpeg_242310155.jpeg" group-title="ENTRETENIMIENTO",La Red - CL
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="476" tvg-name="WOW TV" tvg-logo="https://logo-marque.com/wp-content/uploads/2021/03/Wide-Open-West-WOW-Logo.png", WOW TV | SV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1325" tvg-name="MDA TV" tvg-logo="https://i.paste.pics/390e8afd04db0d795943f7ae351094fe.png", MDA TV | VE
 https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 logo="https://www.diarioconstitucional.cl/wp-content/uploads/2021/06/logo-tv.jpg" group-title="ENTRETENIMIENTO",TV+ HD - TV5 SR REGIO
+http://45.160.15.130:2909/play/063
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/eltrecechile.png" nada="Chile" group-title="TV PREMIUM",Canal Trece HD - TV5 SR REGIO
+http://45.160.15.130:2909/play/067
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/Televisi__n_Nacional_de_Chile_-_TVN-logo-E99BE24030-seeklogo.com.png" nada="Chile" group-title="TV PREMIUM",TVN HD - TV5 SR REGIO
+http://45.160.15.130:2909/play/064
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkIsJk_M3phBcd2R5bEgmHDujl9G5YNcZebcHu-w94-LLtrRAURafj14FaTRp5kkJkG4M&usqp=CAU" nada="Chile" group-title="TV PREMIUM",CHILEVISON - TV5 SR REGIO
+http://45.160.15.130:2909/play/066
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJxy5LRrXJkBZDPvVrdilqfg0SDtaliye0gKZ4LlVS0ghdwfCSVvlF4sLza2J-bOnyiws&usqp=CAU" nada="Chile" group-title="TV PREMIUM",TC TELEVISION - ANDR 0
 http://clubtv.link/MZ2403/key4513/android0.php?c=769&token=TecnotvGeneradorPlusTv24|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://i.imgur.com/68ztlZE.png" group-title="ENTRETENIMIENTO",GOURMET - TV4 SR REGIO
