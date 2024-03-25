@@ -792,6 +792,8 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="478" tvg-name="Telesistema" tvg-logo="https://www.m3u.cl/logo/478_Telesistema.png", Telesistema | CR
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="478" tvg-name="Telesistema" tvg-logo="https://www.m3u.cl/logo/478_Telesistema.png", REWIND SOLO CLÁSICOS - TV5 SR REGIO
+http://45.160.15.130:2909/play/100
 #EXTINF:-1 logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FAMILY-FONDO-2-300x169.jpg" group-title="SERIES Y CINE",MX Family HD - TV5 SR REGIO
 http://45.160.15.130:2909/play/120
 #EXTINF:-1 logo="https://miplay.cl/wp-content/uploads/2022/01/MX-CLASIC-FONDO-2-300x169.jpg" group-title="SERIES Y CINE",MX Classic HD - TV5 SR REGIO
