@@ -708,10 +708,10 @@ http://clubtv.link/MZ2403/key4513/esp2.php?c=80677
 
 #EXTINF:-1 logo="https://play-lh.googleusercontent.com/FnPquwhaprIJLQasUK0GCTibOzLYjfWJh005wuzLwr0cXe0X6vlMhCcGPBSLmS2u-js" group-title="MUNDO Y CULTURA",LA SEXTA - ESP 2
 http://clubtv.link/MZ2403/key4513/esp2.php?c=2213
-#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1674338914591465472/My3IpKJE_400x400.jpg" group-title="MUNDO Y CULTURA",MEGA - ESP
-
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1674338914591465472/My3IpKJE_400x400.jpg" group-title="MUNDO Y CULTURA",MEGA - ESP 2
 http://clubtv.link/MZ2403/key4513/esp2.php?c=2217
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1674338914591465472/My3IpKJE_400x400.jpg" group-title="MUNDO Y CULTURA",MEGA - ANDR 0
+http://clubtv.link/MZ2403/key4513/android0.php?c=697&token=TecnotvGeneradorPlusTv24|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzlUfzMgNBiWhrOkGYcrGwodwOdgJ8l_RlIx4QZwfIJn4RcEj1mJ7wRqSRX-iquB-qBPU&usqp=CAU" group-title="MUNDO Y CULTURA",NEOX - ESP
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzlUfzMgNBiWhrOkGYcrGwodwOdgJ8l_RlIx4QZwfIJn4RcEj1mJ7wRqSRX-iquB-qBPU&usqp=CAU" group-title="MUNDO Y CULTURA",NEOX - ESP 2
@@ -882,10 +882,10 @@ http://190.149.66.90:4000/play/a050/index.m3u8
 
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1674339363893784576/EDy8_OYM_400x400.jpg" group-title="SERIES Y CINE",A3SERIES S1 - ANDR 0 
 http://clubtv.link/MZ2403/key4513/android0.php?c=403&token=TecnotvGeneradorPlusTv24|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1674339363893784576/EDy8_OYM_400x400.jpg" group-title="SERIES Y CINE",A3SERIES S2 - ANDR 2
-http://clubtv.link/MZ2403/key4513/esp2.php?c=2218
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1674339363893784576/EDy8_OYM_400x400.jpg" group-title="SERIES Y CINE",A3SERIES S2 - ANDR 10
 http://clubtv.link/MZ2403/key4513/android10.php?c=0028&token=TecnotvGeneradorPlusTv24|user-agent=CCCCC
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1674339363893784576/EDy8_OYM_400x400.jpg" group-title="SERIES Y CINE",A3SERIES S2 - ANDR 2
+http://clubtv.link/MZ2403/key4513/android2.php?c=121&token=TecnotvGeneradorPlusTv24|user-agent=Mozilla/5.0
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1674339363893784576/EDy8_OYM_400x400.jpg" group-title="SERIES Y CINE",A3SERIES - ANDR 9
 
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1674339363893784576/EDy8_OYM_400x400.jpg" group-title="SERIES Y CINE",A3SERIES - LIS 0
@@ -914,8 +914,8 @@ http://158.69.226.108:8000/live/Vfjjjhj/Djdkfk/1640.ts
 
 
 
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRn7ZA8fMdfyh2hUcpsq9lfFyY0BoteFosPBkzcng=s900-c-k-c0x00ffffff-no-rj" group-title="CINE",A3CINE - ESP
-http://clubtv.link/MZ2403/key4513/esp.php?c=124321
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRn7ZA8fMdfyh2hUcpsq9lfFyY0BoteFosPBkzcng=s900-c-k-c0x00ffffff-no-rj" group-title="CINE",A3CINE - LIS 5
+http://clubtv.link/MZ2403/key4513/lista5.php?c=028&token=TECNOTVCLUBGENERADOR&f=.m3u8
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRn7ZA8fMdfyh2hUcpsq9lfFyY0BoteFosPBkzcng=s900-c-k-c0x00ffffff-no-rj" group-title="CINE",A3CINE - ESP 2
 http://clubtv.link/MZ2403/key4513/esp2.php?c=124321
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRn7ZA8fMdfyh2hUcpsq9lfFyY0BoteFosPBkzcng=s900-c-k-c0x00ffffff-no-rj" group-title="CINE",A3CINE - ANDR 0
