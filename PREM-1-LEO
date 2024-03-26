@@ -340,6 +340,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?Pla
 http://clubtv.link/MZ2403/key4513/android0.php?c=1134&token=TecnotvGeneradorPlusTv24|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhvEXzKsZ7-EIq0mcNxoDQq2Pi8G7KAbi1WAxwUqp4yPMYKdYu3Rmf-5T8nw8FG2frPPg&usqp=CAU" group-title="Without category",CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfc62mdr8tTmXGW9ysU4Up1IEsVcyVrlmj4A&usqp=CAU" group-title="MUNDO Y CULTURA",Canal DOS HD - TV5 SR REGIO
+http://45.160.15.130:2909/play/124
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bzNiQNs.png" group-title="LATIN AMERICA",TV Marti - CUBA
 https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 logo="https://i.imgur.com/OO9PaGb.jpg" group-title="MUNDO Y CULTURA",H&H HD - TV4 SR REGIO
