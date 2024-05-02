@@ -1013,7 +1013,7 @@ http://notabasica.com/php/SR_REGIO_601032_/tv2.php?c=a053&f=.m3u8&k=SrRegio
 http://clubtv.link/ab0205/key4513/lista1.php?c=a053&token=tecnotvGeneradorTV&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh3FNWGiOloP0OZzOlpoNH5WEsCtnVjNABK-utRqA8HQ&s" group-title="SERIES Y CINE",FX HD - TV SR REGIO
 http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=a035&k=SrRegio&f=.m3u8
-#EXTINF:-1 logo="hhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh3FNWGiOloP0OZzOlpoNH5WEsCtnVjNABK-utRqA8HQ&s" group-title="SERIES Y CINE",FX HD - TV2 SR REGIO
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh3FNWGiOloP0OZzOlpoNH5WEsCtnVjNABK-utRqA8HQ&s" group-title="SERIES Y CINE",FX HD - TV2 SR REGIO
 http://notabasica.com/php/SR_REGIO_601032_/tv2.php?c=a035&f=.m3u8&k=SrRegio
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh3FNWGiOloP0OZzOlpoNH5WEsCtnVjNABK-utRqA8HQ&s" group-title="SERIES Y CINE",FX - TV SR REGIO
 http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=a03z&k=SrRegio&f=.m3u8
