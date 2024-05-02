@@ -955,44 +955,72 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-cane
 http://clubtv.link/A2804/key4513/esp2.php?c=2224
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJI5DmIqVwETZojOXilx8mz46z0E5r2mdnkLuMlFw7UHSdrgmM2lsSd_7H8ndQF9iMU2M&usqp=CAU" group-title="MUNDO Y CULTURA",MOVISTAR DRAMA - ESP 3
 
+#EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel HD - TV SR REGIO
+http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=a05c&k=SrRegio&f=.m3u8
+#EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel HD - TV2 SR REGIO
+http://notabasica.com/php/SR_REGIO_601032_/tv2.php?c=a05c&f=.m3u8&k=SrRegio
+#EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel - TV SR REGIO
+http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=a06d&k=SrRegio&f=.m3u8
+#EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel - TV2 SR REGIO
+http://notabasica.com/php/SR_REGIO_601032_/tv2.php?c=a06d&f=.m3u8&k=SrRegio
 #EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel HD - TV4 SR REGIO
 http://45.166.92.22:58001/play/a048/index.m3u8
-#EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel HD - TV2 SR REGIO
-http://190.149.66.90:4000/play/a03e/index.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="SERIES Y CINE",SONY HD - TV SR REGIO
+http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=a05e&k=SrRegio&f=.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="SERIES Y CINE",SONY HD - TV2 SR REGIO
+http://notabasica.com/php/SR_REGIO_601032_/tv2.php?c=a05e&f=.m3u8&k=SrRegio
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="SERIES Y CINE",SONY - TV SR REGIO
+http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=a04z&k=SrRegio&f=.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="SERIES Y CINE",SONY - TV2 SR REGIO
+http://notabasica.com/php/SR_REGIO_601032_/tv2.php?c=a04z&f=.m3u8&k=SrRegio
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="SERIES Y CINE",SONY HD - TV4 SR REGIO
 http://45.166.92.22:58001/play/a04a/index.m3u8
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="SERIES Y CINE",SONY HD - TV2 SR REGIO
-http://190.149.66.90:4000/play/a03g/index.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="SERIES Y CINE",SONY HD OPC 2 - TV2 SR REGIO
 
+#EXTINF:-1 logo="https://1.bp.blogspot.com/-JQNiUM4A2QI/X9TG0We7WCI/AAAAAAAA7lg/ELH2-qgU4pE0ENl7bTw9ya9dCAO5kkzcACLcBGAsYHQ/s378/warner-channel.png" group-title="SERIES Y CINE",WARNER HD - TV SR REGIO
+http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=a05d&k=SrRegio&f=.m3u8
+#EXTINF:-1 logo="https://1.bp.blogspot.com/-JQNiUM4A2QI/X9TG0We7WCI/AAAAAAAA7lg/ELH2-qgU4pE0ENl7bTw9ya9dCAO5kkzcACLcBGAsYHQ/s378/warner-channel.png" group-title="SERIES Y CINE",WARNER HD - TV2 SR REGIO
+http://notabasica.com/php/SR_REGIO_601032_/tv2.php?c=a05d&f=.m3u8&k=SrRegio
+#EXTINF:-1 logo="https://1.bp.blogspot.com/-JQNiUM4A2QI/X9TG0We7WCI/AAAAAAAA7lg/ELH2-qgU4pE0ENl7bTw9ya9dCAO5kkzcACLcBGAsYHQ/s378/warner-channel.png" group-title="SERIES Y CINE",WARNER - TV SR REGIO
+http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=a050&k=SrRegio&f=.m3u8
+#EXTINF:-1 logo="https://1.bp.blogspot.com/-JQNiUM4A2QI/X9TG0We7WCI/AAAAAAAA7lg/ELH2-qgU4pE0ENl7bTw9ya9dCAO5kkzcACLcBGAsYHQ/s378/warner-channel.png" group-title="SERIES Y CINE",WARNER - TV2 SR REGIO
+http://notabasica.com/php/SR_REGIO_601032_/tv2.php?c=a050&f=.m3u8&k=SrRegio
 #EXTINF:-1 logo="https://1.bp.blogspot.com/-JQNiUM4A2QI/X9TG0We7WCI/AAAAAAAA7lg/ELH2-qgU4pE0ENl7bTw9ya9dCAO5kkzcACLcBGAsYHQ/s378/warner-channel.png" group-title="SERIES Y CINE",WARNER HD - TV4 SR REGIO
 http://45.166.92.22:58001/play/a049/index.m3u8
-#EXTINF:-1 logo="https://1.bp.blogspot.com/-JQNiUM4A2QI/X9TG0We7WCI/AAAAAAAA7lg/ELH2-qgU4pE0ENl7bTw9ya9dCAO5kkzcACLcBGAsYHQ/s378/warner-channel.png" group-title="SERIES Y CINE",WARNER HD - TV2 SR REGIO
-http://190.149.66.90:4000/play/a03f/index.m3u8
-#EXTINF:-1 logo="https://1.bp.blogspot.com/-JQNiUM4A2QI/X9TG0We7WCI/AAAAAAAA7lg/ELH2-qgU4pE0ENl7bTw9ya9dCAO5kkzcACLcBGAsYHQ/s378/warner-channel.png" group-title="SERIES Y CINE",WARNER HD OPC 2 - TV2 SR REGIO
-
+#EXTINF:-1 logo="https://w7.pngwing.com/pngs/897/89/png-transparent-logo-universal-channel-high-definition-television-olympic-channel-television-channel-universal-kids-purple-television-violet-thumbnail.png" group-title="SERIES Y CINE",UNIVERSAL - TV SR REGIO
+http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=a06m&k=SrRegio&f=.m3u8
+#EXTINF:-1 logo="https://w7.pngwing.com/pngs/897/89/png-transparent-logo-universal-channel-high-definition-television-olympic-channel-television-channel-universal-kids-purple-television-violet-thumbnail.png" group-title="SERIES Y CINE",UNIVERSAL - TV2 SR REGIO
+http://notabasica.com/php/SR_REGIO_601032_/tv2.php?c=a06m&f=.m3u8&k=SrRegio
 #EXTINF:-1 logo="https://w7.pngwing.com/pngs/897/89/png-transparent-logo-universal-channel-high-definition-television-olympic-channel-television-channel-universal-kids-purple-television-violet-thumbnail.png" group-title="SERIES Y CINE",UNIVERSAL - TV5 SR REGIO
 http://45.160.15.130:2909/play/088
 #EXTINF:-1 logo="https://w7.pngwing.com/pngs/897/89/png-transparent-logo-universal-channel-high-definition-television-olympic-channel-television-channel-universal-kids-purple-television-violet-thumbnail.png" group-title="SERIES Y CINE",UNIVERSAL - ANDR 0
 
 #EXTINF:-1 logo="https://w7.pngwing.com/pngs/897/89/png-transparent-logo-universal-channel-high-definition-television-olympic-channel-television-channel-universal-kids-purple-television-violet-thumbnail.png" group-title="SERIES Y CINE",UNIVERSAL - ANDR 2
 http://clubtv.link/A2804/key4513/android2.php?c=138&token=tecnotvGeneradorTV|user-agent=Mozilla/5.0
+#EXTINF:-1 logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-premiere-dark-logo.png" group-title="SERIES Y CINE",UNIVERSAL PREMIERE HD - TV SR REGIO
+http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=a05s&k=SrRegio&f=.m3u8
+#EXTINF:-1 logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-premiere-dark-logo.png" group-title="SERIES Y CINE",UNIVERSAL PREMIERE O HD - TV SR REGIO
+http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=a05t&k=SrRegio&f=.m3u8
 #EXTINF:-1 logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-premiere-dark-logo.png" group-title="SERIES Y CINE",UNIVERSAL PREMIERE HD - TV2 SR REGIO
-http://190.149.66.90:4000/play/a03t/index.m3u8
+http://190.149.66.90:4000/play/a03t/index.m3u8http://notabasica.com/php/SR_REGIO_601032_/tv2.php?c=a05s&f=.m3u8&k=SrRegio
 #EXTINF:-1 logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-premiere-dark-logo.png" group-title="SERIES Y CINE",UNIVERSAL PREMIERE O HD - TV2 SR REGIO
-http://190.149.66.90:4000/play/a03u/index.m3u8
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6nG1fHhEe2l2lGmZKOFP5SjbK1CsErwjWwtVz3jk_G-6xJYDjTItukvwtks-ijuddXfw&usqp=CAU" group-title="SERIES Y CINE",USA - ANDR 1
-http://clubtv.link/A2804/key4513/android1.php?c=a00m&token=tecnotvGeneradorTV
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6nG1fHhEe2l2lGmZKOFP5SjbK1CsErwjWwtVz3jk_G-6xJYDjTItukvwtks-ijuddXfw&usqp=CAU" group-title="SERIES Y CINE",USA - LIS 1
+http://190.149.66.90:4000/play/a03u/index.m3u8http://notabasica.com/php/SR_REGIO_601032_/tv2.php?c=a05t&f=.m3u8&k=SrRegio
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6nG1fHhEe2l2lGmZKOFP5SjbK1CsErwjWwtVz3jk_G-6xJYDjTItukvwtks-ijuddXfw&usqp=CAU" group-title="SERIES Y CINE",USA - TV SR REGIO
+http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=a053&k=SrRegio&f=.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6nG1fHhEe2l2lGmZKOFP5SjbK1CsErwjWwtVz3jk_G-6xJYDjTItukvwtks-ijuddXfw&usqp=CAU" group-title="SERIES Y CINE",USA - TV2 SR REGIO
+http://notabasica.com/php/SR_REGIO_601032_/tv2.php?c=a053&f=.m3u8&k=SrRegio
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/sailormoonenglishanime/images/a/ac/USA_Network_%28Milgreen%29.png/revision/latest?cb=20141101163109" group-title="SERIES Y CINE",USA - LIS 1
 http://clubtv.link/A2804/key4513/lista1.php?c=a053&token=tecnotvGeneradorTV&f=.m3u8
-#EXTINF:-1 logo="https://static.wikia.nocookie.net/sailormoonenglishanime/images/a/ac/USA_Network_%28Milgreen%29.png/revision/latest?cb=20141101163109" group-title="SERIES Y CINE",USA - ANDR 10
-http://clubtv.link/A2804/key4513/android10.php?c=0097&token=tecnotvGeneradorTV|user-agent=CCCCC
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh3FNWGiOloP0OZzOlpoNH5WEsCtnVjNABK-utRqA8HQ&s" group-title="SERIES Y CINE",FX HD - TV SR REGIO
+http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=a035&k=SrRegio&f=.m3u8
+#EXTINF:-1 logo="https://www.shutterstock.com/image-vector/fx-letter-logo-design-on-260nw-1787159732.jpg" group-title="SERIES Y CINE",FX HD - TV2 SR REGIO
+http://notabasica.com/php/SR_REGIO_601032_/tv2.php?c=a035&f=.m3u8&k=SrRegio
+#EXTINF:-1 logo="https://www.shutterstock.com/image-vector/fx-letter-logo-design-on-260nw-1787159732.jpg" group-title="SERIES Y CINE",FX - TV SR REGIO
+http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=a03z&k=SrRegio&f=.m3u8
+#EXTINF:-1 logo="https://www.shutterstock.com/image-vector/fx-letter-logo-design-on-260nw-1787159732.jpg" group-title="SERIES Y CINE",FX - TV2 SR REGIO
+http://notabasica.com/php/SR_REGIO_601032_/tv2.php?c=a03z&f=.m3u8&k=SrRegio
 #EXTINF:-1 logo="https://www.shutterstock.com/image-vector/fx-letter-logo-design-on-260nw-1787159732.jpg" group-title="SERIES Y CINE",FX HD - TV4 SR REGIO
 http://45.166.92.22:58001/play/a00s/index.m3u8
-#EXTINF:-1 logo="https://www.shutterstock.com/image-vector/fx-letter-logo-design-on-260nw-1787159732.jpg" group-title="SERIES Y CINE",FX HD - TV2 SR REGIO
-http://190.149.66.90:4000/play/a01o/index.m3u8
-#EXTINF:-1 logo="https://www.shutterstock.com/image-vector/fx-letter-logo-design-on-260nw-1787159732.jpg" group-title="SERIES Y CINE",FX HD OPC 2 - TV2 SR REGIO
-
 #EXTINF:-1 logo="https://e7.pngegg.com/pngimages/128/889/png-clipart-a-e-networks-logo-television-%E9%AB%98%E6%B8%85iphonex-miscellaneous-television.png" group-title="SERIES Y CINE",A&E - TV4 SR REGIO
 http://45.166.92.22:58001/play/a00p/index.m3u8
 #EXTINF:-1 logo="https://e7.pngegg.com/pngimages/128/889/png-clipart-a-e-networks-logo-television-%E9%AB%98%E6%B8%85iphonex-miscellaneous-television.png" group-title="SERIES Y CINE",A&E - TV5 SR REGIO
