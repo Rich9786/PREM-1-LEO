@@ -524,9 +524,9 @@ http://45.166.92.22:58001/play/a01r/index.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/960px-Logo_UniM%C3%A1s.svg.png" group-title="ENTRETENIMIENTO",UNIMAS - ANDR 0
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/960px-Logo_UniM%C3%A1s.svg.png" group-title="ENTRETENIMIENTO",UNIMAS - ANDR 2
-http://clubtv.link/ab0205/key4513/android2.php?c=126&token=tecnotvGeneradorTV|user-agent=Mozilla/5.0
+http://clubtv.link/ab0205/key4513/android8.php?c=iEJE2wyZ9MxlmNqsXw__lKVS&token=tecnotvGeneradorTV|user-agent=swofirexuroklstariwresplqosumabl
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/960px-Logo_UniM%C3%A1s.svg.png" group-title="ENTRETENIMIENTO",UNIMAS - ANDR 7
-http://clubtv.link/ab0205/key4513/android7.php?c=126&token=tecnotvGeneradorTV
+http://clubtv.link/ab0205/key4513/android9.php?c=iEJE2wyZ9MxlmNqsXw__lKVS&token=tecnotvGeneradorTV|user-agent=swofirexuroklstariwresplqosumabl
 #EXTINF:-1 logo="https://tvbix.com/images/channels/nbc-universo.png" group-title="ENTRETENIMIENTO",UNIVERSO - TV4 SR REGIO
 http://167.114.156.136:25461/INFINITV/ZX89NM22/165
 #EXTINF:-1 logo="https://tvbix.com/images/channels/nbc-universo.png" group-title="ENTRETENIMIENTO",UNIVERSO - LIS 5
@@ -731,16 +731,20 @@ https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
 
 #EXTINF:-1 logo="https://images.produ.com/noticias/0517/big-Antena3Logo.jpg" group-title="ENTRETENIMIENTO",ANTENA 3 INTERNACIONAL - TV4 SR REGIO
 http://45.166.92.22:58001/play/a041/index.m3u8
+#EXTINF:-1 logo="https://images.produ.com/noticias/0517/big-Antena3Logo.jpg" group-title="ENTRETENIMIENTO",ANTENA 3 INTERNACIONAL - ESP
+http://clubtv.link/ab0205/key4513/esp.php?c=126171
 #EXTINF:-1 logo="https://images.produ.com/noticias/0517/big-Antena3Logo.jpg" group-title="ENTRETENIMIENTO",ANTENA 3 INTERNACIONAL - LIS 1
 http://clubtv.link/ab0205/key4513/lista1.php?c=a00s&token=tecnotvGeneradorTV&f=.m3u8
 #EXTINF:-1 logo="https://images.produ.com/noticias/0517/big-Antena3Logo.jpg" group-title="ENTRETENIMIENTO",ANTENA 3 INTERNACIONAL - LIS 2
 http://clubtv.link/ab0205/key4513/lista2.php?c=a00s&f=.m3u8&token=tecnotvGeneradorTV
 #EXTINF:-1 logo="https://images.produ.com/noticias/0517/big-Antena3Logo.jpg" group-title="ENTRETENIMIENTO",ANTENA 3 INTERNACIONAL - LIS 5
-http://clubtv.link/ab0205/key4513/lista5.php?c=008&token=tecnotvGeneradorTV&f=.m3u8
-#EXTINF:-1 logo="http://meteoalcorcon.es/3__Antena3HD_220x132.png" group-title="ENTRETENIMIENTO",ANTENA 3 HD - TV4 SR REGIO 
-http://167.114.156.136:25461/INFINITV/ZX89NM22/96
-#EXTINF:-1 logo="http://meteoalcorcon.es/3__Antena3HD_220x132.png" group-title="ENTRETENIMIENTO",ANTENA 3 HD - ESP 2
-http://clubtv.link/ab0205/key4513/esp2.php?c=2210
+http://clubtv.link/ab0205/key4513/lista5.php?c=a00s&token=tecnotvGeneradorTV&f=.m3u8
+#EXTINF:-1 logo="http://meteoalcorcon.es/3__Antena3HD_220x132.png" group-title="ENTRETENIMIENTO",ANTENA 3 HD OPC 1 - ESP 
+http://clubtv.link/ab0205/key4513/esp.php?c=126214
+#EXTINF:-1 logo="http://meteoalcorcon.es/3__Antena3HD_220x132.png" group-title="ENTRETENIMIENTO",ANTENA 3 HD OPC 2 - ESP 
+http://clubtv.link/ab0205/key4513/esp.php?c=126262
+#EXTINF:-1 logo="http://meteoalcorcon.es/3__Antena3HD_220x132.png" group-title="ENTRETENIMIENTO",ANTENA 3 HD OPC 3 - ESP
+http://clubtv.link/ab0205/key4513/esp.php?c=126363
 #EXTINF:-1 logo="https://images.produ.com/noticias/0517/big-Antena3Logo.jpg" group-title="ENTRETENIMIENTO",ANTENA 3 INTERNACIONAL - ANDR 4
 
 #EXTINF:-1 logo="https://images.produ.com/noticias/0517/big-Antena3Logo.jpg" group-title="ENTRETENIMIENTO",ANTENA 3 INTERNACIONAL - ANDR 5
@@ -760,7 +764,7 @@ http://clubtv.link/ab0205/key4513/esp2.php?c=2210
 #EXTINF:-1 logo="https://c0.klipartz.com/pngpicture/264/436/gratis-png-television-espanol-tve-internacional-rtve-television-en-espana-obi-logo.png" group-title="CULTURA",TVE - LIS 1
 http://clubtv.link/ab0205/key4513/lista1.php?c=a06t&token=tecnotvGeneradorTV&f=.m3u8
 #EXTINF:-1 logo="https://c0.klipartz.com/pngpicture/264/436/gratis-png-television-espanol-tve-internacional-rtve-television-en-espana-obi-logo.png" group-title="CULTURA",TVE - LIS 5
-http://clubtv.link/ab0205/key4513/lista5.php?c=128&token=tecnotvGeneradorTV&f=.m3u8
+http://clubtv.link/ab0205/key4513/lista5.php?c=a06t&token=tecnotvGeneradorTV&f=.m3u8
 #EXTINF:-1 logo="https://img2.freepng.es/20181125/uaj/kisspng-logo-tve-internacional-la-1-rtve-tve-hd-5bfae49e01bb39.8822497515431691820071.jpg" group-title="CULTURA",TVE - ANDR 9
 
 #EXTINF:-1 logo="https://img2.freepng.es/20181125/uaj/kisspng-logo-tve-internacional-la-1-rtve-tve-hd-5bfae49e01bb39.8822497515431691820071.jpg" group-title="CULTURA",TVE EUROPA - ESP 2 
@@ -779,38 +783,38 @@ http://clubtv.link/ab0205/key4513/lista5.php?c=128&token=tecnotvGeneradorTV&f=.m
 
 #EXTINF:-1 logo="https://c4d.com.mx/canalesrtve/wp-content/uploads/2021/09/head_star-tve_movil.webp" group-title="MUNDO Y CULTURA",STAR TVE - ANDR 3
 
+#EXTINF:-1 logo="https://c4d.com.mx/canalesrtve/wp-content/uploads/2021/09/head_star-tve_movil.webp" group-title="MUNDO Y CULTURA",STAR TVE HD - TV SR REGIO
+http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=a03a&k=SrRegio&f=.m3u8
+#EXTINF:-1 logo="https://c4d.com.mx/canalesrtve/wp-content/uploads/2021/09/head_star-tve_movil.webp" group-title="MUNDO Y CULTURA",STAR TVE HD - TV2 SR REGIO
+http://notabasica.com/php/SR_REGIO_601032_/tv2.php?c=a03a&f=.m3u8&k=SrRegio
 #EXTINF:-1 logo="https://c4d.com.mx/canalesrtve/wp-content/uploads/2021/09/head_star-tve_movil.webp" group-title="MUNDO Y CULTURA",STAR TVE HD - TV4 SR REGIO
 http://45.166.92.22:58001/play/a00x/index.m3u8
-#EXTINF:-1 logo="https://c4d.com.mx/canalesrtve/wp-content/uploads/2021/09/head_star-tve_movil.webp" group-title="MUNDO Y CULTURA",STAR TVE HD OPC 1 - TV2 SR REGIO
-http://190.149.66.90:4000/play/a01t/index.m3u8
-#EXTINF:-1 logo="https://c4d.com.mx/canalesrtve/wp-content/uploads/2021/09/head_star-tve_movil.webp" group-title="MUNDO Y CULTURA",STAR TVE HD OPC 2 - TV2 SR REGIO
-http://167.250.222.35:16000/play/a04k/index.m3u8
 #EXTINF:-1 logo="https://getvectorlogo.com/wp-content/uploads/2019/07/dmax-vector-logo.png" group-title="MUNDO Y CULTURA",DMAX ESP
-
+http://clubtv.link/ab0205/key4513/esp.php?c=126180
 #EXTINF:-1 logo="https://getvectorlogo.com/wp-content/uploads/2019/07/dmax-vector-logo.png" group-title="MUNDO Y CULTURA",DMAX ESP 2
-http://clubtv.link/ab0205/key4513/esp2.php?c=44341
+
 #EXTINF:-1 logo="https://getvectorlogo.com/wp-content/uploads/2019/07/dmax-vector-logo.png" group-title="MUNDO Y CULTURA",DMAX ESP 3
 
-#EXTINF:-1 logo="https://static.wikia.nocookie.net/tvcable/images/e/e4/FDF.png/revision/latest/scale-to-width-down/160?cb=20121223212117&path-prefix=es" group-title="MUNDO Y CULTURA",FDF ESP
-
-#EXTINF:-1 logo="https://static.wikia.nocookie.net/tvcable/images/e/e4/FDF.png/revision/latest/scale-to-width-down/160?cb=20121223212117&path-prefix=es" group-title="MUNDO Y CULTURA",FDF ESP 2
-http://clubtv.link/ab0205/key4513/esp2.php?c=14585
-#EXTINF:-1 logo="https://brandemia.org/sites/default/files/sites/default/files/nuevo_logo_axn.jpg" group-title="MUNDO Y CULTURA",AXN - ESP
-
-#EXTINF:-1 logo="https://brandemia.org/sites/default/files/sites/default/files/nuevo_logo_axn.jpg" group-title="MUNDO Y CULTURA",AXN OPC 1 - ESP 2
-http://clubtv.link/ab0205/key4513/esp2.php?c=80611
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/tvcable/images/e/e4/FDF.png/revision/latest/scale-to-width-down/160?cb=20121223212117&path-prefix=es" group-title="MUNDO Y CULTURA",FDF OPC 1 ESP
+http://clubtv.link/ab0205/key4513/esp.php?c=126199
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/tvcable/images/e/e4/FDF.png/revision/latest/scale-to-width-down/160?cb=20121223212117&path-prefix=es" group-title="MUNDO Y CULTURA",FDF OPC 2 ESP 
+http://clubtv.link/ab0205/key4513/esp.php?c=126385
+#EXTINF:-1 logo="https://brandemia.org/sites/default/files/sites/default/files/nuevo_logo_axn.jpg" group-title="MUNDO Y CULTURA",AXN OPC 1 - ESP
+http://clubtv.link/ab0205/key4513/esp.php?c=126240
+#EXTINF:-1 logo="https://brandemia.org/sites/default/files/sites/default/files/nuevo_logo_axn.jpg" group-title="MUNDO Y CULTURA",AXN OPC 2 - ESP 
+http://clubtv.link/ab0205/key4513/esp.php?c=126364
+#EXTINF:-1 logo="https://brandemia.org/sites/default/files/sites/default/files/nuevo_logo_axn.jpg" group-title="MUNDO Y CULTURA",AXN OPC 3 - ESP 
+http://clubtv.link/ab0205/key4513/esp.php?c=126365
 #EXTINF:-1 logo="https://brandemia.org/sites/default/files/sites/default/files/nuevo_logo_axn.jpg" group-title="MUNDO Y CULTURA",AXN OPC 2 - ESP 2
-http://clubtv.link/ab0205/key4513/esp2.php?c=80634
-#EXTINF:-1 logo="https://brandemia.org/sites/default/files/sites/default/files/nuevo_logo_axn.jpg" group-title="MUNDO Y CULTURA",AXN OPC 3 - ESP 2
-http://clubtv.link/ab0205/key4513/esp2.php?c=80684
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/AXN_Movies_logo.jpg/800px-AXN_Movies_logo.jpg" group-title="MUNDO Y CULTURA",AXN MOVIES - ESP
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/AXN_Movies_logo.jpg/800px-AXN_Movies_logo.jpg" group-title="MUNDO Y CULTURA",AXN MOVIES OPC 1 - ESP 2
-http://clubtv.link/ab0205/key4513/esp2.php?c=2233
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/AXN_Movies_logo.jpg/800px-AXN_Movies_logo.jpg" group-title="MUNDO Y CULTURA",AXN MOVIES OPC 2 - ESP 2
-http://clubtv.link/ab0205/key4513/esp2.php?c=80611
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/AXN_Movies_logo.jpg/800px-AXN_Movies_logo.jpg" group-title="MUNDO Y CULTURA",AXN MOVIES OPC 1 - ESP
+http://clubtv.link/ab0205/key4513/esp.php?c=126241
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/AXN_Movies_logo.jpg/800px-AXN_Movies_logo.jpg" group-title="MUNDO Y CULTURA",AXN MOVIES OPC 2 - ESP 
+http://clubtv.link/ab0205/key4513/esp.php?c=126250
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/AXN_Movies_logo.jpg/800px-AXN_Movies_logo.jpg" group-title="MUNDO Y CULTURA",AXN MOVIES OPC 3 - ESP 
+http://clubtv.link/ab0205/key4513/esp.php?c=126382
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/AXN_Movies_logo.jpg/800px-AXN_Movies_logo.jpg" group-title="MUNDO Y CULTURA",AXN MOVIES OPC 3 S2 - ESP
-http://clubtv.link/ab0205/key4513/esp2.php?c=2233
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/AXN_Movies_logo.jpg/800px-AXN_Movies_logo.jpg" group-title="MUNDO Y CULTURA",AXN MOVIES OPC 4 S2 - ESP 2
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/AXN_Movies_logo.jpg/800px-AXN_Movies_logo.jpg" group-title="MUNDO Y CULTURA",AXN MOVIES OPC 5 S3 - ESP
@@ -818,47 +822,59 @@ http://clubtv.link/ab0205/key4513/esp2.php?c=2233
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/AXN_Movies_logo.jpg/800px-AXN_Movies_logo.jpg" group-title="MUNDO Y CULTURA",AXN MOVIES OPC 6 S3 - ESP 2
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Be-Mad.png" group-title="MUNDO Y CULTURA",BE MAD ESP
-
+http://clubtv.link/ab0205/key4513/esp.php?c=126243
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Be-Mad.png" group-title="MUNDO Y CULTURA",BE MAD ESP 2
 
-#EXTINF:-1 logo="https://vercanalestv.online/wp-content/uploads/2021/10/calle13icono.jpg" group-title="MUNDO Y CULTURA",CALLE 13 - ESP
-
-#EXTINF:-1 logo="https://vercanalestv.online/wp-content/uploads/2021/10/calle13icono.jpg" group-title="MUNDO Y CULTURA",CALLE 13 - ESP 2
-http://clubtv.link/ab0205/key4513/esp2.php?c=80621
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/LOGO_COSMO.png" group-title="MUNDO Y CULTURA",COSMO - ESP
-
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/LOGO_COSMO.png" group-title="MUNDO Y CULTURA",COSMO - ESP 2
-http://clubtv.link/ab0205/key4513/esp2.php?c=80614
+#EXTINF:-1 logo="https://vercanalestv.online/wp-content/uploads/2021/10/calle13icono.jpg" group-title="MUNDO Y CULTURA",CALLE 13 OPC 1 - ESP
+http://clubtv.link/ab0205/key4513/esp.php?c=126211
+#EXTINF:-1 logo="https://vercanalestv.online/wp-content/uploads/2021/10/calle13icono.jpg" group-title="MUNDO Y CULTURA",CALLE 13 OPC 2 - ESP 
+http://clubtv.link/ab0205/key4513/esp.php?c=126252
+#EXTINF:-1 logo="https://vercanalestv.online/wp-content/uploads/2021/10/calle13icono.jpg" group-title="MUNDO Y CULTURA",CALLE 13 OPC 3 - ESP
+http://clubtv.link/ab0205/key4513/esp.php?c=126357
+#EXTINF:-1 logo="https://vercanalestv.online/wp-content/uploads/2021/10/calle13icono.jpg" group-title="MUNDO Y CULTURA",CALLE 13 OPC 4 - ESP
+http://clubtv.link/ab0205/key4513/esp.php?c=126358
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/LOGO_COSMO.png" group-title="MUNDO Y CULTURA",COSMO OPC 1 - ESP
+http://clubtv.link/ab0205/key4513/esp.php?c=126206
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/LOGO_COSMO.png" group-title="MUNDO Y CULTURA",COSMO OPC 2 - ESP 
+http://clubtv.link/ab0205/key4513/esp.php?c=126253
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/LOGO_COSMO.png" group-title="MUNDO Y CULTURA",COSMO OPC 3 - ESP 
+http://clubtv.link/ab0205/key4513/esp.php?c=126278
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/LOGO_COSMO.png" group-title="MUNDO Y CULTURA",COSMO OPC 4 - ESP
+http://clubtv.link/ab0205/key4513/esp.php?c=126378
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/LOGO_COSMO.png" group-title="MUNDO Y CULTURA",COSMO OPC 5 - ESP
+http://clubtv.link/ab0205/key4513/esp.php?c=126379
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/LOGO_COSMO.png" group-title="MUNDO Y CULTURA",COSMO OPC 6 - ESP
+http://clubtv.link/ab0205/key4513/esp.php?c=126380
 #EXTINF:-1 logo="https://w7.pngwing.com/pngs/553/127/png-transparent-energy-mediaset-espana-comunicacion-television-channel-factoria-de-ficcion-energy-television-text-logo.png" group-title="MUNDO Y CULTURA",ENERGY - ESP
-
+http://clubtv.link/ab0205/key4513/esp.php?c=126257
 #EXTINF:-1 logo="https://w7.pngwing.com/pngs/553/127/png-transparent-energy-mediaset-espana-comunicacion-television-channel-factoria-de-ficcion-energy-television-text-logo.png" group-title="MUNDO Y CULTURA",ENERGY - ESP 2
-http://clubtv.link/ab0205/key4513/esp2.php?c=80616
-#EXTINF:-1 logo="https://marcaporhombro.com/wp-content/uploads/2012/04/cuatro.jpg" group-title="MUNDO Y CULTURA",CUATRO - ESP
 
-#EXTINF:-1 logo="https://marcaporhombro.com/wp-content/uploads/2012/04/cuatro.jpg" group-title="MUNDO Y CULTURA",CUATRO OPC 1 - ESP 2
-http://clubtv.link/ab0205/key4513/esp2.php?c=2211
-#EXTINF:-1 logo="https://marcaporhombro.com/wp-content/uploads/2012/04/cuatro.jpg" group-title="MUNDO Y CULTURA",CUATRO OPC 2 - ESP 2
-http://clubtv.link/ab0205/key4513/esp2.php?c=80677
+#EXTINF:-1 logo="https://marcaporhombro.com/wp-content/uploads/2012/04/cuatro.jpg" group-title="MUNDO Y CULTURA",CUATRO OPC 1 - ESP
+http://clubtv.link/ab0205/key4513/esp.php?c=126215
+#EXTINF:-1 logo="https://marcaporhombro.com/wp-content/uploads/2012/04/cuatro.jpg" group-title="MUNDO Y CULTURA",CUATRO OPC 2 - ESP 
+http://clubtv.link/ab0205/key4513/esp.php?c=126261
+#EXTINF:-1 logo="https://marcaporhombro.com/wp-content/uploads/2012/04/cuatro.jpg" group-title="MUNDO Y CULTURA",CUATRO - ESP 2
+
 #EXTINF:-1 logo="https://play-lh.googleusercontent.com/FnPquwhaprIJLQasUK0GCTibOzLYjfWJh005wuzLwr0cXe0X6vlMhCcGPBSLmS2u-js" group-title="MUNDO Y CULTURA",LA SEXTA - ESP
-
+http://clubtv.link/ab0205/key4513/esp.php?c=126216
 #EXTINF:-1 logo="https://play-lh.googleusercontent.com/FnPquwhaprIJLQasUK0GCTibOzLYjfWJh005wuzLwr0cXe0X6vlMhCcGPBSLmS2u-js" group-title="MUNDO Y CULTURA",LA SEXTA - ESP 2
-http://clubtv.link/ab0205/key4513/esp2.php?c=2213
+
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1674338914591465472/My3IpKJE_400x400.jpg" group-title="MUNDO Y CULTURA",MEGA - ESP 2
-http://clubtv.link/ab0205/key4513/esp2.php?c=2217
+
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1674338914591465472/My3IpKJE_400x400.jpg" group-title="MUNDO Y CULTURA",MEGA - ANDR 0
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzlUfzMgNBiWhrOkGYcrGwodwOdgJ8l_RlIx4QZwfIJn4RcEj1mJ7wRqSRX-iquB-qBPU&usqp=CAU" group-title="MUNDO Y CULTURA",NEOX - ESP
-
+http://clubtv.link/ab0205/key4513/esp.php?c=126256
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzlUfzMgNBiWhrOkGYcrGwodwOdgJ8l_RlIx4QZwfIJn4RcEj1mJ7wRqSRX-iquB-qBPU&usqp=CAU" group-title="MUNDO Y CULTURA",NEOX - ESP 2
-http://clubtv.link/ab0205/key4513/esp2.php?c=2216
+
 #EXTINF:-1 logo="https://findlogovector.com/wp-content/uploads/2019/08/canal-hollywood-logo-vector.png" group-title="MUNDO Y CULTURA",HOLIWOOD - ESP
-
+http://clubtv.link/ab0205/key4513/esp.php?c=126235
 #EXTINF:-1 logo="https://findlogovector.com/wp-content/uploads/2019/08/canal-hollywood-logo-vector.png" group-title="MUNDO Y CULTURA",HOLIWOOD - ESP 2
-http://clubtv.link/ab0205/key4513/esp2.php?c=80623
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/640px-Logo_TVE-1.svg.png" group-title="MUNDO Y CULTURA",La 1 - ESP
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/640px-Logo_TVE-1.svg.png" group-title="MUNDO Y CULTURA",La 1 OPC 1 - ESP 2
-
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/640px-Logo_TVE-1.svg.png" group-title="MUNDO Y CULTURA",La 1 OPC 1 - ESP
+http://clubtv.link/ab0205/key4513/esp.php?c=126212
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/640px-Logo_TVE-1.svg.png" group-title="MUNDO Y CULTURA",La 1 OPC 2 - ESP
+http://clubtv.link/ab0205/key4513/esp.php?c=126265
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/640px-Logo_TVE-1.svg.png" group-title="MUNDO Y CULTURA",La 1 OPC 1 S2 - ESP
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/640px-Logo_TVE-1.svg.png" group-title="MUNDO Y CULTURA",La 1 OPC 2 - ESP 2
@@ -866,49 +882,53 @@ http://clubtv.link/ab0205/key4513/esp2.php?c=80623
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/640px-Logo_TVE-1.svg.png" group-title="MUNDO Y CULTURA",La 1 OPC 1 S3 - ESP
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/640px-Logo_TVE-1.svg.png" group-title="MUNDO Y CULTURA",La 1 - ESP 2
-http://clubtv.link/ab0205/key4513/esp2.php?c=80625
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Clan_TVE_logo.svg/1200px-Clan_TVE_logo.svg.png" group-title="MUNDO Y CULTURA",CLAN - ESP
-
+http://clubtv.link/ab0205/key4513/esp.php?c=126209
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Clan_TVE_logo.svg/1200px-Clan_TVE_logo.svg.png" group-title="MUNDO Y CULTURA",CLAN - ESP 2
-http://clubtv.link/ab0205/key4513/esp2.php?c=80696
-#EXTINF:-1 logo="https://storage.googleapis.com/wp-uploads.bucket.wp.uc3m.es/wp-content/uploads/sites/40/2021/12/03080318/la2.png" group-title="MUNDO Y CULTURA",La 2 - ESP
 
-#EXTINF:-1 logo="https://storage.googleapis.com/wp-uploads.bucket.wp.uc3m.es/wp-content/uploads/sites/40/2021/12/03080318/la2.png" group-title="MUNDO Y CULTURA",La 2 OPC 1 - ESP 2
-http://clubtv.link/ab0205/key4513/esp2.php?c=80663
+#EXTINF:-1 logo="https://storage.googleapis.com/wp-uploads.bucket.wp.uc3m.es/wp-content/uploads/sites/40/2021/12/03080318/la2.png" group-title="MUNDO Y CULTURA",La 2 OPC 1 - ESP
+http://clubtv.link/ab0205/key4513/esp.php?c=126213
+#EXTINF:-1 logo="https://storage.googleapis.com/wp-uploads.bucket.wp.uc3m.es/wp-content/uploads/sites/40/2021/12/03080318/la2.png" group-title="MUNDO Y CULTURA",La 2 OPC 2 - ESP
+http://clubtv.link/ab0205/key4513/esp.php?c=126263
 #EXTINF:-1 logo="https://storage.googleapis.com/wp-uploads.bucket.wp.uc3m.es/wp-content/uploads/sites/40/2021/12/03080318/la2.png" group-title="MUNDO Y CULTURA",La 2 OPC 1 S2 - ESP
 
 #EXTINF:-1 logo="https://storage.googleapis.com/wp-uploads.bucket.wp.uc3m.es/wp-content/uploads/sites/40/2021/12/03080318/la2.png" group-title="MUNDO Y CULTURA",La 2 OPC 2 - ESP 2
-http://clubtv.link/ab0205/key4513/esp2.php?c=80626
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC5-26g8HG9Q-fUMkiXDsDa1SoRWlV-7MXZxzpgO3XtZw4vWSUNRVDITDbvcOv5B-f0RI&usqp=CAU" group-title="MUNDO Y CULTURA",MOVISTAR ACCION OPC 1 S1 - ESP
 
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC5-26g8HG9Q-fUMkiXDsDa1SoRWlV-7MXZxzpgO3XtZw4vWSUNRVDITDbvcOv5B-f0RI&usqp=CAU" group-title="MUNDO Y CULTURA",MOVISTAR ACCION - ESP 2
-http://clubtv.link/ab0205/key4513/esp2.php?c=80628
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC5-26g8HG9Q-fUMkiXDsDa1SoRWlV-7MXZxzpgO3XtZw4vWSUNRVDITDbvcOv5B-f0RI&usqp=CAU" group-title="MUNDO Y CULTURA",MOVISTAR ACCION OPC 1 S2 - ESP
-
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC5-26g8HG9Q-fUMkiXDsDa1SoRWlV-7MXZxzpgO3XtZw4vWSUNRVDITDbvcOv5B-f0RI&usqp=CAU" group-title="MUNDO Y CULTURA",MOVISTAR ACCION OPC 1 - ESP
+http://clubtv.link/ab0205/key4513/esp.php?c=126217
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC5-26g8HG9Q-fUMkiXDsDa1SoRWlV-7MXZxzpgO3XtZw4vWSUNRVDITDbvcOv5B-f0RI&usqp=CAU" group-title="MUNDO Y CULTURA",MOVISTAR ACCION OPC 2 - ESP 
+http://clubtv.link/ab0205/key4513/esp.php?c=126245
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC5-26g8HG9Q-fUMkiXDsDa1SoRWlV-7MXZxzpgO3XtZw4vWSUNRVDITDbvcOv5B-f0RI&usqp=CAU" group-title="MUNDO Y CULTURA",MOVISTAR ACCION OPC 3 - ESP
+http://clubtv.link/ab0205/key4513/esp.php?c=126272
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC5-26g8HG9Q-fUMkiXDsDa1SoRWlV-7MXZxzpgO3XtZw4vWSUNRVDITDbvcOv5B-f0RI&usqp=CAU" group-title="MUNDO Y CULTURA",MOVISTAR ACCION OPC 2 S2 - ESP 2
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Series_por_Movistar_Plus%2B_2023_Logo.svg/250px-Series_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="MUNDO Y CULTURA",MOVISTAR SERIES - ESP
-
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Series_por_Movistar_Plus%2B_2023_Logo.svg/250px-Series_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="MUNDO Y CULTURA",MOVISTAR SERIES - ESP 2
-http://clubtv.link/ab0205/key4513/esp2.php?c=69966
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Series_por_Movistar_Plus%2B_2023_Logo.svg/250px-Series_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="MUNDO Y CULTURA",MOVISTAR SERIES OPC 1 - ESP
+http://clubtv.link/ab0205/key4513/esp.php?c=126184
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Series_por_Movistar_Plus%2B_2023_Logo.svg/250px-Series_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="MUNDO Y CULTURA",MOVISTAR SERIES OPC 2 - ESP 
+http://clubtv.link/ab0205/key4513/esp.php?c=126185
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Series_por_Movistar_Plus%2B_2023_Logo.svg/250px-Series_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="MUNDO Y CULTURA",MOVISTAR SERIES OPC 3 - ESP 
+http://clubtv.link/ab0205/key4513/esp.php?c=126247
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Series_por_Movistar_Plus%2B_2023_Logo.svg/250px-Series_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="MUNDO Y CULTURA",MOVISTAR SERIES OPC 4 - ESP
+http://clubtv.link/ab0205/key4513/esp.php?c=126269
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Comedia_por_Movistar_Plus%2B_2023_Logo.svg/250px-Comedia_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="MUNDO Y CULTURA",MOVISTAR COMEDIA - ESP
-
+http://clubtv.link/ab0205/key4513/esp.php?c=126248
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Comedia_por_Movistar_Plus%2B_2023_Logo.svg/250px-Comedia_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="MUNDO Y CULTURA",MOVISTAR COMEDIA - ESP 2
-http://clubtv.link/ab0205/key4513/esp2.php?c=80629
+
 #EXTINF:-1 logo="https://www.newslinereport.com/online/nota_paramount-channel-expande-su-distribucin-a-travs-de-claro.jpg" group-title="CINE",PARAMOUNT CHANNEL - ESP
 
 #EXTINF:-1 logo="https://www.newslinereport.com/online/nota_paramount-channel-expande-su-distribucin-a-travs-de-claro.jpg" group-title="CINE",PARAMOUNT CHANNEL - ESP 2
-http://clubtv.link/ab0205/key4513/esp2.php?c=80624
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Telecinco_HD2012.png" group-title="CINE",TELE CINCO - ESP
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Telecinco_HD2012.png" group-title="CINE",TELE CINCO OPC 1 - ESP 2
-http://clubtv.link/ab0205/key4513/esp2.php?c=14911
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Telecinco_HD2012.png" group-title="CINE",TELE CINCO OPC 1 - ESP
+http://clubtv.link/ab0205/key4513/esp.php?c=126260
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Telecinco_HD2012.png" group-title="CINE",TELE CINCO OPC 2 - ESP 2
-http://clubtv.link/ab0205/key4513/esp2.php?c=53126
-#EXTINF:-1 logo="https://w7.pngwing.com/pngs/195/738/png-transparent-telemadrid-community-of-madrid-logo-laotra-television-people-walking-television-text-logo.png" group-title="CINE",TELEMADRID - ESP
 
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Telecinco_HD2012.png" group-title="CINE",TELE CINCO OPC 3 - ESP 2
+
+#EXTINF:-1 logo="https://w7.pngwing.com/pngs/195/738/png-transparent-telemadrid-community-of-madrid-logo-laotra-television-people-walking-television-text-logo.png" group-title="CINE",TELEMADRID - ESP
+http://clubtv.link/ab0205/key4513/esp.php?c=126231
 #EXTINF:-1 logo="https://w7.pngwing.com/pngs/195/738/png-transparent-telemadrid-community-of-madrid-logo-laotra-television-people-walking-television-text-logo.png" group-title="CINE",TELEMADRID - ESP 2
-http://clubtv.link/ab0205/key4513/esp2.php?c=80632
+
 
 
 
