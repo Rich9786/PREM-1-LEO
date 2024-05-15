@@ -33,20 +33,22 @@ https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8?PlaylistM3U
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO",CANAL 5 - TV2 SR REGIO
 http://181.78.105.146:2000/play/a038/index.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO",CANAL 5 - ANDR 0
+http://clubtv.link/m1405/key4513/android0.php?c=465&token=tecnotvlistasmayo|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO",CANAL 5 - ANDR 2
-http://clubtv.link/m0605/key4513/android2.php?c=115&token=tecnotvlistasmayo|user-agent=Mozilla/5.0
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO",CANAL 5 - ANDR 7
-http://clubtv.link/m0605/key4513/android7.php?c=115&token=tecnotvlistasmayo
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO",CANAL 5 HD - ANDR 8
-http://clubtv.link/m0605/key4513/android8.php?c=iELdhiR0wxfEr30u0OMkpOYp&token=tecnotvlistasmayo|user-agent=swofirexuroklstariwresplqosumabl
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO",CANAL 5 HD - ANDR 9
-http://clubtv.link/m0605/key4513/android9.php?c=iELdhiR0wxfEr30u0OMkpOYp&token=tecnotvlistasmayo|user-agent=swofirexuroklstariwresplqosumabl
+http://clubtv.link/m1405/key4513/android2.php?c=a04r&token=tecnotvlistasmayo
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO",CANAL 5 - ANDR 4
+http://clubtv.link/m1405/key4513/android4.php?c=iELdhiR0wxfEr30u0OMkpOYp&token=tecnotvlistasmayo|user-agent=swofirexuroklstariwresplqosumabl
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO",CANAL 5 HD - ANDR 5
+http://clubtv.link/m1405/key4513/android5.php?c=465&token=tecnotvlistasmayo|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO",CANAL 5 HD - ANDR 6
+http://clubtv.link/m1405/key4513/android6.php?c=iELdhiR0wxfEr30u0OMkpOYp&token=tecnotvlistasmayo|user-agent=swofirexuroklstariwresplqosumabl
 #EXTINF:-1 logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Multimedios-TV-Canal-6-en-vivo-Online.png" group-title="MEXICO",MULTIMEDIOS MTY - FLUX
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?fluxustv.m3u8
-#EXTINF:-1 logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Multimedios-TV-Canal-6-en-vivo-Online.png" group-title="MEXICO",MULTIMEDIOS MTY - ANDR 2
-http://clubtv.link/m0605/key4513/android2.php?c=19&token=tecnotvlistasmayo|user-agent=Mozilla/5.0
-#EXTINF:-1 logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Multimedios-TV-Canal-6-en-vivo-Online.png" group-title="MEXICO",MULTIMEDIOS MTY - ANDR 7
-http://clubtv.link/m0605/key4513/android7.php?c=19&token=tecnotvlistasmayo
+#EXTINF:-1 logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Multimedios-TV-Canal-6-en-vivo-Online.png" group-title="MEXICO",MULTIMEDIOS 6 MTY - ANDR 0
+http://clubtv.link/m1405/key4513/android0.php?c=707&token=tecnotvlistasmayo|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1 logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Multimedios-TV-Canal-6-en-vivo-Online.png" group-title="MEXICO",MULTIMEDIOS 6 MTY - ANDR 5
+http://clubtv.link/m1405/key4513/android5.php?c=707&token=tecnotvlistasmayo|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/800px-Logo_Azteca_7_2011.svg.png" group-title="MEXICO",AZTECA 7 OPC 1 - TV SR REGIO
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/800px-Logo_Azteca_7_2011.svg.png" group-title="MEXICO",AZTECA 7 OPC 2 - TV SR REGIO
@@ -55,7 +57,8 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 http://181.78.105.146:2000/play/a00i/index.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/800px-Logo_Azteca_7_2011.svg.png" group-title="MEXICO",AZTECA 7 OPC 2 - TV2 SR REGIO
 http://181.78.105.146:2000/play/a08z/index.m3u8
-
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxbWm_XNwx5bi1HSZvA93CM4U2XGm_-goKRC2_E8ayXA&s" group-title="MEXICO",MULTIMEDIOS 8 - ANDR 2
+http://clubtv.link/m1405/key4513/android2.php?c=a058&token=tecnotvlistasmayo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HCLEpfu.png" group-title="MEXICO",RTQ Queretaro - FLUX
 https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HCLEpfu.png" group-title="MEXICO",RTQ Queretaro - TV2 SR REGIO
@@ -69,15 +72,15 @@ http://181.78.105.146:2000/play/a03a/index.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png" group-title="MEXICO",ONCE - TV4 SR REGIO
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png" group-title="MEXICO",ONCE - ANDR 2
-http://clubtv.link/m0605/key4513/android2.php?c=25&token=tecnotvlistasmayo|user-agent=Mozilla/5.0
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png" group-title="MEXICO",ONCE - ANDR 7
-http://clubtv.link/m0605/key4513/android7.php?c=25&token=tecnotvlistasmayo
+
 #EXTINF:-1 tvg-id="98123" tvg-name="Canal Catorce" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_Canal_14_M%C3%A9xico.svg/640px-Logo_Canal_14_M%C3%A9xico.svg.png", Canal Catorce - TV2 SR REGIO
 http://181.78.105.146:2000/play/a044/index.m3u8
 #EXTINF:-1 tvg-id="98123" tvg-name="Canal Catorce" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_Canal_14_M%C3%A9xico.svg/640px-Logo_Canal_14_M%C3%A9xico.svg.png", Canal Catorce - ANDR 2
-http://clubtv.link/m0605/key4513/android2.php?c=73&token=tecnotvlistasmayo|user-agent=Mozilla/5.0
+
 #EXTINF:-1 tvg-id="98123" tvg-name="Canal Catorce" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_Canal_14_M%C3%A9xico.svg/640px-Logo_Canal_14_M%C3%A9xico.svg.png", Canal Catorce - ANDR 7
-http://clubtv.link/m0605/key4513/android7.php?c=73&token=tecnotvlistasmayo
+
 #EXTINF:-1 logo="http://ccmpunila.weebly.com/uploads/1/5/5/3/15537570/8216048.jpg?368" group-title="MEXICO",CANAL 22 - TV2 SR REGIO
 http://181.78.105.146:2000/play/a00j/index.m3u8
 #EXTINF:-1 logo="http://ccmpunila.weebly.com/uploads/1/5/5/3/15537570/8216048.jpg?368" group-title="MEXICO",CANAL 22 - ANDR 0
@@ -93,9 +96,9 @@ http://181.78.105.146:2000/play/a045/index.m3u8
 #EXTINF:-1 logo="https://digitaltv.prensariozone.com/wp-content/uploads/2021/07/Mexiquense-1024x576.png" group-title="MEXICO",MEXIQUENSE TV
 https://5ca3e84a76d30.streamlock.net:443/mexiquense/videomexiquense/playlist.m3u8?TecnoPlaylist
 #EXTINF:-1 logo="https://digitaltv.prensariozone.com/wp-content/uploads/2021/07/Mexiquense-1024x576.png" group-title="MEXICO",MEXIQUENSE TV - ANDR 2
-http://clubtv.link/m0605/key4513/android2.php?c=88&token=tecnotvlistasmayo|user-agent=Mozilla/5.0
+
 #EXTINF:-1 logo="https://digitaltv.prensariozone.com/wp-content/uploads/2021/07/Mexiquense-1024x576.png" group-title="MEXICO",MEXIQUENSE TV - ANDR 7 
-http://clubtv.link/m0605/key4513/android7.php?c=88&token=tecnotvlistasmayo
+
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1597288038979305475/XbWJtMeK_400x400.jpg" group-title="MEXICO",MX NUESTRO CINE - TV2 SR REGIO
 http://181.78.105.146:2000/play/a04h/index.m3u8
 #EXTINF:-1 logo="https://www.theobserver.mx/wp-content/uploads/2023/06/mexiquense.jpg" group-title="MEXICO",MEXIQUENSE TV - MX
@@ -202,12 +205,10 @@ http://190.149.66.90:4000/play/a00p/index.m3u8
 http://190.149.66.90:4000/play/a00r/index.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/9FOKuui.jpg" group-title="INFANTIL",DISNEY JR - TV5 SR REGIO
 http://45.160.15.130:2909/play/006
-#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1347112024925474817/FsTxCmRL_400x400.jpg" group-title="INFANTIL",BIT ME - ANDR 2
-http://clubtv.link/m0605/key4513/android2.php?c=163&token=tecnotvlistasmayo|user-agent=Mozilla/5.0
-#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1347112024925474817/FsTxCmRL_400x400.jpg" group-title="INFANTIL",BIT ME - ANDR 4
-http://clubtv.link/m0605/key4513/android4.php?c=33&token=tecnotvlistasmayo|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1347112024925474817/FsTxCmRL_400x400.jpg" group-title="INFANTIL",BIT ME - ANDR 0
+http://clubtv.link/m1405/key4513/android0.php?c=464&token=tecnotvlistasmayo|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1347112024925474817/FsTxCmRL_400x400.jpg" group-title="INFANTIL",BIT ME - ANDR 5
-http://clubtv.link/m0605/key4513/android5.php?c=33&token=tecnotvlistasmayo|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
+http://clubtv.link/m1405/key4513/android5.php?c=464&token=tecnotvlistasmayo|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://plataformas.news/online/nota_clan-se-incorpora-a-dishlatino.gif" group-title="SERIES Y CINE",CLAN (ES) - ESP 2
  
 #EXTINF:-1 tvg-logo="https://imgur.com/RRNQ7jI.png" group-title="DISTRO TV",Chiquilines - | US
@@ -215,23 +216,23 @@ http://clubtv.link/m0605/key4513/android5.php?c=33&token=tecnotvlistasmayo|user-
 #EXTINF:-1 tvg-id="1335" tvg-name="VariedTV" tvg-logo="https://i.paste.pics/afb90bf11a606a30ee4294c8b32cf9e4.png", VariedTV | AR
 
 #EXTINF:-1 logo="https://i.pinimg.com/originals/d0/52/aa/d052aa6b194ac2d48eb1739d4f710ed0.jpg" group-title="24/7", Vecinos - ANDR 4
-http://clubtv.link/m0605/key4513/android4.php?c=50&token=tecnotvlistasmayo|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
+
 #EXTINF:-1 logo="https://borealtelevision.com/wp-content/uploads/2021/06/El-Chavo-del-Ocho.jpg" group-title="24/7", EL CHAVO DEL 8 - ANDR 4
-http://clubtv.link/m0605/key4513/android4.php?c=91&token=tecnotvlistasmayo|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
+
 #EXTINF:-1 logo="https://i.ytimg.com/vi/MM0swZ3TyEM/maxresdefault.jpg" group-title="24/7",Chespirito - ANDR 4
-http://clubtv.link/m0605/key4513/android4.php?c=415&token=tecnotvlistasmayo|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
+
 #EXTINF:-1 tvg-id="" tvg-name="Mr. Bean" tvg-logo="http://51.222.152.107:81/posters/1610693822285.jpg" group-title="24/7",Mr. Bean - ANDR 4
-http://clubtv.link/m0605/key4513/android4.php?c=416&token=tecnotvlistasmayo|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
+
 #EXTINF:-1 logo="https://http2.mlstatic.com/D_NQ_NP_846517-MLM44228598924_122020-O.jpg" group-title="24/7", CORAJE EL PERRO COBARDE - ANDR 4
-http://clubtv.link/m0605/key4513/android4.php?c=404&token=tecnotvlistasmayo|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
+
 #EXTINF:-1 logo="https://http2.mlstatic.com/D_NQ_NP_109311-MLA20527673495_122015-O.jpg" group-title="24/7", LA PANTERA ROSA - ANDR 4
-http://clubtv.link/m0605/key4513/android4.php?c=403&token=tecnotvlistasmayo|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
+
 #EXTINF:-1 tvg-id="" tvg-name="Don Gato y su Pandilla" tvg-logo="http://51.222.152.107:81/posters/1610693311265.jpg" group-title="24/7",Don Gato y su Pandilla - ANDR 4
-http://clubtv.link/m0605/key4513/android4.php?c=408&token=tecnotvlistasmayo|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
+
 #EXTINF:-1 logo="https://es.web.img3.acsta.net/pictures/14/02/14/13/28/226531.jpg" group-title="24/7", BOB ESPONJA - ANDR 0
-http://clubtv.link/m0605/key4513/android4.php?c=419&token=tecnotvlistasmayo|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
+
 #EXTINF:-1 logo="https://cdn2.mediotiempo.com/uploads/media/2021/08/11/familia-wilkerson-muda-plataforma-streaming.jpg" group-title="24/7", Malcolm in the middle - ANDR 4
-http://clubtv.link/m0605/key4513/android4.php?c=417&token=tecnotvlistasmayo|user-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
+
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1461545043022553089/hYHGCePB_400x400.jpg" group-title="INFANTIL",ENERGEEK - ANDR
 
 #EXTINF:-1 tvg-id="46" tvg-name="Chavo TV" tvg-logo="https://www.m3u.cl/logo/46_Chavo_TV.png", Chavo TV | CL
