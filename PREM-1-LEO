@@ -1347,7 +1347,9 @@ http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=a01g&k=SrRegio&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="TV PREMIUM",DHE - TV2 SR REGIO
 http://notabasica.com/php/SR_REGIO_601032_/tv2.php?c=a01g&f=.m3u8&k=SrRegio
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="TV PREMIUM",DHE - ANDR 2
-http://clubtv.link/m0605/key4513/android2.php?c=145&token=tecnotvlistasmayo|user-agent=Mozilla/5.0
+http://clubtv.link/M1805m/key4513/android2.php?c=a03f&token=tecnotvlistasmayo
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="TV PREMIUM",DHE HD - ANDR 2
+http://clubtv.link/M1805m/key4513/android2.php?c=a00z&token=tecnotvlistasmayo
 #EXTINF:-1 logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-cinema-dark-logo.png" group-title="CINE",UNIVERSAL CINEMA HD - TV SR REGIO
 http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=a07c&k=SrRegio&f=.m3u8
 #EXTINF:-1 logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-cinema-dark-logo.png" group-title="CINE",UNIVERSAL CINEMA HD - TV2 SR REGIO
@@ -1374,8 +1376,8 @@ http://45.166.92.22:58001/play/a00t/index.m3u8
 http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=a041&k=SrRegio&f=.m3u8
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/7/73/EUROCHANNEL_2007.jpg/revision/latest?cb=20210514180238&path-prefix=es" group-title="CINE",EURO Channel - TV2 SR REGIO
 http://notabasica.com/php/SR_REGIO_601032_/tv2.php?c=a041&f=.m3u8&k=SrRegio
-#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/7/73/EUROCHANNEL_2007.jpg/revision/latest?cb=20210514180238&path-prefix=es" group-title="CINE",EURO Channel - LIS 1
-http://clubtv.link/m0605/key4513/lista1.php?c=a041&token=tecnotvGeneradorTV&f=.m3u8
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/7/73/EUROCHANNEL_2007.jpg/revision/latest?cb=20210514180238&path-prefix=es" group-title="CINE",EURO Channel - ANDR 2
+http://clubtv.link/M1805m/key4513/android2.php?c=a03r&token=tecnotvlistasmayo
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/cl_film-arts_m.png" group-title="CINE Y SERIES",FILM & ARTS HD - TV SR REGIO
 http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=a031&k=SrRegio&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/cl_film-arts_m.png" group-title="CINE Y SERIES",FILM & ARTS HD - TV2 SR REGIO
@@ -1386,8 +1388,10 @@ http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=a01f&k=SrRegio&f=.m3u8
 http://notabasica.com/php/SR_REGIO_601032_/tv2.php?c=a01f&f=.m3u8&k=SrRegio
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/cl_film-arts_m.png" group-title="CINE Y SERIES",FILM & ARTS - TV4 SR REGIO
 http://45.166.92.22:58001/play/a00o/index.m3u8
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/cl_film-arts_m.png" group-title="CINE Y SERIES",FILM & ARTS - ANDR 2
-http://clubtv.link/m0605/key4513/android2.php?c=146&token=tecnotvlistasmayo|user-agent=Mozilla/5.0
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/cl_film-arts_m.png" group-title="CINE Y SERIES",FILM & ARTS - ANDR 0
+http://clubtv.link/M1805m/key4513/android0.php?c=583&token=tecnotvlistasmayo|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/cl_film-arts_m.png" group-title="CINE Y SERIES",FILM & ARTS - ANDR 5
+http://clubtv.link/M1805m/key4513/android5.php?c=583&token=tecnotvlistasmayo|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://www.newslinereport.com/online/nota_paramount-channel-expande-su-distribucin-a-travs-de-claro.jpg" group-title="CINE",PARAMOUNT CHANNEL HD - TV SR REGIO
 http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=a075&k=SrRegio&f=.m3u8
 #EXTINF:-1 logo="https://www.newslinereport.com/online/nota_paramount-channel-expande-su-distribucin-a-travs-de-claro.jpg" group-title="CINE",PARAMOUNT CHANNEL HD - TV2 SR REGIO
@@ -1399,19 +1403,19 @@ http://notabasica.com/php/SR_REGIO_601032_/tv2.php?c=a01h&f=.m3u8&k=SrRegio
 #EXTINF:-1 logo="https://www.newslinereport.com/online/nota_paramount-channel-expande-su-distribucin-a-travs-de-claro.jpg" group-title="CINE",PARAMOUNT CHANNEL HD - TV4 SR REGIO
 http://45.166.92.22:58001/play/a01l/index.m3u8
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es" group-title="CINE",SONY CINE - ANDR 2
-http://clubtv.link/m0605/key4513/android2.php?c=113&token=tecnotvlistasmayo|user-agent=Mozilla/5.0
+
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es" group-title="CINE",SONY CINE - ANDR 7
-http://clubtv.link/m0605/key4513/android7.php?c=113&token=tecnotvlistasmayo
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN2AHJWFWRvFOLKubN_vc5YfIMVUYRfq2JoxJh-FYTegTB-X4-oLJs9I-3VCuIVl9iBEU&usqp=CAU" group-title="CINE",SONY COMEDIAS - ANDR 8
-http://clubtv.link/m0605/key4513/android8.php?c=iEKXrvmLhpW3_qZ7T2Sjed1i&token=tecnotvlistasmayo|user-agent=swofirexuroklstariwresplqosumabl
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN2AHJWFWRvFOLKubN_vc5YfIMVUYRfq2JoxJh-FYTegTB-X4-oLJs9I-3VCuIVl9iBEU&usqp=CAU" group-title="CINE",SONY COMEDIAS - ANDR 9
-http://clubtv.link/m0605/key4513/android9.php?c=iEKXrvmLhpW3_qZ7T2Sjed1i&token=tecnotvlistasmayo|user-agent=swofirexuroklstariwresplqosumabl
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN2AHJWFWRvFOLKubN_vc5YfIMVUYRfq2JoxJh-FYTegTB-X4-oLJs9I-3VCuIVl9iBEU&usqp=CAU" group-title="CINE",SONY COMEDIAS - ANDR 4
+http://clubtv.link/M1805m/key4513/android4.php?c=iEKXrvmLhpW3_qZ7T2Sjed1i&token=tecnotvlistasmayo|user-agent=swofirexuroklstariwresplqosumabl
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN2AHJWFWRvFOLKubN_vc5YfIMVUYRfq2JoxJh-FYTegTB-X4-oLJs9I-3VCuIVl9iBEU&usqp=CAU" group-title="CINE",SONY COMEDIAS - ANDR 6
+http://clubtv.link/M1805m/key4513/android6.php?c=iEKXrvmLhpW3_qZ7T2Sjed1i&token=tecnotvlistasmayo|user-agent=swofirexuroklstariwresplqosumabl
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1200px-Sony_Movies_Logo.svg.png" group-title="CINE",SONY MOVIES HD - TV SR REGIO
 http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=a037&k=SrRegio&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1200px-Sony_Movies_Logo.svg.png" group-title="CINE",SONY MOVIES HD - TV2 SR REGIO
 http://190.149.66.90:4000/play/a01q/index.m3u8http://notabasica.com/php/SR_REGIO_601032_/tv2.php?c=a037&f=.m3u8&k=SrRegio
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1200px-Sony_Movies_Logo.svg.png" group-title="CINE",SONY MOVIES HD - LIS 1
-http://clubtv.link/m0605/key4513/lista1.php?c=a037&token=tecnotvGeneradorTV&f=.m3u8
+
 #EXTINF:-1 logo="https://thedailytelevision.com/sites/default/files/notas/imagenes/1sgrxzqa_400x400.jpg" group-title="CINE Y SERIES",CINECANAL HD - TV SR REGIO
 http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=a05f&k=SrRegio&f=.m3u8
 #EXTINF:-1 logo="https://thedailytelevision.com/sites/default/files/notas/imagenes/1sgrxzqa_400x400.jpg" group-title="CINE Y SERIES",CINECANAL HD - TV2 SR REGIO
