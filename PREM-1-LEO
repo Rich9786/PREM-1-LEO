@@ -820,6 +820,8 @@ http://notabasica.com/php/SR_REGIO_601032_/tv2.php?c=a03a&f=.m3u8&k=SrRegio
 http://45.166.92.22:58001/play/a00x/index.m3u8
 #EXTINF:-1 logo="https://c4d.com.mx/canalesrtve/wp-content/uploads/2021/09/head_star-tve_movil.webp" group-title="MUNDO Y CULTURA",STAR TVE HD - ANDR 3
 http://clubtv.link/may22/key4513/android3.php?c=a00x&token=tecnotvlistasmayo
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/campeones-sendokai/images/2/23/Clan_Logo.png/revision/latest?cb=20150130205049&path-prefix=es" group-title="CULTURA",CLAN - ESP
+http://clubtv.link/may22/key4513/esp.php?c=126209
 #EXTINF:-1 logo="https://getvectorlogo.com/wp-content/uploads/2019/07/dmax-vector-logo.png" group-title="MUNDO Y CULTURA",DMAX ESP
 http://clubtv.link/may22/key4513/esp.php?c=126180
 #EXTINF:-1 logo="https://getvectorlogo.com/wp-content/uploads/2019/07/dmax-vector-logo.png" group-title="MUNDO Y CULTURA",DMAX ESP 2
