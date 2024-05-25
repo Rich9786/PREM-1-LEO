@@ -558,10 +558,14 @@ http://clubtv.link/may22/key4513/android0.php?c=850&token=tecnotvlistasmayo|User
 http://clubtv.link/may22/key4513/android5.php?c=850&token=tecnotvlistasmayo|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://www.elnaveghable.cl/sites/elnaveghable.cl/files/imagen_noticia/logo_mega_nuevo.jpg" group-title="ENTRETENIMIENTO",MEGA HD TV - TV2 SR REGIO
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?tecnotv
+#EXTINF:-1 logo="https://www.elnaveghable.cl/sites/elnaveghable.cl/files/imagen_noticia/logo_mega_nuevo.jpg" group-title="ENTRETENIMIENTO",MEGA HD TV - TV5 SR REGIO
+http://45.160.15.130:2909/play/065
 #EXTINF:-1 logo="https://www.elnaveghable.cl/sites/elnaveghable.cl/files/imagen_noticia/logo_mega_nuevo.jpg" group-title="ENTRETENIMIENTO",MEGA HD TV - CL
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 logo="https://redgol.cl/__export/1621631802436/sites/redgol/img/2021/05/21/la-red-imagen-corporativa-30anos-canal-iderado-victor-gutierrez-renueva-colores-potenciando-audiencias-ok_crop1621289271938_jpeg_1693159006.jpeg_242310155.jpeg" group-title="ENTRETENIMIENTO",La Red - TV2 SR REGIO
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?tecnotv
+#EXTINF:-1 logo="https://redgol.cl/__export/1621631802436/sites/redgol/img/2021/05/21/la-red-imagen-corporativa-30anos-canal-iderado-victor-gutierrez-renueva-colores-potenciando-audiencias-ok_crop1621289271938_jpeg_1693159006.jpeg_242310155.jpeg" group-title="ENTRETENIMIENTO",La Red - TV5 SR REGIO
+http://45.160.15.130:2909/play/062
 #EXTINF:-1 logo="https://redgol.cl/__export/1621631802436/sites/redgol/img/2021/05/21/la-red-imagen-corporativa-30anos-canal-iderado-victor-gutierrez-renueva-colores-potenciando-audiencias-ok_crop1621289271938_jpeg_1693159006.jpeg_242310155.jpeg" group-title="ENTRETENIMIENTO",La Red - CL
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="476" tvg-name="WOW TV" tvg-logo="https://logo-marque.com/wp-content/uploads/2021/03/Wide-Open-West-WOW-Logo.png", WOW TV | SV
@@ -788,8 +792,8 @@ http://clubtv.link/may22/key4513/android0.php?c=401&token=tecnotvlistasmayo|User
 
 #EXTINF:-1 logo="https://img2.freepng.es/20181125/uaj/kisspng-logo-tve-internacional-la-1-rtve-tve-hd-5bfae49e01bb39.8822497515431691820071.jpg" group-title="CULTURA",TVE - GEO MR-1
 
-#EXTINF:-1 logo="https://img2.freepng.es/20181125/uaj/kisspng-logo-tve-internacional-la-1-rtve-tve-hd-5bfae49e01bb39.8822497515431691820071.jpg" group-title="CULTURA",TVE - LIS 2
-
+#EXTINF:-1 logo="https://img2.freepng.es/20181125/uaj/kisspng-logo-tve-internacional-la-1-rtve-tve-hd-5bfae49e01bb39.8822497515431691820071.jpg" group-title="CULTURA",TVE - TV5 SR REGIO
+http://45.160.15.130:2909/play/153
 #EXTINF:-1 logo="https://c0.klipartz.com/pngpicture/264/436/gratis-png-television-espanol-tve-internacional-rtve-television-en-espana-obi-logo.png" group-title="CULTURA",TVE - LIS 2
 http://clubtv.link/may22/key4513/lista2.php?c=a06b&f=.m3u8&token=tecnotvGeneradorTV
 #EXTINF:-1 logo="https://c0.klipartz.com/pngpicture/264/436/gratis-png-television-espanol-tve-internacional-rtve-television-en-espana-obi-logo.png" group-title="CULTURA",TVE - LIS 3
@@ -1040,8 +1044,8 @@ http://45.166.92.22:58001/play/a048/index.m3u8
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="SERIES Y CINE",SONY HD - TV4 SR REGIO
 http://45.166.92.22:58001/play/a04a/index.m3u8
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="SERIES Y CINE",SONY HD OPC 2 - TV2 SR REGIO
-
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="SERIES Y CINE",SONY HD - TV5 SR REGIO
+http://45.160.15.130:2909/play/085
 #EXTINF:-1 logo="https://1.bp.blogspot.com/-JQNiUM4A2QI/X9TG0We7WCI/AAAAAAAA7lg/ELH2-qgU4pE0ENl7bTw9ya9dCAO5kkzcACLcBGAsYHQ/s378/warner-channel.png" group-title="SERIES Y CINE",WARNER HD - TV SR REGIO
 
 #EXTINF:-1 logo="https://1.bp.blogspot.com/-JQNiUM4A2QI/X9TG0We7WCI/AAAAAAAA7lg/ELH2-qgU4pE0ENl7bTw9ya9dCAO5kkzcACLcBGAsYHQ/s378/warner-channel.png" group-title="SERIES Y CINE",WARNER HD - TV2 SR REGIO
@@ -1052,6 +1056,8 @@ http://45.166.92.22:58001/play/a04a/index.m3u8
 
 #EXTINF:-1 logo="https://1.bp.blogspot.com/-JQNiUM4A2QI/X9TG0We7WCI/AAAAAAAA7lg/ELH2-qgU4pE0ENl7bTw9ya9dCAO5kkzcACLcBGAsYHQ/s378/warner-channel.png" group-title="SERIES Y CINE",WARNER HD - TV4 SR REGIO
 http://45.166.92.22:58001/play/a049/index.m3u8
+#EXTINF:-1 logo="https://1.bp.blogspot.com/-JQNiUM4A2QI/X9TG0We7WCI/AAAAAAAA7lg/ELH2-qgU4pE0ENl7bTw9ya9dCAO5kkzcACLcBGAsYHQ/s378/warner-channel.png" group-title="SERIES Y CINE",WARNER HD - TV5 SR REGIO
+http://45.160.15.130:2909/play/081
 #EXTINF:-1 logo="https://w7.pngwing.com/pngs/897/89/png-transparent-logo-universal-channel-high-definition-television-olympic-channel-television-channel-universal-kids-purple-television-violet-thumbnail.png" group-title="SERIES Y CINE",UNIVERSAL - TV SR REGIO
 
 #EXTINF:-1 logo="https://w7.pngwing.com/pngs/897/89/png-transparent-logo-universal-channel-high-definition-television-olympic-channel-television-channel-universal-kids-purple-television-violet-thumbnail.png" group-title="SERIES Y CINE",UNIVERSAL - TV2 SR REGIO
@@ -1076,8 +1082,8 @@ http://clubtv.link/may22/key4513/android5.php?c=823&token=tecnotvlistasmayo|User
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6nG1fHhEe2l2lGmZKOFP5SjbK1CsErwjWwtVz3jk_G-6xJYDjTItukvwtks-ijuddXfw&usqp=CAU" group-title="SERIES Y CINE",USA - TV SR REGIO
 
-#EXTINF:-1 logo="https://static.wikia.nocookie.net/sailormoonenglishanime/images/a/ac/USA_Network_%28Milgreen%29.png/revision/latest?cb=20141101163109" group-title="SERIES Y CINE",USA - TV2 SR REGIO
-
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/sailormoonenglishanime/images/a/ac/USA_Network_%28Milgreen%29.png/revision/latest?cb=20141101163109" group-title="SERIES Y CINE",USA -TV5 SR REGIO
+http://45.160.15.130:2909/play/101
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6nG1fHhEe2l2lGmZKOFP5SjbK1CsErwjWwtVz3jk_G-6xJYDjTItukvwtks-ijuddXfw&usqp=CAU" group-title="SERIES Y CINE",USA - ANDR 0
 http://clubtv.link/may22/key4513/android0.php?c=764&token=tecnotvlistasmayo|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/sailormoonenglishanime/images/a/ac/USA_Network_%28Milgreen%29.png/revision/latest?cb=20141101163109" group-title="SERIES Y CINE",USA - ANDR 5 
@@ -1092,6 +1098,8 @@ http://clubtv.link/may22/key4513/android5.php?c=764&token=tecnotvlistasmayo|User
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh3FNWGiOloP0OZzOlpoNH5WEsCtnVjNABK-utRqA8HQ&s" group-title="SERIES Y CINE",FX HD - TV4 SR REGIO
 http://45.166.92.22:58001/play/a00s/index.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh3FNWGiOloP0OZzOlpoNH5WEsCtnVjNABK-utRqA8HQ&s" group-title="SERIES Y CINE",FX HD - TV5 SR REGIO
+http://45.160.15.130:2909/play/093
 #EXTINF:-1 logo="https://e7.pngegg.com/pngimages/128/889/png-clipart-a-e-networks-logo-television-%E9%AB%98%E6%B8%85iphonex-miscellaneous-television.png" group-title="SERIES Y CINE",A&E HD - TV SR REGIO
 
 #EXTINF:-1 logo="https://e7.pngegg.com/pngimages/128/889/png-clipart-a-e-networks-logo-television-%E9%AB%98%E6%B8%85iphonex-miscellaneous-television.png" group-title="SERIES Y CINE",A&E HD- TV2 SR REGIO
@@ -1122,6 +1130,8 @@ http://clubtv.link/may22/key4513/android5.php?c=423&token=tecnotvlistasmayo|User
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="SERIES Y CINE",AXN HD - TV4 SR REGIO
 http://45.166.92.22:58001/play/a02n/index.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="SERIES Y CINE",AXN HD - TV5 SR REGIO
+http://45.160.15.130:2909/play/087
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_tnt-series_m.png" group-title="CINE Y SERIES",TNT SERIES HD - TV SR REGIO
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_tnt-series_m.png" group-title="CINE Y SERIES",TNT SERIES HD - TV2 SR REGIO
@@ -1132,6 +1142,8 @@ http://45.166.92.22:58001/play/a02n/index.m3u8
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_tnt-series_m.png" group-title="CINE Y SERIES",TNT SERIES HD - TV4 SR REGIO
 http://45.166.92.22:58001/play/a01m/index.m3u8
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_tnt-series_m.png" group-title="CINE Y SERIES",TNT SERIES HD - TV5 SR REGIO
+http://45.160.15.130:2909/play/108
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1674339363893784576/EDy8_OYM_400x400.jpg" group-title="SERIES Y CINE",A3SERIES HD - ESP
 
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1674339363893784576/EDy8_OYM_400x400.jpg" group-title="SERIES Y CINE",A3SERIES HD - ESP 2
