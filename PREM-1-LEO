@@ -2015,26 +2015,6 @@ http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=terror_mania
 http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=cienciaficcion
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-pelicula-cine-palomitas-maiz-tira-pelicula-tablilla-entradas-fondo-tiempo-pelicula_41737-248.jpg?size=626&ext=jpg" group-title="Peliculas",Cine PREMIERE Sala 7 - TV3 SR REGIO
 http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=juan_13tv
-
-
-
-
-
-#EXTINF:-1 logo="https://cdn.dribbble.com/users/1326994/screenshots/4408388/media/867c18b7567aa3d43a1ffdc2c4fb1746.jpg" group-title="CINE",+18 Penthouse - ANDR 3
-http://clubtv.link/JU19/key4513/android3.php?c=a04c&token=TecnotvGenerador
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeCDfyMTwY5jLfdlwh_fcu7okKKcCcekGiBw&usqp=CAU" group-title="CINE",+18 Playboy - ANDR 4
-http://clubtv.link/JU19/key4513/android4.php?c=a00q&token=TecnotvGenerador
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeCDfyMTwY5jLfdlwh_fcu7okKKcCcekGiBw&usqp=CAU" group-title="CINE",+18 Playboy - LIS 1
-http://clubtv.link/JU19/key4513/lista1.php?c=a00q&token=TecnotvGenerador&f=.m3u8
-#EXTINF:-1 logo="https://logowik.com/content/uploads/images/canal-venus7733.logowik.com.webp" group-title="CINE",+18 VENUS - ANDR 4
-http://clubtv.link/JU19/key4513/android4.php?c=a03c&token=TecnotvGenerador
-#EXTINF:-1 logo="https://logowik.com/content/uploads/images/canal-venus7733.logowik.com.webp" group-title="CINE",+18 VENUS - LIS 1
-http://clubtv.link/JU19/key4513/lista1.php?c=a02p&token=TecnotvGenerador&f=.m3u8
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-pelicula-cine-palomitas-maiz-tira-pelicula-tablilla-entradas-fondo-tiempo-pelicula_41737-248.jpg?size=626&ext=jpg" group-title="Peliculas",Cine PREMIERE Sala 8 - ANDR 0
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-pelicula-cine-palomitas-maiz-tira-pelicula-tablilla-entradas-fondo-tiempo-pelicula_41737-248.jpg?size=626&ext=jpg" group-title="Peliculas",Cine PREMIERE Sala 9 - ANDR 0
@@ -2142,6 +2122,26 @@ http://clubtv.link/JU19/key4513/lista1.php?c=a02p&token=TecnotvGenerador&f=.m3u8
 #EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/terror_hd/img.jpg" group-title="HD",Cine Terror HD - LIS 1
 
 #EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/zombis/img.jpg" group-title="Peliculas",Cine Zombis - LIS 1
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="==== SERIES Y CINE 24/7 ====" tvg-logo="https://1.bp.blogspot.com/-zIdGNqDC9mQ/XOw_NUQ5pUI/AAAAAAAAB8E/_kjAhfm-DMklTDg9OOzC1EVTVNey0aaUQCLcBGAs/s1600/Screenshot_20190527-144354.png" group-title="SERIES Y CINE 24/7",== +18 xxx 24/7 ==
+http://158.69.226.108:8000/live/Vfjjjhj/Djdkfk/1640.ts
+
+
+#EXTINF:-1 logo="https://cdn.dribbble.com/users/1326994/screenshots/4408388/media/867c18b7567aa3d43a1ffdc2c4fb1746.jpg" group-title="CINE",+18 Penthouse - ANDR 3
+http://clubtv.link/JU19/key4513/android3.php?c=a04c&token=TecnotvGenerador
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeCDfyMTwY5jLfdlwh_fcu7okKKcCcekGiBw&usqp=CAU" group-title="CINE",+18 Playboy - ANDR 4
+http://clubtv.link/JU19/key4513/android4.php?c=a00q&token=TecnotvGenerador
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeCDfyMTwY5jLfdlwh_fcu7okKKcCcekGiBw&usqp=CAU" group-title="CINE",+18 Playboy - LIS 1
+http://clubtv.link/JU19/key4513/lista1.php?c=a00q&token=TecnotvGenerador&f=.m3u8
+#EXTINF:-1 logo="https://logowik.com/content/uploads/images/canal-venus7733.logowik.com.webp" group-title="CINE",+18 VENUS - ANDR 4
+http://clubtv.link/JU19/key4513/android4.php?c=a03c&token=TecnotvGenerador
+#EXTINF:-1 logo="https://logowik.com/content/uploads/images/canal-venus7733.logowik.com.webp" group-title="CINE",+18 VENUS - LIS 1
+http://clubtv.link/JU19/key4513/lista1.php?c=a02p&token=TecnotvGenerador&f=.m3u8
+
 
 
 
