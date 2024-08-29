@@ -687,6 +687,8 @@ http://clubtv.link/2828ag/key4513/lista.php?c=653&token=TecnotvAgo240065461
 
 #EXTINF:-1 logo="https://st1.uvnimg.com/70/2c/9eebe35646ddb5a9ec0f8ae1ecce/altpreview.jpg" group-title="ENTRETENIMIENTO",GALAVISION - ANDR 0
 http://clubtv.link/2828ag/key4513/android0.php?c=56&token=TecnotvAgo240065461
+#EXTINF:-1 logo="https://st1.uvnimg.com/70/2c/9eebe35646ddb5a9ec0f8ae1ecce/altpreview.jpg" group-title="ENTRETENIMIENTO",GALAVISION - ANDR 5
+http://clubtv.link/2828ag/key4513/android5.php?c=608&token=TecnotvAgo240065461|User-Agent=Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg
 #EXTINF:-1 logo="https://st1.uvnimg.com/70/2c/9eebe35646ddb5a9ec0f8ae1ecce/altpreview.jpg" group-title="ENTRETENIMIENTO",GALAVISION - LIS
 http://clubtv.link/2828ag/key4513/lista.php?c=56&token=TecnotvAgo240065461
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="ENTRETENIMIENTO",GAMAVISION - ANDR 0
@@ -699,14 +701,18 @@ http://clubtv.link/2828ag/key4513/lista.php?c=891&token=TecnotvAgo240065461
 
 #EXTINF:-1 logo="https://w7.pngwing.com/pngs/540/660/png-transparent-televisa-logo-univision-broadcasting-u-miscellaneous-purple-television.png" group-title="ENTRETENIMIENTO",UNIVISION - TV4 SR REGIO
 http://45.166.92.22:58001/play/a01r/index.m3u8
+#EXTINF:-1 logo="https://w7.pngwing.com/pngs/540/660/png-transparent-televisa-logo-univision-broadcasting-u-miscellaneous-purple-television.png" group-title="ENTRETENIMIENTO",UNIVISION HD - ANDR 4
+http://clubtv.link/2828ag/key4513/android3.php?c=a01r&token=TecnotvAgo240065461
+#EXTINF:-1 logo="https://w7.pngwing.com/pngs/540/660/png-transparent-televisa-logo-univision-broadcasting-u-miscellaneous-purple-television.png" group-title="ENTRETENIMIENTO",UNIVISION HD - ANDR 5
+http://clubtv.link/2828ag/key4513/android5.php?c=851&token=TecnotvAgo240065461|User-Agent=Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/960px-Logo_UniM%C3%A1s.svg.png" group-title="ENTRETENIMIENTO",UNIMAS - ANDR 0
-http://clubtv.link/1708ag/key4513/android0.php?c=819&token=TecnotvAgo1408|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/960px-Logo_UniM%C3%A1s.svg.png" group-title="ENTRETENIMIENTO",UNIMAS - ANDR 4
-http://clubtv.link/1708ag/key4513/android4.php?c=iEJE2wyZ9MxlmNqsXw__lKVS&token=TecnotvAgo1408|user-agent=swofirexuroklstariwresplqosumabl
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/960px-Logo_UniM%C3%A1s.svg.png" group-title="ENTRETENIMIENTO",UNIMAS - ANDR 5
-http://clubtv.link/1708ag/key4513/android5.php?c=819&token=TecnotvAgo1408|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/960px-Logo_UniM%C3%A1s.svg.png" group-title="ENTRETENIMIENTO",UNIMAS - ANDR 6
-http://clubtv.link/1708ag/key4513/android6.php?c=iEJE2wyZ9MxlmNqsXw__lKVS&token=TecnotvAgo1408|user-agent=swofirexuroklstariwresplqosumabl
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="ENTRETENIMIENTO",ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 logo="https://tvbix.com/images/channels/nbc-universo.png" group-title="ENTRETENIMIENTO",UNIVERSO - TV4 SR REGIO
