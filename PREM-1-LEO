@@ -379,7 +379,9 @@ http://45.166.92.22:58001/play/a00m/index.m3u8
 
 #EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="MUNDO Y CULTURA",ANIMAL PLANET HD - TV5 SR REGIO
 http://45.160.15.130:2909/play/025
-#EXTINF:-1 logo="https://yt3.googleusercontent.com/ytc/AIdro_m9iKH1nV3X2jjU1EeAuUwdB0sjcz1G-nlwdl8EVg=s900-c-k-c0x00ffffff-no-rj" group-title="MUNDO Y CULTURA",NAT GEO WILD HD - ESP
+#EXTINF:-1 logo="https://yt3.googleusercontent.com/ytc/AIdro_m9iKH1nV3X2jjU1EeAuUwdB0sjcz1G-nlwdl8EVg=s900-c-k-c0x00ffffff-no-rj" group-title="MUNDO Y CULTURA",NAT GEO WILD OPC 1 - ESP
+http://clubtv.link/0109sep/key4513/esp.php?c=126163
+#EXTINF:-1 logo="https://yt3.googleusercontent.com/ytc/AIdro_m9iKH1nV3X2jjU1EeAuUwdB0sjcz1G-nlwdl8EVg=s900-c-k-c0x00ffffff-no-rj" group-title="MUNDO Y CULTURA",NAT GEO WILD OPC 2 - ESP
 http://clubtv.link/0109sep/key4513/esp.php?c=126223
 #EXTINF:-1 logo="https://mms.businesswire.com/media/20160221005252/es/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="MUNDO Y CULTURA",Love Nature - TV SR REGIO
 
