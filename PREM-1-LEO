@@ -151,8 +151,6 @@ http://clubtv.link/0109sep/key4513/lista.php?c=959&token=TecnotvSep
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="Infantiles" tvg-name="Pequeradio TV",Pequeradio TV S2
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-#EXTINF:-1 logo="https://i.imgur.com/lND6DKt.png" group-title="INFANTIL",TOONCAST - TV2 SR REGIO
-
 #EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/97aaa555530797.5988a3bebfb71.png" group-title="INFANTIL",AniMotion - TV5 SR REGIO
 
 #EXTINF:-1 logo="https://www.latincable.pe/images/canales-tv/fmhkids.jpg" group-title="INFANTIL",FMH KIDS - TV5 SR REGIO
@@ -191,6 +189,12 @@ http://45.166.92.22:58001/play/a04q/index.m3u8
 
 #EXTINF:-1 logo="https://i.imgur.com/84lq03p.jpg" group-title="INFANTIL",DISNEY CHANNEL OPC 2 - TV2 SR REGIO
 
+#EXTINF:-1 logo="https://i.imgur.com/lND6DKt.png" group-title="INFANTIL",TOONCAST - TV2 SR REGIO
+
+#EXTINF:-1 logo="https://i.imgur.com/lND6DKt.png" group-title="INFANTIL",TOONCAST - ANDR 0
+http://clubtv.link/0109sep/key4513/android0.php?c=95&token=TecnotvSep
+#EXTINF:-1 logo="https://i.imgur.com/lND6DKt.png" group-title="INFANTIL",TOONCAST - LIS
+http://clubtv.link/0109sep/key4513/lista.php?c=95&token=TecnotvSep
 #EXTINF:-1 logo="https://ih1.redbubble.net/image.202100413.9876/raf,750x1000,075,t,FFFFFF:97ab1c12de.u5.jpg" group-title="24/7",Cantinflas - ANDR 0
 http://clubtv.link/0109sep/key4513/android0.php?c=428&token=TecnotvSep
 #EXTINF:-1 logo="https://ih1.redbubble.net/image.202100413.9876/raf,750x1000,075,t,FFFFFF:97ab1c12de.u5.jpg" group-title="24/7",Cantinflas - LIS 
@@ -203,6 +207,10 @@ http://clubtv.link/0109sep/key4513/lista.php?c=845&token=TecnotvSep
 http://clubtv.link/0109sep/key4513/android0.php?c=524&token=TecnotvSep
 #EXTINF:-1 logo="http://pm1.narvii.com/6054/a2cf24f51368fc7313fe4c8b4d8a052f3a1f23f6_00.jpg" group-title="24/7",Looney Tunes - LIS
 http://clubtv.link/0109sep/key4513/lista.php?c=524&token=TecnotvSep
+#EXTINF:-1 tvg-id="" tvg-name="Tom y Jerry" tvg-logo="http://51.222.152.107:81/posters/1610694158427.jpg" group-title="24/7",Tom y Jerry - ANDR 0
+http://clubtv.link/0109sep/key4513/android0.php?c=421&token=TecnotvSep
+#EXTINF:-1 tvg-id="" tvg-name="Tom y Jerry" tvg-logo="http://51.222.152.107:81/posters/1610694158427.jpg" group-title="24/7",Tom y Jerry - LIS
+http://clubtv.link/0109sep/key4513/lista.php?c=421&token=TecnotvSep
 #EXTINF:-1 logo="https://imagenes.expreso.ec/files/image_800_600/uploads/2021/04/28/6089e3c7433e9.png" group-title="24/7", Los picapiedra - ANDR 0
 http://clubtv.link/0109sep/key4513/android0.php?c=669&token=TecnotvSep
 #EXTINF:-1 logo="https://imagenes.expreso.ec/files/image_800_600/uploads/2021/04/28/6089e3c7433e9.png" group-title="24/7", Los picapiedra - LIS
@@ -679,6 +687,10 @@ http://clubtv.link/0109sep/key4513/lista.php?c=660&token=TecnotvSep
 http://clubtv.link/0109sep/key4513/android0.php?c=320&token=TecnotvSep
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/doblaje/images/0/0a/Teleamazonas.jpg/revision/latest?cb=20160131021333&path-prefix=es" group-title="ENTRETENIMIENTO",TELEAMAZONAS - LIS
 http://clubtv.link/0109sep/key4513/lista.php?c=320&token=TecnotvSep
+#EXTINF:-1 tvg-id="1425" tvg-name="Kanal D Drama" tvg-logo="https://cdn.m3u.cl/logo/1425_Kanal_D_Drama.png",Kanal D Drama | TOP TR
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1425" tvg-name="Kanal D Drama" tvg-logo="https://cdn.m3u.cl/logo/1425_Kanal_D_Drama.png",Kanal D Drama | ANDR 10
+
 #EXTINF:-1 logo="https://static.latamwbd.com/2023-06/TNT_NOVELAS_logo.jpg?w=900" group-title="ENTRETENIMIENTO", TNT NOVELAS (tbs) - ANDR 0
 http://clubtv.link/0109sep/key4513/android0.php?c=171&token=TecnotvSep
 #EXTINF:-1 logo="https://static.latamwbd.com/2023-06/TNT_NOVELAS_logo.jpg?w=900" group-title="ENTRETENIMIENTO", TNT NOVELAS (tbs) - LIS
@@ -1303,10 +1315,6 @@ http://45.160.15.130:2909/play/121
 http://45.160.15.130:2909/play/123
 #EXTINF:-1 logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FONDO-2-300x169.jpg" group-title="SERIES Y CINE",MX Prime HD - TV5 SR REGIO
 http://45.160.15.130:2909/play/122
-#EXTINF:-1 tvg-id="1425" tvg-name="Kanal D Drama" tvg-logo="https://cdn.m3u.cl/logo/1425_Kanal_D_Drama.png",Kanal D Drama | TOP TR
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1425" tvg-name="Kanal D Drama" tvg-logo="https://cdn.m3u.cl/logo/1425_Kanal_D_Drama.png",Kanal D Drama | ANDR 10
-
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJI5DmIqVwETZojOXilx8mz46z0E5r2mdnkLuMlFw7UHSdrgmM2lsSd_7H8ndQF9iMU2M&usqp=CAU" group-title="MUNDO Y CULTURA",MOVISTAR DRAMA OPC 1 - ESP
 http://clubtv.link/1708ag/key4513/esp.php?c=126246
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJI5DmIqVwETZojOXilx8mz46z0E5r2mdnkLuMlFw7UHSdrgmM2lsSd_7H8ndQF9iMU2M&usqp=CAU" group-title="MUNDO Y CULTURA",MOVISTAR DRAMA OPC 2 - ESP
