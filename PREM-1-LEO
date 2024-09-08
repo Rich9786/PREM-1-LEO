@@ -1631,20 +1631,20 @@ http://clubtv.link/0509Sep/key4513/android0.php?c=58&token=TecnotvSep124gsdfsd
 http://clubtv.link/0509Sep/key4513/lista.php?c=58&token=TecnotvSep124gsdfsd
 #EXTINF:-1 logo="https://startvmexico.com/wp-content/uploads/2018/10/gedge.png" group-title="CINE",G-EDGE - ANDR 2
 http://clubtv.link/0509Sep/key4513/android2.php?c=ch47&token=TecnotvSep
-#EXTINF:-1 logo="https://xview.mx/img/xview/canales/logos/series/mc.png" group-title="CINE",MULTICINEMA - ANDR 4
-http://clubtv.link/1708ag/key4513/android4.php?c=a03a&token=TecnotvAgo1408
-#EXTINF:-1 logo="https://xview.mx/img/xview/canales/logos/series/mc.png" group-title="CINE",MULTICINEMA - LIS
-http://clubtv.link/1708ag/key4513/lista.php?c=a02b&token=TecnotvGen0&f=.m3u8
-#EXTINF:-1 logo="https://xview.mx/img/xview/canales/logos/series/mc.png" group-title="CINE",MULTICINEMA - LIS 1
-http://clubtv.link/1708ag/key4513/lista1.php?c=a02n&token=TecnotvGen0&f=.m3u8
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/a4fcb1bf-cfa6-47b0-941a-7e09f802139e_m.jpg" group-title="CINE",MULTIPREMIER - ANDR 4
-http://clubtv.link/1708ag/key4513/android4.php?c=a05e&token=TecnotvAgo1408
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/a4fcb1bf-cfa6-47b0-941a-7e09f802139e_m.jpg" group-title="CINE",MULTIPREMIER - LIS
-http://clubtv.link/1708ag/key4513/lista.php?c=a046&token=TecnotvGen0&f=.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MC_logo_2022.png" group-title="CINE",MULTICINEMA - TV6 SR REGIO
+http://45.228.234.167:8000/play/a02b/index.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MC_logo_2022.png" group-title="CINE",MULTICINEMA - TV9 SR REGIO
+http://45.4.85.214:58001/play/a04q
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MC_logo_2022.png" group-title="CINE",MULTICINEMA - LIS 1
+
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/a4fcb1bf-cfa6-47b0-941a-7e09f802139e_m.jpg" group-title="CINE",MULTIPREMIER - TV6 SR REGIO
+http://45.228.234.167:8000/play/a046/index.m3u8
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/a4fcb1bf-cfa6-47b0-941a-7e09f802139e_m.jpg" group-title="CINE",MULTIPREMIER - TV9 SR REGIO
+http://45.4.85.214:58001/play/a03n
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/a4fcb1bf-cfa6-47b0-941a-7e09f802139e_m.jpg" group-title="CINE",MULTIPREMIER - LIS 1
-http://clubtv.link/1708ag/key4513/lista1.php?c=a046&token=TecnotvGen0&f=.m3u8
+
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/a4fcb1bf-cfa6-47b0-941a-7e09f802139e_m.jpg" group-title="CINE",MULTIPREMIER - LIS 3
-http://clubtv.link/1708ag/key4513/lista3.php?c=a048&token=TecnotvGen0&f=.m3u8
+
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/a4fcb1bf-cfa6-47b0-941a-7e09f802139e_m.jpg" group-title="CINE",MULTIPREMIER - LIS 6
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/a4fcb1bf-cfa6-47b0-941a-7e09f802139e_m.jpg" group-title="CINE",MULTIPREMIER - ANDR 2
