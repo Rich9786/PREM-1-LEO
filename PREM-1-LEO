@@ -1667,8 +1667,6 @@ http://200.59.188.3:8000/play/a05g
 http://clubtv.link/0509Sep/key4513/esp.php?c=126161
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/2560px-TCM_logo.svg.png" group-title="CINE",TCM OPC 2 - ESP
 http://clubtv.link/0509Sep/key4513/esp.php?c=126230
-#EXTINF:-1 logo="https://www.newslinereport.com/online/nota_space-estrena-la-serie-zoo-.jpg" group-title="CINE Y SERIES",SPACE - TV4 SR REGIO
-http://45.166.92.22:58001/play/a02o/index.m3u8
 #EXTINF:-1 logo="https://www.newslinereport.com/online/nota_space-estrena-la-serie-zoo-.jpg" group-title="CINE Y SERIES",SPACE - TV5 SR REGIO
 http://177.93.46.163:8000/play/a023
 #EXTINF:-1 logo="https://www.newslinereport.com/online/nota_space-estrena-la-serie-zoo-.jpg" group-title="CINE Y SERIES",SPACE - TV6 SR REGIO 
