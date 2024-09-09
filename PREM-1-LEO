@@ -1717,8 +1717,6 @@ http://181.78.105.146:2000/play/a04o/index.m3u8
 http://200.59.188.3:8000/play/a06r
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="CINE",STUDIO UNIVERSAL HD - TV8 SR REGIO
 http://200.59.188.3:8000/play/a024
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="CINE",STUDIO UNIVERSAL HD - TV10 SR REGIO
-http://45.166.92.22:58001/play/a00k/index.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png" group-title="CINE",EUROPA CHANNEL HD - ANDR 3
 http://clubtv.link/1708ag/key4513/android3.php?c=a00t&token=TecnotvAgo1408
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png" group-title="CINE",EUROPA CHANNEL HD - LIS 
