@@ -1860,7 +1860,7 @@ http://200.59.188.3:8000/play/a03r
 #EXTINF:-1 logo="https://i.pinimg.com/originals/38/dc/17/38dc175da482ae589a0de7c44d21f849.png" group-title="CINE",HBO HD - TV8 SR REGIO
 http://200.59.188.3:8000/play/a020
 #EXTINF:-1 logo="https://i.pinimg.com/originals/38/dc/17/38dc175da482ae589a0de7c44d21f849.png" group-title="CINE",HBO - TV9 SR REGIO
-http://45.4.85.214:58001/play/a03r
+
 #EXTINF:-1 logo="https://i.pinimg.com/originals/38/dc/17/38dc175da482ae589a0de7c44d21f849.png" group-title="CINE",HBO HD - TV9 SR REGIO
 http://45.4.85.214:58001/play/a04u
 #EXTINF:-1 logo="https://i.pinimg.com/originals/38/dc/17/38dc175da482ae589a0de7c44d21f849.png" group-title="CINE",HBO HD - TV10 SR REGIO
@@ -1875,7 +1875,7 @@ http://45.228.234.167:8000/play/a00v/index.m3u8
 #EXTINF:-1 logo="https://www.logolynx.com/images/logolynx/s_cd/cd47fb52116f18d99be56ef0457daf36.png" group-title="CINE",HBO 2 HD - TV8 SR REGIO
 http://200.59.188.3:8000/play/a027
 #EXTINF:-1 logo="https://www.logolynx.com/images/logolynx/s_cd/cd47fb52116f18d99be56ef0457daf36.png" group-title="CINE",HBO 2 - TV9 SR REGIO
-http://45.4.85.214:58001/play/a03s
+
 #EXTINF:-1 logo="https://www.logolynx.com/images/logolynx/s_cd/cd47fb52116f18d99be56ef0457daf36.png" group-title="CINE",HBO 2 HD - TV9 SR REGIO
 http://45.4.85.214:58001/play/a04v
 #EXTINF:-1 logo="https://www.logolynx.com/images/logolynx/s_cd/cd47fb52116f18d99be56ef0457daf36.png" group-title="CINE",HBO 2 HD - TV10 SR REGIO
@@ -1894,7 +1894,7 @@ http://45.228.234.167:8000/play/a00x/index.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE",HBO Family HD - TV8 SR REGIO
 http://200.59.188.3:8000/play/a034
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE",HBO Family - TV9 SR REGIO
-http://45.4.85.214:58001/play/a03u
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE",HBO Family HD - TV9 SR REGIO
 http://45.4.85.214:58001/play/a04x
 
@@ -1908,7 +1908,7 @@ http://45.228.234.167:8000/play/a00w/index.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE",HBO plus HD - TV8 SR REGIO
 http://200.59.188.3:8000/play/a06m
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE",HBO plus - TV9 SR REGIO
-http://45.4.85.214:58001/play/a03t
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE",HBO plus HD - TV9 SR REGIO
 http://45.4.85.214:58001/play/a04w
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE",HBO plus HD - TV10 SR REGIO
@@ -2033,7 +2033,7 @@ http://158.69.226.108:8000/live/Vfjjjhj/Djdkfk/1640.ts
 #EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/Gmnvh9I.png" group-title="CINE Y SERIES",RunTime
 http://200.59.188.3:8000/play/a0fr
 #EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/S3qCgKW.png" group-title="CINE Y SERIES",Familia
-http://200.59.188.3:8000/play/a0ca
+
 #EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/uRMHvKV.png" group-title="CINE Y SERIES",Comedia
 
 #EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/vZu909y.png" group-title="CINE Y SERIES",Crimen
@@ -2065,19 +2065,19 @@ http://200.59.188.3:8000/play/a0ca
 
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-pelicula-cine-palomitas-maiz-tira-pelicula-tablilla-entradas-fondo-tiempo-pelicula_41737-248.jpg?size=626&ext=jpg" group-title="Peliculas",Cine PREMIERE Sala 1 - TV3 SR REGIO
-http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=beto_7hd
+
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-pelicula-cine-palomitas-maiz-tira-pelicula-tablilla-entradas-fondo-tiempo-pelicula_41737-248.jpg?size=626&ext=jpg" group-title="Peliculas",Cine PREMIERE Sala 2 - TV3 SR REGIO
-http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=a_neflix01
+
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-pelicula-cine-palomitas-maiz-tira-pelicula-tablilla-entradas-fondo-tiempo-pelicula_41737-248.jpg?size=626&ext=jpg" group-title="Peliculas",Cine PREMIERE Sala 3 - TV3 SR REGIO
-http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=cinemundo_plus
+
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-pelicula-cine-palomitas-maiz-tira-pelicula-tablilla-entradas-fondo-tiempo-pelicula_41737-248.jpg?size=626&ext=jpg" group-title="Peliculas",Cine PREMIERE Sala 4 - TV3 SR REGIO
-http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=peliculas_mania
+
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-pelicula-cine-palomitas-maiz-tira-pelicula-tablilla-entradas-fondo-tiempo-pelicula_41737-248.jpg?size=626&ext=jpg" group-title="Peliculas",Cine PREMIERE Sala 5 - TV3 SR REGIO
-http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=terror_mania
+
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-pelicula-cine-palomitas-maiz-tira-pelicula-tablilla-entradas-fondo-tiempo-pelicula_41737-248.jpg?size=626&ext=jpg" group-title="Peliculas",Cine PREMIERE Sala 6 - TV3 SR REGIO
-http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=cienciaficcion
+
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-pelicula-cine-palomitas-maiz-tira-pelicula-tablilla-entradas-fondo-tiempo-pelicula_41737-248.jpg?size=626&ext=jpg" group-title="Peliculas",Cine PREMIERE Sala 7 - TV3 SR REGIO
-http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=juan_13tv
+
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-pelicula-cine-palomitas-maiz-tira-pelicula-tablilla-entradas-fondo-tiempo-pelicula_41737-248.jpg?size=626&ext=jpg" group-title="Peliculas",Cine PREMIERE Sala 8 - ANDR 0
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-pelicula-cine-palomitas-maiz-tira-pelicula-tablilla-entradas-fondo-tiempo-pelicula_41737-248.jpg?size=626&ext=jpg" group-title="Peliculas",Cine PREMIERE Sala 9 - ANDR 0
@@ -2801,7 +2801,7 @@ https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8?PlaylistM
 #EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="Informativos" tvg-name="24h",24h - ES
 https://ztnr.rtve.es/ztnr/1694255.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="Informativos" tvg-name="24h",24h - ESP
-http://clubtv.link/1708ag/key4513/esp.php?c=126170
+
 #EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="Informativos" tvg-name="24h",24h - ESP 2
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="Canarias" tvg-name="24h Canarias",24h Canarias
@@ -2814,24 +2814,10 @@ http://45.160.15.130:2909/play/052
 https://estrella-news-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 logo="https://www.tvdigitaldivide.it/wp-content/uploads/2023/03/rai-news-24-hd-16-marzo-2023.jpg" group-title="NOTICIAS",RAI NEW 24 HD - ANDR 9
 
-#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/FRANCE_24_ESPA%C3%91OL_2018.png/revision/latest/scale-to-width-down/250?cb=20200904040305" group-title="NOTICIAS",FRANCE 24 - GEO MR-1
-
-#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/FRANCE_24_ESPA%C3%91OL_2018.png/revision/latest/scale-to-width-down/250?cb=20200904040305" group-title="NOTICIAS",FRANCE 24 - GEO MR-2
-
-#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/FRANCE_24_ESPA%C3%91OL_2018.png/revision/latest/scale-to-width-down/250?cb=20200904040305" group-title="NOTICIAS",FRANCE 24 - GEO AR
-
-#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/FRANCE_24_ESPA%C3%91OL_2018.png/revision/latest/scale-to-width-down/250?cb=20200904040305" group-title="NOTICIAS",FRANCE 24 - LIS 2
-
-#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/FRANCE_24_ESPA%C3%91OL_2018.png/revision/latest/scale-to-width-down/250?cb=20200904040305" group-title="NOTICIAS",FRANCE 24 - TV
-
-#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/FRANCE_24_ESPA%C3%91OL_2018.png/revision/latest/scale-to-width-down/250?cb=20200904040305" group-title="NOTICIAS",FRANCE 24 OPC 1 - TV2 SR REGIO
-
-#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/FRANCE_24_ESPA%C3%91OL_2018.png/revision/latest/scale-to-width-down/250?cb=20200904040305" group-title="NOTICIAS",FRANCE 24 OPC 2 - TV2 SR REGIO
-
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/FRANCE_24_ESPA%C3%91OL_2018.png/revision/latest/scale-to-width-down/250?cb=20200904040305" group-title="NOTICIAS",FRANCE 24 - TV3 SR REGIO
 http://45.166.92.22:58001/play/a057/index.m3u8
-#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/FRANCE_24_ESPA%C3%91OL_2018.png/revision/latest/scale-to-width-down/250?cb=20200904040305" group-title="NOTICIAS",FRANCE 24 - TV4 SR REGIO
-http://45.166.92.22:58001/play/a057/index.m3u8
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/FRANCE_24_ESPA%C3%91OL_2018.png/revision/latest/scale-to-width-down/250?cb=20200904040305" group-title="NOTICIAS",FRANCE 24 - TV6 SR REGIO
+http://45.228.234.167:8000/play/a059/index.m3u8
 #EXTINF:-1 tvg-id="499" tvg-name="Telesur" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/TeleSUR_2014-1.png/revision/latest?cb=20210308032444&path-prefix=es", Telesur | VE
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="MÉXICO" tvg-id="806" tvg-name="HispanTV" tvg-logo="https://www.m3u.cl/logo/806_HispanTV.png",HispanTV 
