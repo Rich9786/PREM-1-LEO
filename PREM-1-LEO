@@ -100,7 +100,7 @@ https://5ca3e84a76d30.streamlock.net:443/mexiquense/videomexiquense/playlist.m3u
 
 #EXTINF:-1 logo="https://digitaltv.prensariozone.com/wp-content/uploads/2021/07/Mexiquense-1024x576.png" group-title="MEXICO",MEXIQUENSE TV - ANDR 7 
 
-#EXTINF:-1 logo="https://www.excelsior.com.mx/800x600/filters:format(jpg):quality(75)/media/pictures/2022/11/29/2864671.jpg" group-title="MEXICO",MX NUESTRO CINE - TV2 SR REGIO
+#EXTINF:-1 logo="https://www.excelsior.com.mx/800x600/filters:format(jpg):quality(75)/media/pictures/2022/11/29/2864671.jpg" group-title="MEXICO",MX NUESTRO CINE (APRENDE TV) - TV7 SR REGIO
 http://181.78.105.146:2000/play/a04h/index.m3u8
 #EXTINF:-1 logo="https://www.theobserver.mx/wp-content/uploads/2023/06/mexiquense.jpg" group-title="MEXICO",MEXIQUENSE TV - MX
 
@@ -144,6 +144,8 @@ http://www.intermusika.org/___TMP___/media/Dance/Aqua/Aqua%20-%20Barbie%20Girl.m
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="Infantiles" tvg-name="Pequeradio TV",Pequeradio TV S2
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:-1 logo="https://www.mexicoescultura.com/galerias/actividades/principal/once_ninos.jpg" group-title="TV PREMIUM" group-title="MEXICO",ONCE NIÑOS (OnceKids) - TV7 SR REGIO
+http://181.78.105.146:2000/play/a04f/index.m3u8
 #EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/97aaa555530797.5988a3bebfb71.png" group-title="INFANTIL",AniMotion - TV5 SR REGIO
 
 #EXTINF:-1 logo="https://www.latincable.pe/images/canales-tv/fmhkids.jpg" group-title="INFANTIL",FMH KIDS - TV5 SR REGIO
@@ -190,76 +192,109 @@ http://45.4.85.214:58001/play/a03b
 https://marine2.miplay.cl/ntv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1015" tvg-name="Planetatv Kids" tvg-logo="https://www.m3u.cl/logo/1015_Planetatv_Kids.png", Planetatv Kids
 
-#EXTINF:-1 logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="INFANTIL",CARTOON NETWORK HD - TV4 SR REGIO
+
+#EXTINF:-1 logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="INFANTIL",CARTOON NETWORK - TV5 SR REGIO
+http://177.93.46.163:8000/play/a00d
+#EXTINF:-1 logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="INFANTIL",CARTOON NETWORK - TV6 SR REGIO
+http://45.228.234.167:8000/play/a04n/index.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="INFANTIL",CARTOON NETWORK - TV7 SR REGIO
+http://181.78.105.146:2000/play/a03k/index.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="INFANTIL",CARTOON NETWORK HS - TV8 SR REGIO
+http://200.59.188.3:8000/play/a022
+#EXTINF:-1 logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="INFANTIL",CARTOON NETWORK - TV9 SR REGIO
+http://45.4.85.214:58001/play/a00m
+#EXTINF:-1 logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="INFANTIL",CARTOON NETWORK - TV10 SR REGIO
 http://45.166.92.22:58001/play/a03y/index.m3u8
-#EXTINF:-1 logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="INFANTIL",CARTOON NETWORK HD - TV5 SR REGIO
-
-#EXTINF:-1 logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="INFANTIL",CARTOON NETWORK HD OPC 2 - TV2 SR REGIO
-
 #EXTINF:-1 logo="https://i.imgur.com/84lq03p.jpg" group-title="INFANTIL",DISNEY CHANNEL HD - TV4 SR REGIO
 http://45.166.92.22:58001/play/a04q/index.m3u8
-#EXTINF:-1 logo="https://i.imgur.com/84lq03p.jpg" group-title="INFANTIL",DISNEY CHANNEL OPC 1 - TV2 SR REGIO
-
-#EXTINF:-1 logo="https://i.imgur.com/84lq03p.jpg" group-title="INFANTIL",DISNEY CHANNEL OPC 2 - TV2 SR REGIO
-
-#EXTINF:-1 logo="https://i.imgur.com/lND6DKt.png" group-title="INFANTIL",TOONCAST - TV2 SR REGIO
-
+#EXTINF:-1 logo="https://i.imgur.com/84lq03p.jpg" group-title="INFANTIL",DISNEY CHANNEL - TV5 SR REGIO
+http://177.93.46.163:8000/play/a00y
+#EXTINF:-1 logo="https://i.imgur.com/84lq03p.jpg" group-title="INFANTIL",DISNEY CHANNEL - TV6 SR REGIO
+http://45.228.234.167:8000/play/a03v/index.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/84lq03p.jpg" group-title="INFANTIL",DISNEY CHANNEL HD - TV8 SR REGIO
+http://200.59.188.3:8000/play/a00y
+#EXTINF:-1 logo="https://i.imgur.com/84lq03p.jpg" group-title="INFANTIL",DISNEY CHANNEL - TV9 SR REGIO
+http://45.4.85.214:58001/play/a03c
+#EXTINF:-1 logo="https://i.imgur.com/84lq03p.jpg" group-title="INFANTIL",DISNEY CHANNEL HD - TV10 SR REGIO
+http://45.166.92.22:58001/play/a04q/index.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/lND6DKt.png" group-title="INFANTIL",TOONCAST - TV6 SR REGIO
+http://45.228.234.167:8000/play/a02p/index.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/lND6DKt.png" group-title="INFANTIL",TOONCAST - ANDR 0
-http://clubtv.link/0509Sep/key4513/android0.php?c=95&token=TecnotvSep124gsdfsd
+
 #EXTINF:-1 logo="https://i.imgur.com/lND6DKt.png" group-title="INFANTIL",TOONCAST - LIS
-http://clubtv.link/0509Sep/key4513/lista.php?c=95&token=TecnotvSep124gsdfsd
+
 #EXTINF:-1 logo="https://ih1.redbubble.net/image.202100413.9876/raf,750x1000,075,t,FFFFFF:97ab1c12de.u5.jpg" group-title="24/7",Cantinflas - ANDR 0
-http://clubtv.link/0509Sep/key4513/android0.php?c=428&token=TecnotvSep124gsdfsd
+
 #EXTINF:-1 logo="https://ih1.redbubble.net/image.202100413.9876/raf,750x1000,075,t,FFFFFF:97ab1c12de.u5.jpg" group-title="24/7",Cantinflas - LIS 
-http://clubtv.link/0509Sep/key4513/lista.php?c=428&token=TecnotvSep124gsdfsd
+
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1368172942224457729/dvGvfa2L_400x400.jpg" group-title="24/7",El Gallo Claudio - ANDR 0
-http://clubtv.link/0509Sep/key4513/android0.php?c=845&token=TecnotvSep124gsdfsd
+
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1368172942224457729/dvGvfa2L_400x400.jpg" group-title="24/7",El Gallo Claudio - LIS
-http://clubtv.link/0509Sep/key4513/lista.php?c=845&token=TecnotvSep124gsdfsd
+
 #EXTINF:-1 logo="http://pm1.narvii.com/6054/a2cf24f51368fc7313fe4c8b4d8a052f3a1f23f6_00.jpg" group-title="24/7",Looney Tunes - ANDR 0
-http://clubtv.link/0509Sep/key4513/android0.php?c=524&token=TecnotvSep124gsdfsd
+
 #EXTINF:-1 logo="http://pm1.narvii.com/6054/a2cf24f51368fc7313fe4c8b4d8a052f3a1f23f6_00.jpg" group-title="24/7",Looney Tunes - LIS
-http://clubtv.link/0509Sep/key4513/lista.php?c=524&token=TecnotvSep124gsdfsd
+
 #EXTINF:-1 tvg-id="" tvg-name="Tom y Jerry" tvg-logo="http://51.222.152.107:81/posters/1610694158427.jpg" group-title="24/7",Tom y Jerry - ANDR 0
-http://clubtv.link/0509Sep/key4513/android0.php?c=421&token=TecnotvSep124gsdfsd
+
 #EXTINF:-1 tvg-id="" tvg-name="Tom y Jerry" tvg-logo="http://51.222.152.107:81/posters/1610694158427.jpg" group-title="24/7",Tom y Jerry - LIS
-http://clubtv.link/0509Sep/key4513/lista.php?c=421&token=TecnotvSep124gsdfsd
+
 #EXTINF:-1 logo="https://imagenes.expreso.ec/files/image_800_600/uploads/2021/04/28/6089e3c7433e9.png" group-title="24/7", Los picapiedra - ANDR 0
-http://clubtv.link/0509Sep/key4513/android0.php?c=669&token=TecnotvSep124gsdfsd
+
 #EXTINF:-1 logo="https://imagenes.expreso.ec/files/image_800_600/uploads/2021/04/28/6089e3c7433e9.png" group-title="24/7", Los picapiedra - LIS
-http://clubtv.link/0509Sep/key4513/lista.php?c=669&token=TecnotvSep124gsdfsd
+
 #EXTINF:-1 logo="https://images.hive.blog/p/PB8ro82ZpZP35bVGjGoE93K3E4U5KX8KtMBJ2rhrS8qWMRULPVNAxd49CCqL66e5oQ1vCPFrxfvTpJFaW9Q6iYiAmy2Utwq41hurukzDbU2yJNz2?format=match&mode=fit" group-title="24/7", PINKY y CEREBRO - ANDR 0
-http://clubtv.link/0509Sep/key4513/android0.php?c=721&token=TecnotvSep124gsdfsd
+
 #EXTINF:-1 logo="https://images.hive.blog/p/PB8ro82ZpZP35bVGjGoE93K3E4U5KX8KtMBJ2rhrS8qWMRULPVNAxd49CCqL66e5oQ1vCPFrxfvTpJFaW9Q6iYiAmy2Utwq41hurukzDbU2yJNz2?format=match&mode=fit" group-title="24/7", PINKY y CEREBRO - LIS
-http://clubtv.link/0509Sep/key4513/lista.php?c=721&token=TecnotvSep124gsdfsd
+
 #EXTINF:-1 tvg-id="" tvg-name="Scooby Doo" tvg-logo="http://51.222.152.107:81/posters/1610693962405.jpg" group-title="24/7",Scooby Doo - ANDR 0
-http://clubtv.link/0509Sep/key4513/android0.php?c=422&token=TecnotvSep124gsdfsd
+
 #EXTINF:-1 tvg-id="" tvg-name="Scooby Doo" tvg-logo="http://51.222.152.107:81/posters/1610693962405.jpg" group-title="24/7",Scooby Doo - LIS
-http://clubtv.link/0509Sep/key4513/lista.php?c=422&token=TecnotvSep124gsdfsd
-#EXTINF:-1 logo="https://www.latercera.com/resizer/VVzHKMrD-jH2UFZfnE9s-Cyv_D4=/1023x682/smart/cloudfront-us-east-1.images.arcpublishing.com/copesa/NNHASRIGRRBYRABSIP3HGH5U4A.jpg" group-title="INFANTIL",CARTOONITO (BOOMERANG) - TV4 SR REGIO
+
+#EXTINF:-1 logo="https://www.latercera.com/resizer/VVzHKMrD-jH2UFZfnE9s-Cyv_D4=/1023x682/smart/cloudfront-us-east-1.images.arcpublishing.com/copesa/NNHASRIGRRBYRABSIP3HGH5U4A.jpg" group-title="INFANTIL",CARTOONITO (BOOMERANG) - TV6 SR REGIO
+http://45.228.234.167:8000/play/a04p/index.m3u8
+#EXTINF:-1 logo="https://www.latercera.com/resizer/VVzHKMrD-jH2UFZfnE9s-Cyv_D4=/1023x682/smart/cloudfront-us-east-1.images.arcpublishing.com/copesa/NNHASRIGRRBYRABSIP3HGH5U4A.jpg" group-title="INFANTIL",CARTOONITO (BOOMERANG) - TV9 SR REGIO
+http://45.4.85.214:58001/play/a00o
+#EXTINF:-1 logo="https://www.latercera.com/resizer/VVzHKMrD-jH2UFZfnE9s-Cyv_D4=/1023x682/smart/cloudfront-us-east-1.images.arcpublishing.com/copesa/NNHASRIGRRBYRABSIP3HGH5U4A.jpg" group-title="INFANTIL",CARTOONITO (BOOMERANG) - TV10 SR REGIO
 http://45.166.92.22:58001/play/a02u/index.m3u8
-#EXTINF:-1 logo="https://www.latercera.com/resizer/VVzHKMrD-jH2UFZfnE9s-Cyv_D4=/1023x682/smart/cloudfront-us-east-1.images.arcpublishing.com/copesa/NNHASRIGRRBYRABSIP3HGH5U4A.jpg" group-title="INFANTIL",CARTOONITO (BOOMERANG) OPC 1 - TV2 SR REGIO
-
-#EXTINF:-1 logo="https://www.latercera.com/resizer/VVzHKMrD-jH2UFZfnE9s-Cyv_D4=/1023x682/smart/cloudfront-us-east-1.images.arcpublishing.com/copesa/NNHASRIGRRBYRABSIP3HGH5U4A.jpg" group-title="INFANTIL",CARTOONITO (BOOMERANG) OPC 2 - TV2 SR REGIO
-
 #EXTINF:-1 logo="https://cdn.vectorstock.com/i/1000v/73/93/logo-kids-vector-13477393.jpg" group-title="INFANTIL",Dos Kids HD - TV5 SR REGIO
 
-#EXTINF:-1 logo="https://i.imgur.com/n3eZIO3.png" group-title="INFANTIL",BABY TV - TV4 SR REGIO
-
-#EXTINF:-1 logo="https://i2.wp.com/fontlot.com/wp-content/uploads/2021/06/3-4.jpg?fit=798%2C799&ssl=1" group-title="INFANTIL",BABY FIRST - TV4 SR REGIO
-
-#EXTINF:-1 logo="https://i2.wp.com/fontlot.com/wp-content/uploads/2021/06/3-4.jpg?fit=798%2C799&ssl=1" group-title="INFANTIL",BABY FIRST - TV2 SR REGIO
-
-#EXTINF:-1 logo="https://i.imgur.com/rhHtS3j.jpg" group-title="INFANTIL",NICK JR - TV4 SR REGIO
-
-#EXTINF:-1 logo="https://i.imgur.com/rhHtS3j.jpg" group-title="INFANTIL",NICK JR - TV2 SR REGIO
-
-#EXTINF:-1 logo="https://i.imgur.com/rhHtS3j.jpg" group-title="INFANTIL",NICK JR OPC 2 - TV2 SR REGIO
-
-#EXTINF:-1 logo="https://i.imgur.com/9FOKuui.jpg" group-title="INFANTIL",DISNEY JR - TV2 SR REGIO
-
+#EXTINF:-1 logo="https://i.imgur.com/n3eZIO3.png" group-title="INFANTIL",BABY TV - TV6 SR REGIO
+http://45.228.234.167:8000/play/a005/index.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/n3eZIO3.png" group-title="INFANTIL",BABY TV - TV9 SR REGIO
+http://45.4.85.214:58001/play/a008
+#EXTINF:-1 logo="https://thedailytelevision.com/sites/default/files/notas/imagenes/interior/semillitas_banner_logo_vbig_0.jpg" group-title="INFANTIL",SEMILLITAS - TV6 SR REGIO
+http://45.228.234.167:8000/play/a04s/index.m3u8
+#EXTINF:-1 logo="https://thedailytelevision.com/sites/default/files/notas/imagenes/interior/semillitas_banner_logo_vbig_0.jpg" group-title="INFANTIL",SEMILLITAS - TV9 SR REGIO
+http://45.4.85.214:58001/play/a00q
+#EXTINF:-1 logo="https://i2.wp.com/fontlot.com/wp-content/uploads/2021/06/3-4.jpg?fit=798%2C799&ssl=1" group-title="INFANTIL",BABY FIRST - TV5 SR REGIO
+http://177.93.46.163:8000/play/a00g
+#EXTINF:-1 logo="https://i2.wp.com/fontlot.com/wp-content/uploads/2021/06/3-4.jpg?fit=798%2C799&ssl=1" group-title="INFANTIL",BABY FIRST - TV6 SR REGIO
+http://45.228.234.167:8000/play/a01w/index.m3u8
+#EXTINF:-1 logo="https://i2.wp.com/fontlot.com/wp-content/uploads/2021/06/3-4.jpg?fit=798%2C799&ssl=1" group-title="INFANTIL",BABY FIRST - TV8 SR REGIO
+http://200.59.188.3:8000/play/a05o
+#EXTINF:-1 tvg-shift="-3"  group-title="TV5", Zoom
+http://177.93.46.163:8000/play/a01t
+#EXTINF:-1 logo="https://i.imgur.com/rhHtS3j.jpg" group-title="INFANTIL",NICK JR - TV5 SR REGIO
+http://177.93.46.163:8000/play/a02b
+#EXTINF:-1 logo="https://i.imgur.com/rhHtS3j.jpg" group-title="INFANTIL",NICK JR - TV6 SR REGIO
+http://45.228.234.167:8000/play/a04o/index.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/rhHtS3j.jpg" group-title="INFANTIL",NICK JR - TV8 SR REGIO
+http://200.59.188.3:8000/play/a044
+#EXTINF:-1 logo="https://i.imgur.com/rhHtS3j.jpg" group-title="INFANTIL",NICK JR - TV8 SR REGIO
+http://45.4.85.214:58001/play/a00n
 #EXTINF:-1 logo="https://i.imgur.com/9FOKuui.jpg" group-title="INFANTIL",DISNEY JR - TV5 SR REGIO
-
+http://177.93.46.163:8000/play/a00q
+#EXTINF:-1 logo="https://i.imgur.com/9FOKuui.jpg" group-title="INFANTIL",DISNEY JR - TV6 SR REGIO
+http://45.228.234.167:8000/play/a04q/index.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/9FOKuui.jpg" group-title="INFANTIL",DISNEY JR - TV7 SR REGIO
+http://181.78.105.146:2000/play/a03j/index.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/9FOKuui.jpg" group-title="INFANTIL",DISNEY JR - TV8 SR REGIO
+http://200.59.188.3:8000/play/a06p
+#EXTINF:-1 logo="https://i.imgur.com/9FOKuui.jpg" group-title="INFANTIL",DISNEY JR - TV9 SR REGIO
+http://45.4.85.214:58001/play/a00p
+#EXTINF:-1 logo="https://i.imgur.com/9FOKuui.jpg" group-title="INFANTIL",DISNEY JR - TV10 SR REGIO
+http://45.166.92.22:58001/play/a02v/index.m3u8
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1347112024925474817/FsTxCmRL_400x400.jpg" group-title="INFANTIL",BIT ME - ANDR 0
 http://clubtv.link/0509Sep/key4513/android0.php?c=946&token=TecnotvSep124gsdfsd
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1347112024925474817/FsTxCmRL_400x400.jpg" group-title="INFANTIL",BIT ME - ANDR 5
