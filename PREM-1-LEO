@@ -144,8 +144,14 @@ http://www.intermusika.org/___TMP___/media/Dance/Aqua/Aqua%20-%20Barbie%20Girl.m
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="Infantiles" tvg-name="Pequeradio TV",Pequeradio TV S2
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:-1 tvg-id="45" tvg-name="NTV" tvg-logo="https://i2.paste.pics/49116db7b95befdabb207ccbd2bb94b6.png", NTV | CL
+https://marine2.miplay.cl/ntv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="45" tvg-name="NTV" tvg-logo="https://i2.paste.pics/49116db7b95befdabb207ccbd2bb94b6.png", NTV HD - TV5 SR REGIO
+
 #EXTINF:-1 logo="https://onceninasyninos.tv/wp-content/uploads/2019/06/LOGO-ON.png" group-title="TV PREMIUM" group-title="MEXICO",ONCE NIÑOS (OnceKids) - TV7 SR REGIO
 http://181.78.105.146:2000/play/a04f/index.m3u8
+#EXTINF:-1 logo="https://i.pinimg.com/originals/07/e3/57/07e3570049e922062d704fc8ba25088b.png" group-title="TV PREMIUM" group-title="MEXICO",INGENIO TV - TV7 SR REGIO
+http://181.78.105.146:2000/play/a04i/index.m3u8
 #EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/97aaa555530797.5988a3bebfb71.png" group-title="INFANTIL",AniMotion - TV5 SR REGIO
 
 #EXTINF:-1 logo="https://www.latincable.pe/images/canales-tv/fmhkids.jpg" group-title="INFANTIL",FMH KIDS - TV5 SR REGIO
@@ -186,12 +192,7 @@ http://45.4.85.214:58001/play/a03b
 
 #EXTINF:-1 logo="https://res.cloudinary.com/clearlink/image/upload/v1589303475/Dish/images/isolated/~png-logo-exports-for-channel-page-hero/TeenNick-Default-Color_2x_hh2xrm.png" group-title="INFANTIL",TEEN NIC OPC 2 - TV2 SR REGIO
 
-#EXTINF:-1 tvg-id="45" tvg-name="NTV" tvg-logo="https://i2.paste.pics/49116db7b95befdabb207ccbd2bb94b6.png", NTV HD - TV5 SR REGIO
-
-#EXTINF:-1 tvg-id="45" tvg-name="NTV" tvg-logo="https://i2.paste.pics/49116db7b95befdabb207ccbd2bb94b6.png", NTV | CL
-https://marine2.miplay.cl/ntv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1015" tvg-name="Planetatv Kids" tvg-logo="https://www.m3u.cl/logo/1015_Planetatv_Kids.png", Planetatv Kids
-
 
 #EXTINF:-1 logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="INFANTIL",CARTOON NETWORK - TV5 SR REGIO
 http://177.93.46.163:8000/play/a00d
