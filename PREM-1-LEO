@@ -166,12 +166,17 @@ http://200.59.188.3:8000/play/a01d
 http://45.4.85.214:58001/play/a04l
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/discovery-kids/images/a/a3/2021-act.png/revision/latest?cb=20210608141228&path-prefix=es" group-title="INFANTIL",DISCOVERY KIDS - TV10 SR REGIO
 http://45.166.92.22:58001/play/a04y/index.m3u8
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_nickelodeon_m.png" group-title="INFANTIL",NICK - TV2 SR REGIO
-http://181.78.105.146:2000/play/a014/index.m3u8
-#EXTINF:-1 tvg-shift="-3"  group-title="TV4", Nick SIM HD
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_nickelodeon_m.png" group-title="INFANTIL",NICK SIM S1 - TV4 SR REGIO
 http://204.157.251.250:8001/play/a02p/index.m3u8
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_nickelodeon_m.png" group-title="INFANTIL",NICK S2 - TV2 SR REGIO
+http://181.78.105.146:2000/play/a014/index.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_nickelodeon_m.png" group-title="INFANTIL",NICK OPC 2 - TV2 SR REGIO
-
+#EXTINF:-1 tvg-shift="-3"  group-title="TV5", Nickelodeon
+http://177.93.46.163:8000/play/a004
+#EXTINF:-1 group-title="TV6", Nick SIM HD
+http://45.228.234.167:8000/play/a039/index.m3u8
+#EXTINF:-1 group-title="TV6", Nickelodeon
+http://45.228.234.167:8000/play/a03u/index.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_nickelodeon_m.png" group-title="INFANTIL",NICK OPC 3 - TV2 SR REGIO
 
 #EXTINF:-1 logo="https://res.cloudinary.com/clearlink/image/upload/v1589303475/Dish/images/isolated/~png-logo-exports-for-channel-page-hero/TeenNick-Default-Color_2x_hh2xrm.png" group-title="INFANTIL",TEEN NIC - TV2 SR REGIO
