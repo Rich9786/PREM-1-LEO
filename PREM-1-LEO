@@ -813,6 +813,14 @@ https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
 http://clubtv.link/S1009/key4513/android0.php?c=771&token=TecnotvSep1209sep
 #EXTINF:-1 tvg-id="476" tvg-name="WOW TV" tvg-logo="https://pbs.twimg.com/profile_images/1349375373788774400/zlbSACeu_400x400.jpg", TELEFE - LIS
 http://clubtv.link/S1009/key4513/lista.php?c=771&token=TecnotvSep1209sep
+#EXTINF:-1 tvg-id="476" tvg-name="WOW TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxFmf_CHz6sHxIUfEDcLUKfcobjy_Y8x72ahAa4o48mWzJUfxdDUiUAQ81-PC4IeDVsuE&usqp=CAU",CANAL 7 HD TELE TICA - TV4 SR REGIO
+http://204.157.251.250:8001/play/a001/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="Mundo", Caracol - TV5 SR REGIO
+http://177.93.46.163:8000/play/a01n
+#EXTINF:-1 logo="https://files.lafm.com.co/assets/public/Canal-RCN.jpg" group-title="ENTRETENIMIENTO",RCN - TV5 SR REGIO
+http://177.93.46.163:8000/play/a01o
+#EXTINF:-1 logo="https://www.nicepng.com/png/detail/229-2293888_canal-uno-with-slogan-aqu-todos-somos-uno.png" group-title="ENTRETENIMIENTO",CANAL UNO - TV5 SR REGIO
+http://177.93.46.163:8000/play/a01l
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/eltrecechile.png" nada="Chile" group-title="TV PREMIUM",Canal Trece CHILE - TV5 SR REGIO
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/eltrecechile.png" nada="Chile" group-title="TV PREMIUM",Canal Trece CHILE - ANDR 5
