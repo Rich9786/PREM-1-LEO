@@ -32,14 +32,16 @@ https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8?PlaylistM3U
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO",CANAL 5 - TV6 SR REGIO
 http://181.78.105.146:2000/play/a038/index.m3u8
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO",CANAL 5 - ANDR 0
-
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO",CANAL 5 - ANDR 5
-
+http://clubtv.link/OcT1110/key4513/android5.php?c=465&token=TecnotvSep26092400|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO",CANAL 5 HD - ANDR 0
-
+http://clubtv.link/OcT1110/key4513/android0.php?c=941&token=TecnotvGenoc14522147855632541
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO",CANAL 5 HD - LIS
+http://clubtv.link/OcT1110/key4513/lista.php?c=941&token=TecnotvGenoc14522147855632541
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO",CANAL 5 - ANDR 0
+http://clubtv.link/OcT1110/key4513/android0.php?c=14&token=TecnotvGenoc14522147855632541
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO",CANAL 5 - LIS
-http://clubtv.link/OcT1110/key4513/lista.php?c=a038&token=TecnotvGenoc
+http://clubtv.link/OcT1110/key4513/lista.php?c=14&token=TecnotvGenoc14522147855632541
 #EXTINF:-1 logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Multimedios-TV-Canal-6-en-vivo-Online.png" group-title="MEXICO",MULTIMEDIOS MTY - FLUX
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?fluxustv.m3u8
 #EXTINF:-1 logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Multimedios-TV-Canal-6-en-vivo-Online.png" group-title="MEXICO",MULTIMEDIOS 6 MTY - TV6 SR REGIO
@@ -77,7 +79,7 @@ http://181.78.105.146:2000/play/a03a/index.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png" group-title="MEXICO",ONCE - ANDR 7
 
 #EXTINF:-1 logo="https://www.diarioconstitucional.cl/wp-content/uploads/2021/06/logo-tv.jpg" group-title="ENTRETENIMIENTO",TV MAS - ANDR 5
-
+http://clubtv.link/OcT1110/key4513/android5.php?c=815&token=TecnotvSep26092400|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 tvg-id="98123" tvg-name="Canal Catorce" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_Canal_14_M%C3%A9xico.svg/640px-Logo_Canal_14_M%C3%A9xico.svg.png", Canal Catorce - TV6 SR REGIO
 http://181.78.105.146:2000/play/a044/index.m3u8
 #EXTINF:-1 tvg-id="98123" tvg-name="Canal Catorce" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_Canal_14_M%C3%A9xico.svg/640px-Logo_Canal_14_M%C3%A9xico.svg.png", Canal Catorce - ANDR 2
@@ -233,33 +235,49 @@ http://clubtv.link/OcT1110/key4513/lista3.php?c=a02v&token=TecnotvSep26092400&f=
 #EXTINF:-1 logo="https://i.imgur.com/lND6DKt.png" group-title="INFANTIL",TOONCAST HD - LIS 6
 http://clubtv.link/OcT1110/key4513/lista6.php?c=a0hm&token=TecnotvSep26092400&f=.m3u8
 #EXTINF:-1 logo="https://ih1.redbubble.net/image.202100413.9876/raf,750x1000,075,t,FFFFFF:97ab1c12de.u5.jpg" group-title="24/7",Cantinflas - ANDR 0
-http://clubtv.link/OcT1110/key4513/android0.php?c=428&token=TecnotvGenoc
+http://clubtv.link/OcT1110/key4513/android0.php?c=428&token=TecnotvGenoc14522147855632541
 #EXTINF:-1 logo="https://ih1.redbubble.net/image.202100413.9876/raf,750x1000,075,t,FFFFFF:97ab1c12de.u5.jpg" group-title="24/7",Cantinflas - ANDR 5 
-http://clubtv.link/OcT1110/key4513/android5.php?c=953&token=TecnotvSep26092400|User-Agent=Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg
+http://clubtv.link/OcT1110/key4513/android5.php?c=953&token=TecnotvSep26092400|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1 logo="https://ih1.redbubble.net/image.202100413.9876/raf,750x1000,075,t,FFFFFF:97ab1c12de.u5.jpg" group-title="24/7",Cantinflas - LIS
+http://clubtv.link/OcT1110/key4513/lista.php?c=428&token=TecnotvGenoc14522147855632541
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1368172942224457729/dvGvfa2L_400x400.jpg" group-title="24/7",El Gallo Claudio - ANDR 0
-http://clubtv.link/OcT1110/key4513/android0.php?c=845&token=TecnotvGenoc
+http://clubtv.link/OcT1110/key4513/android0.php?c=845&token=TecnotvGenoc14522147855632541
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1368172942224457729/dvGvfa2L_400x400.jpg" group-title="24/7",El Gallo Claudio - ANDR 5
-http://clubtv.link/OcT1110/key4513/android5.php?c=1005&token=TecnotvSep26092400|User-Agent=Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg
+http://clubtv.link/OcT1110/key4513/android5.php?c=1005&token=TecnotvSep26092400|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1368172942224457729/dvGvfa2L_400x400.jpg" group-title="24/7",El Gallo Claudio - LIS
+http://clubtv.link/OcT1110/key4513/lista.php?c=845&token=TecnotvGenoc14522147855632541
+#EXTINF:-1 logo="https://http2.mlstatic.com/D_NQ_NP_109311-MLA20527673495_122015-O.jpg" group-title="24/7", LA PANTERA ROSA - ANDR 5
+http://clubtv.link/OcT1110/key4513/android5.php?c=1024&token=TecnotvSep26092400|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="http://pm1.narvii.com/6054/a2cf24f51368fc7313fe4c8b4d8a052f3a1f23f6_00.jpg" group-title="24/7",Looney Tunes - ANDR 0
-http://clubtv.link/OcT1110/key4513/android0.php?c=524&token=TecnotvGenoc
+http://clubtv.link/OcT1110/key4513/android0.php?c=524&token=TecnotvGenoc14522147855632541
 #EXTINF:-1 logo="http://pm1.narvii.com/6054/a2cf24f51368fc7313fe4c8b4d8a052f3a1f23f6_00.jpg" group-title="24/7",Looney Tunes - ANDR 5
-http://clubtv.link/OcT1110/key4513/android5.php?c=1034&token=TecnotvSep26092400|User-Agent=Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg
+http://clubtv.link/OcT1110/key4513/android5.php?c=1034&token=TecnotvSep26092400|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1 logo="http://pm1.narvii.com/6054/a2cf24f51368fc7313fe4c8b4d8a052f3a1f23f6_00.jpg" group-title="24/7",Looney Tunes - LIS
+http://clubtv.link/OcT1110/key4513/lista.php?c=524&token=TecnotvGenoc14522147855632541
 #EXTINF:-1 tvg-id="" tvg-name="Tom y Jerry" tvg-logo="http://51.222.152.107:81/posters/1610694158427.jpg" group-title="24/7",Tom y Jerry - ANDR 0
-http://clubtv.link/OcT1110/key4513/android0.php?c=421&token=TecnotvGenoc
+http://clubtv.link/OcT1110/key4513/android0.php?c=421&token=TecnotvGenoc14522147855632541
 #EXTINF:-1 tvg-id="" tvg-name="Tom y Jerry" tvg-logo="http://51.222.152.107:81/posters/1610694158427.jpg" group-title="24/7",Tom y Jerry - ANDR 5
-http://clubtv.link/OcT1110/key4513/android5.php?c=1100&token=TecnotvSep26092400|User-Agent=Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg
+http://clubtv.link/OcT1110/key4513/android5.php?c=1100&token=TecnotvSep26092400|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1 tvg-id="" tvg-name="Tom y Jerry" tvg-logo="http://51.222.152.107:81/posters/1610694158427.jpg" group-title="24/7",Tom y Jerry - LIS
+http://clubtv.link/OcT1110/key4513/lista.php?c=421&token=TecnotvGenoc14522147855632541
 #EXTINF:-1 logo="https://imagenes.expreso.ec/files/image_800_600/uploads/2021/04/28/6089e3c7433e9.png" group-title="24/7", Los picapiedra - ANDR 0
-http://clubtv.link/OcT1110/key4513/android0.php?c=669&token=TecnotvGenoc
+http://clubtv.link/OcT1110/key4513/android0.php?c=669&token=TecnotvGenoc14522147855632541
 #EXTINF:-1 logo="https://imagenes.expreso.ec/files/image_800_600/uploads/2021/04/28/6089e3c7433e9.png" group-title="24/7", Los picapiedra - ANDR 5
-http://clubtv.link/OcT1110/key4513/android5.php?c=1037&token=TecnotvSep26092400|User-Agent=Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg
+http://clubtv.link/OcT1110/key4513/android5.php?c=1100&token=TecnotvSep26092400|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1 logo="https://imagenes.expreso.ec/files/image_800_600/uploads/2021/04/28/6089e3c7433e9.png" group-title="24/7", Los picapiedra - LIS
+http://clubtv.link/OcT1110/key4513/lista.php?c=421&token=TecnotvGenoc14522147855632541
 #EXTINF:-1 logo="https://images.hive.blog/p/PB8ro82ZpZP35bVGjGoE93K3E4U5KX8KtMBJ2rhrS8qWMRULPVNAxd49CCqL66e5oQ1vCPFrxfvTpJFaW9Q6iYiAmy2Utwq41hurukzDbU2yJNz2?format=match&mode=fit" group-title="24/7", PINKY y CEREBRO - ANDR 0
-http://clubtv.link/OcT1110/key4513/android0.php?c=721&token=TecnotvGenoc
+http://clubtv.link/OcT1110/key4513/android0.php?c=721&token=TecnotvGenoc14522147855632541
 #EXTINF:-1 logo="https://images.hive.blog/p/PB8ro82ZpZP35bVGjGoE93K3E4U5KX8KtMBJ2rhrS8qWMRULPVNAxd49CCqL66e5oQ1vCPFrxfvTpJFaW9Q6iYiAmy2Utwq41hurukzDbU2yJNz2?format=match&mode=fit" group-title="24/7", PINKY y CEREBRO - ANDR 5
-http://clubtv.link/OcT1110/key4513/android5.php?c=1067&token=TecnotvSep26092400|User-Agent=Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg
+http://clubtv.link/OcT1110/key4513/android5.php?c=1067&token=TecnotvSep26092400|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1 logo="https://images.hive.blog/p/PB8ro82ZpZP35bVGjGoE93K3E4U5KX8KtMBJ2rhrS8qWMRULPVNAxd49CCqL66e5oQ1vCPFrxfvTpJFaW9Q6iYiAmy2Utwq41hurukzDbU2yJNz2?format=match&mode=fit" group-title="24/7", PINKY y CEREBRO - LIS
+http://clubtv.link/OcT1110/key4513/lista.php?c=721&token=TecnotvGenoc14522147855632541
 #EXTINF:-1 tvg-id="" tvg-name="Scooby Doo" tvg-logo="http://51.222.152.107:81/posters/1610693962405.jpg" group-title="24/7",Scooby Doo - ANDR 0
-http://clubtv.link/OcT1110/key4513/android0.php?c=422&token=TecnotvGenoc
+http://clubtv.link/OcT1110/key4513/android0.php?c=422&token=TecnotvGenoc14522147855632541
 #EXTINF:-1 tvg-id="" tvg-name="Scooby Doo" tvg-logo="http://51.222.152.107:81/posters/1610693962405.jpg" group-title="24/7",Scooby Doo - ANDR 5
-http://clubtv.link/OcT1110/key4513/android5.php?c=1081&token=TecnotvSep26092400|User-Agent=Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg
+http://clubtv.link/OcT1110/key4513/android5.php?c=1081&token=TecnotvSep26092400|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1 tvg-id="" tvg-name="Scooby Doo" tvg-logo="http://51.222.152.107:81/posters/1610693962405.jpg" group-title="24/7",Scooby Doo - LIS
+http://clubtv.link/OcT1110/key4513/lista.php?c=422&token=TecnotvGenoc14522147855632541
 #EXTINF:-1 logo="https://www.latercera.com/resizer/VVzHKMrD-jH2UFZfnE9s-Cyv_D4=/1023x682/smart/cloudfront-us-east-1.images.arcpublishing.com/copesa/NNHASRIGRRBYRABSIP3HGH5U4A.jpg" group-title="INFANTIL",CARTOONITO (BOOMERANG) - TV6 SR REGIO
 
 #EXTINF:-1 logo="https://www.latercera.com/resizer/VVzHKMrD-jH2UFZfnE9s-Cyv_D4=/1023x682/smart/cloudfront-us-east-1.images.arcpublishing.com/copesa/NNHASRIGRRBYRABSIP3HGH5U4A.jpg" group-title="INFANTIL",CARTOONITO (BOOMERANG) - TV9 SR REGIO
@@ -303,9 +321,11 @@ http://45.4.85.214:58001/play/a00p
 #EXTINF:-1 logo="https://i.imgur.com/9FOKuui.jpg" group-title="INFANTIL",DISNEY JR - TV10 SR REGIO
 
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1347112024925474817/FsTxCmRL_400x400.jpg" group-title="INFANTIL",BIT ME - ANDR 0
-
+http://clubtv.link/OcT1110/key4513/android0.php?c=946&token=TecnotvGenoc14522147855632541
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1347112024925474817/FsTxCmRL_400x400.jpg" group-title="INFANTIL",BIT ME - ANDR 5
-
+http://clubtv.link/OcT1110/key4513/android5.php?c=464&token=TecnotvSep26092400|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1347112024925474817/FsTxCmRL_400x400.jpg" group-title="INFANTIL",BIT ME - LIS 
+http://clubtv.link/OcT1110/key4513/lista.php?c=946&token=TecnotvGenoc14522147855632541
 #EXTINF:-1 tvg-logo="https://imgur.com/RRNQ7jI.png" group-title="DISTRO TV",Chiquilines - | US
 
 #EXTINF:-1 tvg-id="1335" tvg-name="VariedTV" tvg-logo="https://i.paste.pics/afb90bf11a606a30ee4294c8b32cf9e4.png", VariedTV | AR
