@@ -576,7 +576,7 @@ http://190.149.66.90:4000/play/a02e/index.m3u8
 #EXTINF:-1 logo="https://images-na.ssl-images-amazon.com/images/I/619apfg5DDL.png" group-title="MUNDO Y CULTURA",DW - CL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 logo="https://images-na.ssl-images-amazon.com/images/I/619apfg5DDL.png" group-title="MUNDO Y CULTURA",DW - ANDR 5
-http://clubtv.link/OcT1110/key4513/android5.php?c=1134&token=TecnotvSep26092400|User-Agent=Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg
+http://clubtv.link/OcT1110/key4513/android5.php?c=1134&token=TecnotvSep26092400|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 #EXTINF:-1 logo="https://images-na.ssl-images-amazon.com/images/I/619apfg5DDL.png" group-title="MUNDO Y CULTURA",DW - ANDR 5
 
 #EXTINF:-1 logo="https://images-na.ssl-images-amazon.com/images/I/619apfg5DDL.png" group-title="MUNDO Y CULTURA",DW - ANDR 7
@@ -1587,8 +1587,10 @@ http://clubtv.link/OcT1110/key4513/android2.php?c=ch57&token=TecnotvSep26092400
 http://200.59.188.3:8000/play/a043
 #EXTINF:-1 logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_5692_7_22692.png.e5fe062660250e2df713bdb2d0a8c40b.png" group-title="CINE",CLARO CINEMA - TV2 SR REGIO
 
-#EXTINF:-1 logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_5692_7_22692.png.e5fe062660250e2df713bdb2d0a8c40b.png" group-title="CINE",CLARO CINEMA - ANDR 2
-
+#EXTINF:-1 logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_5692_7_22692.png.e5fe062660250e2df713bdb2d0a8c40b.png" group-title="CINE",CLARO CINEMA - ANDR 4
+http://clubtv.link/OcT1110/key4513/android4.php?c=a045&token=TecnotvSep26092400
+#EXTINF:-1 logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_5692_7_22692.png.e5fe062660250e2df713bdb2d0a8c40b.png" group-title="CINE",CLARO CINEMA - LIS 3
+http://clubtv.link/OcT1110/key4513/lista3.php?c=a039&token=TecnotvSep26092400&f=.m3u8
 #EXTINF:-1 logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_5692_7_22692.png.e5fe062660250e2df713bdb2d0a8c40b.png" group-title="CINE",CLARO CINEMA - LIS 6
 
 #EXTINF:-1 logo="https://dws.compradish.com/sites/compradish.com/pages/images/logo-ch-azteca-cinema.png" group-title="CINE",AZ CINEMA - ANDR 5
