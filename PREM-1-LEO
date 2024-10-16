@@ -795,7 +795,7 @@ http://clubtv.link/oco1410/key4513/lista6.php?c=a2jq&token=TecnotvSep26092400&f=
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/960px-Logo_UniM%C3%A1s.svg.png" group-title="ENTRETENIMIENTO",UNIMAS - ANDR 0
 http://clubtv.link/oco1410/key4513/android0.php?c=144&token=TecnotvOCO
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/960px-Logo_UniM%C3%A1s.svg.png" group-title="ENTRETENIMIENTO",UNIMAS - ANDR 5
-http://clubtv.link/oco1410/key4513/android5.php?c=819&token=TecnotvSep26092400|User-Agent=Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/960px-Logo_UniM%C3%A1s.svg.png" group-title="ENTRETENIMIENTO",UNIMAS - ANDR 6
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="ENTRETENIMIENTO",ESTRELLA TV
@@ -803,14 +803,13 @@ https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="ENTRETENIMIENTO",ESTRELLA TV - ANDR 0
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="ENTRETENIMIENTO",ESTRELLA TV - ANDR 5
-http://clubtv.link/oco1410/key4513/android5.php?c=1125&token=TecnotvSep26092400|User-Agent=Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg
+
 #EXTINF:-1 logo="https://tvbix.com/images/channels/nbc-universo.png" group-title="ENTRETENIMIENTO",UNIVERSO - TV4 SR REGIO
 
 #EXTINF:-1 logo="https://tvbix.com/images/channels/nbc-universo.png" group-title="ENTRETENIMIENTO",UNIVERSO - ANDR 0
 http://clubtv.link/oco1410/key4513/android0.php?c=1537&token=TecnotvOCO
 #EXTINF:-1 logo="https://tvbix.com/images/channels/nbc-universo.png" group-title="ENTRETENIMIENTO",UNIVERSO - ANDR 5
-http://clubtv.link/oco1410/key4513/android5.php?c=850&token=TecnotvSep26092400|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-#EXTINF:-1 logo="https://tvbix.com/images/channels/nbc-universo.png" group-title="ENTRETENIMIENTO",UNIVERSO - LIS
+
 http://clubtv.link/oco1410/key4513/lista.php?c=1537&token=TecnotvOCO
 #EXTINF:-1 logo="https://img-tomatazos.buscafs.com/148952/148952_945x532.jpg" group-title="24/7", EL CHAPULIN COLORADO - ANDR 0
 
@@ -3956,29 +3955,11 @@ http://158.69.226.108:8000/live/Vfjjjhj/Djdkfk/1642.ts
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.emisoras.com/upload/radio_logo/16/3_1447268604_alfa-963.jpg" group-title="C-AUDIO", Alfa Fm 96.3 FM
 http://radioonline.netgate.com.uy:8000/alfafm
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", Concierto (88.5 FM)
-http://19793.live.streamtheworld.com/CONCIERTOAAC.aac
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", Radio La Voz De Yungay (102.7 FM Ñuble)
-http://stream5.eltelon.com/archi-yungay.aac?type=.flv
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", Futuro (88.9 FM)
-http://19793.live.streamtheworld.com/FUTUROAAC.aac
-
 #EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", Radio Entretenida FM (92.5 FM Vilcun)
 http://atanua.broadcastchile.cl:7000/;
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", Radio Genesis (96.5 FM Curacautin)
-http://stream5.eltelon.com/genesis.aac
-
 #EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", Radio Carnaval Antofagasta (96.5 FM)
 http://sonando.us.digitalproserver.com/carnaval_antofagasta.aac
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", Radio San Bartolome (96.7 FM La Serena)
-http://stream5.eltelon.com/san-bartolome.aac
-
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", Radio Sol (97.7 FM Antofagasta)(Alt)
-http://stream5.eltelon.com/sol-radio.aac
 
 #EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", Radio Festiva (100.9 FM Copiapo)
 http://s6.jcwebnew.com:8070/;
@@ -3995,8 +3976,6 @@ http://relay2.181.fm:8128/;?type=.flv
 #EXTINF:0 type="stream" tvg-logo="https://goo.gl/TBKbAm" , RADIO LATINA 101.1
 http://streaming.latina101.com.ar:8080/RadioLatina
 
-#EXTINF:0 type="stream" tvg-logo="http://www.radiosfmam.com.ar/logo/9/6/fmpasion.jpg" , Pasion 102.7
-http://streamlky.alsolnet.com:443/fmpasion?type=.flv&var=1468372921349R48
 
 
 =======================================================================================================================================
@@ -4005,7 +3984,7 @@ http://streamlky.alsolnet.com:443/fmpasion?type=.flv&var=1468372921349R48
 #EXTINF:0 tvg-logo="https://dashradio-files.s3.amazonaws.com/SPECIALBANNERS_APP_WEB/chacha_NEW.png" group-title="- DASH RADIO",Island of Chacha
 https://ice55.securenetsystems.net/DASH95
 
-#EXTINF:0 tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/YOUNGMONEY%20/YM_324.png" group-title="- DASH RADIO",Young Money
+#EXTINF:0 tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/YOUNGMONEY%20/YM_324.png" group-title="- DASH RADIO",Young Money (Country)
 https://ice55.securenetsystems.net/DASH82
 
 #EXTINF:0 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/CadilaccMusic.png" group-title="- DASH RADIO",Cadillacc Music
@@ -4050,7 +4029,7 @@ https://ice55.securenetsystems.net/DASH78
 #EXTINF:0 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Subdustrial.png" group-title="- DASH RADIO",Subdustrial
 https://ice55.securenetsystems.net/DASH25
 
-#EXTINF:0 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/iphone6plus/SKKENET/SKEENET-Color.png" group-title="- DASH RADIO",SKEENET
+#EXTINF:0 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/iphone6plus/SKKENET/SKEENET-Color.png" group-title="- DASH RADIO",SKEENET - REGGAE
 https://ice55.securenetsystems.net/DASH74
 
 #EXTINF:0 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/WhatTheFunk.png" group-title="- DASH RADIO",What The Funk
@@ -4146,7 +4125,7 @@ https://ice55.securenetsystems.net/DASH71
 #EXTINF:0 tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/ALMIGHTYBALLERS/baller_324.png" group-title="- DASH RADIO",Almighty Baller Radio
 https://ice55.securenetsystems.net/DASH96
 
-#EXTINF:0 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Cool.png" group-title="- DASH RADIO",Cool
+#EXTINF:0 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Cool.png" group-title="- DASH RADIO",Cool Jazz Balada
 https://ice55.securenetsystems.net/DASH6
 
 #EXTINF:0 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/IslandBlock.png" group-title="- DASH RADIO",Island Block
@@ -4167,7 +4146,7 @@ https://ice55.securenetsystems.net/DASH12
 #EXTINF:0 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/RedCup.png" group-title="- DASH RADIO",Red Cup
 https://ice55.securenetsystems.net/DASH35
 
-#EXTINF:0 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/YG.png" group-title="- DASH RADIO",YG Presents
+#EXTINF:0 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/YG.png" group-title="- DASH RADIO",YG Presents KPOP
 https://ice55.securenetsystems.net/DASH28
 
 #EXTINF:0 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/TheBridge.png" group-title="- DASH RADIO",The Bridge Smooth Jazz
