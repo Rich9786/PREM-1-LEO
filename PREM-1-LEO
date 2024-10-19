@@ -1809,7 +1809,10 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-ono/play
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://imgur.com/iO3mkwW.png" group-title="DISTRO TV",Full HD - LIS 1
 
-
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/Gmnvh9I.png" group-title="CINE Y SERIES",RunTime
+http://200.59.188.3:8000/play/a0fr
+#EXTINF:-1 tvg-id="CineRomantico.us" tvg-logo="https://i.imgur.com/FUrrDrb.png" group-title="Movies",Cine Romantico - INDEX GENBETA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 
  
 #EXTINF:-1 logo="https://www.newslinereport.com/online/nota_space-estrena-la-serie-zoo-.jpg" group-title="CINE Y SERIES",SPACE MX S1 - TV6 SR REGIO 
@@ -1912,8 +1915,8 @@ http://clubtv.link/OC181024/key4513/lista6.php?c=a0e3&token=TecnotvSep26092400&f
 
 #EXTINF:-1 logo="https://www.newslinereport.com/online/nota_paramount-channel-expande-su-distribucin-a-travs-de-claro.jpg" group-title="CINE",PARAMOUNT CHANNEL HD - TV10 SR REGIO
 
-#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es" group-title="CINE",SONY CINE - ANDR 2
-
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es" group-title="CINE",SONY CINE - INDEX GENBETA
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es" group-title="CINE",SONY CINE - ANDR 7
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN2AHJWFWRvFOLKubN_vc5YfIMVUYRfq2JoxJh-FYTegTB-X4-oLJs9I-3VCuIVl9iBEU&usqp=CAU" group-title="CINE",SONY COMEDIAS - ANDR 4
@@ -1964,8 +1967,8 @@ http://45.4.85.214:58001/play/a03o
 
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/277-2770658_transparent-starz-png-starz-encore-suspense-logo-png.png" group-title="Peliculas",Starz Encore Suspense - ANDR 1
 
-#EXTINF:-1 tvg-id="1420" tvg-name="Terror TV" tvg-logo="https://cdn.m3u.cl/logo/1420_Terror_TV.png", Terror TV | TOP CL
-
+#EXTINF:-1 tvg-id="1420" tvg-name="Terror TV" tvg-logo="https://cdn.m3u.cl/logo/1420_Terror_TV.png", CINE Terror - INDEX GENBETA
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e001-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c0a34186-d9cb-4907-882c-bf61e4d59e0f
 #EXTINF:-1 logo="https://uspto.report/TM/90216993/mark.png" group-title="CINE Y SERIES",HORRORFY - TOP CL
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8?PlaylistM3UCL
 
@@ -2091,7 +2094,7 @@ http://158.69.226.108:8000/live/Vfjjjhj/Djdkfk/1640.ts
 
 
 #EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/Gmnvh9I.png" group-title="CINE Y SERIES",RunTime
-http://200.59.188.3:8000/play/a0fr
+
 #EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/S3qCgKW.png" group-title="CINE Y SERIES",Familia
 
 #EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/uRMHvKV.png" group-title="CINE Y SERIES",Comedia
