@@ -599,7 +599,7 @@ http://45.4.85.214:58001/play/a022
 http://clubtv.link/081124n/key4513/lista6.php?c=a0gn&token=TecnoGen051365487&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/768px-Sun_Channel_logo.svg.png" group-title="MEXICO",Sun Channel - TV2 SR REGIO
 http://190.149.66.90:4000/play/a02e/index.m3u8
-#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/929125236141731841/u-mpHnWU_400x400.jpg" group-title="MUSICA",Concert Channel - ANDR 3
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1520063208391942146/fIOiM2V4_400x400.jpg" group-title="MUSICA",Concert Channel - ANDR 3
 http://clubtv.link/081124n/key4513/android3.php?c=a0a1&token=TecnoGen051365487
 #EXTINF:-1 logo="https://images-na.ssl-images-amazon.com/images/I/619apfg5DDL.png" group-title="MUNDO Y CULTURA",DW - CL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?PlaylistM3UCL
@@ -3164,7 +3164,7 @@ http://158.69.226.108:8000/live/Vfjjjhj/Djdkfk/1642.ts
 
 #EXTINF:-1 logo="https://thumbs.dreamstime.com/b/ejemplo-creativo-del-dise%C3%B1o-s%C3%ADmbolo-texto-flash-de-la-letra-124559109.jpg" group-title="MUSICA",FLASH - TV
 
-#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/929125236141731841/u-mpHnWU_400x400.jpg" group-title="MUSICA",Concert Channel - ANDR 3
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1520063208391942146/fIOiM2V4_400x400.jpg" group-title="MUSICA",Concert Channel - ANDR 3
 http://clubtv.link/081124n/key4513/android3.php?c=a0a1&token=TecnoGen051365487
 #EXTINF:-1 logo="https://1.bp.blogspot.com/-IPFY-GqGtX4/X00fOJ4MOsI/AAAAAAAAAfI/h9kSvx_pLSMl8g3ukbPZDdxN_wR5563EwCLcBGAsYHQ/s1600/nickmusic%2Btvlaint.jpg" group-title="INFANTIL",NIC MUSIC - GEO MR-1
 
