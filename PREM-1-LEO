@@ -2098,6 +2098,11 @@ http://200.59.188.3:8000/play/a06m
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="==== CANALES CINE ====" tvg-logo="https://img.freepik.com/vector-gratis/fondo-pelicula-cine-palomitas-maiz-tira-pelicula-tablilla-entradas-fondo-tiempo-pelicula_41737-248.jpg?size=626&ext=jpg" group-title="Cine",== CINE 24/7 ==
+http://158.69.226.108:8000/live/Vfjjjhj/Djdkfk/1640.ts
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="==== VIX ====" tvg-logo="https://vix.com/seo/vix_default.jpg" group-title="VIX",== VIX CINE Y SERIES ==
 http://158.69.226.108:8000/live/Vfjjjhj/Djdkfk/1640.ts
 
