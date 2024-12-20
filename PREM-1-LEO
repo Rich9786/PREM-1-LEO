@@ -1984,6 +1984,22 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8?PlaylistM3UCL
 
 
+
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_hbo-signature_m.png" group-title="CINE",HBO Signature - ANDR 5
+http://clubtv.link/1612dici/phpcode/android5.php?c=642&token=TecnoGenerador10154|User-Agent=Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_hbo-signature_m.png" group-title="CINE",HBO Signature HD - ANDR 5
+
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_hbo-signature_m.png" group-title="CINE",HBO Signature HD - ANDR 0
+
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_hbo-signature_m.png" group-title="CINE",HBO Signature HD - ANDR 5
+
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_hbo-signature_m.png" group-title="CINE",HBO Signature - ANDR 4
+
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_hbo-signature_m.png" group-title="CINE",HBO Signature - ANDR 5
+
+
+
+
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max_m.png" group-title="CINE",HBO Mundi - ANDR 0
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max_m.png" group-title="CINE",HBO Mundi - LIS
@@ -1998,21 +2014,23 @@ http://clubtv.link/1612dici/phpcode/lista.php?c=64&token=TecnotvGen11321448879&f
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png" group-title="CINE",HBO Xtreme - TV4 SR REGIO
 http://177.93.46.163:8000/play/a00o
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png" group-title="CINE",HBO Xtreme - TV6 SR REGIO
-
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png" group-title="CINE",HBO Xtreme HD - TV8 SR REGIO
-
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png" group-title="CINE",HBO Xtreme HD - TV9 SR REGIO
-
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png" group-title="CINE",HBO Xtreme HD - TV10 SR REGIO
-
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png" group-title="CINE",HBO Xtreme - LIS
+http://clubtv.link/1612dici/phpcode/lista.php?c=814&token=TecnotvGen11321448879&f=.m3u8
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png" group-title="CINE",HBO Xtreme HD - ANDR 4
+http://clubtv.link/1612dici/phpcode/android4.php?c=a00p&token=TecnoGenerador10154
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png" group-title="CINE",HBO Xtreme - ANDR 5
+http://clubtv.link/1612dici/phpcode/android5.php?c=647&token=TecnoGenerador10154|User-Agent=Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png" group-title="CINE",HBO Xtreme HD - ANDR 5
+http://clubtv.link/1612dici/phpcode/android5.php?c=650&token=TecnoGenerador10154|User-Agent=Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png" group-title="CINE",HBO Xtreme - ANDR 6
+http://clubtv.link/1612dici/phpcode/android6.php?c=a0eg&token=TecnoGenerador10154
 
 
 
 #EXTINF:-1 logo="https://iconape.com/wp-content/png_logo_vector/hbo-pop.png" group-title="CINE",HBO POP HD - TV8 SR REGIO
 http://200.59.188.3:8000/play/a00m
-#EXTINF:-1 logo="https://iconape.com/wp-content/png_logo_vector/hbo-pop.png" group-title="CINE",HBO POP - ANDR 5 
-
+#EXTINF:-1 logo="https://iconape.com/wp-content/png_logo_vector/hbo-pop.png" group-title="CINE",HBO POP - LIS
+http://clubtv.link/1612dici/phpcode/lista.php?c=977&token=TecnotvGen11321448879&f=.m3u8
 #EXTINF:-1 logo="https://iconape.com/wp-content/png_logo_vector/hbo-pop.png" group-title="CINE",HBO POP HD - ANDR 0
 
 #EXTINF:-1 logo="https://iconape.com/wp-content/png_logo_vector/hbo-pop.png" group-title="CINE",HBO POP HD - ANDR 5
@@ -2022,16 +2040,18 @@ http://200.59.188.3:8000/play/a00m
 
 #EXTINF:-1 logo="https://i.pinimg.com/originals/38/dc/17/38dc175da482ae589a0de7c44d21f849.png" group-title="CINE",HBO - TV4 SR REGIO
 http://177.93.46.163:8000/play/a01z
-#EXTINF:-1 logo="https://i.pinimg.com/originals/38/dc/17/38dc175da482ae589a0de7c44d21f849.png" group-title="CINE",HBO HD - TV6 SR REGIO
-
-#EXTINF:-1 logo="https://i.pinimg.com/originals/38/dc/17/38dc175da482ae589a0de7c44d21f849.png" group-title="CINE",HBO - TV8 SR REGIO
-http://200.59.188.3:8000/play/a03r
 #EXTINF:-1 logo="https://i.pinimg.com/originals/38/dc/17/38dc175da482ae589a0de7c44d21f849.png" group-title="CINE",HBO HD - TV8 SR REGIO
-
-#EXTINF:-1 logo="https://i.pinimg.com/originals/38/dc/17/38dc175da482ae589a0de7c44d21f849.png" group-title="CINE",HBO - TV9 SR REGIO
-
-#EXTINF:-1 logo="https://i.pinimg.com/originals/38/dc/17/38dc175da482ae589a0de7c44d21f849.png" group-title="CINE",HBO HD - TV9 SR REGIO
-
+http://200.59.188.3:8000/play/a03r
+#EXTINF:-1 logo="https://i.pinimg.com/originals/38/dc/17/38dc175da482ae589a0de7c44d21f849.png" group-title="CINE",HBO - LIS
+http://clubtv.link/1612dici/phpcode/lista.php?c=62&token=TecnotvGen11321448879&f=.m3u8
+#EXTINF:-1 logo="https://i.pinimg.com/originals/38/dc/17/38dc175da482ae589a0de7c44d21f849.png" group-title="CINE",HBO - ANDR 5
+http://clubtv.link/1612dici/phpcode/android5.php?c=621&token=TecnoGenerador10154|User-Agent=Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg
+#EXTINF:-1 logo="https://i.pinimg.com/originals/38/dc/17/38dc175da482ae589a0de7c44d21f849.png" group-title="CINE",HBO HD - ANDR 6
+http://clubtv.link/1612dici/phpcode/android6.php?c=a0h7&token=TecnoGenerador10154
+#EXTINF:-1 logo="https://i.pinimg.com/originals/38/dc/17/38dc175da482ae589a0de7c44d21f849.png" group-title="CINE",HBO - ANDR 4
+http://clubtv.link/1612dici/phpcode/android4.php?c=a00l&token=TecnoGenerador10154
+#EXTINF:-1 logo="https://i.pinimg.com/originals/38/dc/17/38dc175da482ae589a0de7c44d21f849.png" group-title="CINE",HBO HD - ANDR 5
+http://clubtv.link/1612dici/phpcode/android5.php?c=625&token=TecnoGenerador10154|User-Agent=Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg
 #EXTINF:-1 logo="https://i.pinimg.com/originals/38/dc/17/38dc175da482ae589a0de7c44d21f849.png" group-title="CINE",HBO HD - TV10 SR REGIO
 
 
@@ -2046,6 +2066,21 @@ http://177.93.46.163:8000/play/a00m
 
 #EXTINF:-1 logo="https://brandslogos.com/wp-content/uploads/images/large/hbo-logo-1.png" group-title="CINE",HBO 2 HD S2 - TV8 SR REGIO
 http://200.59.188.3:8000/play/a027
+#EXTINF:-1 logo="https://brandslogos.com/wp-content/uploads/images/large/hbo-logo-1.png" group-title="CINE",HBO 2 - LIS
+http://clubtv.link/1612dici/phpcode/lista.php?c=300&token=TecnotvGen11321448879&f=.m3u8
+#EXTINF:-1 logo="https://brandslogos.com/wp-content/uploads/images/large/hbo-logo-1.png" group-title="CINE",HBO 2 HD - LIS
+http://clubtv.link/1612dici/phpcode/lista.php?c=732&token=TecnotvGen11321448879&f=.m3u8
+#EXTINF:-1 logo="https://brandslogos.com/wp-content/uploads/images/large/hbo-logo-1.png" group-title="CINE",HBO 2 HD - ANDR 1
+http://clubtv.link/1612dici/phpcode/android1.php?c=a041&token=TecnoGenerador10154
+#EXTINF:-1 logo="https://brandslogos.com/wp-content/uploads/images/large/hbo-logo-1.png" group-title="CINE",HBO 2 HD - ANDR 4
+http://clubtv.link/1612dici/phpcode/android4.php?c=a00m&token=TecnoGenerador10154
+#EXTINF:-1 logo="https://brandslogos.com/wp-content/uploads/images/large/hbo-logo-1.png" group-title="CINE",HBO 2 - ANDR 5
+http://clubtv.link/1612dici/phpcode/android5.php?c=627&token=TecnoGenerador10154|User-Agent=Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg
+#EXTINF:-1 logo="https://brandslogos.com/wp-content/uploads/images/large/hbo-logo-1.png" group-title="CINE",HBO 2 HD - ANDR 5
+http://clubtv.link/1612dici/phpcode/android5.php?c=629&token=TecnoGenerador10154|User-Agent=Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg
+#EXTINF:-1 logo="https://brandslogos.com/wp-content/uploads/images/large/hbo-logo-1.png" group-title="CINE",HBO 2 HD - ANDR 6
+http://clubtv.link/1612dici/phpcode/android6.php?c=a0ee&token=TecnoGenerador10154
+
 
 
 
@@ -2055,51 +2090,45 @@ http://200.59.188.3:8000/play/a027
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE",HBO Family - TV4 SR REGIO
 http://177.93.46.163:8000/play/a00p
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE",HBO Family HD - TV6 SR REGIO
-
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE",HBO Family HD - TV8 SR REGIO
-
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE",HBO Family - TV9 SR REGIO
-
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE",HBO Family HD - TV9 SR REGIO
-
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE",HBO Family - LIS
+http://clubtv.link/1612dici/phpcode/lista.php?c=63&token=TecnotvGen11321448879&f=.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE",HBO Family HD - LIS
+http://clubtv.link/1612dici/phpcode/lista.php?c=968&token=TecnotvGen11321448879&f=.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE",HBO Family HD - ANDR 4
+http://clubtv.link/1612dici/phpcode/android4.php?c=a00o&token=TecnoGenerador10154
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE",HBO Family - ANDR 5
+http://clubtv.link/1612dici/phpcode/android5.php?c=632&token=TecnoGenerador10154|User-Agent=Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE",HBO Family HD - ANDR 5
+http://clubtv.link/1612dici/phpcode/android5.php?c=636&token=TecnoGenerador10154|User-Agent=Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE",HBO Family HD - ANDR 6
+http://clubtv.link/1612dici/phpcode/android1.php?c=a04u&token=TecnoGenerador10154
 
 
 
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE",HBO plus - TV4 SR REGIO
 http://177.93.46.163:8000/play/a00n
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE",HBO plus HD - TV6 SR REGIO
-
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE",HBO plus HD - TV8 SR REGIO
 http://200.59.188.3:8000/play/a06m
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE",HBO plus - TV9 SR REGIO
-
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE",HBO plus HD - TV9 SR REGIO
-
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE",HBO plus HD - TV10 SR REGIO
-
-
-
-
-
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_hbo-signature_m.png" group-title="CINE",HBO Signature - ANDR 5
-
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_hbo-signature_m.png" group-title="CINE",HBO Signature HD - ANDR 5
-
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_hbo-signature_m.png" group-title="CINE",HBO Signature HD - ANDR 0
-
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_hbo-signature_m.png" group-title="CINE",HBO Signature HD - ANDR 5
-
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_hbo-signature_m.png" group-title="CINE",HBO Signature - ANDR 4
-
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_hbo-signature_m.png" group-title="CINE",HBO Signature - ANDR 5
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE",HBO plus - LIS
+http://clubtv.link/1612dici/phpcode/lista.php?c=64&token=TecnotvGen11321448879&f=.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE",HBO plus HD - LIS
+http://clubtv.link/1612dici/phpcode/lista.php?c=655&token=TecnotvGen11321448879&f=.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE",HBO plus HD - ANDR 4
+http://clubtv.link/1612dici/phpcode/android4.php?c=a00n&token=TecnoGenerador10154
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE",HBO plus - ANDR 5
+http://clubtv.link/1612dici/phpcode/android5.php?c=637&token=TecnoGenerador10154|User-Agent=Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE",HBO plus HD - ANDR 5
+http://clubtv.link/1612dici/phpcode/android5.php?c=640&token=TecnoGenerador10154|User-Agent=Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE",HBO plus HD - ANDR 6
+http://clubtv.link/1612dici/phpcode/android6.php?c=a0ef&token=TecnoGenerador10154
 
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="==== CANALES CINE ====" tvg-logo="https://img.freepik.com/vector-gratis/fondo-pelicula-cine-palomitas-maiz-tira-pelicula-tablilla-entradas-fondo-tiempo-pelicula_41737-248.jpg?size=626&ext=jpg" group-title="Cine",== CINE 24/7 ==
 http://158.69.226.108:8000/live/Vfjjjhj/Djdkfk/1640.ts
+
 
 
 
