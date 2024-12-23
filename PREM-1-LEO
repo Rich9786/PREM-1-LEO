@@ -1374,16 +1374,20 @@ https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8?PlaylistM3UCL
 http://clubtv.link/D2012/phpcode/esp.php?c=126246
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJI5DmIqVwETZojOXilx8mz46z0E5r2mdnkLuMlFw7UHSdrgmM2lsSd_7H8ndQF9iMU2M&usqp=CAU" group-title="MUNDO Y CULTURA",MOVISTAR DRAMA OPC 2 - ESP
 http://clubtv.link/D2012/phpcode/esp.php?c=126279
-#EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel HD S1 - TV8 SR REGIO
-http://200.59.188.3:8000/play/a01g
-#EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel S2 - TV4 SR REGIO
+#EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel HD S1 - TV4 SR REGIO
 http://177.93.46.163:8000/play/a00b
-#EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel S2 - TV8 SR REGIO
-
-#EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel HD S2 OPC 2 - TV8 SR REGIO
-
-#EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel HD S2 - TV8 SR REGIO
-http://200.59.188.3:8000/play/a02v
+#EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel S1 - ANDR 6
+http://clubtv.link/D2012/phpcode/android6.php?c=a0dt&token=TecnoGenerador10154
+#EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel HD S2 - LIS
+http://clubtv.link/D2012/phpcode/lista.php?c=489&token=TecnoGenerador231224&f=.m3u8
+#EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel S2 - LIS
+http://clubtv.link/D2012/phpcode/lista.php?c=45&token=TecnoGenerador231224&f=.m3u8
+#EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel S2 - ANDR 5
+http://clubtv.link/D2012/phpcode/android5.php?c=588&token=TecnoGenerador10154|User-Agent=Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg
+#EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel HD S3 - ANDR 4
+http://clubtv.link/D2012/phpcode/android4.php?c=a046&token=TecnoGenerador10154
+#EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel S3 - ANDR 4
+http://clubtv.link/D2012/phpcode/android4.php?c=a053&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel HD S2 - TV9 SR REGIO
 
 #EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel HD S2 - TV10 SR REGIO
