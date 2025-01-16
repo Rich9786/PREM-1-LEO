@@ -33,13 +33,13 @@ http://181.78.105.146:2000/play/a038/index.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO",CANAL 5 - ANDR 0
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO",CANAL 5 HD - ANDR 0
-http://clubtv.link/1104ene/phpcode/android0.php?c=941&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/android0.php?c=941&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO",CANAL 5 - ANDR 0
-http://clubtv.link/1104ene/phpcode/android0.php?c=14&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/android0.php?c=14&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO",CANAL 5 HD - LIS
-http://clubtv.link/1104ene/phpcode/lista.php?c=941&token=TecnoTV14011111144g&f=.m3u8
+http://clubtv.link/1104ene/phpcode/lista.php?c=941&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO",CANAL 5 - LIS
-http://clubtv.link/1104ene/phpcode/lista.php?c=14&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/lista.php?c=14&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/Multimedios-TV-Canal-6-en-vivo-Online.png?resize=696%2C392&ssl=1" group-title="MEXICO",MULTIMEDIOS MTY - FLUX
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?fluxustv.m3u8
 #EXTINF:-1 logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/Multimedios-TV-Canal-6-en-vivo-Online.png?resize=696%2C392&ssl=1" group-title="MEXICO",MULTIMEDIOS 6 MTY - TV6 SR REGIO
@@ -235,47 +235,47 @@ http://clubtv.link/1104ene/phpcode/lista6.php?c=a0hm&token=TecnoGenerador10154&f
 #EXTINF:-1 logo="https://ih1.redbubble.net/image.202100413.9876/raf,750x1000,075,t,FFFFFF:97ab1c12de.u5.jpg" group-title="24/7",Cantinflas - ANDR 0
 
 #EXTINF:-1 logo="https://ih1.redbubble.net/image.202100413.9876/raf,750x1000,075,t,FFFFFF:97ab1c12de.u5.jpg" group-title="24/7",Cantinflas - ANDR 0 
-http://clubtv.link/1104ene/phpcode/android0.php?c=428&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/android0.php?c=428&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://ih1.redbubble.net/image.202100413.9876/raf,750x1000,075,t,FFFFFF:97ab1c12de.u5.jpg" group-title="24/7",Cantinflas - LIS
-http://clubtv.link/1104ene/phpcode/lista.php?c=428&token=TecnoTV14011111144&f=.m3u8
+
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1368172942224457729/dvGvfa2L_400x400.jpg" group-title="24/7",El Gallo Claudio - ANDR 0
 
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1368172942224457729/dvGvfa2L_400x400.jpg" group-title="24/7",El Gallo Claudio - ANDR 0
-http://clubtv.link/1104ene/phpcode/android0.php?c=845&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/android0.php?c=845&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1368172942224457729/dvGvfa2L_400x400.jpg" group-title="24/7",El Gallo Claudio - LIS
-http://clubtv.link/1104ene/phpcode/lista.php?c=845&token=TecnoTV14011111144&f=.m3u8
+
 #EXTINF:-1 logo="https://http2.mlstatic.com/D_NQ_NP_109311-MLA20527673495_122015-O.jpg" group-title="24/7", LA PANTERA ROSA - ANDR 5
 
 #EXTINF:-1 logo="http://pm1.narvii.com/6054/a2cf24f51368fc7313fe4c8b4d8a052f3a1f23f6_00.jpg" group-title="24/7",Looney Tunes - ANDR 0
-
+http://clubtv.link/1104ene/phpcode/android0.php?c=524&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="http://pm1.narvii.com/6054/a2cf24f51368fc7313fe4c8b4d8a052f3a1f23f6_00.jpg" group-title="24/7",Looney Tunes - ANDR 0
-http://clubtv.link/1104ene/phpcode/android0.php?c=524&token=TecnoTV14011111144&f=.m3u8
+
 #EXTINF:-1 logo="http://pm1.narvii.com/6054/a2cf24f51368fc7313fe4c8b4d8a052f3a1f23f6_00.jpg" group-title="24/7",Looney Tunes - LIS
-http://clubtv.link/1104ene/phpcode/lista.php?c=524&token=TecnoTV14011111144&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tom y Jerry" tvg-logo="http://51.222.152.107:81/posters/1610694158427.jpg" group-title="24/7",Tom y Jerry - ANDR 0
 
 #EXTINF:-1 tvg-id="" tvg-name="Tom y Jerry" tvg-logo="http://51.222.152.107:81/posters/1610694158427.jpg" group-title="24/7",Tom y Jerry - ANDR 0
-http://clubtv.link/1104ene/phpcode/android0.php?c=421&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/android0.php?c=421&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-id="" tvg-name="Tom y Jerry" tvg-logo="http://51.222.152.107:81/posters/1610694158427.jpg" group-title="24/7",Tom y Jerry - ANDR 0
+
 #EXTINF:-1 tvg-id="" tvg-name="Tom y Jerry" tvg-logo="http://51.222.152.107:81/posters/1610694158427.jpg" group-title="24/7",Tom y Jerry - LIS
-http://clubtv.link/1104ene/phpcode/lista.php?c=421&token=TecnoTV14011111144&f=.m3u8
+
 #EXTINF:-1 logo="https://imagenes.expreso.ec/files/image_800_600/uploads/2021/04/28/6089e3c7433e9.png" group-title="24/7", Los picapiedra - ANDR 0
 
 #EXTINF:-1 logo="https://imagenes.expreso.ec/files/image_800_600/uploads/2021/04/28/6089e3c7433e9.png" group-title="24/7", Los picapiedra - ANDR 0
-http://clubtv.link/1104ene/phpcode/android0.php?c=421&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/android0.php?c=669&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://imagenes.expreso.ec/files/image_800_600/uploads/2021/04/28/6089e3c7433e9.png" group-title="24/7", Los picapiedra - LIS
-http://clubtv.link/1104ene/phpcode/lista.php?c=421&token=TecnoTV14011111144&f=.m3u8
+
 #EXTINF:-1 logo="https://images.hive.blog/p/PB8ro82ZpZP35bVGjGoE93K3E4U5KX8KtMBJ2rhrS8qWMRULPVNAxd49CCqL66e5oQ1vCPFrxfvTpJFaW9Q6iYiAmy2Utwq41hurukzDbU2yJNz2?format=match&mode=fit" group-title="24/7", PINKY y CEREBRO - ANDR 0
 
 #EXTINF:-1 logo="https://images.hive.blog/p/PB8ro82ZpZP35bVGjGoE93K3E4U5KX8KtMBJ2rhrS8qWMRULPVNAxd49CCqL66e5oQ1vCPFrxfvTpJFaW9Q6iYiAmy2Utwq41hurukzDbU2yJNz2?format=match&mode=fit" group-title="24/7", PINKY y CEREBRO - ANDR 0
-http://clubtv.link/1104ene/phpcode/android0.php?c=721&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/android0.php?c=721&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://images.hive.blog/p/PB8ro82ZpZP35bVGjGoE93K3E4U5KX8KtMBJ2rhrS8qWMRULPVNAxd49CCqL66e5oQ1vCPFrxfvTpJFaW9Q6iYiAmy2Utwq41hurukzDbU2yJNz2?format=match&mode=fit" group-title="24/7", PINKY y CEREBRO - LIS
-http://clubtv.link/1104ene/phpcode/lista.php?c=721&token=TecnoTV14011111144&f=.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Scooby Doo" tvg-logo="http://51.222.152.107:81/posters/1610693962405.jpg" group-title="24/7",Scooby Doo - ANDR 0
 
 #EXTINF:-1 tvg-id="" tvg-name="Scooby Doo" tvg-logo="http://51.222.152.107:81/posters/1610693962405.jpg" group-title="24/7",Scooby Doo - ANDR 0
-http://clubtv.link/1104ene/phpcode/android0.php?c=422&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/android0.php?c=422&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-id="" tvg-name="Scooby Doo" tvg-logo="http://51.222.152.107:81/posters/1610693962405.jpg" group-title="24/7",Scooby Doo - LIS
-http://clubtv.link/1104ene/phpcode/lista.php?c=422&token=TecnoTV14011111144&f=.m3u8
+
 #EXTINF:-1 logo="https://www.latercera.com/resizer/VVzHKMrD-jH2UFZfnE9s-Cyv_D4=/1023x682/smart/cloudfront-us-east-1.images.arcpublishing.com/copesa/NNHASRIGRRBYRABSIP3HGH5U4A.jpg" group-title="INFANTIL",CARTOONITO (BOOMERANG) - TV6 SR REGIO
 
 #EXTINF:-1 logo="https://www.latercera.com/resizer/VVzHKMrD-jH2UFZfnE9s-Cyv_D4=/1023x682/smart/cloudfront-us-east-1.images.arcpublishing.com/copesa/NNHASRIGRRBYRABSIP3HGH5U4A.jpg" group-title="INFANTIL",CARTOONITO (BOOMERANG) - TV9 SR REGIO
@@ -321,9 +321,9 @@ http://200.59.188.3:8000/play/a06p
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1347112024925474817/FsTxCmRL_400x400.jpg" group-title="INFANTIL",BIT ME - ANDR 0
 
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1347112024925474817/FsTxCmRL_400x400.jpg" group-title="INFANTIL",BIT ME - ANDR 0
-http://clubtv.link/1104ene/phpcode/android0.php?c=946&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/android0.php?c=946&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1347112024925474817/FsTxCmRL_400x400.jpg" group-title="INFANTIL",BIT ME - LIS 
-http://clubtv.link/1104ene/phpcode/lista.php?c=946&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/lista.php?c=946&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="https://imgur.com/RRNQ7jI.png" group-title="DISTRO TV",Chiquilines - | US
 
 #EXTINF:-1 tvg-id="1335" tvg-name="VariedTV" tvg-logo="https://i.paste.pics/afb90bf11a606a30ee4294c8b32cf9e4.png", VariedTV | AR
@@ -387,9 +387,9 @@ http://181.78.105.146:2000/play/a04y/index.m3u8
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Universal_Crime_2021.png/revision/latest?cb=20220102014712&path-prefix=es" group-title="SERIES Y CINE",UNIVERSAL CRIME - TV6 SR REGIO
 
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Universal_Crime_2021.png/revision/latest?cb=20220102014712&path-prefix=es" group-title="SERIES Y CINE",UNIVERSAL CRIME S1 - ANDR 0
-http://clubtv.link/1104ene/phpcode/android0.php?c=904&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/android0.php?c=904&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Universal_Crime_2021.png/revision/latest?cb=20220102014712&path-prefix=es" group-title="SERIES Y CINE",UNIVERSAL CRIME S1 - LIS 
-http://clubtv.link/1104ene/phpcode/lista.php?c=904&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/lista.php?c=904&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Universal_Crime_2021.png/revision/latest?cb=20220102014712&path-prefix=es" group-title="SERIES Y CINE",UNIVERSAL CRIME HD S2 - ANDR 5
 
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Universal_Crime_2021.png/revision/latest?cb=20220102014712&path-prefix=es" group-title="SERIES Y CINE",UNIVERSAL CRIME S2 - ANDR 5
@@ -453,9 +453,9 @@ http://200.59.188.3:8000/play/a02t
 #EXTINF:-1 logo="https://mms.businesswire.com/media/20160221005252/es/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="MUNDO Y CULTURA",Love Nature HD - LIS 8
 
 #EXTINF:-1 logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/76c1f7bf76617738201aa7ad7ca01972.webp" group-title="MUNDO Y CULTURA",NATURE TIME (Nat Geo Wild) - ANDR 0
-http://clubtv.link/1104ene/phpcode/android0.php?c=77&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/android0.php?c=77&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/76c1f7bf76617738201aa7ad7ca01972.webp" group-title="MUNDO Y CULTURA",NATURE TIME (Nat Geo Wild) - LIS
-http://clubtv.link/1104ene/phpcode/lista.php?c=77&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/lista.php?c=77&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Caza-pesca_m%2B.png" group-title="MUNDO Y CULTURA",Caza y Pesca - ESP
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Caza-pesca_m%2B.png" group-title="MUNDO Y CULTURA",Caza y Pesca - ESP 2
@@ -469,13 +469,13 @@ http://clubtv.link/1104ene/phpcode/esp.php?c=18576
 #EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",HISTORY CHANNEL S1 - TV6 SR REGIO 
 http://181.78.105.146:2000/play/a017/index.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",HISTORY CHANNEL S1 OPC 1- ANDR 0
-http://clubtv.link/1104ene/phpcode/android0.php?c=642&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/android0.php?c=642&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",HISTORY CHANNEL S1 OPC 1- LIS
-http://clubtv.link/1104ene/phpcode/lista.php?c=642&token=TecnoTV14011111144&f=.m3u8
-#EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",HISTORY CHANNEL S1 OPC 2- ANDR 0
-http://clubtv.link/1104ene/phpcode/android0.php?c=67&token=TecnoTV14011111144&f=.m3u8
-#EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",HISTORY CHANNEL S1 OPC 2- LIS 
-http://clubtv.link/1104ene/phpcode/lista.php?c=67&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/lista.php?c=642&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",HISTORY CHANNEL S2 OPC 2- ANDR 0
+http://clubtv.link/1104ene/phpcode/android0.php?c=67&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",HISTORY CHANNEL S2 OPC 2- LIS 
+http://clubtv.link/1104ene/phpcode/lista.php?c=67&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",HISTORY CHANNEL S2 - TV SR REGIO
 
 #EXTINF:-1 logo="https://i.imgur.com/J897iGL.jpg" group-title="MUNDO Y CULTURA",HISTORY CHANNEL HD S2 - TV8 SR REGIO
