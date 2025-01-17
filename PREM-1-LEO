@@ -1650,12 +1650,12 @@ http://clubtv.link/1104ene/phpcode/lista4.php?c=a0j5&token=TecnotvGen00030030003
 http://clubtv.link/1104ene/phpcode/android2.php?c=ch51&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://seeklogo.com/images/D/de-pelicula-logo-F97A15125D-seeklogo.com.png" group-title="CINE",DE PELICULA - TV SR REGIO
 
-#EXTINF:-1 logo="https://seeklogo.com/images/D/de-pelicula-logo-F97A15125D-seeklogo.com.png" group-title="CINE",DE PELICULA - ANDR 2
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/2/22/De_Pel%C3%ADcula_2003-2011.png/revision/latest?cb=20191216004334&path-prefix=es" group-title="CINE",DE PELICULA - ANDR 2
 http://clubtv.link/1104ene/phpcode/android2.php?c=ch57&token=TecnoGenerador10154
-#EXTINF:-1 logo="https://seeklogo.com/images/D/de-pelicula-logo-F97A15125D-seeklogo.com.png" group-title="CINE",DE PELICULA OPC 2 - ANDR 0
-
-#EXTINF:-1 logo="https://seeklogo.com/images/D/de-pelicula-logo-F97A15125D-seeklogo.com.png" group-title="CINE",DE PELICULA OPC 1 - ANDR 5
-
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7TBgADZKE0pu3bZaMW7JGF1g5Dxfr4YSS6w&s" group-title="CINE",DE PELICULA HD - ANDR 0
+http://clubtv.link/1104ene/phpcode/android0.php?c=481&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 logo="https://seeklogo.com/images/D/de-pelicula-logo-F97A15125D-seeklogo.com.png" group-title="CINE",DE PELICULA HD - LIS
+http://clubtv.link/1104ene/phpcode/lista.php?c=481&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://seeklogo.com/images/D/de-pelicula-logo-F97A15125D-seeklogo.com.png" group-title="CINE",DE PELICULA OPC 2 - ANDR 5
 
 #EXTINF:-1 logo="https://1000marcas.net/wp-content/uploads/2022/01/De-Pelicula-Plus-Logo.png" group-title="CINE",DE PELICULA PLUS OPC 1 - ANDR 0
