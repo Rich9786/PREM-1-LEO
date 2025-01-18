@@ -2236,93 +2236,95 @@ http://158.69.226.108:8000/live/Vfjjjhj/Djdkfk/1640.ts
 
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Accion ᵸᴰ - ANDR 0
-http://clubtv.link/1104ene/phpcode/android0.php?c=1022&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/android0.php?c=1022&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Accion ᵸᴰ - LIS
-http://clubtv.link/1104ene/phpcode/lista.php?c=1022&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/lista.php?c=1022&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Accion Sagas - ANDR 0
-http://clubtv.link/1104ene/phpcode/android0.php?c=700&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/android0.php?c=700&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Accion Sagas - LIS
-http://clubtv.link/1104ene/phpcode/lista.php?c=700&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/lista.php?c=700&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Accion Sagas ᵸᴰ - ANDR 0
-http://clubtv.link/1104ene/phpcode/android0.php?c=707&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/android0.php?c=707&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Accion Sagas ᵸᴰ - LIS
-http://clubtv.link/1104ene/phpcode/lista.php?c=707&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/lista.php?c=707&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Comedia - ANDR 0
-http://clubtv.link/1104ene/phpcode/android0.php?c=695&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/android0.php?c=695&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Comedia - LIS
-http://clubtv.link/1104ene/phpcode/lista.php?c=695&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/lista.php?c=695&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Comedia 2 - ANDR 0
-http://clubtv.link/1104ene/phpcode/android0.php?c=696&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/android0.php?c=696&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Comedia 2 - LIS
-http://clubtv.link/1104ene/phpcode/lista.php?c=696&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/lista.php?c=696&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Comedia 2 ᵸᴰ - ANDR 0
-http://clubtv.link/1104ene/phpcode/android0.php?c=915&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/android0.php?c=915&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Comedia 2 ᵸᴰ - LIS
-http://clubtv.link/1104ene/phpcode/lista.php?c=915&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/lista.php?c=915&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Ficcion/Fantasia - ANDR 0
-http://clubtv.link/1104ene/phpcode/android0.php?c=709&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/android0.php?c=709&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Ficcion/Fantasia - LIS
-http://clubtv.link/1104ene/phpcode/lista.php?c=709&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/lista.php?c=709&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Ficcion/Fantasia 2 - ANDR 0
-http://clubtv.link/1104ene/phpcode/android0.php?c=710&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/android0.php?c=710&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Ficcion/Fantasia 2 - LIS
-http://clubtv.link/1104ene/phpcode/lista.php?c=710&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/lista.php?c=710&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Ficcion/Fantasia ᵸᴰ - ANDR 0
-http://clubtv.link/1104ene/phpcode/android0.php?c=712&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/android0.php?c=712&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Ficcion/Fantasia ᵸᴰ - LIS
-http://clubtv.link/1104ene/phpcode/lista.php?c=712&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/lista.php?c=712&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Infantil ᵸᴰ - ANDR 0
-http://clubtv.link/1104ene/phpcode/android0.php?c=702&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/android0.php?c=702&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Infantil ᵸᴰ - LIS
-http://clubtv.link/1104ene/phpcode/lista.php?c=702&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/lista.php?c=702&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Infantil Sagas - ANDR 0
-http://clubtv.link/1104ene/phpcode/android0.php?c=694&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/android0.php?c=694&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Infantil Sagas - LIS
-http://clubtv.link/1104ene/phpcode/lista.php?c=694&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/lista.php?c=694&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Infantil Sagas ᵸᴰ - ANDR 0
-http://clubtv.link/1104ene/phpcode/android0.php?c=703&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/android0.php?c=703&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Infantil Sagas ᵸᴰ - LIS
-http://clubtv.link/1104ene/phpcode/lista.php?c=703&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/lista.php?c=703&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Marvel ᵸᴰ - ANDR 0
-http://clubtv.link/1104ene/phpcode/android0.php?c=701&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/android0.php?c=701&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Marvel ᵸᴰ - LIS
-http://clubtv.link/1104ene/phpcode/lista.php?c=701&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/lista.php?c=701&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Romance - ANDR 0
-http://clubtv.link/1104ene/phpcode/android0.php?c=689&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/android0.php?c=689&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Romance - LIS
-http://clubtv.link/1104ene/phpcode/lista.php?c=689&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/lista.php?c=689&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Romance 2 ᵸᴰ - ANDR 0
-http://clubtv.link/1104ene/phpcode/android0.php?c=1023&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/android0.php?c=1023&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Romance 2 ᵸᴰ - LIS
-http://clubtv.link/1104ene/phpcode/lista.php?c=1023&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/lista.php?c=1023&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Romance ᵸᴰ - ANDR 0
-http://clubtv.link/1104ene/phpcode/android0.php?c=705&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/android0.php?c=705&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Romance ᵸᴰ - LIS
-http://clubtv.link/1104ene/phpcode/lista.php?c=705&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/lista.php?c=705&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Terror - ANDR 0
-http://clubtv.link/1104ene/phpcode/android0.php?c=693&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/android0.php?c=693&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Terror - LIS
-http://clubtv.link/1104ene/phpcode/lista.php?c=693&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/lista.php?c=693&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Terror 2 ᵸᴰ - ANDR 0
-http://clubtv.link/1104ene/phpcode/android0.php?c=913&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/android0.php?c=913&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Terror 2 ᵸᴰ - LIS
-http://clubtv.link/1104ene/phpcode/lista.php?c=913&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/lista.php?c=913&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Terror ᵸᴰ - ANDR 0
-http://clubtv.link/1104ene/phpcode/android0.php?c=704&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/android0.php?c=704&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Terror ᵸᴰ - LIS
-http://clubtv.link/1104ene/phpcode/lista.php?c=704&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/lista.php?c=704&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Terror Sagas ᵸᴰ - ANDR 0
-http://clubtv.link/1104ene/phpcode/android0.php?c=1550&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/android0.php?c=1550&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Terror Sagas ᵸᴰ - LIS
-http://clubtv.link/1104ene/phpcode/lista.php?c=1550&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/lista.php?c=1550&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Zombis - ANDR 0
-http://clubtv.link/1104ene/phpcode/android0.php?c=688&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/android0.php?c=688&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Zombis - LIS
-http://clubtv.link/1104ene/phpcode/lista.php?c=688&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/lista.php?c=688&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Zombis ᵸᴰ - ANDR 0
-http://clubtv.link/1104ene/phpcode/android0.php?c=917&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/android0.php?c=917&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="TV PREMIUM", Cine Zombis ᵸᴰ - LIS
-http://clubtv.link/1104ene/phpcode/lista.php?c=917&token=TecnoTV14011111144&f=.m3u8
+http://clubtv.link/1104ene/phpcode/lista.php?c=917&token=TecnoTV14011111144&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+
+
 
 
 
