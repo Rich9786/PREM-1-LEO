@@ -3306,13 +3306,14 @@ http://127.0.0.1
 
 
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ye3ckSd.png" group-title="USA",Edge Sport
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6f6Gsgg.png" group-title="USA",Nitro Circus
-
-#EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="Algeria",Abu Dhabi Sports 1 (1080p)
-
+#EXTINF:-1 logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png" group-title="DEPORTES",CLARO SPORTS 1 HD - ANDR 3
+http://clubtv.link/25ENE/phpcode/android3.php?c=a00h&token=TecnoGenerador10154
+#EXTINF:-1 logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png" group-title="DEPORTES",CLARO SPORTS 1 HD - ANDR 4
+http://clubtv.link/25ENE/phpcode/android4.php?c=a00h&token=TecnoGenerador10154
+#EXTINF:-1 logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png" group-title="DEPORTES",CLARO SPORTS 2 HD - ANDR 3
+http://clubtv.link/25ENE/phpcode/android3.php?c=a00i&token=TecnoGenerador10154
+#EXTINF:-1 logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png" group-title="DEPORTES",CLARO SPORTS 2 HD - ANDR 4
+http://clubtv.link/25ENE/phpcode/android4.php?c=a00i&token=TecnoGenerador10154
 
 
 
