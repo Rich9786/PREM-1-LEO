@@ -973,7 +973,7 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?Playl
 #EXTINF:-1 tvg-id="1325" tvg-name="MDA TV" tvg-logo="https://i.paste.pics/390e8afd04db0d795943f7ae351094fe.png", MDA TV | VE
 https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1325" tvg-name="MDA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/LOGOS-CANAL-TRO-2022.png",CANAL TRO - TV4 SR REGIO
-http://177.93.46.163:8000/play/a01u
+
 #EXTINF:-1 tvg-id="1325" tvg-name="MDA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/LOGOS-CANAL-TRO-2022.png",CANAL TRO - ANDR 2
 http://clubtv.link/25ENE/phpcode/android2.php?c=ch68&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://www.diarioconstitucional.cl/wp-content/uploads/2021/06/logo-tv.jpg" group-title="ENTRETENIMIENTO",TV+ HD - TV5 SR REGIO
@@ -991,6 +991,30 @@ http://clubtv.link/25ENE/phpcode/android2.php?c=ch68&token=TecnoGenerador10154
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJxy5LRrXJkBZDPvVrdilqfg0SDtaliye0gKZ4LlVS0ghdwfCSVvlF4sLza2J-bOnyiws&usqp=CAU" nada="Chile" group-title="TV PREMIUM",TC TELEVISION - ANDR 5
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeQnJb6ABBwvzEXqyzwCaOrIp_rn7Vi_dzXg&usqp=CAU" group-title="ENTRETENIMIENTO",Mundo & Sabor HD - TV5 SR REGIO
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Canal-21.png" group-title="ENTRETENIMIENTO",CANAL 21 ESA - ANDR 3
+http://clubtv.link/25ENE/phpcode/android3.php?c=a04w&token=TecnoGenerador10154
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Canal-21.png" group-title="ENTRETENIMIENTO",CANAL 21 ESA - ANDR 4
+http://clubtv.link/25ENE/phpcode/android4.php?c=a04w&token=TecnoGenerador10154
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_11_Guatemala.png" group-title="ENTRETENIMIENTO",CANAL 11 GUA - ANDR 3
+http://clubtv.link/25ENE/phpcode/android3.php?c=a02a&token=TecnoGenerador10154
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_11_Guatemala.png" group-title="ENTRETENIMIENTO",CANAL 11 GUA - ANDR 4
+http://clubtv.link/25ENE/phpcode/android4.php?c=a02a&token=TecnoGenerador10154
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9A3z89EaGRC5sjVimYdxBTx0JQPnafzwoWA&s" group-title="ENTRETENIMIENTO",CANAL 13 GUA - ANDR 3
+http://clubtv.link/25ENE/phpcode/android3.php?c=a029&token=TecnoGenerador10154
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9A3z89EaGRC5sjVimYdxBTx0JQPnafzwoWA&s" group-title="ENTRETENIMIENTO",CANAL 13 GUA - ANDR 4
+http://clubtv.link/25ENE/phpcode/android4.php?c=a029&token=TecnoGenerador10154
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_11_Guatemala.png" group-title="ENTRETENIMIENTO",CANAL
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_11_Guatemala.png" group-title="ENTRETENIMIENTO",CANAL
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_11_Guatemala.png" group-title="ENTRETENIMIENTO",CANAL
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_11_Guatemala.png" group-title="ENTRETENIMIENTO",CANAL
+
+
+
+
 
 
 
@@ -2041,10 +2065,10 @@ http://clubtv.link/25ENE/phpcode/android0.php?c=18&token=TecnoTVplustv3336598896
 
 #EXTINF:-1 logo="https://thedailytelevision.com/sites/default/files/notas/imagenes/1sgrxzqa_400x400.jpg" group-title="CINE Y SERIES",CINECANAL HD - ANDR 0
 http://clubtv.link/25ENE/phpcode/android0.php?c=479&token=TecnoTVplustv3336598896&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 logo="https://thedailytelevision.com/sites/default/files/notas/imagenes/1sgrxzqa_400x400.jpg" group-title="CINE Y SERIES",CINECANAL HD - LIS
-
-#EXTINF:-1 logo="https://thedailytelevision.com/sites/default/files/notas/imagenes/1sgrxzqa_400x400.jpg" group-title="CINE Y SERIES",CINECANAL HD - TV9 SR REGIO
-
+#EXTINF:-1 logo="https://thedailytelevision.com/sites/default/files/notas/imagenes/1sgrxzqa_400x400.jpg" group-title="CINE Y SERIES",CINECANAL HD - ANDR 3
+http://clubtv.link/25ENE/phpcode/android3.php?c=a049&token=TecnoGenerador10154
+#EXTINF:-1 logo="https://thedailytelevision.com/sites/default/files/notas/imagenes/1sgrxzqa_400x400.jpg" group-title="CINE Y SERIES",CINECANAL HD - ANDR 4
+http://clubtv.link/25ENE/phpcode/android4.php?c=a049&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://thedailytelevision.com/sites/default/files/notas/imagenes/1sgrxzqa_400x400.jpg" group-title="CINE Y SERIES",CINECANAL HD - TV10 SR REGIO
 
 #EXTINF:-1 logo="https://i.imgur.com/ZYa2gUW.jpg" group-title="CINE",CINEMAX S1 - TV8 SR REGIO
@@ -3152,6 +3176,10 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="CNNChile.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/tNxumYO.png" group-title="Chile",CNN Chile - TV5 SR REGIO
 
+#EXTINF:-1 tvg-id="CNNChile.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/CNN_LATINO.svg/200px-CNN_LATINO.svg.png" group-title="Chile",CNN EN ESPAÑOL - ANDR 3
+http://clubtv.link/25ENE/phpcode/android3.php?c=a01k&token=TecnoGenerador10154
+#EXTINF:-1 tvg-id="CNNChile.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/CNN_LATINO.svg/200px-CNN_LATINO.svg.png" group-title="Chile",CNN EN ESPAÑOL - ANDR 4
+http://clubtv.link/25ENE/phpcode/android4.php?c=a01k&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://canvas-bridge02.tubitv.com/VoMMUc_9BCqDnZsBubLmtwU-2yQ=/400x574/smart/img.adrise.tv/f725f8b2-df97-4334-a835-6de89475b912.png" group-title="ENTRETENIMIENTO",ESTRELLA NEWS - GEO
 https://estrella-news-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 logo="https://www.tvdigitaldivide.it/wp-content/uploads/2023/03/rai-news-24-hd-16-marzo-2023.jpg" group-title="NOTICIAS",RAI NEW 24 HD - ANDR 9
