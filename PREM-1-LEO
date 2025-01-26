@@ -754,14 +754,16 @@ http://200.59.188.3:8000/play/a02h
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdt4XRhHlfKDKlOzuYR1-_8-rNXTOT41VXIQ&s" group-title="SERIES Y CINE",CLAN (ES) - ESP
 http://clubtv.link/25ENE/phpcode/esp.php?c=2565
-#EXTINF:-1 logo="https://yt3.googleusercontent.com/ytc/AOPolaS4dCt0-dWZaHtmO1K1-vSDDdIsDNMBvVX-TSqX=s900-c-k-c0x00ffffff-no-rj" group-title="ENTRETENIMIENTO",CANAL CLARO HD - TV8 SR REGIO
+#EXTINF:-1 logo="https://yt3.googleusercontent.com/ytc/AOPolaS4dCt0-dWZaHtmO1K1-vSDDdIsDNMBvVX-TSqX=s900-c-k-c0x00ffffff-no-rj" group-title="ENTRETENIMIENTO",CANAL CLARO - TV8 SR REGIO
 http://200.59.188.3:8000/play/a07t
+#EXTINF:-1 logo="https://yt3.googleusercontent.com/ytc/AOPolaS4dCt0-dWZaHtmO1K1-vSDDdIsDNMBvVX-TSqX=s900-c-k-c0x00ffffff-no-rj" group-title="ENTRETENIMIENTO",CANAL CLARO HD - ANDR 3
+http://clubtv.link/25ENE/phpcode/android3.php?c=a00j&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://yt3.googleusercontent.com/ytc/AOPolaS4dCt0-dWZaHtmO1K1-vSDDdIsDNMBvVX-TSqX=s900-c-k-c0x00ffffff-no-rj" group-title="ENTRETENIMIENTO",CANAL CLARO HD - ANDR 4
 http://clubtv.link/25ENE/phpcode/android4.php?c=a00j&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://yt3.googleusercontent.com/ytc/AOPolaS4dCt0-dWZaHtmO1K1-vSDDdIsDNMBvVX-TSqX=s900-c-k-c0x00ffffff-no-rj" group-title="ENTRETENIMIENTO",CANAL CLARO HD - LIS 4
-http://clubtv.link/25ENE/phpcode/lista4.php?c=a0eg&token=TecnotvGen0003003000333&f=.m3u8
+
 #EXTINF:-1 logo="https://yt3.googleusercontent.com/ytc/AOPolaS4dCt0-dWZaHtmO1K1-vSDDdIsDNMBvVX-TSqX=s900-c-k-c0x00ffffff-no-rj" group-title="ENTRETENIMIENTO",CANAL CLARO HD - LIS 6
-http://clubtv.link/25ENE/phpcode/lista6.php?c=a0eg&token=TecnoGenerador10154&f=.m3u8
+
 #EXTINF:-1 logo="https://yt3.googleusercontent.com/ytc/AOPolaS4dCt0-dWZaHtmO1K1-vSDDdIsDNMBvVX-TSqX=s900-c-k-c0x00ffffff-no-rj" group-title="ENTRETENIMIENTO",CANAL CLARO - TV SR REGIO
 
 #EXTINF:-1 logo="https://yt3.googleusercontent.com/ytc/AOPolaS4dCt0-dWZaHtmO1K1-vSDDdIsDNMBvVX-TSqX=s900-c-k-c0x00ffffff-no-rj" group-title="ENTRETENIMIENTO",CANAL CLARO - TV2 SR REGIO
@@ -1022,10 +1024,10 @@ http://clubtv.link/25ENE/phpcode/android4.php?c=a02a&token=TecnoGenerador10154
 http://clubtv.link/25ENE/phpcode/android3.php?c=a029&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9A3z89EaGRC5sjVimYdxBTx0JQPnafzwoWA&s" group-title="ENTRETENIMIENTO",CANAL 13 GUA - ANDR 4
 http://clubtv.link/25ENE/phpcode/android4.php?c=a029&token=TecnoGenerador10154
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_11_Guatemala.png" group-title="ENTRETENIMIENTO",CANAL
-
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_11_Guatemala.png" group-title="ENTRETENIMIENTO",CANAL
-
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBzCEskPMbB2VKn7Pa-a4qwQ_919nQ3caeYQ&s" group-title="ENTRETENIMIENTO",CANAL ANTIGUA GUA - ANDR 3
+http://clubtv.link/25ENE/phpcode/android3.php?c=a03d&token=TecnoGenerador10154
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBzCEskPMbB2VKn7Pa-a4qwQ_919nQ3caeYQ&s" group-title="ENTRETENIMIENTO",CANAL ANTIGUA GUA - ANDR 4
+http://clubtv.link/25ENE/phpcode/android4.php?c=a03d&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_11_Guatemala.png" group-title="ENTRETENIMIENTO",CANAL
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_11_Guatemala.png" group-title="ENTRETENIMIENTO",CANAL
