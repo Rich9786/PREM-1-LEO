@@ -948,9 +948,9 @@ https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="476" tvg-name="WOW TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxFmf_CHz6sHxIUfEDcLUKfcobjy_Y8x72ahAa4o48mWzJUfxdDUiUAQ81-PC4IeDVsuE&usqp=CAU",CANAL 7 HD TELE TICA - TV4 SR REGIO
 
-#EXTINF:-1 tvg-id="476" tvg-name="WOW TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxFmf_CHz6sHxIUfEDcLUKfcobjy_Y8x72ahAa4o48mWzJUfxdDUiUAQ81-PC4IeDVsuE&usqp=CAU",ANTENA 7 RD - ANDR 3
+#EXTINF:-1 tvg-id="476" tvg-name="WOW TV" tvg-logo="https://yt3.googleusercontent.com/fowGXnR2zwm6ClIPpopOdmv2bZy9mW016b4Fx5VppQxAOnIJplP-7Z64PYuSunfOgcDIAqC5=s160-c-k-c0x00ffffff-no-rj",ANTENA 7 RD - ANDR 3
 http://clubtv.link/25ENE/phpcode/android3.php?c=a00u&token=TecnoGenerador10154
-#EXTINF:-1 tvg-id="476" tvg-name="WOW TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxFmf_CHz6sHxIUfEDcLUKfcobjy_Y8x72ahAa4o48mWzJUfxdDUiUAQ81-PC4IeDVsuE&usqp=CAU",ANTENA 7 RD - ANDR 4
+#EXTINF:-1 tvg-id="476" tvg-name="WOW TV" tvg-logo="https://yt3.googleusercontent.com/fowGXnR2zwm6ClIPpopOdmv2bZy9mW016b4Fx5VppQxAOnIJplP-7Z64PYuSunfOgcDIAqC5=s160-c-k-c0x00ffffff-no-rj",ANTENA 7 RD - ANDR 4
 http://clubtv.link/25ENE/phpcode/android4.php?c=a00u&token=TecnoGenerador10154
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="Mundo", Caracol - TV4 SR REGIO
 http://177.93.46.163:8000/play/a01n
