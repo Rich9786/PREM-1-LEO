@@ -824,7 +824,7 @@ https://estrellatv-roku.amagi.tv/playlist.m3u8
 http://clubtv.link/25ENE/phpcode/android0.php?c=177&token=TecnoTVplustv3336598896&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="ENTRETENIMIENTO",ESTRELLA TV - LIS
 
-#EXTINF:-1 logo="https://yt3.googleusercontent.com/cLvQT9D9ancnO6lfP1RIxnnOomBb6RblE8Ovf-s4zayX7bAPC8sDU7Lg4U7gWbgV9gpgnb9c-A=s900-c-k-c0x00ffffff-no-rj" group-title="ENTRETENIMIENTO",UNIVERSO - TV4 SR REGIO
+#EXTINF:-1 logo="https://miniondas.com/wp-content/uploads/2015/06/A186.jpg" group-title="ENTRETENIMIENTO",UNIVERSO - TV4 SR REGIO
 
 #EXTINF:-1 logo="https://yt3.googleusercontent.com/cLvQT9D9ancnO6lfP1RIxnnOomBb6RblE8Ovf-s4zayX7bAPC8sDU7Lg4U7gWbgV9gpgnb9c-A=s900-c-k-c0x00ffffff-no-rj" group-title="ENTRETENIMIENTO",UNIVERSO - ANDR 0
 http://clubtv.link/25ENE/phpcode/android0.php?c=1537&token=TecnoTVplustv3336598896&f=.m3u8|User-Agent=Ultimate Player/1.0.7
@@ -932,15 +932,15 @@ http://200.59.188.3:8000/play/a03o
 http://clubtv.link/25ENE/phpcode/android0.php?c=766&token=TecnoTVplustv3336598896&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://www.elnaveghable.cl/sites/elnaveghable.cl/files/imagen_noticia/logo_mega_nuevo.jpg" group-title="ENTRETENIMIENTO",MEGA TV - LIS
 
-#EXTINF:-1 logo="https://redgol.cl/__export/1621631802436/sites/redgol/img/2021/05/21/la-red-imagen-corporativa-30anos-canal-iderado-victor-gutierrez-renueva-colores-potenciando-audiencias-ok_crop1621289271938_jpeg_1693159006.jpeg_242310155.jpeg" group-title="ENTRETENIMIENTO",La Red - TV2 SR REGIO
+#EXTINF:-1 logo="https://puranoticia.pnt.cl/cms/site/artic/20220610/imag/foto_0000000420220610182433/La-Red.png" group-title="ENTRETENIMIENTO",La Red - TV2 SR REGIO
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?tecnotv
-#EXTINF:-1 logo="https://redgol.cl/__export/1621631802436/sites/redgol/img/2021/05/21/la-red-imagen-corporativa-30anos-canal-iderado-victor-gutierrez-renueva-colores-potenciando-audiencias-ok_crop1621289271938_jpeg_1693159006.jpeg_242310155.jpeg" group-title="ENTRETENIMIENTO",La Red - TV5 SR REGIO
+#EXTINF:-1 logo="https://puranoticia.pnt.cl/cms/site/artic/20220610/imag/foto_0000000420220610182433/La-Red.png" group-title="ENTRETENIMIENTO",La Red - TV5 SR REGIO
 
-#EXTINF:-1 logo="https://redgol.cl/__export/1621631802436/sites/redgol/img/2021/05/21/la-red-imagen-corporativa-30anos-canal-iderado-victor-gutierrez-renueva-colores-potenciando-audiencias-ok_crop1621289271938_jpeg_1693159006.jpeg_242310155.jpeg" group-title="ENTRETENIMIENTO",La Red - CL
+#EXTINF:-1 logo="https://puranoticia.pnt.cl/cms/site/artic/20220610/imag/foto_0000000420220610182433/La-Red.png" group-title="ENTRETENIMIENTO",La Red - CL
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 logo="https://redgol.cl/__export/1621631802436/sites/redgol/img/2021/05/21/la-red-imagen-corporativa-30anos-canal-iderado-victor-gutierrez-renueva-colores-potenciando-audiencias-ok_crop1621289271938_jpeg_1693159006.jpeg_242310155.jpeg" group-title="ENTRETENIMIENTO",La Red - ANDR 0
+#EXTINF:-1 logo="https://puranoticia.pnt.cl/cms/site/artic/20220610/imag/foto_0000000420220610182433/La-Red.png" group-title="ENTRETENIMIENTO",La Red - ANDR 0
 
-#EXTINF:-1 logo="https://redgol.cl/__export/1621631802436/sites/redgol/img/2021/05/21/la-red-imagen-corporativa-30anos-canal-iderado-victor-gutierrez-renueva-colores-potenciando-audiencias-ok_crop1621289271938_jpeg_1693159006.jpeg_242310155.jpeg" group-title="ENTRETENIMIENTO",La Red - ANDR 5
+#EXTINF:-1 logo="https://puranoticia.pnt.cl/cms/site/artic/20220610/imag/foto_0000000420220610182433/La-Red.png" group-title="ENTRETENIMIENTO",La Red - ANDR 5
 
 #EXTINF:-1 tvg-id="476" tvg-name="WOW TV" tvg-logo="https://pbs.twimg.com/profile_images/1349375373788774400/zlbSACeu_400x400.jpg", TELEFE - ANDR 0
 
@@ -948,6 +948,10 @@ https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="476" tvg-name="WOW TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxFmf_CHz6sHxIUfEDcLUKfcobjy_Y8x72ahAa4o48mWzJUfxdDUiUAQ81-PC4IeDVsuE&usqp=CAU",CANAL 7 HD TELE TICA - TV4 SR REGIO
 
+#EXTINF:-1 tvg-id="476" tvg-name="WOW TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxFmf_CHz6sHxIUfEDcLUKfcobjy_Y8x72ahAa4o48mWzJUfxdDUiUAQ81-PC4IeDVsuE&usqp=CAU",ANTENA 7 RD - ANDR 3
+http://clubtv.link/25ENE/phpcode/android3.php?c=a00u&token=TecnoGenerador10154
+#EXTINF:-1 tvg-id="476" tvg-name="WOW TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxFmf_CHz6sHxIUfEDcLUKfcobjy_Y8x72ahAa4o48mWzJUfxdDUiUAQ81-PC4IeDVsuE&usqp=CAU",ANTENA 7 RD - ANDR 4
+http://clubtv.link/25ENE/phpcode/android4.php?c=a00u&token=TecnoGenerador10154
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="Mundo", Caracol - TV4 SR REGIO
 http://177.93.46.163:8000/play/a01n
 #EXTINF:-1 logo="https://files.lafm.com.co/assets/public/Canal-RCN.jpg" group-title="ENTRETENIMIENTO",RCN - TV4 SR REGIO
