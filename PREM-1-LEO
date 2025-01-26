@@ -992,10 +992,26 @@ http://clubtv.link/25ENE/phpcode/android2.php?c=ch68&token=TecnoGenerador10154
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeQnJb6ABBwvzEXqyzwCaOrIp_rn7Vi_dzXg&usqp=CAU" group-title="ENTRETENIMIENTO",Mundo & Sabor HD - TV5 SR REGIO
 
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA_Xq-hr2Oqa1Ql068qSSK4kFQSNJk9OtS2A&s" group-title="ENTRETENIMIENTO",CANAL 2 ESA - ANDR 3
+http://clubtv.link/25ENE/phpcode/android3.php?c=a03i&token=TecnoGenerador10154
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA_Xq-hr2Oqa1Ql068qSSK4kFQSNJk9OtS2A&s" group-title="ENTRETENIMIENTO",CANAL 2 ESA - ANDR 4
+http://clubtv.link/25ENE/phpcode/android4.php?c=a03i&token=TecnoGenerador10154
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Canal_6_TCS.png/640px-Canal_6_TCS.png" group-title="ENTRETENIMIENTO",CANAL 6 ESA - ANDR 3 
+http://clubtv.link/25ENE/phpcode/android3.php?c=a02b&token=TecnoGenerador10154
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Canal_6_TCS.png/640px-Canal_6_TCS.png" group-title="ENTRETENIMIENTO",CANAL 6 ESA - ANDR 4
+http://clubtv.link/25ENE/phpcode/android4.php?c=a02b&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Canal-21.png" group-title="ENTRETENIMIENTO",CANAL 21 ESA - ANDR 3
 http://clubtv.link/25ENE/phpcode/android3.php?c=a04w&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Canal-21.png" group-title="ENTRETENIMIENTO",CANAL 21 ESA - ANDR 4
 http://clubtv.link/25ENE/phpcode/android4.php?c=a04w&token=TecnoGenerador10154
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Canal3GT2022.png" group-title="ENTRETENIMIENTO",CANAL 3 GUA - ANDR 3
+http://clubtv.link/25ENE/phpcode/android3.php?c=a03g&token=TecnoGenerador10154
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Canal3GT2022.png" group-title="ENTRETENIMIENTO",CANAL 3 GUA - ANDR 4
+http://clubtv.link/25ENE/phpcode/android4.php?c=a03g&token=TecnoGenerador10154
+#EXTINF:-1 logo="https://i.ytimg.com/vi/n8ElvZ_u7g4/maxresdefault.jpg" group-title="ENTRETENIMIENTO",CANAL 7 GUA - ANDR 3
+http://clubtv.link/25ENE/phpcode/android3.php?c=a03f&token=TecnoGenerador10154
+#EXTINF:-1 logo="https://i.ytimg.com/vi/n8ElvZ_u7g4/maxresdefault.jpg" group-title="ENTRETENIMIENTO",CANAL 7 GUA - ANDR 4
+http://clubtv.link/25ENE/phpcode/android4.php?c=a03f&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_11_Guatemala.png" group-title="ENTRETENIMIENTO",CANAL 11 GUA - ANDR 3
 http://clubtv.link/25ENE/phpcode/android3.php?c=a02a&token=TecnoGenerador10154
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_11_Guatemala.png" group-title="ENTRETENIMIENTO",CANAL 11 GUA - ANDR 4
@@ -1012,7 +1028,13 @@ http://clubtv.link/25ENE/phpcode/android4.php?c=a029&token=TecnoGenerador10154
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_11_Guatemala.png" group-title="ENTRETENIMIENTO",CANAL
 
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_11_Guatemala.png" group-title="ENTRETENIMIENTO",CANAL
 
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_11_Guatemala.png" group-title="ENTRETENIMIENTO",CANAL
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_11_Guatemala.png" group-title="ENTRETENIMIENTO",CANAL
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_11_Guatemala.png" group-title="ENTRETENIMIENTO",CANAL
 
 
 
