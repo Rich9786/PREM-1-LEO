@@ -7453,9 +7453,6 @@ http://play.enhd.co:7024/;
 #EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", Loading Trance Radio
 http://ua.ah.fm:8000/afterhours
 
-#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", 181. Fm Power
-http://relay2.181.fm:8128/;?type=.flv
-
 #EXTINF:0 type="stream" tvg-logo="https://goo.gl/TBKbAm" , RADIO LATINA 101.1
 http://streaming.latina101.com.ar:8080/RadioLatina
 
@@ -7672,13 +7669,6 @@ http://www.lengua.com/anthems/USA.mp3
 
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/c3/89/c389ada9f436d27771d77c764e16b230.jpg" group-title="USA",100.1 FM Flagstaff-Prescott
-http://206.190.135.28:8602/listen.
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/cf/3d/29775/1/c175.png" group-title="USA",2000 FM - Hard Rock
-http://107.155.111.170:8110
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i3.radionomy.com/radios/400/058f0af8-6395-4c89-900e-88cf4db1c015.png" group-title="USA",Ambient Sleeping Pill [Opt-1]
 http://163.172.169.217:80/asp-s
 
@@ -7740,9 +7730,6 @@ http://media-sov.musicradio.com:80/CapitalMP3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Hfmlogo.jpg" group-title="UK",Harborough FM 102.3 [AAC]
 http://edge-audio-03-gos2.sharp-stream.com:80/harboroughfm.aac
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://hearme.fm/wp-content/uploads/2016/09/hearme-adjusted-border.jpg" group-title="UK",HearMe.fm - Cool Jazz
-http://78.129.251.150:8181/stream
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/51/ec/9458/c175.png" group-title="UK",Heart 106.2 FM London
 http://media-sov.musicradio.com:80/HeartLondonMP3
 
@@ -7779,9 +7766,6 @@ http://www.lengua.com/anthems/Australia.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/491755252043898881/cRRs4BMl.jpeg" group-title="AUSTRALIA",4CRB 89.3 FM
 http://stream.4crb.com:8000/stream/1/
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.coles.com.au/customer-service/www.coles.com.au/~/media/images/colesa/about-coles/coles-logo.jpg" group-title="AUSTRALIA",Coles Radio
-http://coles.streaming.novaentertainment.com.au/sa_nt
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://valleychamber.com.au/wp-content/uploads/job-manager-uploads/company_logo/2016/04/Nova_1069_logo.svg.png" group-title="AUSTRALIA",Nova 106.9 Brisbane
 http://streaming.novaentertainment.com.au/nova1069
@@ -7868,9 +7852,6 @@ http://www.lengua.com/anthems/France.mp3
 
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://db.radioline.fr/pictures/radio_988a9826c7792b82df51763ac58d060b/logo200.jpg" group-title="FRANCE",Djam Radio
-http://ledjamradio.ice.infomaniak.ch/ledjamradio.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pulsradio.com/DANCE.png" group-title="FRANCE",PulsRadio Dance
 http://213.251.190.165:80/pulsHD.mp3
@@ -7989,8 +7970,6 @@ http://radio.promosat.com:8018/stream
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mexicofmradios.com/wp-content/uploads/2015/09/Radio-BI-88.7-FM-Mexico-Online.jpg" group-title="MEXICO",Radio BI 88.7 FM Aguascalientes
 http://201.159.48.107:2860/
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mexicofmradios.com/wp-content/uploads/2015/11/Zona-Tres-91.5-FM-Guadalajara.jpg" group-title="MEXICO",Zona Tres 91.5 FM Guadalajara
-http://radio.promosat.com:8006/stream
 
 
 
@@ -8014,26 +7993,11 @@ http://186.103.222.235:8000/FmOkAT.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/_nYsBmbBJ9A/hqdefault.jpg" group-title="CHILE",FmOkey Copiapo
 http://186.103.222.235:8000/FmOkCP.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/507920177455841280/PSLP_sdm.png" group-title="CHILE",Krishna FM Antofagasta
-http://cast3.serverhost.cl:8760/;
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.maximafm.cl/maximachile/MAXIMAchile.jpg" group-title="CHILE",Maxima FM 99.1 Antofagasta
-http://cast3.serverhost.cl:8764/;
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static1.squarespace.com/static/58ff3f0cc534a54886e897b6/t/5903a266d1758e4dabadbe54/1509029382881/?format=1500w" group-title="CHILE",Radio Carinosa 92.1 FM Chillan [AAC]
-http://stream5.eltelon.com/carinosa-chillan.aac
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s86643d.png" group-title="CHILE",Radio Carnaval 96.5 FM Antofagasta [AAC]
 http://sonando.us.digitalproserver.com/carnaval_antofagasta.aac
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.centrofm.cl/images/logo.png" group-title="CHILE",Radio Centro 103.3 FM Antofagasta [AAC]
-http://stream5.eltelon.com/centro.aac
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-4BaAzS71yXc/UQAeCvKcBQI/AAAAAAAAFkw/TwU5yNbbj4I/s1600/radio%2Bclub%2B80%2Blogo%2B2013.jpg" group-title="CHILE",Radio Club 80
 http://play.enhd.co:7024/;
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.radios.com.br/radio/lg/radio38709_1470054272.jpg" group-title="CHILE",Radio Coyhaique 95.3 FM [AAC]
-http://stream5.eltelon.com/radio-coyhaique.aac
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Ke0Ferz.jpg" group-title="CHILE",Radio Definitiva 90.5 FM Tocopilla
 http://192.198.83.230:8772/;
@@ -8044,27 +8008,11 @@ http://s6.jcwebnew.com:8070/;
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.raddios.com/public/radios/original/1554.jpg" group-title="CHILE",Radio Galaxia
 http://sscl.denialstream.com:8830/;stream/1.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.radios.com.br/radio/xl/radio38775_1502241503.jpg" group-title="CHILE",Radio Genesis 96.5 FM Curacautin [AAC]
-http://stream5.eltelon.com/genesis.aac
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radiogennesis.cl/images/logo.png" group-title="CHILE",Radio Gennesis 92.7 FM Copiapo
 http://atanua.broadcastchile.cl:7000/;
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s1600d.png" group-title="CHILE",Radio La Voz De Yungay 102.7 FM
-http://stream5.eltelon.com/archi-yungay.aac?type=.flv
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.magistralfm.cl/envivo/bann_galvarino.jpg" group-title="CHILE",Radio Magistral 93.9 FM Galvarino
 http://www.magistralfm.cl:9110/galvarino
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s84726q.png" group-title="CHILE",Radio San Bartolome 96.7 FM La Serena [AAC]
-http://stream5.eltelon.com/san-bartolome.aac
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s120137d.png" group-title="CHILE",Radio Sur 92.1 FM Los Angeles
-http://ww3.radiosur.cl:5074/rsur
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LOGO_RADIO_SOL.png/225px-LOGO_RADIO_SOL.png" group-title="CHILE",Radio Sol 97.7 FM Antofagasta [AAC]
-http://stream5.eltelon.com/sol-radio.aac
-
 
 
 
@@ -8094,12 +8042,6 @@ http://i50.letio.com/7000.aac
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://goo.gl/TBKbAm" group-title="COLOMBIA",Totto Radio
 http://stream.exeamedia.com/tottorelay
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qScn0Ry.png" group-title="COLOMBIA",Tropicana 102.9 FM Bogota
-http://19493.live.streamtheworld.com/TROPICANAAAC.aac?
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qScn0Ry.png" group-title="COLOMBIA",Tropicana 102.9 FM Medellin
-http://17973.live.streamtheworld.com/TR_MEDELLINAAC.aac?
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/JYCU6qc4Y2.png" group-title="COLOMBIA",UIS 670 AM Bucaramanga
 http://emisoras.uis.edu.co:8000/mp3am
@@ -8225,9 +8167,6 @@ http://ice3.abradio.cz/alternative128.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://goo.gl/TBKbAm" group-title="CZECH REP",ABradio.cz - Blanik
 http://ice.abradio.cz/blanikcz128.mp3
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://goo.gl/TBKbAm" group-title="CZECH REP",ABradio.cz - Folk
-http://mp3stream2.abradio.cz:8000/folk.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://goo.gl/TBKbAm" group-title="CZECH REP",ABradio.cz - Relax - Sea
 http://ice6.abradio.cz/relax-sea128.mp3
@@ -8375,18 +8314,6 @@ http://160.75.86.29:8088/stream/3/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s161857d.png" group-title="TURKEY",ITU Radio Classical
 http://160.75.86.29:8088/stream/5/
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2016/04/Jazzland-FM.jpg" group-title="TURKEY",Jazzland FM
-http://46.20.3.246/stream/56/
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://is4.mzstatic.com/image/thumb/Music128/v4/d4/a8/c1/d4a8c1f6-d0f9-d73d-2af0-6f4034a95167/source/1200x630bb.jpg" group-title="TURKEY",Radio Shazam
-http://streaming.radio.co/s0ce169aac/listen
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/7eHrDaxWcP.png" group-title="TURKEY",Radio Slow Time 91.2 FM Istanbul
-http://37.247.100.118/stream/69/
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s266508d.png" group-title="TURKEY",Radyoland - Rockland
-http://46.20.3.246/stream/57/
-
 
 
 
@@ -8420,18 +8347,6 @@ http://stream.eshelnet.com:80/xstream
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/e4/07/10506/1/c300.png" group-title="ISRAEL",GalGalatz 91.8 FM Tel Aviv
 http://glzwizzlv.bynetcdn.com/glz_mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/01/7c/40522/1/c175.png" group-title="ISRAEL",Galei Zahal 102.3 FM Haifa
-http://glzwizzlv.bynetcdn.com/glz_aes
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/e4/1b/20615/c175.png" group-title="ISRAEL",Kol Hayam Haadom 102 FM
-http://eilat.cdnwz.net/102fm
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.isr-radio.com/wp-content/uploads/2012/01/dibur1.jpg" group-title="ISRAEL",Radio Darom 101.5 FM
-http://audio-darom.ecast.co.il/darom101
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i3.radionomy.com/radios/400/d839d133-5f56-4d33-9fb1-9a6e56e480f7.jpg" group-title="ISRAEL",Radio Yasoo
-http://radio-yasoo.ath.cx:7500/
-
 
 
 
@@ -8439,10 +8354,6 @@ http://radio-yasoo.ath.cx:7500/
 http://www.lengua.com/anthems/India.mp3
 
 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.radioonlinelive.com/wp-content/uploads/2015/12/Ilayaraja-Radio.jpg" group-title="INDIA",Ilayaraja Radio
-http://212.83.138.48:8324/stream
 
 
 
@@ -8453,29 +8364,10 @@ http://www.lengua.com/anthems/Lebanon.mp3
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s251693q.png" group-title="LEBANON",Adeem Radio
-http://192.99.35.215:5109/stream
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i3.radionomy.com/radios/400/ce1bc99e-d5cb-4909-a70f-86db3a6c9461.jpg" group-title="LEBANON",Flash FM
-http://162.244.80.68:8000/stream
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/95/ce/95ce59bd7d74298c9d376ab452ebef95.jpg" group-title="LEBANON",Jabal Lebnan 107.9 FM Beirut
-http://206.190.133.196:7153/stream
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2015/08/lbi-radio-lebanon.jpg" group-title="LEBANON",LBI Radio
-http://37.187.79.93:8192/stream
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/779402027914895360/zbnCG-ac_400x400.jpg" group-title="LEBANON",Radio Magic
-http://37.59.28.208:8600/stream
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/99DulNM.png" group-title="LEBANON",Radio One 105.5 FM Beirut
-http://rss-streaming.co.uk:8026/;
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s14220d.png" group-title="LEBANON",Sawt El Mada 92.4 FM Beirut
 http://audiostreaming.itworkscdn.com:9018/;
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img1.beirut.com/GetImage3/mainpicture/place/24342/490x300" group-title="LEBANON",Virgin Radio 89.5 FM Beirut
-http://209.15.226.17:9000/stream
 
 
 
