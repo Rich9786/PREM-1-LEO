@@ -1516,18 +1516,18 @@ http://181.78.105.146:2000/play/a01f/index.m3u8
 http://177.93.46.163:8000/play/a008
 #EXTINF:-1 logo="https://w7.pngwing.com/pngs/897/89/png-transparent-logo-universal-channel-high-definition-television-olympic-channel-television-channel-universal-kids-purple-television-violet-thumbnail.png" group-title="SERIES Y CINE",UNIVERSAL S1 - TV8 SR REGIO
 http://200.59.188.3:8000/play/a05a
-#EXTINF:-1 logo="https://w7.pngwing.com/pngs/897/89/png-transparent-logo-universal-channel-high-definition-television-olympic-channel-television-channel-universal-kids-purple-television-violet-thumbnail.png" group-title="SERIES Y CINE",UNIVERSAL S3 - TV6 SR REGIO
-http://181.78.105.146:2000/play/a03d/index.m3u8
+#EXTINF:-1 logo="https://w7.pngwing.com/pngs/897/89/png-transparent-logo-universal-channel-high-definition-television-olympic-channel-television-channel-universal-kids-purple-television-violet-thumbnail.png" group-title="SERIES Y CINE",UNIVERSAL S1 - TV9 SR REGIO
+
 #EXTINF:-1 logo="https://w7.pngwing.com/pngs/897/89/png-transparent-logo-universal-channel-high-definition-television-olympic-channel-television-channel-universal-kids-purple-television-violet-thumbnail.png" group-title="SERIES Y CINE",UNIVERSAL HD S2 - ANDR 0
 http://clubtv.link/1002FEB/phpcode/android0.php?c=137&token=PlaylistTecnotv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://w7.pngwing.com/pngs/897/89/png-transparent-logo-universal-channel-high-definition-television-olympic-channel-television-channel-universal-kids-purple-television-violet-thumbnail.png" group-title="SERIES Y CINE",UNIVERSAL HD S2 - ANDR 1
 http://clubtv.link/1002FEB/phpcode/android1.php?c=137&token=PlaylistTecnotv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 logo="https://w7.pngwing.com/pngs/897/89/png-transparent-logo-universal-channel-high-definition-television-olympic-channel-television-channel-universal-kids-purple-television-violet-thumbnail.png" group-title="SERIES Y CINE",UNIVERSAL S3 - TV6 SR REGIO
+http://181.78.105.146:2000/play/a03d/index.m3u8
 #EXTINF:-1 logo="https://forounivers.com/uploads/monthly_2021_10/large.UNIVERSAL_CINEMA.png.f00b67fc083f7f756c77934e05e07018.png" group-title="SERIES Y CINE",UNIVERSAL CINEMA - ANDR 0
 http://clubtv.link/1002FEB/phpcode/android0.php?c=902&token=PlaylistTecnotv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://forounivers.com/uploads/monthly_2021_10/large.UNIVERSAL_CINEMA.png.f00b67fc083f7f756c77934e05e07018.png" group-title="SERIES Y CINE",UNIVERSAL CINEMA - ANDR 1
 http://clubtv.link/1002FEB/phpcode/android1.php?c=902&token=PlaylistTecnotv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 logo="https://w7.pngwing.com/pngs/897/89/png-transparent-logo-universal-channel-high-definition-television-olympic-channel-television-channel-universal-kids-purple-television-violet-thumbnail.png" group-title="SERIES Y CINE",UNIVERSAL S3 - TV6 SR REGIO
-http://181.78.105.146:2000/play/a03d/index.m3u8
 #EXTINF:-1 logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-premiere-dark-logo.png" group-title="SERIES Y CINE",UNIVERSAL PREMIERE HD S1 - TV4 SR REGIO
 
 #EXTINF:-1 logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-premiere-dark-logo.png" group-title="SERIES Y CINE",UNIVERSAL PREMIERE HD S1 - TV6 SR REGIO
@@ -1536,10 +1536,10 @@ http://181.78.105.146:2000/play/a03d/index.m3u8
 
 #EXTINF:-1 logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-premiere-dark-logo.png" group-title="SERIES Y CINE",UNIVERSAL PREMIERE - TV8 SR REGIO
 http://200.59.188.3:8000/play/a06t
-#EXTINF:-1 logo="https://universalplus.com/files/channels/398064723.png" group-title="SERIES Y CINE",UNIVERSAL PREMIERE - ANDR 0
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Universal_Premiere.svg/revision/latest/smart/width/250/height/250?cb=20220311031855" group-title="SERIES Y CINE",UNIVERSAL PREMIERE - ANDR 0
 http://clubtv.link/1002FEB/phpcode/android0.php?c=901&token=PlaylistTecnotv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-premiere-dark-logo.png" group-title="SERIES Y CINE",UNIVERSAL PREMIERE  - LIS
-
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/tvcable/images/d/dd/UniversalPremiere.png/revision/latest?cb=20240130200911&path-prefix=es" group-title="SERIES Y CINE",UNIVERSAL PREMIERE  - ANDR 1
+http://clubtv.link/1002FEB/phpcode/android1.php?c=901&token=PlaylistTecnotv&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://www.wizzplus.mx/shared/img/dummy-img/logos/universal-premiere-dark-logo.png" group-title="SERIES Y CINE",UNIVERSAL PREMIERE HD O S2 - TV6 SR REGIO
 
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/sailormoonenglishanime/images/a/ac/USA_Network_%28Milgreen%29.png/revision/latest?cb=20141101163109" group-title="SERIES Y CINE",USA - TV6 SR REGIO
