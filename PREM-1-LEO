@@ -3377,7 +3377,7 @@ https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamT
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRqUlCf7pSj0F2h8OxcKMWZatIj4OiYghlC4OOMnTosVc64Xu8a" group-title="Without category",COMPAÑÍA TV
 https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRLnH7YDsF_m-rt_A5ZZ9aEd5UblJ5EKuzyqHv5_yjD0bcml3y5" group-title="COSTA RICA",Radio 88 Stereo
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-Uy6rIvLYzCes5Wjg-rgm79A-t1080x1080.jpg" group-title="COSTA RICA",Radio 88 Stereo
 http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1223558379.m3u8
 
 
