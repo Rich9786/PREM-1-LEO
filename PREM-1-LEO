@@ -3331,9 +3331,9 @@ https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8
 https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/cl_film-arts_m.png" group-title="CINE Y SERIES",FILM & ARTS S1 - TV7 SR REGIO
 http://181.78.105.146:2000/play/a04j/index.m3u8
-#EXTINF:-1 tvg-id="StingrayClassica.ca" tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="MUSICA",Stingray Classica
+#EXTINF:-1 tvg-id="StingrayClassica.ca" tvg-logo="https://ownassetsmysky.blob.core.windows.net/assetsmysky/production/1522920739_artcard-stingray-classica.jpg" group-title="MUSICA",Stingray Classica
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayCMusic.ca" tvg-logo="https://i.imgur.com/3UppN5P.png" group-title="MUSICA",Stingray CMusic
+#EXTINF:-1 tvg-id="StingrayCMusic.ca" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2024/01/Stingray-Music-logo.jpg" group-title="MUSICA",Stingray CMusic
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayGreatestHits.ca" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7a35d3883fddfac7310b8496d0bf982a.webp" group-title="MUSICA",Stingray Greatest Hits
 
