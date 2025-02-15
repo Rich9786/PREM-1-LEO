@@ -3504,7 +3504,7 @@ http://158.69.226.108:8000/live/Vfjjjhj/Djdkfk/1642.ts
 https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1207" tvg-name="Viwix TV Accion" tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png", Viwix TV Accion | CL
 
-#EXTINF:-1 tvg-id="109683" tvg-name="Conecta TV" tvg-logo="https://lh3.googleusercontent.com/-1OS8OxMcn0I/XzmCbfsP71I/AAAAAAAA4hQ/FAENkONIqpU9vS0mReGgunUTSJ-he5hPQCK8BGAsYHg/s0/2020-08-16.png", Conecta TV
+#EXTINF:-1 tvg-id="109683" tvg-name="Conecta TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl_4ediyIRAV_vSQFqDJvUC4f7MTRzeJfZ4w&s", Conecta TV
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1271" tvg-name="MMC - Freetv.com" tvg-logo="https://i2.paste.pics/ecac0da442f722d93b2a607b74c149df.png", MMC - Freetv.com | US
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/playlist.m3u8?PlaylistM3UCL
@@ -3520,7 +3520,7 @@ https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8?PlaylistM3UCL
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="904" tvg-name="Latin Zone TV" tvg-logo="https://www.m3u.cl/logo/904_Latin_Zone_TV.png", Latin Zone TV | US
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-logo="https://image.mmradio.com/sites/default/files/styles/social_share_amp/public/video_embed_field_thumbnails/mediastream/57b4dc126338448314449d0c.jpeg", Teleritmo
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3xCz_5XcQprPKJOdKwwJeNabLghOwx9mnUA&s", Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-id="1277" tvg-name="Flash - Freetv.com" tvg-logo="https://i2.paste.pics/ecac0da442f722d93b2a607b74c149df.png", Flash - Freetv.com | US
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/playlist.m3u8?PlaylistM3UCL
@@ -3528,7 +3528,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/playlist.
 
 #EXTINF:-1 tvg-id="929" tvg-name="Italianissimo" tvg-logo="https://www.m3u.cl/logo/929_Italianissimo.png", Italianissimo | VE
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-k9n3tedhqBs/XbC_-FblJSI/AAAAAAAArm4/pMPtuBhhdtoL_yFWs5dt23dHFTHHCv8hgCK8BGAsYHg/s0/2019-10-23.png" group-title="MUSICA",PortalFoxMix Tv SEÑAL 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv-6qlkbgOfZPlaPGNysjQMDyEW70WsRK-6Q&s" group-title="MUSICA",PortalFoxMix Tv 
 https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.tv.maocal.com/images/visualradio.gif",Visual Radio
 http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8?tecnotv.info?iptv.m3u8
@@ -3542,7 +3542,7 @@ http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8?tecno
 
 #EXTINF:-1 tvg-id="771" tvg-name="Mundo de la Musica TV" tvg-logo="https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png", Mundo de la Musica TV | CL
 
-#EXTINF:-1 tvg-id="128021" tvg-name="Recuerdos Retro Radio TV" tvg-logo="https://lh3.googleusercontent.com/-u9hoJJgi3Qg/YCCON9BSD1I/AAAAAAAA_xk/IaTcH9DfgAgCjdrjd_MM10F7TGPoUnpEACK8BGAsYHg/s0/2021-02-07.png", Recuerdos Retro Radio TV
+#EXTINF:-1 tvg-id="128021" tvg-name="https://images.radiovolna.net/_files/images/stations/423203/f9cddc37fc964ed778315f8b50a611d6.png", Recuerdos Retro Radio TV
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="106792" tvg-name="Retro Plus TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTomr-wFdieaD0RBCoMdUEQEmMkQ8h7w9DinA&s", MIMUSICA ROMANTICA 
 http://clubtv.link/1502Feb/phpcode/android2.php?c=ch54&token=PlaylistTecnotv
@@ -3552,9 +3552,9 @@ http://clubtv.link/1502Feb/phpcode/android2.php?c=ch54&token=PlaylistTecnotv
 
 #EXTINF:-1 tvg-id="471" tvg-name="Memorias TV" tvg-logo="https://i2.paste.pics/6679119106cf69f194a4d375b391a2a2.png", Memorias TV | PE
 
-#EXTINF:-1 tvg-id="109761" tvg-name="The Retro Channel" tvg-logo="https://lh3.googleusercontent.com/-t2WD0yOsfvg/XzxnxYhCPPI/AAAAAAAA4oY/qwvkZXM7rAUzOACe0-fSRAQ7_8n6xb5wgCK8BGAsYHg/s0/2020-08-18.png", The Retro Channel
+#EXTINF:-1 tvg-id="109761" tvg-name="The Retro Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_V_jG4CUFAaKtjqdoRuO9-ODIpSNLCyYcxA&s", The Retro Channel
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="112615" tvg-name="Video Tour Channel" tvg-logo="https://lh3.googleusercontent.com/-QUz4UviUPiE/X3YnewzIm7I/AAAAAAAA6Ho/xpUvyAvSX6Qj0Lvl8qhuZnDdz9VPZWy4QCK8BGAsYHg/s0/2020-10-01.png", Video Tour Channel
+#EXTINF:-1 tvg-id="112615" tvg-name="Video Tour Channel" tvg-logo="https://1.bp.blogspot.com/-6Oh8gjWt6z8/X3pWO0u5KcI/AAAAAAAAHy0/s9Kss3RRtnIylSWcoiC3UwuevHBModlogCK4BGAYYCw/s1600/video%2Btour%2Bchannel.jpg", Video Tour Channel
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS68xV11JqMUxOYQ1YF4ZCFpwlJFidMiQu7meI9c3GyBeIOhKVr" group-title="Without category",Ocko Expres
 
