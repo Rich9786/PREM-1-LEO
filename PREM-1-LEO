@@ -3337,6 +3337,8 @@ https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/maste
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayEasyListening.ca" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f96a5dec-f50a-42a1-994e-b83ee9e9dc78/8530_SM_Plex_Music-Channels_1920x1080-Easy_listening.jpg" group-title="MUSICA",Stingray Easy Listening
 https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayNaturescape.ca" tvg-logo="https://www.stingray.com/wp-content/uploads/2024/08/aaturescape-meta.jpg" group-title="MUSICA",Stingray Naturescape
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayDJAZZ.ca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsxw-91gaGyVtpEZzt3nQsGdeeu0Q2txlTNA&s" group-title="MUSICA",Stingray DJAZZ
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayHotCountry.ca" tvg-logo="https://image.xumo.com/v1/channels/channel/99991118/600x337.webp?type=channelTile" group-title="MUSICA",Stingray Hot Country
@@ -3345,12 +3347,18 @@ https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u
 
 #EXTINF:-1 tvg-id="StingrayFlashback70s.ca" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/cf0af6164398752328af22b594924e58.webp" group-title="MUSICA",Stingray Flashback 70s
 https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayEverything80s.ca" tvg-logo="https://image.xumo.com/v1/channels/channel/99991742/600x337.webp?type=channelTile" group-title="MUSICA",Stingray Remember the 80s
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayNothinBut90s.ca" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/958d16460d189722978074cb0bb2ed59.webp" group-title="MUSICA",Stingray Nothin' But 90s
+https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayClassicRock.ca" tvg-logo="https://image.xumo.com/v1/channels/channel/99991119/600x337.webp?type=channelTile" group-title="MUSICA",Stingray Classic Rock
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayHolidayHits.ca" tvg-logo="https://image.xumo.com/v1/channels/channel/99991120/600x337.webp?type=channelTile" group-title="MUSICA",Stingray Greatest Hits
 https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayHitList.ca" tvg-logo="https://image.xumo.com/v1/channels/channel/99991117/600x337.webp?type=channelTile" group-title="MUSICA",Stingray Hit List
 https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayPopAdult.ca" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c9274ced11768aab7ef96be3a7875727.webp" group-title="MUSICA",Stingray Pop Adult
+https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayKaraoke.ca" tvg-logo="https://i.scdn.co/image/ab67616d0000b273a2848c0c77b7bddbed7355b9" group-title="MUSICA",Stingray Karaoke
 https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/epKiEaX.png" group-title="NETHERLANDS",RADIOFELOVE INSTRUMENTALES - TV3 SR REGIO
