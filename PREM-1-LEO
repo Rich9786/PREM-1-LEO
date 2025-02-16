@@ -3399,6 +3399,8 @@ https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8
 https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
 #EXTINF:-1 tvg-id="924" tvg-name="Panavision" tvg-logo="https://www.m3u.cl/logo/924_Panavision.png", Panavision | VE
 https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="924" tvg-name="Panavision" tvg-logo="https://www.m3u.cl/logo/924_Panavision.png", Panavision
+https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9pvCYaA.png" group-title="GERMANY",Radio Weser TV Bremen
 https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
 #EXTINF:-1 tvg-id="1055" tvg-name="Mega Cine TV" tvg-logo="https://canalesdominicanos.live/template/images/radios/teve-musica.png", TU MUSICA HD | DO
@@ -3544,10 +3546,14 @@ https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8?PlaylistM3UCL
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 #EXTINF:-1 tvg-id="1271" tvg-name="MMC - Freetv.com" tvg-logo="https://i2.paste.pics/ecac0da442f722d93b2a607b74c149df.png", MMC - Freetv.com | US
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1271" tvg-name="MMC - Freetv.com" tvg-logo="https://i2.paste.pics/ecac0da442f722d93b2a607b74c149df.png", MMC - Freetv.com
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-id="1631" tvg-name="Cumbia TV" tvg-logo="https://cdn.m3u.cl/logo/1631_Cumbia_TV.png", Cumbia TV
 https://sistemastr.tropicalmoonmedia.com:443/live/D68FF3D942FDBED1303B0567B5C75E3D/6.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-id="1566" tvg-name="Latina TV" tvg-logo="https://cdn.m3u.cl/logo/1566_Latina_TV.png", Latina TV
 https://paneltv.online:1936/8044/8044/playlist.m3u8
+#EXTINF:-1 group-title="MUSICA" tvg-id="1623" tvg-name="Radio Video Mix" tvg-logo="https://cdn.m3u.cl/logo/1623_Radio_Video_Mix.png", Radio Video Mix
+https://radioxxx.ddns.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="1062" tvg-name="Canal VM Latino" tvg-logo="https://i2.paste.pics/fbefcbca47462eb80eedbeaf95126474.png", Canal VM Latino | CR
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1062" tvg-name="Canal VM Latino" tvg-logo="https://i2.paste.pics/fbefcbca47462eb80eedbeaf95126474.png", Canal VM Latino
@@ -3556,6 +3562,8 @@ https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 https://cloudvideo.servers10.com:8081/8004/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1075" tvg-name="Cadena Elite" tvg-logo="https://i2.paste.pics/9beaf1949244b5eb5e5ed3af28304f52.png", Cadena Elite
 https://cloudvideo.servers10.com:8081/8004/index.m3u8
+#EXTINF:-1 group-title="MUSICA" tvg-id="925" tvg-name="Nubeh TV" tvg-logo="https://cdn.m3u.cl/logo/925_Nubeh_TV.png", Nubeh TV
+https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8
 #EXTINF:-1 tvg-id="43" tvg-name="Turbo Mix TV" tvg-logo="https://www.m3u.cl/logo/43_Turbo_Mix_TV.png", Turbo Mix TV | PE
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="904" tvg-name="Latin Zone TV" tvg-logo="https://www.m3u.cl/logo/904_Latin_Zone_TV.png", Latin Zone TV | US
@@ -3574,6 +3582,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/playlist.
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv-6qlkbgOfZPlaPGNysjQMDyEW70WsRK-6Q&s" group-title="MUSICA",PortalFoxMix Tv 
 https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="31" tvg-name="Portal FoxMix" tvg-logo="https://cdn.m3u.cl/logo/31_Portal_FoxMix.png", Portal FoxMix
+https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-id="1127" tvg-name="Carolina TV 2" tvg-logo="https://cdn.m3u.cl/logo/1127_Carolina_TV_2.png", Carolina TV 2
 https://jireh-1-hls-video-cl-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/carolinatv2/carolinatv2.smil/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-id="13" tvg-name="Ruidos TV" tvg-logo="https://cdn.m3u.cl/logo/13_Ruidos_TV.png", Ruidos TV
@@ -3608,6 +3618,8 @@ https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="109761" tvg-name="The Retro Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_V_jG4CUFAaKtjqdoRuO9-ODIpSNLCyYcxA&s", The Retro Channel
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="1473" tvg-name="Music PUQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUoMsIV1AkSJ8P-R-aqNYJiiGrAxLMTddSoQ&s", Music PUQ
+https://vdochile.com:3131/live/redupxprlive.m3u8
 #EXTINF:-1 tvg-id="112615" tvg-name="Video Tour Channel" tvg-logo="https://1.bp.blogspot.com/-6Oh8gjWt6z8/X3pWO0u5KcI/AAAAAAAAHy0/s9Kss3RRtnIylSWcoiC3UwuevHBModlogCK4BGAYYCw/s1600/video%2Btour%2Bchannel.jpg", Video Tour Channel
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS68xV11JqMUxOYQ1YF4ZCFpwlJFidMiQu7meI9c3GyBeIOhKVr" group-title="Without category",Ocko Expres
@@ -3623,6 +3635,9 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/fluxustv.m3u8
 #EXTINF:-1 tvg-id="929" tvg-name="Italianissimo" tvg-logo="https://www.m3u.cl/logo/929_Italianissimo.png", Italianissimo
 https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioJavanTV.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/4XTyMST.jpg" group-title="Iran",Radio Javan TV 
+
+#EXTINF:-1 group-title="MUSICA" tvg-id="1424" tvg-name="Parentesis TV" tvg-logo="https://cdn.m3u.cl/logo/1424_Parentesis_TV.png", Parentesis TV
+https://freya.mivideo.pro:8081/parentesistv/index.m3u8
 
 
 
