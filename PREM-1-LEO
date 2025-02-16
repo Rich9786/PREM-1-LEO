@@ -3337,6 +3337,8 @@ https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/maste
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayEasyListening.ca" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f96a5dec-f50a-42a1-994e-b83ee9e9dc78/8530_SM_Plex_Music-Channels_1920x1080-Easy_listening.jpg" group-title="MUSICA",Stingray Easy Listening
 https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayTheSpa.ca" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c691afe43049bc7d79911219fd393873.webp" group-title="MUSICA",Stingray The Spa
+https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayNaturescape.ca" tvg-logo="https://www.stingray.com/wp-content/uploads/2024/08/aaturescape-meta.jpg" group-title="MUSICA",Stingray Naturescape
 https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayRomanceLatino.ca" tvg-logo="https://mediafile.galaxie.ca/data/000/176/872/000176872859" group-title="MUSICA",Stingray Romance Latino
@@ -3347,8 +3349,6 @@ https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayHotCountry.ca" tvg-logo="https://image.xumo.com/v1/channels/channel/99991118/600x337.webp?type=channelTile" group-title="MUSICA",Stingray Hot Country
 https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingraySoulStorm.ca" tvg-logo="https://i.imgur.com/dU1KC3f.png" group-title="MUSICA",Stingray Soul Storm
-
 #EXTINF:-1 tvg-id="StingrayFlashback70s.ca" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/cf0af6164398752328af22b594924e58.webp" group-title="MUSICA",Stingray Flashback 70s
 https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayEverything80s.ca" tvg-logo="https://image.xumo.com/v1/channels/channel/99991742/600x337.webp?type=channelTile" group-title="MUSICA",Stingray Remember the 80s
@@ -3365,6 +3365,14 @@ https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u
 https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayPopAdult.ca" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c9274ced11768aab7ef96be3a7875727.webp" group-title="MUSICA",Stingray Pop Adult
 https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayTodaysKPop.ca" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f8ee3c6f-c2f5-495f-917e-97a311c1dd18/8530_SM_Plex_Music-Channels_1920x1080-Today_s_K-Pop.jpg" group-title="MUSICA",Stingray Today's KPOP
+https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayTodaysLatinPop.ca" tvg-logo="https://zenoimages.s3.us-west-001.backblazeb2.com/2afacd6d-ad4f-4fa4-9bdf-8d9ccad7be08/images/logo" group-title="MUSICA",Stingray Today's Latin Pop
+https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingraySoulStorm.ca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTAjK23r5Td4gNTIpF6XAddFEirLY1d7BBVw&s" group-title="MUSICA",Stingray Soul Storm
+https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayUrbanBeat.ca" tvg-logo="https://s3.klowdtv.net/herring/images/channels/stingrayMusicUrbanBeats/logo_big.png" group-title="MUSICA",Stingray Urban Beat
+https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayKaraoke.ca" tvg-logo="https://i.scdn.co/image/ab67616d0000b273a2848c0c77b7bddbed7355b9" group-title="MUSICA",Stingray Karaoke
 https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/epKiEaX.png" group-title="NETHERLANDS",RADIOFELOVE INSTRUMENTALES - TV3 SR REGIO
