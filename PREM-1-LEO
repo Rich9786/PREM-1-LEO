@@ -3341,10 +3341,10 @@ https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u
 https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayNaturescape.ca" tvg-logo="https://www.stingray.com/wp-content/uploads/2024/08/aaturescape-meta.jpg" group-title="MUSICA",Stingray Naturescape
 https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayRomanceLatino.ca" tvg-logo="https://mediafile.galaxie.ca/data/000/176/872/000176872859" group-title="MUSICA",Stingray Romance Latino
-https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingraySmoothJazz.ca" tvg-logo="https://mediafile.galaxie.ca/data/000/176/891/000176891500" group-title="MUSICA",Stingray Smooth Jazz
 https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayRomanceLatino.ca" tvg-logo="https://mediafile.galaxie.ca/data/000/176/872/000176872859" group-title="MUSICA",Stingray Romance Latino
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayDJAZZ.ca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsxw-91gaGyVtpEZzt3nQsGdeeu0Q2txlTNA&s" group-title="MUSICA",Stingray DJAZZ
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayHotCountry.ca" tvg-logo="https://image.xumo.com/v1/channels/channel/99991118/600x337.webp?type=channelTile" group-title="MUSICA",Stingray Hot Country
