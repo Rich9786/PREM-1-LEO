@@ -3552,6 +3552,10 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/playl
 https://sistemastr.tropicalmoonmedia.com:443/live/D68FF3D942FDBED1303B0567B5C75E3D/6.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-id="1566" tvg-name="Latina TV" tvg-logo="https://cdn.m3u.cl/logo/1566_Latina_TV.png", Latina TV
 https://paneltv.online:1936/8044/8044/playlist.m3u8
+#EXTINF:-1 group-title="MUSICA" tvg-id="1564" tvg-name="Ritmo Top Latino" tvg-logo="https://cdn.m3u.cl/logo/1564_Ritmo_Top_Latino.png", Ritmo Top Latino
+https://panel.tvstream.cl:1936/8048/8048/playlist.m3u8
+#EXTINF:-1 tvg-id="43" tvg-name="Turbo Mix TV" tvg-logo="https://www.m3u.cl/logo/43_Turbo_Mix_TV.png", Turbo Mix TV | PE
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="MUSICA" tvg-id="1623" tvg-name="Radio Video Mix" tvg-logo="https://cdn.m3u.cl/logo/1623_Radio_Video_Mix.png", Radio Video Mix
 https://radioxxx.ddns.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="1062" tvg-name="Canal VM Latino" tvg-logo="https://i2.paste.pics/fbefcbca47462eb80eedbeaf95126474.png", Canal VM Latino | CR
@@ -3564,8 +3568,6 @@ https://cloudvideo.servers10.com:8081/8004/index.m3u8?PlaylistM3UCL
 https://cloudvideo.servers10.com:8081/8004/index.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-id="925" tvg-name="Nubeh TV" tvg-logo="https://cdn.m3u.cl/logo/925_Nubeh_TV.png", Nubeh TV
 https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8
-#EXTINF:-1 tvg-id="43" tvg-name="Turbo Mix TV" tvg-logo="https://www.m3u.cl/logo/43_Turbo_Mix_TV.png", Turbo Mix TV | PE
-https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="904" tvg-name="Latin Zone TV" tvg-logo="https://www.m3u.cl/logo/904_Latin_Zone_TV.png", Latin Zone TV | US
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="904" tvg-name="Latin Zone TV" tvg-logo="https://www.m3u.cl/logo/904_Latin_Zone_TV.png", Latin Zone TV
@@ -3600,10 +3602,10 @@ http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8?tecno
 
 #EXTINF:-1 tvg-id="771" tvg-name="Mundo de la Musica TV" tvg-logo="https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png", Mundo de la Musica TV | CL
 
-#EXTINF:-1 tvg-id="13Festival.cl" tvg-logo="https://i.imgur.com/hTUe0Pw.png" group-title="MUSICA",13 Festival (1080p)
-https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-id="1195" tvg-name="La Chilena TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeQWDrmN0BOPto3otv_S6_bSN84cCYj0O-6Q&s", La Chilena TV
 https://vdochile.com:3134/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="13Festival.cl" tvg-logo="https://i.imgur.com/hTUe0Pw.png" group-title="MUSICA",13 Festival (1080p)
+https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 #EXTINF:-1 tvg-id="128021" tvg-name="Recuerdos Retro Radio TV" tvg-logo="https://images.radiovolna.net/_files/images/stations/423203/f9cddc37fc964ed778315f8b50a611d6.png", Recuerdos Retro Radio TV
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="128021" tvg-name="Recuerdos Retro Radio TV" tvg-logo="https://images.radiovolna.net/_files/images/stations/423203/f9cddc37fc964ed778315f8b50a611d6.png", Recuerdos Retro Radio TV
@@ -3616,10 +3618,14 @@ https://tls-cl.cdnz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8
 https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8
 #EXTINF:-1 tvg-id="471" tvg-name="Memorias TV" tvg-logo="https://i2.paste.pics/6679119106cf69f194a4d375b391a2a2.png", Memorias TV | PE
 
+#EXTINF:-1 group-title="MUSICA" tvg-id="1403" tvg-name="Red Circle" tvg-logo="https://cdn.m3u.cl/logo/1403_Red_Circle.png", Red Circle
+https://5e3483cba9114.streamlock.net:443/8016/8016/playlist.m3u8
 #EXTINF:-1 tvg-id="109761" tvg-name="The Retro Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_V_jG4CUFAaKtjqdoRuO9-ODIpSNLCyYcxA&s", The Retro Channel
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="MUSICA" tvg-id="1473" tvg-name="Music PUQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUoMsIV1AkSJ8P-R-aqNYJiiGrAxLMTddSoQ&s", Music PUQ
 https://vdochile.com:3131/live/redupxprlive.m3u8
+#EXTINF:-1 group-title="MUSICA" tvg-id="21" tvg-name="Retro Music Television" tvg-logo="https://cdn.m3u.cl/logo/21_Retro_Music_Television.png", Retro Music Television
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="112615" tvg-name="Video Tour Channel" tvg-logo="https://1.bp.blogspot.com/-6Oh8gjWt6z8/X3pWO0u5KcI/AAAAAAAAHy0/s9Kss3RRtnIylSWcoiC3UwuevHBModlogCK4BGAYYCw/s1600/video%2Btour%2Bchannel.jpg", Video Tour Channel
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS68xV11JqMUxOYQ1YF4ZCFpwlJFidMiQu7meI9c3GyBeIOhKVr" group-title="Without category",Ocko Expres
