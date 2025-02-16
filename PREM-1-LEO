@@ -3339,6 +3339,10 @@ https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.
 https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayNaturescape.ca" tvg-logo="https://www.stingray.com/wp-content/uploads/2024/08/aaturescape-meta.jpg" group-title="MUSICA",Stingray Naturescape
 https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayRomanceLatino.ca" tvg-logo="https://mediafile.galaxie.ca/data/000/176/872/000176872859" group-title="MUSICA",Stingray Romance Latino
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingraySmoothJazz.ca" tvg-logo="https://mediafile.galaxie.ca/data/000/176/891/000176891500" group-title="MUSICA",Stingray Smooth Jazz
+https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayDJAZZ.ca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsxw-91gaGyVtpEZzt3nQsGdeeu0Q2txlTNA&s" group-title="MUSICA",Stingray DJAZZ
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayHotCountry.ca" tvg-logo="https://image.xumo.com/v1/channels/channel/99991118/600x337.webp?type=channelTile" group-title="MUSICA",Stingray Hot Country
@@ -3353,6 +3357,8 @@ https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u
 https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayClassicRock.ca" tvg-logo="https://image.xumo.com/v1/channels/channel/99991119/600x337.webp?type=channelTile" group-title="MUSICA",Stingray Classic Rock
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayRockAlternative.ca" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/cee6c0652aa03a78f32bb57b366056fd.webp" group-title="MUSICA",Stingray Rock Alternative
+https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayHolidayHits.ca" tvg-logo="https://image.xumo.com/v1/channels/channel/99991120/600x337.webp?type=channelTile" group-title="MUSICA",Stingray Greatest Hits
 https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayHitList.ca" tvg-logo="https://image.xumo.com/v1/channels/channel/99991117/600x337.webp?type=channelTile" group-title="MUSICA",Stingray Hit List
