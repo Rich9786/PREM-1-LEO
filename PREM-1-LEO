@@ -3405,6 +3405,8 @@ https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamT
 https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u
 #EXTINF:-1 tvg-id="30AMusic.us" tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="MUSICA",30A Music Channel
 https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8
+#EXTINF:-1 group-title="MUSICA" tvg-id="14" tvg-name="Urban TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPR8tjNldLIQgSVQLNKeiTvbOen2H45FQakg&s", Urban TV
+https://urbanrevolution.es:8443/live/TV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-Uy6rIvLYzCes5Wjg-rgm79A-t1080x1080.jpg" group-title="COSTA RICA",Radio 88 Stereo
 http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1223558379.m3u8
 
@@ -3556,6 +3558,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/playlist.
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv-6qlkbgOfZPlaPGNysjQMDyEW70WsRK-6Q&s" group-title="MUSICA",PortalFoxMix Tv 
 https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="13" tvg-name="Ruidos TV" tvg-logo="https://cdn.m3u.cl/logo/13_Ruidos_TV.png", Ruidos TV
+https://stream.skarnetchile.com:19360/ruidostv/ruidostv.m3u8
 #EXTINF:-1 tvg-logo="https://www.tv.maocal.com/images/visualradio.gif",Visual Radio
 http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8?tecnotv.info?iptv.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="Ibiza Global TV" tvg-logo="https://lh3.googleusercontent.com/-7rDHdedeWvo/Xmr-CC8Pa2I/AAAAAAAAwyI/X8CvdyCJtdQZutdQi2clULPfWJH0c8S3QCK8BGAsYHg/s0/2020-03-12.png", Ibiza Global TV | ES
@@ -3572,12 +3576,14 @@ http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8?tecno
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 #EXTINF:-1 tvg-id="128021" tvg-name="Recuerdos Retro Radio TV" tvg-logo="https://images.radiovolna.net/_files/images/stations/423203/f9cddc37fc964ed778315f8b50a611d6.png", Recuerdos Retro Radio TV
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="128021" tvg-name="Recuerdos Retro Radio TV" tvg-logo="https://images.radiovolna.net/_files/images/stations/423203/f9cddc37fc964ed778315f8b50a611d6.png", Recuerdos Retro Radio TV
+https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
 #EXTINF:-1 tvg-id="106792" tvg-name="Retro Plus TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTomr-wFdieaD0RBCoMdUEQEmMkQ8h7w9DinA&s", MIMUSICA ROMANTICA 
-http://clubtv.link/1502Feb/phpcode/android2.php?c=ch54&token=PlaylistTecnotv
+
 #EXTINF:-1 tvg-id="106792" tvg-name="Retro Plus TV" tvg-logo="https://i.pinimg.com/736x/b5/07/78/b50778f3a3a4c77eaeb9c5d709bfc6ab.jpg", Retro Plus TV 1
-
+https://tls-cl.cdnz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8
 #EXTINF:-1 tvg-id="110972" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://i.pinimg.com/736x/b5/07/78/b50778f3a3a4c77eaeb9c5d709bfc6ab.jpg", Retro Plus TV 2
-
+https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8
 #EXTINF:-1 tvg-id="471" tvg-name="Memorias TV" tvg-logo="https://i2.paste.pics/6679119106cf69f194a4d375b391a2a2.png", Memorias TV | PE
 
 #EXTINF:-1 tvg-id="109761" tvg-name="The Retro Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_V_jG4CUFAaKtjqdoRuO9-ODIpSNLCyYcxA&s", The Retro Channel
