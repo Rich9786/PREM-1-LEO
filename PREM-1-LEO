@@ -623,7 +623,7 @@ http://clubtv.link/FEB190225/phpcode/esp.php?c=877079
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhvEXzKsZ7-EIq0mcNxoDQq2Pi8G7KAbi1WAxwUqp4yPMYKdYu3Rmf-5T8nw8FG2frPPg&usqp=CAU" group-title="Without category",CGTN Español - INDEX GENBETA
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhvEXzKsZ7-EIq0mcNxoDQq2Pi8G7KAbi1WAxwUqp4yPMYKdYu3Rmf-5T8nw8FG2frPPg&usqp=CAU" group-title="Without category",CGTN Español - ANDR 2
-http://clubtv.link/FEB190225/phpcode/android2.php?c=ch32&token=PlaylistTecnotv
+
 #EXTINF:-1 group-title="CHILE"  tvg-id="1193" tvg-name="13 Cultura" tvg-logo="https://i2.paste.pics/c04bad5b9339444b2acb44912d04b0a7.png", 13 Cultura
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8?tecnotv
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfc62mdr8tTmXGW9ysU4Up1IEsVcyVrlmj4A&usqp=CAU" group-title="MUNDO Y CULTURA",Canal DOS HD - TV5 SR REGIO
