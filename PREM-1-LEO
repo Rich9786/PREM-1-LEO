@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/EkMMbwB.png" group-title="",13/MAR/2025 - ANDR-LIS-ESP-PEL - SD-HD
-http://tecnotv.club/https:/http:/marz13/phpcode/geomex.php?c=108&p=3&k=tecnotv&f=.m3u8
+http://tecnotv.club/https:/http:/abr22/phpcode/geomex.php?c=108&p=3&k=tecnotv&f=.m3u8
 
 
 
@@ -33,13 +33,13 @@ http://181.78.105.146:2000/play/a038/index.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO",CANAL 5 - ANDR 0
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO",CANAL 5 HD - ANDR 0
-http://clubtv.link/marz13/phpcode/android0.php?c=941&token=TecnotvGeneradorPlaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/abr22/phpcode/android0.php?c=941&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO",CANAL 5 HD - ANDR 1
-http://clubtv.link/marz13/phpcode/android1.php?c=941&token=TecnotvGeneradorPlaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/abr22/phpcode/android1.php?c=941&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO",CANAL 5 - ANDR 0
-http://clubtv.link/marz13/phpcode/android0.php?c=14&token=TecnotvGeneradorPlaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/abr22/phpcode/android0.php?c=14&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO",CANAL 5 - ANDR 1
-http://clubtv.link/marz13/phpcode/android1.php?c=14&token=TecnotvGeneradorPlaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/abr22/phpcode/android1.php?c=14&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/Multimedios-TV-Canal-6-en-vivo-Online.png?resize=696%2C392&ssl=1" group-title="MEXICO",MULTIMEDIOS MTY - FLUX
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?fluxustv.m3u8
 #EXTINF:-1 logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/Multimedios-TV-Canal-6-en-vivo-Online.png?resize=696%2C392&ssl=1" group-title="MEXICO",MULTIMEDIOS 6 MTY - TV6 SR REGIO
@@ -191,11 +191,11 @@ http://200.59.188.3:8000/play/a056
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_nickelodeon_m.png" group-title="INFANTIL",Nickelodeon S2- TV9 SR REGIO
 
 #EXTINF:-1 logo="https://res.cloudinary.com/clearlink/image/upload/v1589303475/Dish/images/isolated/~png-logo-exports-for-channel-page-hero/TeenNick-Default-Color_2x_hh2xrm.png" group-title="INFANTIL",TEEN NIC HD - ANDR 4
-http://clubtv.link/marz13/phpcode/android4.php?c=a04l&token=TecnotvGeneradorPlaylist
+
 #EXTINF:-1 logo="https://res.cloudinary.com/clearlink/image/upload/v1589303475/Dish/images/isolated/~png-logo-exports-for-channel-page-hero/TeenNick-Default-Color_2x_hh2xrm.png" group-title="INFANTIL",TEEN NIC HD - LIS 4
-http://clubtv.link/marz13/phpcode/lista4.php?c=a0fg&token=TecnotvGeneradorPlaylist&f=.m3u8
+
 #EXTINF:-1 logo="https://res.cloudinary.com/clearlink/image/upload/v1589303475/Dish/images/isolated/~png-logo-exports-for-channel-page-hero/TeenNick-Default-Color_2x_hh2xrm.png" group-title="INFANTIL",TEEN NIC HD - LIS 6
-http://clubtv.link/marz13/phpcode/lista6.php?c=a0fg&token=TecnotvGeneradorPlaylist&f=.m3u8
+
 #EXTINF:-1 logo="https://i.imgur.com/NLNivxd.jpg" group-title="INFANTIL",DISNEY XD - TV8 SR REGIO
 
 #EXTINF:-1 tvg-id="1015" tvg-name="Planetatv Kids" tvg-logo="https://www.m3u.cl/logo/1015_Planetatv_Kids.png", Planetatv Kids
@@ -229,63 +229,62 @@ http://200.59.188.3:8000/play/a022
 #EXTINF:-1 logo="https://i.imgur.com/lND6DKt.png" group-title="INFANTIL",TOONCAST - ANDR 3
 
 #EXTINF:-1 logo="https://i.imgur.com/lND6DKt.png" group-title="INFANTIL",TOONCAST - LIS 4
-http://clubtv.link/marz13/phpcode/lista4.php?c=a0hm&token=TecnotvGeneradorPlaylist&f=.m3u8
+
 #EXTINF:-1 logo="https://i.imgur.com/lND6DKt.png" group-title="INFANTIL",TOONCAST HD - LIS 6
-http://clubtv.link/marz13/phpcode/lista6.php?c=a0hm&token=TecnotvGeneradorPlaylist&f=.m3u8
 
 #EXTINF:-1 logo="https://ih1.redbubble.net/image.202100413.9876/raf,750x1000,075,t,FFFFFF:97ab1c12de.u5.jpg" group-title="24/7",Cantinflas - ANDR 0 
-http://clubtv.link/marz13/phpcode/android0.php?c=428&token=TecnotvGeneradorPlaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/abr22/phpcode/android0.php?c=428&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://ih1.redbubble.net/image.202100413.9876/raf,750x1000,075,t,FFFFFF:97ab1c12de.u5.jpg" group-title="24/7",Cantinflas - ANDR 1
-http://clubtv.link/marz13/phpcode/android1.php?c=428&token=TecnotvGeneradorPlaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/abr22/phpcode/android1.php?c=428&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1368172942224457729/dvGvfa2L_400x400.jpg" group-title="24/7",El Gallo Claudio - ANDR 0
-http://clubtv.link/marz13/phpcode/android0.php?c=845&token=TecnotvGeneradorPlaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/abr22/phpcode/android0.php?c=845&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1368172942224457729/dvGvfa2L_400x400.jpg" group-title="24/7",El Gallo Claudio - ANDR 1
-http://clubtv.link/marz13/phpcode/android1.php?c=845&token=TecnotvGeneradorPlaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/abr22/phpcode/android1.php?c=845&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 
 #EXTINF:-1 logo="https://http2.mlstatic.com/D_NQ_NP_109311-MLA20527673495_122015-O.jpg" group-title="24/7", LA PANTERA ROSA - ANDR 5
 
 
 #EXTINF:-1 logo="http://pm1.narvii.com/6054/a2cf24f51368fc7313fe4c8b4d8a052f3a1f23f6_00.jpg" group-title="24/7",Looney Tunes - ANDR 0
-http://clubtv.link/marz13/phpcode/android0.php?c=524&token=TecnotvGeneradorPlaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/abr22/phpcode/android0.php?c=524&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="http://pm1.narvii.com/6054/a2cf24f51368fc7313fe4c8b4d8a052f3a1f23f6_00.jpg" group-title="24/7",Looney Tunes - ANDR 1
-http://clubtv.link/marz13/phpcode/android1.php?c=524&token=TecnotvGeneradorPlaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/abr22/phpcode/android1.php?c=524&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 
 #EXTINF:-1 tvg-id="" tvg-name="Tom y Jerry" tvg-logo="http://51.222.152.107:81/posters/1610694158427.jpg" group-title="24/7",Tom y Jerry - ANDR 0
-http://clubtv.link/marz13/phpcode/android0.php?c=421&token=TecnotvGeneradorPlaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/abr22/phpcode/android0.php?c=421&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-id="" tvg-name="Tom y Jerry" tvg-logo="http://51.222.152.107:81/posters/1610694158427.jpg" group-title="24/7",Tom y Jerry - ANDR 1
-http://clubtv.link/marz13/phpcode/android1.php?c=421&token=TecnotvGeneradorPlaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/abr22/phpcode/android1.php?c=421&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 
 #EXTINF:-1 logo="https://imagenes.expreso.ec/files/image_800_600/uploads/2021/04/28/6089e3c7433e9.png" group-title="24/7", Los picapiedra - ANDR 0
-http://clubtv.link/marz13/phpcode/android0.php?c=669&token=TecnotvGeneradorPlaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/abr22/phpcode/android0.php?c=669&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://imagenes.expreso.ec/files/image_800_600/uploads/2021/04/28/6089e3c7433e9.png" group-title="24/7", Los picapiedra - ANDR 1
-http://clubtv.link/marz13/phpcode/android1.php?c=669&token=TecnotvGeneradorPlaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/abr22/phpcode/android1.php?c=669&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 
 #EXTINF:-1 logo="https://images.hive.blog/p/PB8ro82ZpZP35bVGjGoE93K3E4U5KX8KtMBJ2rhrS8qWMRULPVNAxd49CCqL66e5oQ1vCPFrxfvTpJFaW9Q6iYiAmy2Utwq41hurukzDbU2yJNz2?format=match&mode=fit" group-title="24/7", PINKY y CEREBRO - ANDR 0
-http://clubtv.link/marz13/phpcode/android0.php?c=721&token=TecnotvGeneradorPlaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/abr22/phpcode/android0.php?c=721&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://images.hive.blog/p/PB8ro82ZpZP35bVGjGoE93K3E4U5KX8KtMBJ2rhrS8qWMRULPVNAxd49CCqL66e5oQ1vCPFrxfvTpJFaW9Q6iYiAmy2Utwq41hurukzDbU2yJNz2?format=match&mode=fit" group-title="24/7", PINKY y CEREBRO - ANDR 1
-http://clubtv.link/marz13/phpcode/android1.php?c=721&token=TecnotvGeneradorPlaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/abr22/phpcode/android1.php?c=721&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 
 #EXTINF:-1 tvg-id="" tvg-name="Scooby Doo" tvg-logo="http://51.222.152.107:81/posters/1610693962405.jpg" group-title="24/7",Scooby Doo - ANDR 0
-http://clubtv.link/marz13/phpcode/android0.php?c=422&token=TecnotvGeneradorPlaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/abr22/phpcode/android0.php?c=422&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-id="" tvg-name="Scooby Doo" tvg-logo="http://51.222.152.107:81/posters/1610693962405.jpg" group-title="24/7",Scooby Doo - ANDR 1
-http://clubtv.link/marz13/phpcode/android1.php?c=422&token=TecnotvGeneradorPlaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/abr22/phpcode/android1.php?c=422&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://www.latercera.com/resizer/VVzHKMrD-jH2UFZfnE9s-Cyv_D4=/1023x682/smart/cloudfront-us-east-1.images.arcpublishing.com/copesa/NNHASRIGRRBYRABSIP3HGH5U4A.jpg" group-title="INFANTIL",CARTOONITO (BOOMERANG) - TV6 SR REGIO
 
 #EXTINF:-1 logo="https://www.latercera.com/resizer/VVzHKMrD-jH2UFZfnE9s-Cyv_D4=/1023x682/smart/cloudfront-us-east-1.images.arcpublishing.com/copesa/NNHASRIGRRBYRABSIP3HGH5U4A.jpg" group-title="INFANTIL",CARTOONITO (BOOMERANG) - ANDR 0
-http://clubtv.link/marz13/phpcode/android0.php?c=11&token=TecnotvGeneradorPlaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/abr22/phpcode/android0.php?c=11&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://www.latercera.com/resizer/VVzHKMrD-jH2UFZfnE9s-Cyv_D4=/1023x682/smart/cloudfront-us-east-1.images.arcpublishing.com/copesa/NNHASRIGRRBYRABSIP3HGH5U4A.jpg" group-title="INFANTIL",CARTOONITO (BOOMERANG) - ANDR 1
-http://clubtv.link/marz13/phpcode/android1.php?c=11&token=TecnotvGeneradorPlaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/abr22/phpcode/android1.php?c=11&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://cdn.vectorstock.com/i/1000v/73/93/logo-kids-vector-13477393.jpg" group-title="INFANTIL",Dos Kids HD - TV5 SR REGIO
 
 #EXTINF:-1 logo="https://i.imgur.com/n3eZIO3.png" group-title="INFANTIL",BABY TV - ANDR 0
-http://clubtv.link/marz13/phpcode/android0.php?c=7&token=TecnotvGeneradorPlaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/abr22/phpcode/android0.php?c=7&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://i.imgur.com/n3eZIO3.png" group-title="INFANTIL",BABY TV - ANDR 1
-http://clubtv.link/marz13/phpcode/android1.php?c=7&token=TecnotvGeneradorPlaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/abr22/phpcode/android1.php?c=7&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://www.newslinereport.com/online/nota_semillitas-amplia-su-distribucion-en-estados-unidos.jpg" group-title="INFANTIL",SEMILLITAS - TV6 SR REGIO
 
 #EXTINF:-1 logo="https://www.newslinereport.com/online/nota_semillitas-amplia-su-distribucion-en-estados-unidos.jpg" group-title="INFANTIL",SEMILLITAS - LIS 4
-http://clubtv.link/marz13/phpcode/lista4.php?c=a0er&token=TecnotvGeneradorPlaylist&f=.m3u8
+
 #EXTINF:-1 logo="https://i2.wp.com/fontlot.com/wp-content/uploads/2021/06/3-4.jpg?fit=798%2C799&ssl=1" group-title="INFANTIL",BABY FIRST - TV4 SR REGIO
 http://177.93.46.163:8000/play/a00g
 #EXTINF:-1 logo="https://i2.wp.com/fontlot.com/wp-content/uploads/2021/06/3-4.jpg?fit=798%2C799&ssl=1" group-title="INFANTIL",BABY FIRST - TV6 SR REGIO
@@ -315,9 +314,9 @@ http://200.59.188.3:8000/play/a06p
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1347112024925474817/FsTxCmRL_400x400.jpg" group-title="INFANTIL",BIT ME - ANDR 0
 
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1347112024925474817/FsTxCmRL_400x400.jpg" group-title="INFANTIL",BIT ME - ANDR 0
-http://clubtv.link/marz13/phpcode/android0.php?c=946&token=TecnotvGeneradorPlaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/abr22/phpcode/android0.php?c=946&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1347112024925474817/FsTxCmRL_400x400.jpg" group-title="INFANTIL",BIT ME - ANDR 1 
-http://clubtv.link/marz13/phpcode/android1.php?c=946&token=TecnotvGeneradorPlaylist&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+http://clubtv.link/abr22/phpcode/android1.php?c=946&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 tvg-logo="https://imgur.com/RRNQ7jI.png" group-title="DISTRO TV",Chiquilines - | US
 
 #EXTINF:-1 tvg-id="1335" tvg-name="VariedTV" tvg-logo="https://i.paste.pics/afb90bf11a606a30ee4294c8b32cf9e4.png", VariedTV | AR
