@@ -360,7 +360,7 @@ http://iptveiksprivado.com/images/vod/canalesculturales.png
 
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/tvcable/images/1/17/CanalIDLA.png/revision/latest?cb=20231116173622&path-prefix=es" group-title="MUNDO Y CULTURA",DISCOVERY ID HD HD S1 - TV SR REGIO
 
-#EXTINF:-1 logo="https://static.wikia.nocookie.net/tvcable/images/1/17/CanalIDLA.png/revision/latest?cb=20231116173622&path-prefix=es" group-title="MUNDO Y CULTURA",DISCOVERY ID HD - ANDR 0
+#EXTINF:-1 logo="https://images.seeklogo.com/logo-png/38/1/investigation-discovery-logo-png_seeklogo-383133.png" group-title="MUNDO Y CULTURA",DISCOVERY ID HD - ANDR 0
 http://clubtv.link/abr22/phpcode/android0.php?c=825&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/tvcable/images/1/17/CanalIDLA.png/revision/latest?cb=20231116173622&path-prefix=es" group-title="MUNDO Y CULTURA",DISCOVERY ID HD - ANDR 1
 http://clubtv.link/abr22/phpcode/android1.php?c=825&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
