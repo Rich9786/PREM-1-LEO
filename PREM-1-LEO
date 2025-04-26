@@ -608,6 +608,13 @@ http://clubtv.link/abr22/phpcode/android2.php?c=961&token=Tecnoplus11&f=.m3u8|Us
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="MUNDO Y CULTURA",FOOD NETWORK - LIS 4
 
+#EXTINF:-1 logo="https://i.imgur.com/68ztlZE.png" group-title="ENTRETENIMIENTO",GOURMET - ANDR 0
+http://clubtv.link/abr22/phpcode/android0.php?c=157&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 logo="https://i.imgur.com/68ztlZE.png" group-title="ENTRETENIMIENTO",GOURMET - ANDR 1
+http://clubtv.link/abr22/phpcode/android1.php?c=157&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 logo="https://i.imgur.com/68ztlZE.png" group-title="ENTRETENIMIENTO",GOURMET - ANDR 2
+http://clubtv.link/abr22/phpcode/android2.php?c=157&token=Tecnoplus11&f=.m3u8|User-Agent=plpro.org
+#EXTINF:-1 logo="https://i.imgur.com/68ztlZE.png" group-title="ENTRETENIMIENTO",GOURMET - TV10 SR REGIO
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/768px-Sun_Channel_logo.svg.png" group-title="MEXICO",Sun Channel - TV5 SR REGIO
 http://45.228.234.167:8000/play/a022/index.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/768px-Sun_Channel_logo.svg.png" group-title="MEXICO",Sun Channel HD - TV8 SR REGIO
@@ -636,6 +643,8 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 
 #EXTINF:-1 group-title="CHILE"  tvg-id="1193" tvg-name="13 Cultura" tvg-logo="https://i2.paste.pics/c04bad5b9339444b2acb44912d04b0a7.png", 13 Cultura
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8?tecnotv
+#EXTINF:-1 group-title="CHILE"  tvg-id="1193" tvg-name="13 Cultura" tvg-logo="https://i2.paste.pics/c04bad5b9339444b2acb44912d04b0a7.png", 13 Cultura - LISP
+https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfc62mdr8tTmXGW9ysU4Up1IEsVcyVrlmj4A&usqp=CAU" group-title="MUNDO Y CULTURA",Canal DOS HD - TV5 SR REGIO
 
 #EXTINF:-1 logo="https://3.imimg.com/data3/RA/CX/MY-3685367/tour-packages-service-250x250.jpg" group-title="MUNDO Y CULTURA",On Tour Channel HD - TV5 SR REGIO
@@ -930,20 +939,12 @@ http://clubtv.link/abr22/phpcode/android0.php?c=165&token=Tecnoplus11&f=.m3u8|Us
 http://clubtv.link/abr22/phpcode/android1.php?c=165&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://condista.com/wp-content/uploads/2022/01/azclic2023.jpg" group-title="ENTRETENIMIENTO",AZ CLIC - ANDR 2
 http://clubtv.link/abr22/phpcode/android2.php?c=165&token=Tecnoplus11&f=.m3u8|User-Agent=plpro.org
-#EXTINF:-1 logo="https://i.imgur.com/68ztlZE.png" group-title="ENTRETENIMIENTO",GOURMET - TV SR REGIO
-
-#EXTINF:-1 logo="https://i.imgur.com/68ztlZE.png" group-title="ENTRETENIMIENTO",GOURMET HD - TV8 SR REGIO
-http://200.59.188.3:8000/play/a02d
-#EXTINF:-1 logo="https://i.imgur.com/68ztlZE.png" group-title="ENTRETENIMIENTO",GOURMET - TV9 SR REGIO
-
-#EXTINF:-1 logo="https://i.imgur.com/68ztlZE.png" group-title="ENTRETENIMIENTO",GOURMET - TV10 SR REGIO
-
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ9ZLW0rpcNohgCxCQgLlSFOfv28KKZZN0DQ&s" group-title="ENTRETENIMIENTO",HOLA TV - TV6 SR REGIO
-http://181.78.105.146:2000/play/a00n/index.m3u8
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ9ZLW0rpcNohgCxCQgLlSFOfv28KKZZN0DQ&s" group-title="ENTRETENIMIENTO",HOLA TV HD - TV8 SR REGIO
-
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ9ZLW0rpcNohgCxCQgLlSFOfv28KKZZN0DQ&s" group-title="ENTRETENIMIENTO",HOLA TV HD - LIS 6
-http://clubtv.link/abr22/phpcode/lista6.php?c=a0ic&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ9ZLW0rpcNohgCxCQgLlSFOfv28KKZZN0DQ&s" group-title="ENTRETENIMIENTO",HOLA TV - ANDR 0
+http://clubtv.link/abr22/phpcode/android0.php?c=189&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ9ZLW0rpcNohgCxCQgLlSFOfv28KKZZN0DQ&s" group-title="ENTRETENIMIENTO",HOLA TV - ANDR 1
+http://clubtv.link/abr22/phpcode/android1.php?c=189&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ9ZLW0rpcNohgCxCQgLlSFOfv28KKZZN0DQ&s" group-title="ENTRETENIMIENTO",HOLA TV - ANDR 2
+http://clubtv.link/abr22/phpcode/android2.php?c=189&token=Tecnoplus11&f=.m3u8|User-Agent=plpro.org
 #EXTINF:-1 logo="https://play-lh.googleusercontent.com/T6YoqTNRTJM4Eozq4SNnb5nDyD7PRdk_z73K8A7zU3DHWiM9b1xyFyBtOq80xtFM-h0" group-title="ENTRETENIMIENTO",City TV - TV SR REGIO
 
 #EXTINF:-1 logo="https://play-lh.googleusercontent.com/T6YoqTNRTJM4Eozq4SNnb5nDyD7PRdk_z73K8A7zU3DHWiM9b1xyFyBtOq80xtFM-h0" group-title="ENTRETENIMIENTO",City TV - TV4 SR REGIO
@@ -962,10 +963,10 @@ http://clubtv.link/abr22/phpcode/android0.php?c=766&token=Tecnoplus11&f=.m3u8|Us
 http://clubtv.link/abr22/phpcode/android1.php?c=766&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://static.eldinamo.cl/media/2022/12/20-151359_3lw4_la-red.jpg" group-title="ENTRETENIMIENTO",La Red - TV2 SR REGIO
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?tecnotv
-#EXTINF:-1 logo="https://static.eldinamo.cl/media/2022/12/20-151359_3lw4_la-red.jpg" group-title="ENTRETENIMIENTO",La Red - TV5 SR REGIO
-
 #EXTINF:-1 logo="https://static.eldinamo.cl/media/2022/12/20-151359_3lw4_la-red.jpg" group-title="ENTRETENIMIENTO",La Red - CL
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 logo="https://static.eldinamo.cl/media/2022/12/20-151359_3lw4_la-red.jpg" group-title="ENTRETENIMIENTO",La Red - LISP
+https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
 #EXTINF:-1 logo="https://static.eldinamo.cl/media/2022/12/20-151359_3lw4_la-red.jpg" group-title="ENTRETENIMIENTO",La Red - ANDR 0
 
 #EXTINF:-1 logo="https://static.eldinamo.cl/media/2022/12/20-151359_3lw4_la-red.jpg" group-title="ENTRETENIMIENTO",La Red - ANDR 5
@@ -984,14 +985,40 @@ http://clubtv.link/abr22/phpcode/android4.php?c=a00u&token=Tecnoplus11
 http://clubtv.link/abr22/phpcode/android4.php?c=a01s&token=Tecnoplus11
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="Mundo", Caracol - TV4 SR REGIO
 http://177.93.46.163:8000/play/a01n
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="Mundo", Caracol - ANDR 0
+http://clubtv.link/abr22/phpcode/android0.php?c=391&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="Mundo", Caracol - ANDR 1
+http://clubtv.link/abr22/phpcode/android1.php?c=391&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="Mundo", Caracol - ANDR 2
+http://clubtv.link/abr22/phpcode/android2.php?c=391&token=Tecnoplus11&f=.m3u8|User-Agent=plpro.org
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="Mundo", Caracol Internacional - ANDR 0
+http://clubtv.link/abr22/phpcode/android0.php?c=290&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="Mundo", Caracol Internacional - ANDR 1
+http://clubtv.link/abr22/phpcode/android1.php?c=290&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="Mundo", Caracol Internacional - ANDR 2
+http://clubtv.link/abr22/phpcode/android2.php?c=290&token=Tecnoplus11&f=.m3u8|User-Agent=plpro.org
 #EXTINF:-1 logo="https://files.lafm.com.co/assets/public/Canal-RCN.jpg" group-title="ENTRETENIMIENTO",RCN - TV4 SR REGIO
 http://177.93.46.163:8000/play/a01o
+#EXTINF:-1 logo="https://files.lafm.com.co/assets/public/Canal-RCN.jpg" group-title="ENTRETENIMIENTO",RCN - ANDR 0
+http://clubtv.link/abr22/phpcode/android0.php?c=390&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 logo="https://files.lafm.com.co/assets/public/Canal-RCN.jpg" group-title="ENTRETENIMIENTO",RCN - ANDR 1
+http://clubtv.link/abr22/phpcode/android1.php?c=390&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 logo="https://files.lafm.com.co/assets/public/Canal-RCN.jpg" group-title="ENTRETENIMIENTO",RCN - ANDR 2
+http://clubtv.link/abr22/phpcode/android2.php?c=390&token=Tecnoplus11&f=.m3u8|User-Agent=plpro.org
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Canal1Colombia2024.svg/640px-Canal1Colombia2024.svg.png" group-title="ENTRETENIMIENTO",CANAL UNO - TV4 SR REGIO
 http://177.93.46.163:8000/play/a01l
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/eltrecechile.png" nada="Chile" group-title="TV PREMIUM",Canal Trece CHILE - TV5 SR REGIO
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/eltrecechile.png" nada="Chile" group-title="TV PREMIUM",Canal Trece CHILE - ANDR 5
-http://clubtv.link/abr22/phpcode/android5.php?c=1154&token=Tecnoplus11|User-Agent=Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Canal1Colombia2024.svg/640px-Canal1Colombia2024.svg.png" group-title="ENTRETENIMIENTO",CANAL UNO - ANDR 0
+http://clubtv.link/abr22/phpcode/android0.php?c=775&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Canal1Colombia2024.svg/640px-Canal1Colombia2024.svg.png" group-title="ENTRETENIMIENTO",CANAL UNO - ANDR 1
+http://clubtv.link/abr22/phpcode/android1.php?c=775&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Canal1Colombia2024.svg/640px-Canal1Colombia2024.svg.png" group-title="ENTRETENIMIENTO",CANAL UNO - ANDR 2
+http://clubtv.link/abr22/phpcode/android2.php?c=775&token=Tecnoplus11&f=.m3u8|User-Agent=plpro.org
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/eltrecechile.png" nada="Chile" group-title="TV PREMIUM",Canal Trece CHILE - ANDR 0
+http://clubtv.link/abr22/phpcode/android0.php?c=765&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/eltrecechile.png" nada="Chile" group-title="TV PREMIUM",Canal Trece CHILE - ANDR 1
+http://clubtv.link/abr22/phpcode/android1.php?c=765&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/eltrecechile.png" nada="Chile" group-title="TV PREMIUM",Canal Trece CHILE - ANDR 2
+http://clubtv.link/abr22/phpcode/android2.php?c=765&token=Tecnoplus11&f=.m3u8|User-Agent=plpro.org
 #EXTINF:-1 tvg-id="476" tvg-name="WOW TV" tvg-logo="https://logo-marque.com/wp-content/uploads/2021/03/Wide-Open-West-WOW-Logo.png", WOW TV | SV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="476" tvg-name="WOW TV" tvg-logo="https://logo-marque.com/wp-content/uploads/2021/03/Wide-Open-West-WOW-Logo.png", WOW TV - TV6 SR REGIO
@@ -1931,7 +1958,7 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1435" tvg-name="+Cine" tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png", +Cine | CL
 
 #EXTINF:-1 tvg-id="108904" tvg-name="GEN TV" tvg-logo="https://latinartv.com/sites/default/files/logos/gentv.jpg", GEN TV - AR 
-
+https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 #EXTINF:-1 tvg-id="1331" tvg-name="Super TV" tvg-logo="https://www.tvplus.mx/wp-content/uploads/2021/10/supertv-playvideo.jpg", Super TV | CL
 
 #EXTINF:-1 tvg-id="1320" tvg-name="TV PRIME Movie" tvg-logo="https://i.paste.pics/9589e4ec10d95b3d940aa71538bc8afb.png", TV PRIME Movie | CL
