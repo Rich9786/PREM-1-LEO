@@ -859,11 +859,11 @@ http://clubtv.link/abr2604/phpcode/android0.php?c=177&token=Tecnoplus11&f=.m3u8|
 http://clubtv.link/abr2604/phpcode/android1.php?c=177&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://play-lh.googleusercontent.com/GH6uk17KaI_yKY18JDjLl6Q7VdRfZSiN62QaDveOK-RgZbpXgTmV9s3ZNFtvHuXdcQ" group-title="ENTRETENIMIENTO",ESTRELLA TV - ANDR 2
 http://clubtv.link/abr2604/phpcode/android2.php?c=177&token=Tecnoplus11&f=.m3u8|User-Agent=plpro.org
-#EXTINF:-1 logo="https://miniondas.com/wp-content/uploads/2015/06/A186.jpg" group-title="ENTRETENIMIENTO",UNIVERSO - TV4 SR REGIO
+#EXTINF:-1 logo="https://play-lh.googleusercontent.com/MQ0U9totq-M7deoHGWrzqHy_04Zzd-zO1Pz8BXCH2MRuhCEJi1TunWoQUtS7i7I4bXg" group-title="ENTRETENIMIENTO",UNIVERSO - TV4 SR REGIO
 
 #EXTINF:-1 logo="https://play-lh.googleusercontent.com/MQ0U9totq-M7deoHGWrzqHy_04Zzd-zO1Pz8BXCH2MRuhCEJi1TunWoQUtS7i7I4bXg" group-title="ENTRETENIMIENTO",UNIVERSO - LISP
 http://clubtv.link/abr2604/phpcode/lista0.php?c=68&token=Tecnoplus11&f=.m3u8
-#EXTINF:-1 logo="https://yt3.googleusercontent.com/cLvQT9D9ancnO6lfP1RIxnnOomBb6RblE8Ovf-s4zayX7bAPC8sDU7Lg4U7gWbgV9gpgnb9c-A=s900-c-k-c0x00ffffff-no-rj" group-title="ENTRETENIMIENTO",UNIVERSO - ANDR 1
+#EXTINF:-1 logo="https://play-lh.googleusercontent.com/MQ0U9totq-M7deoHGWrzqHy_04Zzd-zO1Pz8BXCH2MRuhCEJi1TunWoQUtS7i7I4bXg" group-title="ENTRETENIMIENTO",UNIVERSO - ANDR 1
 
 #EXTINF:-1 logo="https://img-tomatazos.buscafs.com/148952/148952_945x532.jpg" group-title="24/7", EL CHAPULIN COLORADO - ANDR 2
 http://clubtv.link/abr2604/phpcode/android2.php?c=418&token=Tecnoplus11&f=.m3u8|User-Agent=plpro.org
@@ -911,9 +911,9 @@ http://clubtv.link/abr2604/phpcode/android3.php?c=a02h&token=Tecnoplus11
 
 #EXTINF:-1 logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-comedy-dark-logo.png" group-title="SERIES Y CINE",UNIVERSAL COMEDY - TV8 SR REGIO
 http://200.59.188.3:8000/play/a06v
-#EXTINF:-1 logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-comedy-dark-logo.png" group-title="SERIES Y CINE",UNIVERSAL COMEDY HD - ANDR 0
+#EXTINF:-1 logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVwZpFZhnt0eWI_KEB9pw87hA7tpgUsE5ingp0CVLi2utbz9XtCp0zkmA9pD_SL0oc_hiia-zudSCky2GaTyfZ4VJQoDDm6NOxYiXhQucNi7fIK4d_xBilRkeeMbnKaBlHI4Txi9DhTjg/s0/universal-comedy.png" group-title="SERIES Y CINE",UNIVERSAL COMEDY HD - ANDR 0
 http://clubtv.link/abr2604/phpcode/android0.php?c=903&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-comedy-dark-logo.png" group-title="SERIES Y CINE",UNIVERSAL COMEDY HD - ANDR 1
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAOm-iccq4R5QW8LPEJ1nqSJygGM0s8f0N8w&s" group-title="SERIES Y CINE",UNIVERSAL COMEDY HD - ANDR 1
 http://clubtv.link/abr2604/phpcode/android1.php?c=903&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-comedy-dark-logo.png" group-title="SERIES Y CINE",UNIVERSAL COMEDY - ANDR 2
 http://clubtv.link/abr2604/phpcode/android2.php?c=903&token=Tecnoplus11&f=.m3u8|User-Agent=plpro.org
