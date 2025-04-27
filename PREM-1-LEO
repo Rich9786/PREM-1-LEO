@@ -853,15 +853,15 @@ http://clubtv.link/abr2604/phpcode/android1.php?c=144&token=Tecnoplus11&f=.m3u8|
 
 #EXTINF:-1 logo="https://play-lh.googleusercontent.com/GH6uk17KaI_yKY18JDjLl6Q7VdRfZSiN62QaDveOK-RgZbpXgTmV9s3ZNFtvHuXdcQ" group-title="ENTRETENIMIENTO",ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="ENTRETENIMIENTO",ESTRELLA TV - ANDR 0
+#EXTINF:-1 logo="https://play-lh.googleusercontent.com/GH6uk17KaI_yKY18JDjLl6Q7VdRfZSiN62QaDveOK-RgZbpXgTmV9s3ZNFtvHuXdcQ" group-title="ENTRETENIMIENTO",ESTRELLA TV - ANDR 0
 http://clubtv.link/abr2604/phpcode/android0.php?c=177&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="ENTRETENIMIENTO",ESTRELLA TV - ANDR 1
+#EXTINF:-1 logo="https://play-lh.googleusercontent.com/GH6uk17KaI_yKY18JDjLl6Q7VdRfZSiN62QaDveOK-RgZbpXgTmV9s3ZNFtvHuXdcQ" group-title="ENTRETENIMIENTO",ESTRELLA TV - ANDR 1
 http://clubtv.link/abr2604/phpcode/android1.php?c=177&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="ENTRETENIMIENTO",ESTRELLA TV - ANDR 2
+#EXTINF:-1 logo="https://play-lh.googleusercontent.com/GH6uk17KaI_yKY18JDjLl6Q7VdRfZSiN62QaDveOK-RgZbpXgTmV9s3ZNFtvHuXdcQ" group-title="ENTRETENIMIENTO",ESTRELLA TV - ANDR 2
 http://clubtv.link/abr2604/phpcode/android2.php?c=177&token=Tecnoplus11&f=.m3u8|User-Agent=plpro.org
 #EXTINF:-1 logo="https://miniondas.com/wp-content/uploads/2015/06/A186.jpg" group-title="ENTRETENIMIENTO",UNIVERSO - TV4 SR REGIO
 
-#EXTINF:-1 logo="https://yt3.googleusercontent.com/cLvQT9D9ancnO6lfP1RIxnnOomBb6RblE8Ovf-s4zayX7bAPC8sDU7Lg4U7gWbgV9gpgnb9c-A=s900-c-k-c0x00ffffff-no-rj" group-title="ENTRETENIMIENTO",UNIVERSO - LISP
+#EXTINF:-1 logo="https://play-lh.googleusercontent.com/MQ0U9totq-M7deoHGWrzqHy_04Zzd-zO1Pz8BXCH2MRuhCEJi1TunWoQUtS7i7I4bXg" group-title="ENTRETENIMIENTO",UNIVERSO - LISP
 http://clubtv.link/abr2604/phpcode/lista0.php?c=68&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 logo="https://yt3.googleusercontent.com/cLvQT9D9ancnO6lfP1RIxnnOomBb6RblE8Ovf-s4zayX7bAPC8sDU7Lg4U7gWbgV9gpgnb9c-A=s900-c-k-c0x00ffffff-no-rj" group-title="ENTRETENIMIENTO",UNIVERSO - ANDR 1
 
