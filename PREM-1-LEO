@@ -805,13 +805,13 @@ http://200.59.188.3:8000/play/a07t
 
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1879965482163580928/utqFr6QP_400x400.jpg" group-title="ENTRETENIMIENTO",UNICABLE - ANDR 0
 http://clubtv.link/abr2604/phpcode/android0.php?c=98&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/556px-Unicable_logo.svg.png" group-title="ENTRETENIMIENTO",UNICABLE - ANDR 1
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1879965482163580928/utqFr6QP_400x400.jpg" group-title="ENTRETENIMIENTO",UNICABLE - ANDR 1
 http://clubtv.link/abr2604/phpcode/android1.php?c=98&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/556px-Unicable_logo.svg.png" group-title="ENTRETENIMIENTO",UNICABLE HD - ANDR 0
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1879965482163580928/utqFr6QP_400x400.jpg" group-title="ENTRETENIMIENTO",UNICABLE HD - ANDR 0
 http://clubtv.link/abr2604/phpcode/android0.php?c=653&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/556px-Unicable_logo.svg.png" group-title="ENTRETENIMIENTO",UNICABLE HD - ANDR 1
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1879965482163580928/utqFr6QP_400x400.jpg" group-title="ENTRETENIMIENTO",UNICABLE HD - ANDR 1
 http://clubtv.link/abr2604/phpcode/android1.php?c=653&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/556px-Unicable_logo.svg.png" group-title="ENTRETENIMIENTO",UNICABLE - ANDR 2
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1879965482163580928/utqFr6QP_400x400.jpg" group-title="ENTRETENIMIENTO",UNICABLE - ANDR 2
 http://clubtv.link/abr2604/phpcode/android2.php?c=98&token=Tecnoplus11&f=.m3u8|User-Agent=plpro.org
 #EXTINF:-1 logo="https://m.media-amazon.com/images/M/MV5BNTk3ZmM1N2MtZDEzNy00ODgzLWFkYjMtNTk0YjRkZjkyZjFjXkEyXkFqcGdeQXVyMzQxNzU3NA@@._V1_.jpg" group-title="ENTRETENIMIENTO",Miembros Al Aire - TV3 SR REGIO
 
@@ -823,7 +823,7 @@ http://clubtv.link/abr2604/phpcode/android1.php?c=56&token=Tecnoplus11&f=.m3u8|U
 
 #EXTINF:-1 logo="https://st1.uvnimg.com/70/2c/9eebe35646ddb5a9ec0f8ae1ecce/altpreview.jpg" group-title="ENTRETENIMIENTO",GALAVISION - LIS
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="ENTRETENIMIENTO",GAMAVISION - ANDR 0
+#EXTINF:-1 logo="https://images.seeklogo.com/logo-png/34/2/gamavision-actual-fondo-roj-logo-png_seeklogo-344097.png" group-title="ENTRETENIMIENTO",GAMAVISION - ANDR 0
 http://clubtv.link/abr2604/phpcode/android0.php?c=891&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="ENTRETENIMIENTO",GAMAVISION - ANDR 1
 http://clubtv.link/abr2604/phpcode/android1.php?c=891&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
