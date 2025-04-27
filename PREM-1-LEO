@@ -825,9 +825,9 @@ http://clubtv.link/abr2604/phpcode/android1.php?c=56&token=Tecnoplus11&f=.m3u8|U
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpO0owlAy2wjHyxsfk3eR8g0WltNr_K5HB7-t8hv-bjDvOf3HJLVTPxmkd5QUImd139_0&usqp=CAU" group-title="ENTRETENIMIENTO",GAMAVISION - ANDR 0
 http://clubtv.link/abr2604/phpcode/android0.php?c=891&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="ENTRETENIMIENTO",GAMAVISION - ANDR 1
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpO0owlAy2wjHyxsfk3eR8g0WltNr_K5HB7-t8hv-bjDvOf3HJLVTPxmkd5QUImd139_0&usqp=CAU" group-title="ENTRETENIMIENTO",GAMAVISION - ANDR 1
 http://clubtv.link/abr2604/phpcode/android1.php?c=891&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="ENTRETENIMIENTO",GAMAVISION - ANDR 5
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpO0owlAy2wjHyxsfk3eR8g0WltNr_K5HB7-t8hv-bjDvOf3HJLVTPxmkd5QUImd139_0&usqp=CAU" group-title="ENTRETENIMIENTO",GAMAVISION - ANDR 5
 
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Epoca2019.png/revision/latest/scale-to-width-down/250?cb=20201031133436&path-prefix=es" group-title="ENTRETENIMIENTO",EPOCA - ANDR 3
 
@@ -843,7 +843,7 @@ http://45.228.234.167:8000/play/a05r/index.m3u8
 http://clubtv.link/abr2604/phpcode/lista0.php?c=3&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 logo="https://w7.pngwing.com/pngs/540/660/png-transparent-televisa-logo-univision-broadcasting-u-miscellaneous-purple-television.png" group-title="ENTRETENIMIENTO",UNIVISION HD - LIS 6
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/960px-Logo_UniM%C3%A1s.svg.png" group-title="ENTRETENIMIENTO",UNIMAS - ANDR 0
+#EXTINF:-1 logo="https://allvectorlogo.com/img/2016/07/unimas-logo.png" group-title="ENTRETENIMIENTO",UNIMAS - ANDR 0
 http://clubtv.link/abr2604/phpcode/android0.php?c=144&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/960px-Logo_UniM%C3%A1s.svg.png" group-title="ENTRETENIMIENTO",UNIMAS - ANDR 1
 http://clubtv.link/abr2604/phpcode/android1.php?c=144&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
