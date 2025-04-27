@@ -845,13 +845,13 @@ http://clubtv.link/abr2604/phpcode/lista0.php?c=3&token=Tecnoplus11&f=.m3u8
 
 #EXTINF:-1 logo="https://e7.pngegg.com/pngimages/103/836/png-clipart-unimas-television-channel-logo-univision-bd-logo-television-text.png" group-title="ENTRETENIMIENTO",UNIMAS - ANDR 0
 http://clubtv.link/abr2604/phpcode/android0.php?c=144&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/960px-Logo_UniM%C3%A1s.svg.png" group-title="ENTRETENIMIENTO",UNIMAS - ANDR 1
+#EXTINF:-1 logo="https://e7.pngegg.com/pngimages/103/836/png-clipart-unimas-television-channel-logo-univision-bd-logo-television-text.png" group-title="ENTRETENIMIENTO",UNIMAS - ANDR 1
 http://clubtv.link/abr2604/phpcode/android1.php?c=144&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/960px-Logo_UniM%C3%A1s.svg.png" group-title="ENTRETENIMIENTO",UNIMAS - ANDR 5
+#EXTINF:-1 logo="https://e7.pngegg.com/pngimages/103/836/png-clipart-unimas-television-channel-logo-univision-bd-logo-television-text.png" group-title="ENTRETENIMIENTO",UNIMAS - ANDR 5
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/960px-Logo_UniM%C3%A1s.svg.png" group-title="ENTRETENIMIENTO",UNIMAS - ANDR 6
+#EXTINF:-1 logo="https://e7.pngegg.com/pngimages/103/836/png-clipart-unimas-television-channel-logo-univision-bd-logo-television-text.png" group-title="ENTRETENIMIENTO",UNIMAS - ANDR 6
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="ENTRETENIMIENTO",ESTRELLA TV
+#EXTINF:-1 logo="https://play-lh.googleusercontent.com/GH6uk17KaI_yKY18JDjLl6Q7VdRfZSiN62QaDveOK-RgZbpXgTmV9s3ZNFtvHuXdcQ" group-title="ENTRETENIMIENTO",ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="ENTRETENIMIENTO",ESTRELLA TV - ANDR 0
 http://clubtv.link/abr2604/phpcode/android0.php?c=177&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
