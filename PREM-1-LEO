@@ -1945,18 +1945,24 @@ http://clubtv.link/may0105/phpcode/android1.php?c=500&token=Tecnoplus11&f=.m3u8|
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="CINE",TCM - TV8 SR REGIO 
 http://200.59.188.3:8000/play/a05g
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="CINE",TCM - ANDR 0 
-http://clubtv.link/may0105/phpcode/android0.php?c=85&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="CINE",TCM - ANDR 1 
-http://clubtv.link/may0105/phpcode/android1.php?c=85&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="CINE",TCM - ANDR 3
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="CINE",TCM - TV2 SR REGIO 
+http://177.93.46.163:8000/play/a00c
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="CINE",TCM - TV4 SR REGIO
+http://181.188.234.21:8000/play/a03d/index.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="CINE",TCM - TV8 SR REGIO
+http://200.59.188.3:8000/play/a05g
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="CINE",TCM - LIS 3
+http://clubtv.link/may0105/phpcode/lista3.php?c=a03d&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="CINE",TCM - LISP
+http://clubtv.link/may0105/phpcode/lista0.php?c=73&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="CINE",TCM - 
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/2560px-TCM_logo.svg.png" group-title="CINE",TCM FHD OPC 1 - ESP
-http://clubtv.link/may0105/phpcode/esp.php?c=321425
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/2560px-TCM_logo.svg.png" group-title="CINE",TCM HD OPC 2 - ESP
-http://clubtv.link/may0105/phpcode/esp.php?c=321426
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/2560px-TCM_logo.svg.png" group-title="CINE",TCM SD OPC 3 - ESP
-http://clubtv.link/may0105/phpcode/esp.php?c=321427
+
 #EXTINF:-1 logo="https://image.roku.com/developer_channels/prod/9f0ee388e53f0044a9db9d0dcb35b64bceab0c0e6b5055935ae2aa14e1888c82.png" group-title="CINE", MEGA CINE TV - CL
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1304564443192406016/SDsQY5e4.jpg" group-title="CINE Y SERIES",MORBIDO - ANDR 0
@@ -1979,7 +1985,7 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1435" tvg-name="+Cine" tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png", +Cine | CL
 
-#EXTINF:-1 tvg-id="108904" tvg-name="GEN TV" tvg-logo="https://latinartv.com/sites/default/files/logos/gentv.jpg", GEN TV - AR 
+#EXTINF:-1 tvg-id="108904" tvg-name="GEN TV" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmdlbnR2b2ZpY2lhbF9zY3JlZW5fMF8xNTQ4MDQ4OTUzXzA2MQ/screen-0.jpg?fakeurl=1&type=.jpg", GEN TV - AR 
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 #EXTINF:-1 tvg-id="1331" tvg-name="Super TV" tvg-logo="https://www.tvplus.mx/wp-content/uploads/2021/10/supertv-playvideo.jpg", Super TV | CL
 
