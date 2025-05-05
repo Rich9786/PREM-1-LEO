@@ -1919,16 +1919,14 @@ http://clubtv.link/may0105/phpcode/android2.php?c=ch52&token=Tecnoplus11
 
 #EXTINF:-1 logo="https://i.pinimg.com/564x/49/e2/d7/49e2d72c9a05d3ee6cf346bc891ced9f.jpg" group-title="CINE",CINEMA FAMILIA - ANDR 6
 
-#EXTINF:-1 logo="https://files.merca20.com/uploads/2016/02/logo-de-tnt-2016.jpg" group-title="CINE",TNT S1 - TV SR REGIO
-
-#EXTINF:-1 logo="https://files.merca20.com/uploads/2016/02/logo-de-tnt-2016.jpg" group-title="CINE",TNT S1 - TV4 SR REGIO
-
-#EXTINF:-1 logo="https://files.merca20.com/uploads/2016/02/logo-de-tnt-2016.jpg" group-title="CINE",TNT HD S1 - TV8 SR REGIO
+#EXTINF:-1 logo="https://files.merca20.com/uploads/2016/02/logo-de-tnt-2016.jpg" group-title="CINE",TNT S1 - LIS 2
+http://clubtv.link/may0105/phpcode/lista2.php?c=a043&f=.m3u8&token=Tecnoplus11
+#EXTINF:-1 logo="https://files.merca20.com/uploads/2016/02/logo-de-tnt-2016.jpg" group-title="CINE",TNT HD S1 - LIS 5
+http://clubtv.link/may0105/phpcode/lista5.php?c=a043&token=Tecnoplus11&f=.m3u8
+#EXTINF:-1 logo="https://files.merca20.com/uploads/2016/02/logo-de-tnt-2016.jpg" group-title="CINE",TNT S1 - ANDR 3
+http://clubtv.link/may0105/phpcode/android3.php?c=a043&token=Tecnoplus11
+#EXTINF:-1 logo="https://files.merca20.com/uploads/2016/02/logo-de-tnt-2016.jpg" group-title="CINE",TNT HD S2 - TV8 SR REGIO
 http://200.59.188.3:8000/play/a010
-#EXTINF:-1 logo="https://files.merca20.com/uploads/2016/02/logo-de-tnt-2016.jpg" group-title="CINE",TNT SUR S2 - ANDR 0
-http://clubtv.link/may0105/phpcode/android0.php?c=752&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 logo="https://files.merca20.com/uploads/2016/02/logo-de-tnt-2016.jpg" group-title="CINE",TNT SUR S2 - ANDR 1
-http://clubtv.link/may0105/phpcode/android1.php?c=752&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://files.merca20.com/uploads/2016/02/logo-de-tnt-2016.jpg" group-title="CINE",TNT HD S2 - ANDR 0
 http://clubtv.link/may0105/phpcode/android0.php?c=500&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://files.merca20.com/uploads/2016/02/logo-de-tnt-2016.jpg" group-title="CINE",TNT HD S2 - ANDR 1
@@ -1936,15 +1934,15 @@ http://clubtv.link/may0105/phpcode/android1.php?c=500&token=Tecnoplus11&f=.m3u8|
 #EXTINF:-1 logo="https://files.merca20.com/uploads/2016/02/logo-de-tnt-2016.jpg" group-title="CINE",TNT HD S3 - ANDR 3
 
 #EXTINF:-1 logo="https://files.merca20.com/uploads/2016/02/logo-de-tnt-2016.jpg" group-title="CINE",TNT HD S3 - LIS 4
-http://clubtv.link/may0105/phpcode/lista4.php?c=a0i9&token=Tecnoplus11&f=.m3u8
+
 #EXTINF:-1 logo="https://files.merca20.com/uploads/2016/02/logo-de-tnt-2016.jpg" group-title="CINE",TNT HD S3 - LIS 6
-http://clubtv.link/may0105/phpcode/lista6.php?c=a0i9&token=Tecnoplus11&f=.m3u8
+
 #EXTINF:-1 logo="https://files.merca20.com/uploads/2016/02/logo-de-tnt-2016.jpg" group-title="CINE",TNT S3 - ANDR 3
 
 #EXTINF:-1 logo="https://files.merca20.com/uploads/2016/02/logo-de-tnt-2016.jpg" group-title="CINE",TNT S3 - LIS 4
-http://clubtv.link/may0105/phpcode/lista4.php?c=a0f4&token=Tecnoplus11&f=.m3u8
+
 #EXTINF:-1 logo="https://files.merca20.com/uploads/2016/02/logo-de-tnt-2016.jpg" group-title="CINE",TNT S3 - LIS 6
-http://clubtv.link/may0105/phpcode/lista6.php?c=a0f4&token=Tecnoplus11&f=.m3u8
+
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="CINE",TCM - TV8 SR REGIO 
 http://200.59.188.3:8000/play/a05g
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="CINE",TCM - ANDR 0 
