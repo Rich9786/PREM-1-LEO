@@ -14,48 +14,68 @@ http://127.0.0.1
 
 
 
-#EXTINF:-1 logo="https://w7.pngwing.com/pngs/322/373/png-transparent-tv-azteca-television-azteca-uno-azteca-america-xhimt-tdt-others-television-text-logo.png" group-title="MEXICO",AZTECA UNO
+#EXTINF:-1 logo="https://w7.pngwing.com/pngs/322/373/png-transparent-tv-azteca-television-azteca-uno-azteca-america-xhimt-tdt-others-television-text-logo.png" group-title="MEXICO",Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1 logo="https://w7.pngwing.com/pngs/322/373/png-transparent-tv-azteca-television-azteca-uno-azteca-america-xhimt-tdt-others-television-text-logo.png" group-title="MEXICO",AZTECA UNO - TV4 SR REGIO
-
+#EXTINF:-1 logo="https://w7.pngwing.com/pngs/322/373/png-transparent-tv-azteca-television-azteca-uno-azteca-america-xhimt-tdt-others-television-text-logo.png" group-title="MEXICO",Azteca Uno -2 (i) - ANDR 1
+http://tecnotv.club/06fb/phpcode/lista01.php?c=158619&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 logo="https://yt3.googleusercontent.com/cr37cBDBGVAw5abCmmqHTaZG-rQD8xXLhg9UvF6cJVQLAVEBWexvTunNNoTsg9UvUPXHCwmYUw=s900-c-k-c0x00ffffff-no-rj" group-title="MEXICO",Las Estrellas Mexico - GEO
+http://tecnotv.club/06fb/phpcode/geomex.php?c=a05j&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 logo="https://yt3.googleusercontent.com/cr37cBDBGVAw5abCmmqHTaZG-rQD8xXLhg9UvF6cJVQLAVEBWexvTunNNoTsg9UvUPXHCwmYUw=s900-c-k-c0x00ffffff-no-rj" group-title="MEXICO",Las Estrellas Mexico LEGAL - GEO
+http://tecnotv.club/06fb/phpcode/geomex.php?c=a02c&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 logo="https://yt3.googleusercontent.com/cr37cBDBGVAw5abCmmqHTaZG-rQD8xXLhg9UvF6cJVQLAVEBWexvTunNNoTsg9UvUPXHCwmYUw=s900-c-k-c0x00ffffff-no-rj" group-title="MEXICO",Las Estrellas Mexico HD (i) - ANDR 1
+http://tecnotv.club/06fb/phpcode/lista01.php?c=158630&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 logo="https://yt3.googleusercontent.com/cr37cBDBGVAw5abCmmqHTaZG-rQD8xXLhg9UvF6cJVQLAVEBWexvTunNNoTsg9UvUPXHCwmYUw=s900-c-k-c0x00ffffff-no-rj" group-title="MEXICO",Las Estrellas Mexico -2 (i) - ANDR 1
+http://tecnotv.club/06fb/phpcode/lista01.php?c=158631&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/sqODhaQyrK1ju2GsBMxoaTuE9T6hg8fLETGyWzjuZO1XGiKapLKjrAwnFT6PljVH_X7w559IzXY=s900-c-k-c0x00ffffff-no-rj" group-title="MEXICO",CANAL 4 Televisa Monterrey (1080p) (i) - ANDR 1
+http://tecnotv.club/06fb/phpcode/lista01.php?c=158648&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/sqODhaQyrK1ju2GsBMxoaTuE9T6hg8fLETGyWzjuZO1XGiKapLKjrAwnFT6PljVH_X7w559IzXY=s900-c-k-c0x00ffffff-no-rj" group-title="MEXICO",CANAL 4 TELEVISA MONTERREY (MX)(P) - ANDR 1
+http://tecnotv.club/06fb/phpcode/lista01.php?c=278364&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/bXgudGVqdWluby50ZWxldmlzYWdkbF9pY29uXzE2MTc4NzIzOTNfMDU1/icon.png?w=&fakeurl=1" group-title="MEXICO",CANAL 4 GUADALAJARA (MX)(P) - ANDR 1
+http://tecnotv.club/06fb/phpcode/lista01.php?c=278327&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/KJcg1FB.jpg" group-title="MEXICO",TV4 (4.1) - CL
-https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KJcg1FB.jpg" group-title="MEXICO",TV4 HD (4.1) - GEO 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KJcg1FB.jpg" group-title="MEXICO",TV4 HD (4.1) - ANDR 1
+https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KJcg1FB.jpg" group-title="MEXICO",TV4 HD (4.1) - GEO 2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KJcg1FB.jpg" group-title="MEXICO",TV4 HD (4.1) - GEO 3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FQxBTB9.png" group-title="MEXICO",TV4 2 HD (4.2)
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_J5vYTjtBblcOTfSIO2N039mgjV6vHByUfA&s" group-title="MEXICO",CANAL 4 TELEVISA PUEBLA - ANDR 1
+http://tecnotv.club/06fb/phpcode/lista01.php?c=158647&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_J5vYTjtBblcOTfSIO2N039mgjV6vHByUfA&s" group-title="MEXICO",CANAL 4 TELEVISA PUEBLA - ANDR 1
+http://tecnotv.club/06fb/phpcode/lista01.php?c=278365&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/959617861944782848/KipSUJBJ_400x400.jpg" group-title="MEXICO",CANAL 5 - TV6 SR REGIO
 
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/959617861944782848/KipSUJBJ_400x400.jpg" group-title="MEXICO",CANAL 5 - GEO
+http://tecnotv.club/06fb/phpcode/geomex.php?c=a05o&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/959617861944782848/KipSUJBJ_400x400.jpg" group-title="MEXICO",CANAL 5 HD - ANDR 1
+http://tecnotv.club/06fb/phpcode/lista01.php?c=278329&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/959617861944782848/KipSUJBJ_400x400.jpg" group-title="MEXICO",CANAL 5 HD - ANDR 3
+http://tecnotv.club/06fb/phpcode/android3.php?c=a05o&token=tecnotokenplustv
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/959617861944782848/KipSUJBJ_400x400.jpg" group-title="MEXICO",CANAL 5 - ANDR 0
 
-#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/959617861944782848/KipSUJBJ_400x400.jpg" group-title="MEXICO",CANAL 5 HD - ANDR 0
-http://clubtv.link/11agt/phpcode/android0.php?c=941&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/959617861944782848/KipSUJBJ_400x400.jpg" group-title="MEXICO",CANAL 5 HD - ANDR 1
-http://clubtv.link/11agt/phpcode/android1.php?c=941&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/959617861944782848/KipSUJBJ_400x400.jpg" group-title="MEXICO",CANAL 5 - ANDR 0
-http://clubtv.link/11agt/phpcode/android0.php?c=14&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/959617861944782848/KipSUJBJ_400x400.jpg" group-title="MEXICO",CANAL 5 - ANDR 1
-http://clubtv.link/11agt/phpcode/android1.php?c=14&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+
 #EXTINF:-1 logo="https://www.multimediostv.com//images/multimedios_logo_main.png" group-title="MEXICO",MULTIMEDIOS MTY - FLUX
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?fluxustv.m3u8
-#EXTINF:-1 logo="https://www.multimediostv.com//images/multimedios_logo_main.png" group-title="MEXICO",MULTIMEDIOS 6 MTY - TV6 SR REGIO
-http://181.78.105.146:2000/play/a039/index.m3u8
+#EXTINF:-1 logo="https://www.multimediostv.com//images/multimedios_logo_main.png" group-title="MEXICO",MULTIMEDIOS 6 MTY - MULTIMEDIOS PLUS HD i - ANDR 1
+http://tecnotv.club/06fb/phpcode/lista01.php?c=298456&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Multimedios-TV-Canal-6-en-vivo-Online.png" group-title="MEXICO",MULTIMEDIOS 6 MTY - ANDR 0
 
 #EXTINF:-1 logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Multimedios-TV-Canal-6-en-vivo-Online.png" group-title="MEXICO",MULTIMEDIOS 6 MTY HD OPC 1 - ANDR 0
 
 #EXTINF:-1 logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Multimedios-TV-Canal-6-en-vivo-Online.png" group-title="MEXICO",MULTIMEDIOS 6 MTY HD OPC 2 - ANDR 0
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/800px-Logo_Azteca_7_2011.svg.png" group-title="MEXICO",AZTECA 7 OPC 1 - TV SR REGIO
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/800px-Logo_Azteca_7_2011.svg.png" group-title="MEXICO",AZTECA 7 OPC 2 - TV SR REGIO
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/800px-Logo_Azteca_7_2011.svg.png" group-title="MEXICO",AZTECA 7 - TV2 SR REGIO
-http://181.78.105.146:2000/play/a08z/index.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQejDB__sr1-UbpM1fC9w1Z86yOQrMfBPuTEA&s" group-title="MEXICO",AZTECA 7 - GEO
+http://tecnotv.club/06fb/phpcode/geomex.php?c=a026&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQejDB__sr1-UbpM1fC9w1Z86yOQrMfBPuTEA&s" group-title="MEXICO",AZTECA 7 HD (MX)(P) - ANDR 1
+http://tecnotv.club/06fb/phpcode/lista01.php?c=278317&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQejDB__sr1-UbpM1fC9w1Z86yOQrMfBPuTEA&s" group-title="MEXICO",AZTECA 7 - ANDR 3
+http://tecnotv.club/06fb/phpcode/android3.php?c=a026&token=tecnotokenplustv
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQejDB__sr1-UbpM1fC9w1Z86yOQrMfBPuTEA&s" group-title="MEXICO",AZTECA 7 - TV2 SR REGIO
+
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxbWm_XNwx5bi1HSZvA93CM4U2XGm_-goKRC2_E8ayXA&s" group-title="MEXICO",MULTIMEDIOS 8 - TV SR REGIO
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxbWm_XNwx5bi1HSZvA93CM4U2XGm_-goKRC2_E8ayXA&s" group-title="MEXICO",MULTIMEDIOS 8 - ANDR 4
@@ -64,8 +84,12 @@ http://181.78.105.146:2000/play/a08z/index.m3u8
 https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1798123170836418560/oWeHD3Sc_400x400.jpg" group-title="MEXICO",RTQ Queretaro - TV2 SR REGIO
 https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8?TecnoPlaylist
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1126903293244997632/uT7kJs8I_400x400.png" group-title="MEXICO",Canal 10 Chiapas - FLUX
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1798123170836418560/oWeHD3Sc_400x400.jpg" group-title="MEXICO",RTQ Queretaro - GEO
+https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3JOA6ueBRVsDl3BhI4jzfpgdiDeix6kqWcQ&s" group-title="MEXICO",Canal 10 Chiapas - FLUX
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/chunklist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3JOA6ueBRVsDl3BhI4jzfpgdiDeix6kqWcQ&s" group-title="MEXICO",Canal 10 Chiapas - GEO
+https://5ca9af4645e15.streamlock.net:443/chiapas/videochiapas/playlist.m3u8
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1116025020822634497/Pd-Rvw-k_400x400.jpg" group-title="MEXICO",EXPRESA TV CELAYA - ANDR 0
 
 #EXTINF:-1 logo="https://www.mexicoescultura.com/galerias/espacios/principal/canalonce.png" group-title="MEXICO",ONCE - TV6 SR REGIO
@@ -9623,6 +9647,7 @@ http://radiokn.ddns.net:7000/efir
 
 #EXTINF:-1,RETRO FM UA Romantic
 http://cast.radiogroup.com.ua:8000/retro_romantic
+
 
 
 
