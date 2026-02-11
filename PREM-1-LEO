@@ -668,27 +668,25 @@ http://tecnotv.club/f1002/phpcode/lista01.php?c=166446&token=tecnotokenplustv&f=
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1280px-Food_Network_logo.svg.pngh" group-title="MUNDO Y CULTURA",FOOD NETWORK - LIS 4
 
-#EXTINF:-1 logo="https://i.imgur.com/68ztlZE.png" group-title="ENTRETENIMIENTO",GOURMET - ANDR 0
-http://clubtv.link/11agt/phpcode/android0.php?c=157&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 logo="https://i.imgur.com/68ztlZE.png" group-title="ENTRETENIMIENTO",GOURMET - ANDR 1
-http://clubtv.link/11agt/phpcode/android1.php?c=157&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 logo="https://i.imgur.com/68ztlZE.png" group-title="ENTRETENIMIENTO",GOURMET - ANDR 2
-http://clubtv.link/11agt/phpcode/android2.php?c=157&token=TecnoplusJunio03&f=.m3u8|User-Agent=plpro.org
-#EXTINF:-1 logo="https://i.imgur.com/68ztlZE.png" group-title="ENTRETENIMIENTO",GOURMET - TV10 SR REGIO
+#EXTINF:-1 logo="https://i.imgur.com/68ztlZE.png" group-title="ENTRETENIMIENTO",EL GOURMET HD (MX)(P) - ANDR 1
+http://tecnotv.club/f1002/phpcode/lista01.php?c=278421&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/68ztlZE.png" group-title="ENTRETENIMIENTO",EL GOURMET (MX)(P) - ANDR 1
+http://tecnotv.club/f1002/phpcode/lista01.php?c=278420&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/68ztlZE.png" group-title="ENTRETENIMIENTO",EL GOURMET - ANDR 3
+http://tecnotv.club/f1002/phpcode/android3.php?c=a04v&token=tecnotokenplustv
+#EXTINF:-1 logo="https://i.imgur.com/68ztlZE.png" group-title="ENTRETENIMIENTO",EL GOURMET - GEO
+http://tecnotv.club/f1002/phpcode/geomex.php?c=a04v&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3eeyyUANdz29RwY4mRf2eVDvC-ebv05qmBg&s" group-title="MEXICO",Sun Channel - GEO
+http://tecnotv.club/f1002/phpcode/geomex.php?c=a050&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3eeyyUANdz29RwY4mRf2eVDvC-ebv05qmBg&s" group-title="MEXICO",Sun Channel - ANDR 3
+http://tecnotv.club/f1002/phpcode/android3.php?c=a050&token=tecnotokenplustv
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3eeyyUANdz29RwY4mRf2eVDvC-ebv05qmBg&s" group-title="MEXICO",Sun Channel HD - TV9 SR REGIO
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/768px-Sun_Channel_logo.svg.png" group-title="MEXICO",Sun Channel - TV5 SR REGIO
-http://45.228.234.167:8000/play/a022/index.m3u8
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/768px-Sun_Channel_logo.svg.png" group-title="MEXICO",Sun Channel HD - TV8 SR REGIO
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3eeyyUANdz29RwY4mRf2eVDvC-ebv05qmBg&s" group-title="MEXICO",Sun Channel HD - LIS 4
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/768px-Sun_Channel_logo.svg.png" group-title="MEXICO",Sun Channel HD - TV9 SR REGIO
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3eeyyUANdz29RwY4mRf2eVDvC-ebv05qmBg&s" group-title="MEXICO",Sun Channel HD - LIS 6
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/768px-Sun_Channel_logo.svg.png" group-title="MEXICO",Sun Channel HD - LIS 4
-
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/768px-Sun_Channel_logo.svg.png" group-title="MEXICO",Sun Channel HD - LIS 6
-
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/768px-Sun_Channel_logo.svg.png" group-title="MEXICO",Sun Channel - TV2 SR REGIO
-
-#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1520063208391942146/fIOiM2V4_400x400.jpg" group-title="MUSICA",Concert Channel - ANDR 3
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3eeyyUANdz29RwY4mRf2eVDvC-ebv05qmBg&s" group-title="MEXICO",Sun Channel - TV2 SR REGIO
 
 #EXTINF:-1 logo="https://images-na.ssl-images-amazon.com/images/I/619apfg5DDL.png" group-title="MUNDO Y CULTURA",DW - CL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?PlaylistM3UCL
@@ -3793,6 +3791,10 @@ http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8?tecno
 
 #EXTINF:-1 group-title="MUSICA" tvg-id="1195" tvg-name="La Chilena TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeQWDrmN0BOPto3otv_S6_bSN84cCYj0O-6Q&s", La Chilena TV
 https://vdochile.com:3134/hybrid/play.m3u8
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1520063208391942146/fIOiM2V4_400x400.jpg" group-title="MUSICA",Concert Channel - GEO
+http://tecnotv.club/f1002/phpcode/geomex.php?c=a02r&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1520063208391942146/fIOiM2V4_400x400.jpg" group-title="MUSICA",Concert Channel - ANDR 3
+http://tecnotv.club/f1002/phpcode/android3.php?c=a02r&token=tecnotokenplustv
 #EXTINF:-1 tvg-id="13Festival.cl" tvg-logo="https://i.imgur.com/hTUe0Pw.png" group-title="MUSICA",13 Festival (1080p)
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-id="1128" tvg-name="Solobailalo TV" tvg-logo="https://cdn.m3u.cl/logo/1128_Solobailalo_TV.png", Solobailalo TV
@@ -9683,6 +9685,7 @@ http://radiokn.ddns.net:7000/efir
 
 #EXTINF:-1,RETRO FM UA Romantic
 http://cast.radiogroup.com.ua:8000/retro_romantic
+
 
 
 
