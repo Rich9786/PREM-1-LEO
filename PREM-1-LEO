@@ -657,11 +657,11 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1 logo="https://play-lh.googleusercontent.com/zlJjOBpGW9rXyzCHUcUp0fL64kspqryeBbGjr3EUV0PVxd0kkIJHawoBAsV629OSpsc" group-title="MUNDO Y CULTURA",FOOD NETWORK HD - TV8 SR REGIO
 
 #EXTINF:-1 logo="https://play-lh.googleusercontent.com/zlJjOBpGW9rXyzCHUcUp0fL64kspqryeBbGjr3EUV0PVxd0kkIJHawoBAsV629OSpsc" group-title="MUNDO Y CULTURA",FOOD NETWORK HD - ANDR 0
-http://clubtv.link/11agt/phpcode/android0.php?c=961&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 logo="https://play-lh.googleusercontent.com/zlJjOBpGW9rXyzCHUcUp0fL64kspqryeBbGjr3EUV0PVxd0kkIJHawoBAsV629OSpsc" group-title="MUNDO Y CULTURA",FOOD NETWORK HD - ANDR 1
-http://clubtv.link/11agt/phpcode/android1.php?c=961&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 logo="https://play-lh.googleusercontent.com/zlJjOBpGW9rXyzCHUcUp0fL64kspqryeBbGjr3EUV0PVxd0kkIJHawoBAsV629OSpsc" group-title="MUNDO Y CULTURA",FOOD NETWORK HD - ANDR 2
-http://clubtv.link/11agt/phpcode/android2.php?c=961&token=TecnoplusJunio03&f=.m3u8|User-Agent=plpro.org
+
+#EXTINF:-1 logo="https://play-lh.googleusercontent.com/zlJjOBpGW9rXyzCHUcUp0fL64kspqryeBbGjr3EUV0PVxd0kkIJHawoBAsV629OSpsc" group-title="MUNDO Y CULTURA",FOOD NETWORK (MX)(P) - ANDR 1
+http://tecnotv.club/f1002/phpcode/lista01.php?c=278401&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 logo="https://play-lh.googleusercontent.com/zlJjOBpGW9rXyzCHUcUp0fL64kspqryeBbGjr3EUV0PVxd0kkIJHawoBAsV629OSpsc" group-title="MUNDO Y CULTURA",Food Network (i) op2 - ANDR 2
+http://tecnotv.club/f1002/phpcode/lista01.php?c=166446&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 logo="https://play-lh.googleusercontent.com/zlJjOBpGW9rXyzCHUcUp0fL64kspqryeBbGjr3EUV0PVxd0kkIJHawoBAsV629OSpsc" group-title="MUNDO Y CULTURA",FOOD NETWORK HD - ANDR 3
 
 #EXTINF:-1 logo="https://play-lh.googleusercontent.com/zlJjOBpGW9rXyzCHUcUp0fL64kspqryeBbGjr3EUV0PVxd0kkIJHawoBAsV629OSpsc" group-title="MUNDO Y CULTURA",FOOD NETWORK - ANDR 7 
@@ -9683,6 +9683,7 @@ http://radiokn.ddns.net:7000/efir
 
 #EXTINF:-1,RETRO FM UA Romantic
 http://cast.radiogroup.com.ua:8000/retro_romantic
+
 
 
 
