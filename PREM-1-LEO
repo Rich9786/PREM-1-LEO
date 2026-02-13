@@ -700,9 +700,9 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhvEXzKsZ7-EIq0mcNxoDQq2Pi8G7KAbi1WAxwUqp4yPMYKdYu3Rmf-5T8nw8FG2frPPg&usqp=CAU" group-title="Without category",CGTN Español - ANDR 2
 
-#EXTINF:-1 group-title="CHILE"  tvg-id="1193" tvg-name="13 Cultura" tvg-logo="https://i2.paste.pics/c04bad5b9339444b2acb44912d04b0a7.png", 13 Cultura
+#EXTINF:-1 group-title="CHILE"  tvg-id="1193" tvg-name="13 Cultura" tvg-logo="https://cdn.rudo.video/assets/canal-13/live/live_f4f785de4a7161c44067e2739f11c7221744745430.png", 13 Cultura
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8?tecnotv
-#EXTINF:-1 group-title="CHILE"  tvg-id="1193" tvg-name="13 Cultura" tvg-logo="https://i2.paste.pics/c04bad5b9339444b2acb44912d04b0a7.png", 13 Cultura - LISP
+#EXTINF:-1 group-title="CHILE"  tvg-id="1193" tvg-name="13 Cultura" tvg-logo="https://cdn.rudo.video/assets/canal-13/live/live_f4f785de4a7161c44067e2739f11c7221744745430.png", 13 Cultura - LISP
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfc62mdr8tTmXGW9ysU4Up1IEsVcyVrlmj4A&usqp=CAU" group-title="MUNDO Y CULTURA",Canal DOS HD - TV5 SR REGIO
 
@@ -710,28 +710,28 @@ https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bzNiQNs.png" group-title="LATIN AMERICA",TV Marti - CUBA
 https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 logo="https://i.imgur.com/OO9PaGb.jpg" group-title="MUNDO Y CULTURA",H&H - ANDR 0
-http://clubtv.link/11agt/phpcode/android0.php?c=640&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 logo="https://i.imgur.com/OO9PaGb.jpg" group-title="MUNDO Y CULTURA",H&H - ANDR 1
-http://clubtv.link/11agt/phpcode/android1.php?c=640&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 logo="https://i.imgur.com/OO9PaGb.jpg" group-title="MUNDO Y CULTURA",H&H - ANDR 4
-http://clubtv.link/11agt/phpcode/android4.php?c=a06q&token=TecnoplusJunio03
-#EXTINF:-1 logo="https://i.imgur.com/OO9PaGb.jpg" group-title="MUNDO Y CULTURA",H&H - LIS 1
-http://clubtv.link/11agt/phpcode/lista1.php?c=a06q&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 logo="https://i.imgur.com/OO9PaGb.jpg" group-title="MUNDO Y CULTURA",H&H HD - ANDR 3
-
-#EXTINF:-1 logo="https://i.imgur.com/OO9PaGb.jpg" group-title="MUNDO Y CULTURA",H&H - ANDR 4
-
+#EXTINF:-1 logo="https://i.imgur.com/OO9PaGb.jpg" group-title="MUNDO Y CULTURA",H&H - LIS
+http://tecnotv.club/f1002/phpcode/ssiptv.php?c=ch23&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/OO9PaGb.jpg" group-title="MUNDO Y CULTURA",Home & Health HD - GEO
+http://tecnotv.club/f1002/phpcode/geomex.php?c=a0hw&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/OO9PaGb.jpg" group-title="MUNDO Y CULTURA",Home & Health HD - ANDR 3
+http://tecnotv.club/f1002/phpcode/android3.php?c=a0hw&token=tecnotokenplustv
+#EXTINF:-1 logo="https://i.imgur.com/OO9PaGb.jpg" group-title="MUNDO Y CULTURA",DISCOVERY HOME & HEALTH HD (MX)(P) - ANDR 1 1
+http://tecnotv.club/f1002/phpcode/lista01.php?c=278411&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/OO9PaGb.jpg" group-title="MUNDO Y CULTURA",DISCOVERY HOME & HEALTH (MX)(P) - ANDR 1
+http://tecnotv.club/f1002/phpcode/lista01.php?c=278395&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/OO9PaGb.jpg" group-title="MUNDO Y CULTURA",DISCOVERY HyH FHD (i) - ANDR 1
+http://tecnotv.club/f1002/phpcode/lista01.php?c=165458&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/OO9PaGb.jpg" group-title="MUNDO Y CULTURA",H&H HD S3 - ANDR 0
 
 #EXTINF:-1 logo="https://i.imgur.com/OO9PaGb.jpg" group-title="MUNDO Y CULTURA",H&H HD S3 - ANDR 1
 
 #EXTINF:-1 logo="https://i.imgur.com/OO9PaGb.jpg" group-title="MUNDO Y CULTURA",H&H HD S3 - TV4 SR REGIO
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/HGTV_logo.svg/1200px-HGTV_logo.svg.png" group-title="MUNDO Y CULTURA",Home Garden Latino - TV5
-http://45.228.234.167:8000/play/a00a/index.m3u8
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/HGTV_logo.svg/1200px-HGTV_logo.svg.png" group-title="MUNDO Y CULTURA",Home Garden Latino - ANDR 4
-http://clubtv.link/11agt/phpcode/android4.php?c=a00d&token=TecnoplusJunio03
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/HGTV_logo.svg/250px-HGTV_logo.svg.png" group-title="MUNDO Y CULTURA",HGTV HD (MX)(P) - ANDR 1
+http://tecnotv.club/f1002/phpcode/lista01.php?c=278430&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/HGTV_logo.svg/250px-HGTV_logo.svg.png" group-title="MUNDO Y CULTURA",HGTV (MX)(P) - ANDR 1
+http://tecnotv.club/f1002/phpcode/lista01.php?c=278429&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4tHxu36QNNJNPHlCvvkbu3pYkNOmWWneI_A&s" group-title="SERIES Y CINE",UNIVERSAL REALITY HD  - TV4 SR REGIO
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4tHxu36QNNJNPHlCvvkbu3pYkNOmWWneI_A&s" group-title="SERIES Y CINE",UNIVERSAL REALITY - ANDR 0
@@ -9685,6 +9685,7 @@ http://radiokn.ddns.net:7000/efir
 
 #EXTINF:-1,RETRO FM UA Romantic
 http://cast.radiogroup.com.ua:8000/retro_romantic
+
 
 
 
