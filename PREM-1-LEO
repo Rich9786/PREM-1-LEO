@@ -462,10 +462,6 @@ http://tecnotv.club/f1002/phpcode/android3.php?c=a0kn&token=tecnotokenplustv
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkH5aJm54v424AJHZ9ymjId4M501rT0W5NYg&s" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL HD S3 - LIS 6
 
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Up1sVbVmqMCrvKMAnQvwLBH1hv7qFLl_rw&s" group-title="MUNDO Y CULTURA",DISCOVERY FAMILIA Latino HD (i) - ANDR 1
-http://tecnotv.club/f1002/phpcode/lista01.php?c=165457&token=tecnotokenplustv&f=.m3u8
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Up1sVbVmqMCrvKMAnQvwLBH1hv7qFLl_rw&s" group-title="MUNDO Y CULTURA",DISCOVERY FAMILIA - ANDR 5
-
 #EXTINF:-1 logo="https://variety.com/wp-content/uploads/2018/10/apl-newmark-cropped-1.jpg?w=651&h=366&crop=1" group-title="MUNDO Y CULTURA",ANIMAL PLANET HD (MX)(P) - ANDR 1
 http://tecnotv.club/f1002/phpcode/lista01.php?c=278617&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 logo="https://variety.com/wp-content/uploads/2018/10/apl-newmark-cropped-1.jpg?w=651&h=366&crop=1" group-title="MUNDO Y CULTURA",ANIMAL PLANET HD - GEO
@@ -552,10 +548,6 @@ http://tecnotv.club/f1002/phpcode/lista01.php?c=278627&token=tecnotokenplustv&f=
 http://tecnotv.club/f1002/phpcode/lista01.php?c=278629&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/ypR4tvy.jpg" group-title="MUNDO Y CULTURA",History 2 - ANDR 3
 http://tecnotv.club/f1002/phpcode/android3.php?c=a0jp&token=tecnotokenplustv
-#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://w1.pngwing.com/pngs/818/201/png-transparent-tv-logo-cable-television-hgtv-organization-blue-text-line-thumbnail.png" group-title="TV PREMIUM 2",HGTV HD (MX)(P) - ANDR 1 
-http://tecnotv.club/f1002/phpcode/lista01.php?c=278430&token=tecnotokenplustv&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://w1.pngwing.com/pngs/818/201/png-transparent-tv-logo-cable-television-hgtv-organization-blue-text-line-thumbnail.png" group-title="TV PREMIUM 2",HGTV (MX)(P) - ANDR 1
-http://tecnotv.club/f1002/phpcode/lista01.php?c=278429&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/496293907886403584/yQYuZTjL_400x400.png" group-title="MUNDO Y CULTURA",NAT GEO MUNDO - ANDR 0
 
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/496293907886403584/yQYuZTjL_400x400.png" group-title="MUNDO Y CULTURA",NAT GEO MUNDO - ANDR 5
@@ -676,6 +668,10 @@ http://tecnotv.club/f1002/phpcode/lista01.php?c=278420&token=tecnotokenplustv&f=
 http://tecnotv.club/f1002/phpcode/android3.php?c=a04v&token=tecnotokenplustv
 #EXTINF:-1 logo="https://i.imgur.com/68ztlZE.png" group-title="ENTRETENIMIENTO",EL GOURMET - GEO
 http://tecnotv.club/f1002/phpcode/geomex.php?c=a04v&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://w1.pngwing.com/pngs/818/201/png-transparent-tv-logo-cable-television-hgtv-organization-blue-text-line-thumbnail.png" group-title="TV PREMIUM 2",HGTV HD (MX)(P) - ANDR 1 
+http://tecnotv.club/f1002/phpcode/lista01.php?c=278430&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://w1.pngwing.com/pngs/818/201/png-transparent-tv-logo-cable-television-hgtv-organization-blue-text-line-thumbnail.png" group-title="TV PREMIUM 2",HGTV (MX)(P) - ANDR 1
+http://tecnotv.club/f1002/phpcode/lista01.php?c=278429&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3eeyyUANdz29RwY4mRf2eVDvC-ebv05qmBg&s" group-title="MEXICO",Sun Channel - GEO
 http://tecnotv.club/f1002/phpcode/geomex.php?c=a050&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3eeyyUANdz29RwY4mRf2eVDvC-ebv05qmBg&s" group-title="MEXICO",Sun Channel - ANDR 3
@@ -688,6 +684,9 @@ http://tecnotv.club/f1002/phpcode/android3.php?c=a050&token=tecnotokenplustv
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3eeyyUANdz29RwY4mRf2eVDvC-ebv05qmBg&s" group-title="MEXICO",Sun Channel - TV2 SR REGIO
 
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Up1sVbVmqMCrvKMAnQvwLBH1hv7qFLl_rw&s" group-title="MUNDO Y CULTURA",DISCOVERY FAMILIA Latino HD (i) - ANDR 1
+http://tecnotv.club/f1002/phpcode/lista01.php?c=165457&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Up1sVbVmqMCrvKMAnQvwLBH1hv7qFLl_rw&s" group-title="MUNDO Y CULTURA",DISCOVERY FAMILIA - ANDR 5
 #EXTINF:-1 logo="https://images-na.ssl-images-amazon.com/images/I/619apfg5DDL.png" group-title="MUNDO Y CULTURA",DW - CL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 logo="https://images-na.ssl-images-amazon.com/images/I/619apfg5DDL.png" group-title="MUNDO Y CULTURA",DW - FLUXUS
@@ -9681,6 +9680,7 @@ http://radiokn.ddns.net:7000/efir
 
 #EXTINF:-1,RETRO FM UA Romantic
 http://cast.radiogroup.com.ua:8000/retro_romantic
+
 
 
 
