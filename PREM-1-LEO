@@ -728,9 +728,9 @@ http://tecnotv.club/f1002/phpcode/lista01.php?c=165458&token=tecnotokenplustv&f=
 
 #EXTINF:-1 logo="https://i.imgur.com/OO9PaGb.jpg" group-title="MUNDO Y CULTURA",H&H HD S3 - TV4 SR REGIO
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/HGTV_logo.svg/250px-HGTV_logo.svg.png" group-title="MUNDO Y CULTURA",HGTV HD (MX)(P) - ANDR 1
+#EXTINF:-1 logo="https://logonoid.com/images/hgtv-logo.png" group-title="MUNDO Y CULTURA",HGTV HD (MX)(P) - ANDR 1
 http://tecnotv.club/f1002/phpcode/lista01.php?c=278430&token=tecnotokenplustv&f=.m3u8
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/HGTV_logo.svg/250px-HGTV_logo.svg.png" group-title="MUNDO Y CULTURA",HGTV (MX)(P) - ANDR 1
+#EXTINF:-1 logo="https://logonoid.com/images/hgtv-logo.png" group-title="MUNDO Y CULTURA",HGTV (MX)(P) - ANDR 1
 http://tecnotv.club/f1002/phpcode/lista01.php?c=278429&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4tHxu36QNNJNPHlCvvkbu3pYkNOmWWneI_A&s" group-title="SERIES Y CINE",UNIVERSAL REALITY HD  - TV4 SR REGIO
 
@@ -9685,6 +9685,7 @@ http://radiokn.ddns.net:7000/efir
 
 #EXTINF:-1,RETRO FM UA Romantic
 http://cast.radiogroup.com.ua:8000/retro_romantic
+
 
 
 
