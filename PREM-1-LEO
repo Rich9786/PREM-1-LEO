@@ -684,10 +684,6 @@ http://tecnotv.club/f1002/phpcode/android3.php?c=a050&token=tecnotokenplustv
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3eeyyUANdz29RwY4mRf2eVDvC-ebv05qmBg&s" group-title="MEXICO",Sun Channel - TV2 SR REGIO
 
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Up1sVbVmqMCrvKMAnQvwLBH1hv7qFLl_rw&s" group-title="MUNDO Y CULTURA",DISCOVERY FAMILIA Latino HD (i) - ANDR 1
-http://tecnotv.club/f1002/phpcode/lista01.php?c=165457&token=tecnotokenplustv&f=.m3u8
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Up1sVbVmqMCrvKMAnQvwLBH1hv7qFLl_rw&s" group-title="MUNDO Y CULTURA",DISCOVERY FAMILIA - ANDR 5
-
 #EXTINF:-1 logo="https://images-na.ssl-images-amazon.com/images/I/619apfg5DDL.png" group-title="MUNDO Y CULTURA",DW - CL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 logo="https://images-na.ssl-images-amazon.com/images/I/619apfg5DDL.png" group-title="MUNDO Y CULTURA",DW - FLUXUS
@@ -699,6 +695,10 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhvEXzKsZ7-EIq0mcNxoDQq2Pi8G7KAbi1WAxwUqp4yPMYKdYu3Rmf-5T8nw8FG2frPPg&usqp=CAU" group-title="Without category",CGTN Español - INDEX GENBETA
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhvEXzKsZ7-EIq0mcNxoDQq2Pi8G7KAbi1WAxwUqp4yPMYKdYu3Rmf-5T8nw8FG2frPPg&usqp=CAU" group-title="Without category",CGTN Español - ANDR 2
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Up1sVbVmqMCrvKMAnQvwLBH1hv7qFLl_rw&s" group-title="MUNDO Y CULTURA",DISCOVERY FAMILIA Latino HD (i) - ANDR 1
+http://tecnotv.club/f1002/phpcode/lista01.php?c=165457&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Up1sVbVmqMCrvKMAnQvwLBH1hv7qFLl_rw&s" group-title="MUNDO Y CULTURA",DISCOVERY FAMILIA - ANDR 5
 
 #EXTINF:-1 group-title="CHILE"  tvg-id="1193" tvg-name="13 Cultura" tvg-logo="https://cdn.rudo.video/assets/canal-13/live/live_f4f785de4a7161c44067e2739f11c7221744745430.png", 13 Cultura
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8?tecnotv
@@ -9681,6 +9681,7 @@ http://radiokn.ddns.net:7000/efir
 
 #EXTINF:-1,RETRO FM UA Romantic
 http://cast.radiogroup.com.ua:8000/retro_romantic
+
 
 
 
