@@ -728,47 +728,43 @@ http://tecnotv.club/f1002/phpcode/lista01.php?c=165458&token=tecnotokenplustv&f=
 
 #EXTINF:-1 logo="https://i.imgur.com/OO9PaGb.jpg" group-title="MUNDO Y CULTURA",H&H HD S3 - TV4 SR REGIO
 
-#EXTINF:-1 logo="https://logonoid.com/images/hgtv-logo.png" group-title="MUNDO Y CULTURA",HGTV HD (MX)(P) - ANDR 1
-http://tecnotv.club/f1002/phpcode/lista01.php?c=278430&token=tecnotokenplustv&f=.m3u8
-#EXTINF:-1 logo="https://logonoid.com/images/hgtv-logo.png" group-title="MUNDO Y CULTURA",HGTV (MX)(P) - ANDR 1
-http://tecnotv.club/f1002/phpcode/lista01.php?c=278429&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4tHxu36QNNJNPHlCvvkbu3pYkNOmWWneI_A&s" group-title="SERIES Y CINE",UNIVERSAL REALITY HD  - TV4 SR REGIO
 
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4tHxu36QNNJNPHlCvvkbu3pYkNOmWWneI_A&s" group-title="SERIES Y CINE",UNIVERSAL REALITY - ANDR 0
-http://clubtv.link/11agt/phpcode/android0.php?c=905&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4tHxu36QNNJNPHlCvvkbu3pYkNOmWWneI_A&s" group-title="SERIES Y CINE",UNIVERSAL REALITY - ANDR 1
-http://clubtv.link/11agt/phpcode/android1.php?c=905&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4tHxu36QNNJNPHlCvvkbu3pYkNOmWWneI_A&s" group-title="SERIES Y CINE",UNIVERSAL REALITY HD - ANDR 4
-
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4tHxu36QNNJNPHlCvvkbu3pYkNOmWWneI_A&s" group-title="SERIES Y CINE",UNIVERSAL REALITY HD - LIS 3
-
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4tHxu36QNNJNPHlCvvkbu3pYkNOmWWneI_A&s" group-title="SERIES Y CINE",Universal Reality HD (MX)(P) - ANDR 1
+http://tecnotv.club/f1002/phpcode/lista01.php?c=278478&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4tHxu36QNNJNPHlCvvkbu3pYkNOmWWneI_A&s" group-title="SERIES Y CINE",UNIVERSAL REALITY - GEO
+http://tecnotv.club/f1002/phpcode/geomex.php?c=a0i3&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4tHxu36QNNJNPHlCvvkbu3pYkNOmWWneI_A&s" group-title="SERIES Y CINE",Uni-versal Reality (MX)(i) - ANDR 1
+http://tecnotv.club/f1002/phpcode/lista01.php?c=160109&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4tHxu36QNNJNPHlCvvkbu3pYkNOmWWneI_A&s" group-title="SERIES Y CINE",UNIVERSAL REALITY HD - ANDR 3
+http://tecnotv.club/f1002/phpcode/android3.php?c=a0i3&token=tecnotokenplustv
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4tHxu36QNNJNPHlCvvkbu3pYkNOmWWneI_A&s" group-title="SERIES Y CINE",UNIVERSAL REALITY - LIS 3
 
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/co_lifetime_m.png" group-title="SERIES Y CINE",LIFETIME - TV4 SR REGIO
-http://177.93.46.163:8000/play/a00h
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/co_lifetime_m.png" group-title="SERIES Y CINE",LIFETIME - TV8 SR REGIO
-http://200.59.188.3:8000/play/a05p
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/co_lifetime_m.png" group-title="SERIES Y CINE",LIFETIME - ANDR 0
-http://clubtv.link/11agt/phpcode/android0.php?c=152&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/co_lifetime_m.png" group-title="SERIES Y CINE",LIFETIME - ANDR 1 
-http://clubtv.link/11agt/phpcode/android1.php?c=152&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/co_lifetime_m.png" group-title="SERIES Y CINE",LIFETIME - TV6 SR REGIO
-
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/co_lifetime_m.png" group-title="SERIES Y CINE",LIFETIME - TV4 SR REGIO
-
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/co_lifetime_m.png" group-title="SERIES Y CINE",LIFETIME - GEO
+http://tecnotv.club/f1002/phpcode/geomex.php?c=a0gb&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/co_lifetime_m.png" group-title="SERIES Y CINE",LIFETIME HD i - ANDR 1
+http://tecnotv.club/f1002/phpcode/lista01.php?c=298507&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/co_lifetime_m.png" group-title="SERIES Y CINE",LIFETIME HD op2 i - ANDR 1
+http://tecnotv.club/f1002/phpcode/lista01.php?c=298382&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/co_lifetime_m.png" group-title="SERIES Y CINE",LIFETIME HD (MX)(P) - ANDR 1 
+http://tecnotv.club/f1002/phpcode/lista01.php?c=278433&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/co_lifetime_m.png" group-title="SERIES Y CINE",LIFETIME (MX)(P) - ANDR 1
+http://tecnotv.club/f1002/phpcode/lista01.php?c=278432&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/co_lifetime_m.png" group-title="SERIES Y CINE",LIFETIME - ANDR 3
+http://tecnotv.club/f1002/phpcode/android3.php?c=a0gb&token=tecnotokenplustv
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/co_lifetime_m.png" group-title="SERIES Y CINE",LIFETIME - TV8 SR REGIO
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/co_lifetime_m.png" group-title="SERIES Y CINE",LIFETIME - TV9 SR REGIO
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TLC_Logo_Germany.svg/1280px-TLC_Logo_Germany.svg.png" group-title="MUNDO Y CULTURA",TLC S1 - TV4 SR REGIO
-http://177.93.46.163:8000/play/a017
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TLC_Logo_Germany.svg/1280px-TLC_Logo_Germany.svg.png" group-title="MUNDO Y CULTURA",TLC S1 - TV8 SR REGIO
-http://200.59.188.3:8000/play/a07k
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TLC_Logo_Germany.svg/1280px-TLC_Logo_Germany.svg.png" group-title="MUNDO Y CULTURA",TLC S2 - ANDR 0
-http://clubtv.link/11agt/phpcode/android0.php?c=87&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TLC_Logo_Germany.svg/1280px-TLC_Logo_Germany.svg.png" group-title="MUNDO Y CULTURA",TLC S2 - ANDR 1
-http://clubtv.link/11agt/phpcode/android1.php?c=87&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TLC_Logo_Germany.svg/1280px-TLC_Logo_Germany.svg.png" group-title="MUNDO Y CULTURA",TLC - TV6 SR REGIO
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxzsldCfL4yUw7Wl3hMdFpGyh97Gn2oU_V_Q&s" group-title="MUNDO Y CULTURA",DISCOVERY TLC HD (MX)(P) - ANDR 1
+http://177.93.46.163:8000/play/a017DISCOVERY TLC HD (MX)(P)
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxzsldCfL4yUw7Wl3hMdFpGyh97Gn2oU_V_Q&s" group-title="MUNDO Y CULTURA",Discovery TLC (MX)(P) - ANDR 1
+http://tecnotv.club/f1002/phpcode/lista01.php?c=278407&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxzsldCfL4yUw7Wl3hMdFpGyh97Gn2oU_V_Q&s" group-title="MUNDO Y CULTURA",TLC - GEO
+http://tecnotv.club/f1002/phpcode/geomex.php?c=a0hh&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxzsldCfL4yUw7Wl3hMdFpGyh97Gn2oU_V_Q&s" group-title="MUNDO Y CULTURA",TLC - ANDR 3
+http://tecnotv.club/f1002/phpcode/android3.php?c=a0hh&token=tecnotokenplustv
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxzsldCfL4yUw7Wl3hMdFpGyh97Gn2oU_V_Q&s" group-title="MUNDO Y CULTURA",TLC - TV6 SR REGIO
 
 
 
@@ -9685,6 +9681,7 @@ http://radiokn.ddns.net:7000/efir
 
 #EXTINF:-1,RETRO FM UA Romantic
 http://cast.radiogroup.com.ua:8000/retro_romantic
+
 
 
 
