@@ -668,10 +668,6 @@ http://tecnotv.club/f1002/phpcode/lista01.php?c=278420&token=tecnotokenplustv&f=
 http://tecnotv.club/f1002/phpcode/android3.php?c=a04v&token=tecnotokenplustv
 #EXTINF:-1 logo="https://i.imgur.com/68ztlZE.png" group-title="ENTRETENIMIENTO",EL GOURMET - GEO
 http://tecnotv.club/f1002/phpcode/geomex.php?c=a04v&token=tecnotokenplustv&f=.m3u8
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Up1sVbVmqMCrvKMAnQvwLBH1hv7qFLl_rw&s" group-title="MUNDO Y CULTURA",DISCOVERY FAMILIA Latino HD (i) - ANDR 1
-http://tecnotv.club/f1002/phpcode/lista01.php?c=165457&token=tecnotokenplustv&f=.m3u8
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Up1sVbVmqMCrvKMAnQvwLBH1hv7qFLl_rw&s" group-title="MUNDO Y CULTURA",DISCOVERY FAMILIA - ANDR 5
-
 #EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://w1.pngwing.com/pngs/818/201/png-transparent-tv-logo-cable-television-hgtv-organization-blue-text-line-thumbnail.png" group-title="TV PREMIUM 2",HGTV HD (MX)(P) - ANDR 1 
 http://tecnotv.club/f1002/phpcode/lista01.php?c=278430&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://w1.pngwing.com/pngs/818/201/png-transparent-tv-logo-cable-television-hgtv-organization-blue-text-line-thumbnail.png" group-title="TV PREMIUM 2",HGTV (MX)(P) - ANDR 1
@@ -687,6 +683,10 @@ http://tecnotv.club/f1002/phpcode/android3.php?c=a050&token=tecnotokenplustv
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3eeyyUANdz29RwY4mRf2eVDvC-ebv05qmBg&s" group-title="MEXICO",Sun Channel HD - LIS 6
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3eeyyUANdz29RwY4mRf2eVDvC-ebv05qmBg&s" group-title="MEXICO",Sun Channel - TV2 SR REGIO
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Up1sVbVmqMCrvKMAnQvwLBH1hv7qFLl_rw&s" group-title="MUNDO Y CULTURA",DISCOVERY FAMILIA Latino HD (i) - ANDR 1
+http://tecnotv.club/f1002/phpcode/lista01.php?c=165457&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Up1sVbVmqMCrvKMAnQvwLBH1hv7qFLl_rw&s" group-title="MUNDO Y CULTURA",DISCOVERY FAMILIA - ANDR 5
 
 #EXTINF:-1 logo="https://images-na.ssl-images-amazon.com/images/I/619apfg5DDL.png" group-title="MUNDO Y CULTURA",DW - CL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?PlaylistM3UCL
@@ -9681,6 +9681,7 @@ http://radiokn.ddns.net:7000/efir
 
 #EXTINF:-1,RETRO FM UA Romantic
 http://cast.radiogroup.com.ua:8000/retro_romantic
+
 
 
 
