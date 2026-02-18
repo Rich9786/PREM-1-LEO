@@ -784,32 +784,32 @@ http://158.69.226.108:8000/live/Vfjjjhj/Djdkfk/1638.ts
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrEPg2wnnk9iRFvsrZoK4xY-DgycT1FRxKjg&s" group-title="ENTRETENIMIENTO",TELEMUNDO 52 LA - LIS
 
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_telemundo_m.png" group-title="ENTRETENIMIENTO",TELEMUNDO INTERNACIONAL S1 - TV4 SR REGIO
-http://177.93.46.163:8000/play/a01c
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_telemundo_m.png" group-title="ENTRETENIMIENTO",TELEMUNDO INTERNACIONAL HD - TV5 SR REGIO
-
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_telemundo_m.png" group-title="ENTRETENIMIENTO",Telemundo HD INTERNACIONAL - GEO
+http://tecnotv.club/f1002/phpcode/geomex.php?c=a0gv&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_telemundo_m.png" group-title="ENTRETENIMIENTO",TELEMUNDO INTER HD - LIS 4
+http://tecnotv.club/f1002/phpcode/lista4.php?c=a0mg&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_telemundo_m.png" group-title="ENTRETENIMIENTO",TELEMUNDO INTERNACIONAL HD - TV6 SR REGIO
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_telemundo_m.png" group-title="ENTRETENIMIENTO",TELEMUNDO INTERNACIONAL S1 - TV8 SR REGIO
-http://200.59.188.3:8000/play/a07p
+
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_telemundo_m.png" group-title="ENTRETENIMIENTO",TELEMUNDO INTERNACIONAL HD - TV10 SR REGIO
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_telemundo_m.png" group-title="ENTRETENIMIENTO",TELEMUNDO INTERNACIONAL HD S2 - ANDR 0
-http://clubtv.link/11agt/phpcode/android0.php?c=660&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_telemundo_m.png" group-title="ENTRETENIMIENTO",TELEMUNDO INTERNACIONAL HD S2 - ANDR 1
-http://clubtv.link/11agt/phpcode/android1.php?c=660&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_telemundo_m.png" group-title="ENTRETENIMIENTO",TELEMUNDO MIAMI - LIS 6
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiJ7I3SCJ941BEElCBq7AdphluhQMvCzzfhw&s" group-title="ENTRETENIMIENTO",TELEMUNDO INTERNACIONAL - TV8 SR REGIO
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiJ7I3SCJ941BEElCBq7AdphluhQMvCzzfhw&s" group-title="ENTRETENIMIENTO",TELEMUNDO INTERNACIONAL HD - TV10 SR REGIO
 
-#EXTINF:-1 logo="https://www.cablemaster.com.mx/images/Logos/azmundo.jpg" group-title="ENTRETENIMIENTO",AZ MUNDO - TV5
-http://45.228.234.167:8000/play/a02q/index.m3u8
-#EXTINF:-1 logo="https://www.cablemaster.com.mx/images/Logos/azmundo.jpg" group-title="ENTRETENIMIENTO",AZ MUNDO - TV7
-http://45.228.234.167:8000/play/a02q/index.m3u8
+#EXTINF:-1 logo="https://www.cablemaster.com.mx/images/Logos/azmundo.jpg" group-title="ENTRETENIMIENTO",AZTECA MUNDO HD (MX)(P) - ANDR 1
+http://tecnotv.club/f1002/phpcode/lista01.php?c=278357&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 logo="https://www.cablemaster.com.mx/images/Logos/azmundo.jpg" group-title="ENTRETENIMIENTO",AZTECA MUNDO (MX)(P) - ANDR 1
+http://tecnotv.club/f1002/phpcode/lista01.php?c=278356&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 logo="https://www.cablemaster.com.mx/images/Logos/azmundo.jpg" group-title="ENTRETENIMIENTO",AZ MUNDO - LISP
-http://clubtv.link/11agt/phpcode/lista0.php?c=87&token=TecnoplusJunio03&f=.m3u8
+
 #EXTINF:-1 logo="https://www.cablemaster.com.mx/images/Logos/azmundo.jpg" group-title="ENTRETENIMIENTO",AZ MUNDO - ANDR 1
 
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/doblaje/images/0/0a/Teleamazonas.jpg/revision/latest?cb=20160131021333&path-prefix=es" group-title="ENTRETENIMIENTO",TELEAMAZONAS - ANDR 0
@@ -819,25 +819,25 @@ http://clubtv.link/11agt/phpcode/lista0.php?c=87&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 tvg-id="1425" tvg-name="Kanal D Drama" tvg-logo="https://cdn.m3u.cl/logo/1425_Kanal_D_Drama.png",Kanal D Drama | TOP TR
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1425" tvg-name="Kanal D Drama" tvg-logo="https://cdn.m3u.cl/logo/1425_Kanal_D_Drama.png",Kanal D Drama HD | TV8 SR REGIO
-http://200.59.188.3:8000/play/a021
+http://tecnotv.club/f1002/phpcode/lista01.php?c=296581&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 logo="https://static.latamwbd.com/2023-06/TNT_NOVELAS_logo.jpg?w=900" group-title="ENTRETENIMIENTO", TNT NOVELAS (tbs) - TV4 SR REGIO
-http://177.93.46.163:8000/play/a01g
-#EXTINF:-1 logo="https://static.latamwbd.com/2023-06/TNT_NOVELAS_logo.jpg?w=900" group-title="ENTRETENIMIENTO", TNT NOVELAS (tbs) - ANDR 0
-http://clubtv.link/11agt/phpcode/android0.php?c=171&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 logo="https://static.latamwbd.com/2023-06/TNT_NOVELAS_logo.jpg?w=900" group-title="ENTRETENIMIENTO", TNT NOVELAS (tbs) - ANDR 1
-http://clubtv.link/11agt/phpcode/android1.php?c=171&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 logo="https://static.latamwbd.com/2023-06/TNT_NOVELAS_logo.jpg?w=900" group-title="ENTRETENIMIENTO", TNT NOVELAS (tbs) - ANDR 2
-http://clubtv.link/11agt/phpcode/android2.php?c=171&token=TecnoplusJunio03&f=.m3u8|User-Agent=plpro.org
+
+#EXTINF:-1 logo="https://static.latamwbd.com/2023-06/TNT_NOVELAS_logo.jpg?w=900" group-title="ENTRETENIMIENTO", TNT Novelas (MX)(P) (tbs) - ANDR 1
+http://tecnotv.club/f1002/phpcode/lista01.php?c=278408&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 logo="https://static.latamwbd.com/2023-06/TNT_NOVELAS_logo.jpg?w=900" group-title="ENTRETENIMIENTO", TNT NOVELAS (tbs) - LIS 4
+http://tecnotv.club/f1002/phpcode/lista4.php?c=a0m2&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 logo="https://static.latamwbd.com/2023-06/TNT_NOVELAS_logo.jpg?w=900" group-title="ENTRETENIMIENTO", TNT NOVELAS (tbs) - GEO
+http://tecnotv.club/f1002/phpcode/geomex.php?c=a0g9&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnSHDEyFQMmYuCEW6VYPEKDgdl-Sntl2NhvbI4KvK3LZxMCLYNwtY0Xg0PIDBUtPG-9l8&usqp=CAU" group-title="ENTRETENIMIENTO",E! HD - TV SR REGIO
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnSHDEyFQMmYuCEW6VYPEKDgdl-Sntl2NhvbI4KvK3LZxMCLYNwtY0Xg0PIDBUtPG-9l8&usqp=CAU" group-title="ENTRETENIMIENTO",E! HD - TV4 SR REGIO
-http://177.93.46.163:8000/play/a012
+
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnSHDEyFQMmYuCEW6VYPEKDgdl-Sntl2NhvbI4KvK3LZxMCLYNwtY0Xg0PIDBUtPG-9l8&usqp=CAU" group-title="ENTRETENIMIENTO",E! - ANDR 0
-http://clubtv.link/11agt/phpcode/android0.php?c=483&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnSHDEyFQMmYuCEW6VYPEKDgdl-Sntl2NhvbI4KvK3LZxMCLYNwtY0Xg0PIDBUtPG-9l8&usqp=CAU" group-title="ENTRETENIMIENTO",E! - ANDR 1
-http://clubtv.link/11agt/phpcode/android1.php?c=483&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnSHDEyFQMmYuCEW6VYPEKDgdl-Sntl2NhvbI4KvK3LZxMCLYNwtY0Xg0PIDBUtPG-9l8&usqp=CAU" group-title="ENTRETENIMIENTO",E! - ANDR 2
-http://clubtv.link/11agt/phpcode/android2.php?c=33&token=TecnoplusJunio03&f=.m3u8|User-Agent=plpro.org
+
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdt4XRhHlfKDKlOzuYR1-_8-rNXTOT41VXIQ&s" group-title="SERIES Y CINE",CLAN (ES) - ESP
 http://clubtv.link/11agt/phpcode/esp.php?c=2565
 #EXTINF:-1 logo="https://yt3.googleusercontent.com/ytc/AOPolaS4dCt0-dWZaHtmO1K1-vSDDdIsDNMBvVX-TSqX=s900-c-k-c0x00ffffff-no-rj" group-title="ENTRETENIMIENTO",CANAL CLARO - TV8 SR REGIO
@@ -9681,6 +9681,7 @@ http://radiokn.ddns.net:7000/efir
 
 #EXTINF:-1,RETRO FM UA Romantic
 http://cast.radiogroup.com.ua:8000/retro_romantic
+
 
 
 
