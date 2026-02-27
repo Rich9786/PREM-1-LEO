@@ -1590,12 +1590,6 @@ http://tecnotv.club/24feb/phpcode/lista01.php?c=166928&token=tecnotokenplustv230
 
 #EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel HD S2 - TV10 SR REGIO
 
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8g4pgtD9NRV7Q3SMRX1XUcxAkSyd3qR23Mw&s" group-title="SERIES Y CINE",SONY S1 - TV SR REGIO
-
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8g4pgtD9NRV7Q3SMRX1XUcxAkSyd3qR23Mw&s" group-title="SERIES Y CINE",SONY S1 - TV6 SR REGIO
-
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8g4pgtD9NRV7Q3SMRX1XUcxAkSyd3qR23Mw&s" group-title="SERIES Y CINE",SONY S1 - TV4 SR REGIO
-
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8g4pgtD9NRV7Q3SMRX1XUcxAkSyd3qR23Mw&s" group-title="SERIES Y CINE",Sony Cine HD (MX)(i) S1 - ANDR 1
 http://tecnotv.club/24feb/phpcode/lista01.php?c=158792&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8g4pgtD9NRV7Q3SMRX1XUcxAkSyd3qR23Mw&s" group-title="SERIES Y CINE",SONY (MX)(P) S2 - ANDR 1
@@ -1612,54 +1606,52 @@ http://tecnotv.club/24feb/phpcode/lista01.php?c=159257&token=tecnotokenplustv230
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8g4pgtD9NRV7Q3SMRX1XUcxAkSyd3qR23Mw&s" group-title="SERIES Y CINE",SONY S3 - ANDR 1
 
-#EXTINF:-1 logo="https://1.bp.blogspot.com/-JQNiUM4A2QI/X9TG0We7WCI/AAAAAAAA7lg/ELH2-qgU4pE0ENl7bTw9ya9dCAO5kkzcACLcBGAsYHQ/s378/warner-channel.png" group-title="SERIES Y CINE",WARNER HD S1 - ANDR 2
-http://clubtv.link/11agt/phpcode/android2.php?c=102&token=TecnoplusJunio03&f=.m3u8|User-Agent=plpro.org
-#EXTINF:-1 logo="https://1.bp.blogspot.com/-JQNiUM4A2QI/X9TG0We7WCI/AAAAAAAA7lg/ELH2-qgU4pE0ENl7bTw9ya9dCAO5kkzcACLcBGAsYHQ/s378/warner-channel.png" group-title="SERIES Y CINE",WARNER S2 - TV4 SR REGIO
-http://177.93.46.163:8000/play/a011
-#EXTINF:-1 logo="https://1.bp.blogspot.com/-JQNiUM4A2QI/X9TG0We7WCI/AAAAAAAA7lg/ELH2-qgU4pE0ENl7bTw9ya9dCAO5kkzcACLcBGAsYHQ/s378/warner-channel.png" group-title="SERIES Y CINE",WARNER S2 - TV8 SR REGIO
-http://200.59.188.3:8000/play/a070
-#EXTINF:-1 logo="https://1.bp.blogspot.com/-JQNiUM4A2QI/X9TG0We7WCI/AAAAAAAA7lg/ELH2-qgU4pE0ENl7bTw9ya9dCAO5kkzcACLcBGAsYHQ/s378/warner-channel.png" group-title="SERIES Y CINE",WARNER HD S2- TV8 SR REGIO
-http://200.59.188.3:8000/play/a00h
+#EXTINF:-1 logo="https://1.bp.blogspot.com/-JQNiUM4A2QI/X9TG0We7WCI/AAAAAAAA7lg/ELH2-qgU4pE0ENl7bTw9ya9dCAO5kkzcACLcBGAsYHQ/s378/warner-channel.png" group-title="SERIES Y CINE",Warner Latino (i) - ANDR 1
+http://tecnotv.club/24feb/phpcode/lista01.php?c=165455&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://1.bp.blogspot.com/-JQNiUM4A2QI/X9TG0We7WCI/AAAAAAAA7lg/ELH2-qgU4pE0ENl7bTw9ya9dCAO5kkzcACLcBGAsYHQ/s378/warner-channel.png" group-title="SERIES Y CINE",WARNER HD (MX)(P) - ANDR 1
+http://tecnotv.club/24feb/phpcode/lista01.php?c=278454&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://1.bp.blogspot.com/-JQNiUM4A2QI/X9TG0We7WCI/AAAAAAAA7lg/ELH2-qgU4pE0ENl7bTw9ya9dCAO5kkzcACLcBGAsYHQ/s378/warner-channel.png" group-title="SERIES Y CINE",WARNER (MX)(P) - ANDR 1
+http://tecnotv.club/24feb/phpcode/lista01.php?c=278453&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://1.bp.blogspot.com/-JQNiUM4A2QI/X9TG0We7WCI/AAAAAAAA7lg/ELH2-qgU4pE0ENl7bTw9ya9dCAO5kkzcACLcBGAsYHQ/s378/warner-channel.png" group-title="SERIES Y CINE",WARNER HD - GEO
+http://tecnotv.club/24feb/phpcode/geomex.php?c=a0ho&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://1.bp.blogspot.com/-JQNiUM4A2QI/X9TG0We7WCI/AAAAAAAA7lg/ELH2-qgU4pE0ENl7bTw9ya9dCAO5kkzcACLcBGAsYHQ/s378/warner-channel.png" group-title="SERIES Y CINE",WARNER HD S2 - ANDR 0
-http://clubtv.link/11agt/phpcode/android0.php?c=503&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+
 #EXTINF:-1 logo="https://1.bp.blogspot.com/-JQNiUM4A2QI/X9TG0We7WCI/AAAAAAAA7lg/ELH2-qgU4pE0ENl7bTw9ya9dCAO5kkzcACLcBGAsYHQ/s378/warner-channel.png" group-title="SERIES Y CINE",WARNER HD S2 - ANDR 1
-http://clubtv.link/11agt/phpcode/android1.php?c=503&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+
 #EXTINF:-1 logo="https://1.bp.blogspot.com/-JQNiUM4A2QI/X9TG0We7WCI/AAAAAAAA7lg/ELH2-qgU4pE0ENl7bTw9ya9dCAO5kkzcACLcBGAsYHQ/s378/warner-channel.png" group-title="SERIES Y CINE",WARNER HD S2 - ANDR 3
-http://clubtv.link/11agt/phpcode/android3.php?c=a04s&token=TecnoplusJunio03
-#EXTINF:-1 logo="https://1.bp.blogspot.com/-JQNiUM4A2QI/X9TG0We7WCI/AAAAAAAA7lg/ELH2-qgU4pE0ENl7bTw9ya9dCAO5kkzcACLcBGAsYHQ/s378/warner-channel.png" group-title="SERIES Y CINE",WARNER HD -1h - TV9 SR REGIO
-
-#EXTINF:-1 logo="https://1.bp.blogspot.com/-JQNiUM4A2QI/X9TG0We7WCI/AAAAAAAA7lg/ELH2-qgU4pE0ENl7bTw9ya9dCAO5kkzcACLcBGAsYHQ/s378/warner-channel.png" group-title="SERIES Y CINE",WARNER HD -1h - TV10 SR REGIO
-
-#EXTINF:-1 logo="https://1.bp.blogspot.com/-JQNiUM4A2QI/X9TG0We7WCI/AAAAAAAA7lg/ELH2-qgU4pE0ENl7bTw9ya9dCAO5kkzcACLcBGAsYHQ/s378/warner-channel.png" group-title="SERIES Y CINE",WARNER  -2h - TV6 SR REGIO
 
 #EXTINF:-1 logo="https://w7.pngwing.com/pngs/897/89/png-transparent-logo-universal-channel-high-definition-television-olympic-channel-television-channel-universal-kids-purple-television-violet-thumbnail.png" group-title="SERIES Y CINE",UNIVERSAL HD S1 - ANDR 3
-http://clubtv.link/11agt/phpcode/android3.php?c=a04q&token=TecnoplusJunio03
+
 #EXTINF:-1 logo="https://w7.pngwing.com/pngs/897/89/png-transparent-logo-universal-channel-high-definition-television-olympic-channel-television-channel-universal-kids-purple-television-violet-thumbnail.png" group-title="SERIES Y CINE",UNIVERSAL S2 - TV4 SR REGIO
-http://177.93.46.163:8000/play/a008
+
 #EXTINF:-1 logo="https://w7.pngwing.com/pngs/897/89/png-transparent-logo-universal-channel-high-definition-television-olympic-channel-television-channel-universal-kids-purple-television-violet-thumbnail.png" group-title="SERIES Y CINE",UNIVERSAL S2- TV8 SR REGIO
-http://200.59.188.3:8000/play/a05a
-#EXTINF:-1 logo="https://w7.pngwing.com/pngs/897/89/png-transparent-logo-universal-channel-high-definition-television-olympic-channel-television-channel-universal-kids-purple-television-violet-thumbnail.png" group-title="SERIES Y CINE",UNIVERSAL S2 - TV9 SR REGIO
 
-#EXTINF:-1 logo="https://w7.pngwing.com/pngs/897/89/png-transparent-logo-universal-channel-high-definition-television-olympic-channel-television-channel-universal-kids-purple-television-violet-thumbnail.png" group-title="SERIES Y CINE",UNIVERSAL HD S3 - ANDR 0
-http://clubtv.link/11agt/phpcode/android0.php?c=137&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 logo="https://w7.pngwing.com/pngs/897/89/png-transparent-logo-universal-channel-high-definition-television-olympic-channel-television-channel-universal-kids-purple-television-violet-thumbnail.png" group-title="SERIES Y CINE",UNIVERSAL HD S3 - ANDR 1
-http://clubtv.link/11agt/phpcode/android1.php?c=137&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 logo="https://w7.pngwing.com/pngs/897/89/png-transparent-logo-universal-channel-high-definition-television-olympic-channel-television-channel-universal-kids-purple-television-violet-thumbnail.png" group-title="SERIES Y CINE",Universal S1 - GEO
+
+#EXTINF:-1 logo="https://w7.pngwing.com/pngs/897/89/png-transparent-logo-universal-channel-high-definition-television-olympic-channel-television-channel-universal-kids-purple-television-violet-thumbnail.png" group-title="SERIES Y CINE",UNIVERSAL TV HD (MX)(P) S2 - ANDR 1
+http://tecnotv.club/24feb/phpcode/lista01.php?c=278449&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://w7.pngwing.com/pngs/897/89/png-transparent-logo-universal-channel-high-definition-television-olympic-channel-television-channel-universal-kids-purple-television-violet-thumbnail.png" group-title="SERIES Y CINE",UNIVERSAL TV (MX)(P) S2 - ANDR 1
+http://tecnotv.club/24feb/phpcode/lista01.php?c=278448&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://w7.pngwing.com/pngs/897/89/png-transparent-logo-universal-channel-high-definition-television-olympic-channel-television-channel-universal-kids-purple-television-violet-thumbnail.png" group-title="SERIES Y CINE",UNIVERSAL S3 - ANDR 2
-http://clubtv.link/11agt/phpcode/android2.php?c=137&token=TecnoplusJunio03&f=.m3u8|User-Agent=plpro.org
-#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Universal_Premiere.svg/revision/latest/smart/width/250/height/250?cb=20220311031855" group-title="SERIES Y CINE",UNIVERSAL PREMIERE HD S1 - TV4 SR REGIO
 
+#EXTINF:-1 logo="https://www.vertvcable.com/wp-content/uploads/2022/07/universalpremiere.jpg" group-title="SERIES Y CINE",UNIVERSAL PREMIERE O HD - ANDR 1
+http://tecnotv.club/24feb/phpcode/geomex.php?c=a0i2&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://www.vertvcable.com/wp-content/uploads/2022/07/universalpremiere.jpg" group-title="SERIES Y CINE",Universal Premier Este HD (MX)(P) - ANDR 1
+http://tecnotv.club/24feb/phpcode/lista01.php?c=278476&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://www.vertvcable.com/wp-content/uploads/2022/07/universalpremiere.jpg" group-title="SERIES Y CINE",Universal Premier Oeste HD (MX)(P) - ANDR 1
+http://tecnotv.club/24feb/phpcode/lista01.php?c=278477&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Universal_Premiere.svg/revision/latest/smart/width/250/height/250?cb=20220311031855" group-title="SERIES Y CINE",UNIVERSAL PREMIERE HD S1 - TV6 SR REGIO
 
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Universal_Premiere.svg/revision/latest/smart/width/250/height/250?cb=20220311031855" group-title="SERIES Y CINE",UNIVERSAL PREMIERE HD S1 - TV10 SR REGIO
 
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Universal_Premiere.svg/revision/latest/smart/width/250/height/250?cb=20220311031855" group-title="SERIES Y CINE",UNIVERSAL PREMIERE S1 - TV8 SR REGIO
-http://200.59.188.3:8000/play/a06t
+
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Universal_Premiere.svg/revision/latest/smart/width/250/height/250?cb=20220311031855" group-title="SERIES Y CINE",UNIVERSAL PREMIERE S2 - ANDR 0
-http://clubtv.link/11agt/phpcode/android0.php?c=901&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/tvcable/images/d/dd/UniversalPremiere.png/revision/latest?cb=20240130200911&path-prefix=es" group-title="SERIES Y CINE",UNIVERSAL PREMIERE  S2 - ANDR 1
-http://clubtv.link/11agt/phpcode/android1.php?c=901&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/tvcable/images/d/dd/UniversalPremiere.png/revision/latest?cb=20240130200911&path-prefix=es" group-title="SERIES Y CINE",UNIVERSAL PREMIERE  S2 - ANDR 2
-http://clubtv.link/11agt/phpcode/android2.php?c=901&token=TecnoplusJunio03&f=.m3u8|User-Agent=plpro.org
+
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/sailormoonenglishanime/images/a/ac/USA_Network_%28Milgreen%29.png/revision/latest?cb=20141101163109" group-title="SERIES Y CINE",USA S1 - TV2 
 http://177.93.46.163:8000/play/a00i
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6nG1fHhEe2l2lGmZKOFP5SjbK1CsErwjWwtVz3jk_G-6xJYDjTItukvwtks-ijuddXfw&usqp=CAU" group-title="SERIES Y CINE",USA S1 - TV4
@@ -9687,6 +9679,7 @@ http://radiokn.ddns.net:7000/efir
 
 #EXTINF:-1,RETRO FM UA Romantic
 http://cast.radiogroup.com.ua:8000/retro_romantic
+
 
 
 
