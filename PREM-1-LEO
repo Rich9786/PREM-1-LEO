@@ -1726,12 +1726,12 @@ http://tecnotv.club/FEB27/phpcode/lista2.php?c=a0b0&f=.m3u8&token=tecnotokenplus
 http://tecnotv.club/FEB27/phpcode/lista4.php?c=a0b0&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnbtKSukxgLre37kBp2mHcm6FyWnotLCxKfA&s" group-title="SERIES Y CINE",A3 SERIES - ANDR 3
 http://tecnotv.club/FEB27/phpcode/android3.php?c=a0b0&token=tecnotokenplustv230516F
-#EXTINF:-1 tvg-id="1032" tvg-name="13 Teleseries" tvg-logo="https://i2.paste.pics/863aea4fb1445b58f89afc7c692ed509.png", 13 Teleseries | CL
-
-
-
-
-
+#EXTINF:-1 tvg-id="1032" tvg-name="13 Teleseries" tvg-logo="https://i2.paste.pics/863aea4fb1445b58f89afc7c692ed509.png", 13 Teleseries - LIS 2
+http://tecnotv.club/FEB27/phpcode/lista2.php?c=a0ni&f=.m3u8&token=tecnotokenplustv230516F
+#EXTINF:-1 tvg-id="1032" tvg-name="13 Teleseries" tvg-logo="https://i2.paste.pics/863aea4fb1445b58f89afc7c692ed509.png", 13 Teleseries - LIS 4
+http://tecnotv.club/FEB27/phpcode/lista4.php?c=a0ni&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-id="1032" tvg-name="13 Teleseries" tvg-logo="https://i2.paste.pics/863aea4fb1445b58f89afc7c692ed509.png", 13 Teleseries - ANDR 3
+http://tecnotv.club/FEB27/phpcode/android3.php?c=a0ni&token=tecnotokenplustv230516F
 
 
 #EXTINF:-1 tvg-id="" tvg-name="==== CANALES CINE ====" tvg-logo="https://www.shutterstock.com/image-vector/movie-time-600nw-324455369.jpg" group-title="Cine",== CINE ==
@@ -9615,6 +9615,7 @@ http://radiokn.ddns.net:7000/efir
 
 #EXTINF:-1,RETRO FM UA Romantic
 http://cast.radiogroup.com.ua:8000/retro_romantic
+
 
 
 
