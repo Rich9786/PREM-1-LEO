@@ -1960,6 +1960,8 @@ http://tecnotv.club/FEB27/phpcode/lista01.php?c=278511&token=tecnotokenplustv230
 http://tecnotv.club/FEB27/phpcode/lista01.php?c=158791&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyrkWyiaWHVpxGGC207TUHB29RY3bqIKslJQ&s" group-title="CINE Y SERIES",PANICO HD OPC 3 - ANDR 0
 
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/H3YgS6y.png" group-title="CINE Y SERIES,Cine Espanto - GEO
+http://tecnotv.club/FEB27/phpcode/runtime.php?c=6126
 #EXTINF:-1 tvg-id="1016" tvg-name="PlanetaTV Movies" tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png", PlanetaTV Movies | CL
 
 #EXTINF:-1 tvg-id="96699" tvg-name="Orbit TV" tvg-logo="https://orbittv.net/images/orbit_logo4.png", Orbit TV HD - CL
@@ -2019,36 +2021,38 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/pla
 #EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/Gmnvh9I.png" group-title="CINE Y SERIES",RunTime
 http://200.59.188.3:8000/play/a0fr
 #EXTINF:-1 tvg-id="CineRomantico.us" tvg-logo="https://i.imgur.com/FUrrDrb.png" group-title="Movies",Cine Romantico - INDEX GENBETA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
+
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/5cNpgAO.png" group-title="ENTRETENIMIENTO",Romance - LIS
+http://tecnotv.club/FEB27/phpcode/runtime.php?c=6119
 #EXTINF:-1 logo="https://www.newslinereport.com/online/nota_space-estrena-la-serie-zoo-.jpg" group-title="CINE Y SERIES",SPACE MX S1 - TV6 SR REGIO 
 
-#EXTINF:-1 logo="https://www.newslinereport.com/online/nota_space-estrena-la-serie-zoo-.jpg" group-title="CINE Y SERIES",SPACE HD S2 - TV8 SR REGIO
-
-#EXTINF:-1 logo="https://www.newslinereport.com/online/nota_space-estrena-la-serie-zoo-.jpg" group-title="CINE Y SERIES",SPACE HD - ANDR 0
-http://clubtv.link/11agt/phpcode/android0.php?c=499&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 logo="https://www.newslinereport.com/online/nota_space-estrena-la-serie-zoo-.jpg" group-title="CINE Y SERIES",SPACE HD - ANDR 1
-http://clubtv.link/11agt/phpcode/android1.php?c=499&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 logo="https://www.newslinereport.com/online/nota_space-estrena-la-serie-zoo-.jpg" group-title="CINE Y SERIES",SPACE HD - ANDR 3
-http://clubtv.link/11agt/phpcode/android3.php?c=a03o&token=TecnoplusJunio03
+#EXTINF:-1 logo="https://www.newslinereport.com/online/nota_space-estrena-la-serie-zoo-.jpg" group-title="CINE Y SERIES",SPACE HD S1 - GEO
+http://tecnotv.club/FEB27/phpcode/geomex.php?c=a0iz&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://www.newslinereport.com/online/nota_space-estrena-la-serie-zoo-.jpg" group-title="CINE Y SERIES",SPACE HD (MX)(P) S2 - ANDR 1
+http://tecnotv.club/FEB27/phpcode/lista01.php?c=278516&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://www.newslinereport.com/online/nota_space-estrena-la-serie-zoo-.jpg" group-title="CINE Y SERIES",SPACE (MX)(P) S2 - ANDR 1
+http://tecnotv.club/FEB27/phpcode/lista01.php?c=278515&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://www.newslinereport.com/online/nota_space-estrena-la-serie-zoo-.jpg" group-title="CINE Y SERIES",Space (i) S2 - ANDR 1
+http://tecnotv.club/FEB27/phpcode/lista01.php?c=158793&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://www.newslinereport.com/online/nota_space-estrena-la-serie-zoo-.jpg" group-title="CINE Y SERIES",SPACE HD - LIS 1
-http://clubtv.link/11agt/phpcode/lista5.php?c=a03o&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/AMC_logo_2016.png/1200px-AMC_logo_2016.png" group-title="CINE",AMC HD S1 - ANDR 0
-http://clubtv.link/11agt/phpcode/android0.php?c=475&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/AMC_logo_2016.png/1200px-AMC_logo_2016.png" group-title="CINE",AMC HD S1 - ANDR 1
-http://clubtv.link/11agt/phpcode/android1.php?c=475&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/AMC_logo_2016.png/1200px-AMC_logo_2016.png" group-title="CINE",AMC S2 - ANDR 0
-http://clubtv.link/11agt/phpcode/android0.php?c=183&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/AMC_logo_2016.png/1200px-AMC_logo_2016.png" group-title="CINE",AMC S2 - ANDR 1
-http://clubtv.link/11agt/phpcode/android1.php?c=183&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/AMC_logo_2016.png/1200px-AMC_logo_2016.png" group-title="CINE",AMC S2 - ANDR 2
-http://clubtv.link/11agt/phpcode/android2.php?c=183&token=TecnoplusJunio03&f=.m3u8|User-Agent=plpro.org
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/AMC_logo_2016.png/1200px-AMC_logo_2016.png" group-title="CINE",AMC HD - LIS 6
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/AMC_logo_2016.png/1200px-AMC_logo_2016.png" group-title="CINE",AMC - ANDR 3
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr8-EgLXEXOBiOFmqtReitiuQL5EXG1ZVI_A&s" group-title="CINE",AMC HD S1 - ANDR 0
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/AMC_logo_2016.png/1200px-AMC_logo_2016.png" group-title="CINE",AMC - LIS 4 
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr8-EgLXEXOBiOFmqtReitiuQL5EXG1ZVI_A&s" group-title="CINE",AMC HD (MX)(P) - ANDR 1
+http://tecnotv.club/FEB27/phpcode/lista01.php?c=278394&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr8-EgLXEXOBiOFmqtReitiuQL5EXG1ZVI_A&s" group-title="CINE",AMC (MX)(P) - ANDR 1
+http://tecnotv.club/FEB27/phpcode/lista01.php?c=278393&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr8-EgLXEXOBiOFmqtReitiuQL5EXG1ZVI_A&s" group-title="CINE",AMC HD - GEO
+http://tecnotv.club/FEB27/phpcode/geomex.php?c=a0gu&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr8-EgLXEXOBiOFmqtReitiuQL5EXG1ZVI_A&s" group-title="CINE",AMC S2 - ANDR 2
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/AMC_logo_2016.png/1200px-AMC_logo_2016.png" group-title="CINE",AMC - LIS 6
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr8-EgLXEXOBiOFmqtReitiuQL5EXG1ZVI_A&s" group-title="CINE",AMC HD - LIS 6
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr8-EgLXEXOBiOFmqtReitiuQL5EXG1ZVI_A&s" group-title="CINE",AMC - ANDR 3
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr8-EgLXEXOBiOFmqtReitiuQL5EXG1ZVI_A&s" group-title="CINE",AMC - LIS 4 
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr8-EgLXEXOBiOFmqtReitiuQL5EXG1ZVI_A&s" group-title="CINE",AMC - LIS 6
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="TV PREMIUM",DHE - ANDR 0
 http://clubtv.link/11agt/phpcode/android0.php?c=844&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
@@ -9613,6 +9617,7 @@ http://radiokn.ddns.net:7000/efir
 
 #EXTINF:-1,RETRO FM UA Romantic
 http://cast.radiogroup.com.ua:8000/retro_romantic
+
 
 
 
