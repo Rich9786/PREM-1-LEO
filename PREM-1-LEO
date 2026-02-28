@@ -1818,7 +1818,7 @@ http://tecnotv.club/FEB27/phpcode/lista01.php?c=168600&token=tecnotokenplustv230
 http://tecnotv.club/FEB27/phpcode/lista01.php?c=180633&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFdgx-zQ6TU1HObenpqvS-ahxSdaZM2HJ16Q&s" group-title="CINE",CLARO CINEMA - TV8 SR REGIO
 
-#EXTINF:-1 logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_5692_7_22692.png.e5fe062660250e2df713bdb2d0a8c40b.png" group-title="CINE",CLARO CINEMA (MX)(P) - ANDR 1
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFdgx-zQ6TU1HObenpqvS-ahxSdaZM2HJ16Q&s" group-title="CINE",CLARO CINEMA (MX)(P) - ANDR 1
 http://tecnotv.club/FEB27/phpcode/lista01.php?c=278469&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_5692_7_22692.png.e5fe062660250e2df713bdb2d0a8c40b.png" group-title="CINE",CLARO CINEMA - ANDR 4
 
@@ -9631,6 +9631,7 @@ http://radiokn.ddns.net:7000/efir
 
 #EXTINF:-1,RETRO FM UA Romantic
 http://cast.radiogroup.com.ua:8000/retro_romantic
+
 
 
 
