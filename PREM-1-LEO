@@ -2054,29 +2054,29 @@ http://tecnotv.club/FEB27/phpcode/geomex.php?c=a0gu&token=tecnotokenplustv230516
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr8-EgLXEXOBiOFmqtReitiuQL5EXG1ZVI_A&s" group-title="CINE",AMC - LIS 6
 
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="TV PREMIUM",DHE - ANDR 0
-http://clubtv.link/11agt/phpcode/android0.php?c=844&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="TV PREMIUM",DHE - ANDR 1
-http://clubtv.link/11agt/phpcode/android1.php?c=844&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="TV PREMIUM",DHE HD - GEO
+http://tecnotv.club/FEB27/phpcode/geomex.php?c=a0gy&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="TV PREMIUM",DHE HD - TV3
+http://45.5.119.43:4000/play/a0gy/index.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="TV PREMIUM",DHE - ANDR 2
-http://clubtv.link/11agt/phpcode/android2.php?c=844&token=TecnoplusJunio03&f=.m3u8|User-Agent=plpro.org
+
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="TV PREMIUM",DHE - LIS 4
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="TV PREMIUM",DHE - LIS 6
 
 #EXTINF:-1 logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-cinema-dark-logo.png" group-title="CINE",UNIVERSAL CINEMA ESTE HD - LIS 6
 
-#EXTINF:-1 logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-cinema-dark-logo.png" group-title="CINE",UNIVERSAL CINEMA ESTE - TV8 SR REGIO
-http://200.59.188.3:8000/play/a06u
-#EXTINF:-1 logo="https://static.wikia.nocookie.net/tvcable/images/4/42/UniversalCinema.png/revision/latest?cb=20240130201240&path-prefix=es" group-title="SERIES Y CINE",UNIVERSAL CINEMA - ANDR 0
-http://clubtv.link/11agt/phpcode/android0.php?c=902&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 logo="https://static.wikia.nocookie.net/tvcable/images/4/42/UniversalCinema.png/revision/latest?cb=20240130201240&path-prefix=es" group-title="SERIES Y CINE",UNIVERSAL CINEMA - ANDR 1
-http://clubtv.link/11agt/phpcode/android1.php?c=902&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 logo="https://static.wikia.nocookie.net/tvcable/images/4/42/UniversalCinema.png/revision/latest?cb=20240130201240&path-prefix=es" group-title="SERIES Y CINE",UNIVERSAL CINEMA - ANDR 2
-http://clubtv.link/11agt/phpcode/android2.php?c=902&token=TecnoplusJunio03&f=.m3u8|User-Agent=plpro.org
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQcA5OtBj1V_sz2ofup_bgNkbwLElRQVtfRg&s" group-title="CINE",Uni-versal Cinema HD (i) S1 - ANDR 1
+http://tecnotv.club/FEB27/phpcode/lista01.php?c=158697&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/tvcable/images/4/42/UniversalCinema.png/revision/latest?cb=20240130201240&path-prefix=es" group-title="SERIES Y CINE",Universal Cinema HD (MX)(P) - ANDR 1
+http://tecnotv.club/FEB27/phpcode/lista01.php?c=278472&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQcA5OtBj1V_sz2ofup_bgNkbwLElRQVtfRg&s" group-title="SERIES Y CINE",UNIVERSAL CINEMA - ANDR 1
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQcA5OtBj1V_sz2ofup_bgNkbwLElRQVtfRg&s" group-title="SERIES Y CINE",UNIVERSAL CINEMA - ANDR 2
+
 #EXTINF:-1 logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-cinema-dark-logo.png" group-title="CINE",UNIVERSAL CINEMA - TV8 SR REGIO
 
-#EXTINF:-1 logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-cinema-dark-logo.png" group-title="CINE",UNIVERSAL CINEMA HD - TV10 SR REGIO
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQcA5OtBj1V_sz2ofup_bgNkbwLElRQVtfRg&s" group-title="CINE",UNIVERSAL CINEMA HD - TV10 SR REGIO
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="CINE",STUDIO UNIVERSAL - TV6 SR REGIO
 
@@ -9617,6 +9617,7 @@ http://radiokn.ddns.net:7000/efir
 
 #EXTINF:-1,RETRO FM UA Romantic
 http://cast.radiogroup.com.ua:8000/retro_romantic
+
 
 
 
