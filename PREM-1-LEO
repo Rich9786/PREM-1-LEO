@@ -1956,9 +1956,9 @@ https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyrkWyiaWHVpxGGC207TUHB29RY3bqIKslJQ&s" group-title="CINE Y SERIES",PANICO HD (MX)(P) - ANDR 1
 http://tecnotv.club/FEB27/phpcode/lista01.php?c=278511&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyDMiGIxyT06wAhQp1VWfsOYLcRfxA3c9J0nHMckHBXZoUc6K-4aP0VoDFo2qElB11D2UEuvfqDhQ31JBW35rtMQP-8iBhaOwttPNuaErMvjd8gKFoV79nwRo2zVkE08jsW9eHpDZoyLaB/s1600/2016-22.jpg" group-title="CINE Y SERIES",PANICO FHD Mexico (i) - ANDR 1
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyrkWyiaWHVpxGGC207TUHB29RY3bqIKslJQ&s" group-title="CINE Y SERIES",PANICO FHD Mexico (i) - ANDR 1
 http://tecnotv.club/FEB27/phpcode/lista01.php?c=158791&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyDMiGIxyT06wAhQp1VWfsOYLcRfxA3c9J0nHMckHBXZoUc6K-4aP0VoDFo2qElB11D2UEuvfqDhQ31JBW35rtMQP-8iBhaOwttPNuaErMvjd8gKFoV79nwRo2zVkE08jsW9eHpDZoyLaB/s1600/2016-22.jpg" group-title="CINE Y SERIES",PANICO HD OPC 3 - ANDR 0
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyrkWyiaWHVpxGGC207TUHB29RY3bqIKslJQ&s" group-title="CINE Y SERIES",PANICO HD OPC 3 - ANDR 0
 
 #EXTINF:-1 tvg-id="1016" tvg-name="PlanetaTV Movies" tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png", PlanetaTV Movies | CL
 
@@ -9613,6 +9613,7 @@ http://radiokn.ddns.net:7000/efir
 
 #EXTINF:-1,RETRO FM UA Romantic
 http://cast.radiogroup.com.ua:8000/retro_romantic
+
 
 
 
