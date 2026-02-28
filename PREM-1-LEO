@@ -1906,16 +1906,16 @@ http://tecnotv.club/FEB27/phpcode/lista01.php?c=168599&token=tecnotokenplustv230
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUW-131s33-_AfbXS_ryyuxaa3nqkLeJe0Ew&s" group-title="CINE",Cine The Film Zone - ANDR 1
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MC_logo_2022.png" group-title="CINE",MULTICINEMA - TV6 SR REGIO
-
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MC_logo_2022.png" group-title="CINE",MULTICINEMA - TV8 SR REGIO
-
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MC_logo_2022.png" group-title="CINE",MC Multicinema (MX)(P) - ANDR 1
+http://tecnotv.club/FEB27/phpcode/lista01.php?c=278509&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MC_logo_2022.png" group-title="CINE",MULTICINEMA - - ANDR 3
+http://tecnotv.club/FEB27/phpcode/android3.php?c=a0lo&token=tecnotokenplustv230516F
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MC_logo_2022.png" group-title="CINE",MULTICINEMA - TV9 SR REGIO
 
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/a4fcb1bf-cfa6-47b0-941a-7e09f802139e_m.jpg" group-title="CINE",MULTIPREMIER HD (MX)(P) - ANDR 1
+http://tecnotv.club/FEB27/phpcode/lista01.php?c=278510&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/a4fcb1bf-cfa6-47b0-941a-7e09f802139e_m.jpg" group-title="CINE",MULTIPREMIER - ANDR 3
-
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/a4fcb1bf-cfa6-47b0-941a-7e09f802139e_m.jpg" group-title="CINE",MULTIPREMIER - ANDR 4
-
+http://tecnotv.club/FEB27/phpcode/android3.php?c=a0lp&token=tecnotokenplustv230516F
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2OvlJduAPeL8nPrHx7nZdvxLHZr7j79Rjxg&s" group-title="CINE",CINE PREMIUM - ANDR 2
 http://clubtv.link/11agt/phpcode/android2.php?c=ch49&token=TecnoplusJunio03
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQYjIVY-KMdMxa4hXQUKBCLmWD7uYCLQAMIw&s" group-title="CINE",CINE FAMILIAR - ANDR 2
@@ -1924,49 +1924,31 @@ http://clubtv.link/11agt/phpcode/android2.php?c=ch52&token=TecnoplusJunio03
 
 #EXTINF:-1 logo="https://i.pinimg.com/564x/49/e2/d7/49e2d72c9a05d3ee6cf346bc891ced9f.jpg" group-title="CINE",CINEMA FAMILIA - ANDR 6
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZczhnucKjtM5fU2vA0cNBX8l-YpyCeJG16w&swww.google.com" group-title="CINE Y SERIES",BOX CINEMA - GEO
+
 #EXTINF:-1 logo="https://files.merca20.com/uploads/2016/02/logo-de-tnt-2016.jpg" group-title="CINE",TNT S1 - LIS 2
-http://clubtv.link/11agt/phpcode/lista2.php?c=a043&f=.m3u8&token=TecnoplusJunio03
+
 #EXTINF:-1 logo="https://files.merca20.com/uploads/2016/02/logo-de-tnt-2016.jpg" group-title="CINE",TNT HD S1 - LIS 5
-http://clubtv.link/11agt/phpcode/lista5.php?c=a043&token=TecnoplusJunio03&f=.m3u8
+
 #EXTINF:-1 logo="https://files.merca20.com/uploads/2016/02/logo-de-tnt-2016.jpg" group-title="CINE",TNT S1 - ANDR 3
-http://clubtv.link/11agt/phpcode/android3.php?c=a043&token=TecnoplusJunio03
-#EXTINF:-1 logo="https://files.merca20.com/uploads/2016/02/logo-de-tnt-2016.jpg" group-title="CINE",TNT HD S2 - TV8 SR REGIO
-http://200.59.188.3:8000/play/a010
-#EXTINF:-1 logo="https://files.merca20.com/uploads/2016/02/logo-de-tnt-2016.jpg" group-title="CINE",TNT HD S2 - ANDR 0
-http://clubtv.link/11agt/phpcode/android0.php?c=500&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 logo="https://files.merca20.com/uploads/2016/02/logo-de-tnt-2016.jpg" group-title="CINE",TNT HD S2 - ANDR 1
-http://clubtv.link/11agt/phpcode/android1.php?c=500&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 logo="https://files.merca20.com/uploads/2016/02/logo-de-tnt-2016.jpg" group-title="CINE",TNT HD S3 - ANDR 3
 
-#EXTINF:-1 logo="https://files.merca20.com/uploads/2016/02/logo-de-tnt-2016.jpg" group-title="CINE",TNT HD S3 - LIS 4
+#EXTINF:-1 logo="https://files.merca20.com/uploads/2016/02/logo-de-tnt-2016.jpg" group-title="CINE",TNT HD - GEO
+http://tecnotv.club/FEB27/phpcode/geomex.php?c=a0hu&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://files.merca20.com/uploads/2016/02/logo-de-tnt-2016.jpg" group-title="CINE",TNT HD (MX)(P) - ANDR 1
+http://tecnotv.club/FEB27/phpcode/lista01.php?c=278520&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://files.merca20.com/uploads/2016/02/logo-de-tnt-2016.jpg" group-title="CINE",TNT (MX)(P) - ANDR 1
+http://tecnotv.club/FEB27/phpcode/lista01.php?c=278519&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/661169810945007616/80mIVGEV_400x400.png" group-title="CINE",TCM (MX)(P) - ANDR 1
+http://tecnotv.club/FEB27/phpcode/lista01.php?c=278406&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/661169810945007616/80mIVGEV_400x400.png" group-title="CINE",TCM - GEO
+http://tecnotv.club/FEB27/phpcode/geomex.php?c=a0jw&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/661169810945007616/80mIVGEV_400x400.png" group-title="CINE",TCM - ANDR 1
 
-#EXTINF:-1 logo="https://files.merca20.com/uploads/2016/02/logo-de-tnt-2016.jpg" group-title="CINE",TNT HD S3 - LIS 6
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/661169810945007616/80mIVGEV_400x400.png" group-title="CINE",TCM FHD OPC 1 - ESP
 
-#EXTINF:-1 logo="https://files.merca20.com/uploads/2016/02/logo-de-tnt-2016.jpg" group-title="CINE",TNT S3 - ANDR 3
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/661169810945007616/80mIVGEV_400x400.png" group-title="CINE",TCM HD OPC 2 - ESP
 
-#EXTINF:-1 logo="https://files.merca20.com/uploads/2016/02/logo-de-tnt-2016.jpg" group-title="CINE",TNT S3 - LIS 4
-
-#EXTINF:-1 logo="https://files.merca20.com/uploads/2016/02/logo-de-tnt-2016.jpg" group-title="CINE",TNT S3 - LIS 6
-
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="CINE",TCM - TV8 SR REGIO 
-http://200.59.188.3:8000/play/a05g
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="CINE",TCM - TV2 SR REGIO 
-http://177.93.46.163:8000/play/a00c
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="CINE",TCM - TV4 SR REGIO
-http://181.188.234.21:8000/play/a03d/index.m3u8
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="CINE",TCM - TV8 SR REGIO
-http://200.59.188.3:8000/play/a05g
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="CINE",TCM - LIS 3
-http://clubtv.link/11agt/phpcode/lista3.php?c=a03d&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="CINE",TCM - LISP
-http://clubtv.link/11agt/phpcode/lista0.php?c=73&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="CINE",TCM - 
-
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/2560px-TCM_logo.svg.png" group-title="CINE",TCM FHD OPC 1 - ESP
-
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/2560px-TCM_logo.svg.png" group-title="CINE",TCM HD OPC 2 - ESP
-
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/2560px-TCM_logo.svg.png" group-title="CINE",TCM SD OPC 3 - ESP
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/661169810945007616/80mIVGEV_400x400.png" group-title="CINE",TCM SD OPC 3 - ESP
 
 #EXTINF:-1 logo="https://image.roku.com/developer_channels/prod/9f0ee388e53f0044a9db9d0dcb35b64bceab0c0e6b5055935ae2aa14e1888c82.png" group-title="CINE", MEGA CINE TV - CL
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
@@ -9631,6 +9613,7 @@ http://radiokn.ddns.net:7000/efir
 
 #EXTINF:-1,RETRO FM UA Romantic
 http://cast.radiogroup.com.ua:8000/retro_romantic
+
 
 
 
