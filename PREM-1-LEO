@@ -445,13 +445,13 @@ http://tecnotv.club/FEB27/phpcode/lista01.php?c=278475&token=tecnotokenplustv&f=
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkH5aJm54v424AJHZ9ymjId4M501rT0W5NYg&s" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL S2 - TV4 SR REGIO
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkH5aJm54v424AJHZ9ymjId4M501rT0W5NYg&s" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL - LIS
-http://tecnotv.club/FEB27/phpcode/ssiptv.php?c=ch15&token=tecnotokenplustv&f=.m3u8
+http://tecnotv.club/FEB27/phpcode/ssiptv.php?c=ch15&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkH5aJm54v424AJHZ9ymjId4M501rT0W5NYg&s" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL (MX)(i) op3 - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=166473&token=tecnotokenplustv&f=.m3u8
+http://tecnotv.club/FEB27/phpcode/lista01.php?c=166473&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkH5aJm54v424AJHZ9ymjId4M501rT0W5NYg&s" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL HD - GEO
-http://tecnotv.club/FEB27/phpcode/geomex.php?c=a0kn&token=tecnotokenplustv&f=.m3u8
+http://tecnotv.club/FEB27/phpcode/geomex.php?c=a0kn&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkH5aJm54v424AJHZ9ymjId4M501rT0W5NYg&s" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL HD - ANDR 3
-http://tecnotv.club/FEB27/phpcode/android3.php?c=a0kn&token=tecnotokenplustv
+http://tecnotv.club/FEB27/phpcode/android3.php?c=a0kn&token=tecnotokenplustv230516F
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkH5aJm54v424AJHZ9ymjId4M501rT0W5NYg&s" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL (MX)(i) op3 - ANDR 1
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkH5aJm54v424AJHZ9ymjId4M501rT0W5NYg&s" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL S2 - LIS 1
@@ -9631,6 +9631,7 @@ http://radiokn.ddns.net:7000/efir
 
 #EXTINF:-1,RETRO FM UA Romantic
 http://cast.radiogroup.com.ua:8000/retro_romantic
+
 
 
 
