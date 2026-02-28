@@ -1906,11 +1906,11 @@ http://tecnotv.club/FEB27/phpcode/lista01.php?c=168599&token=tecnotokenplustv230
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUW-131s33-_AfbXS_ryyuxaa3nqkLeJe0Ew&s" group-title="CINE",Cine The Film Zone - ANDR 1
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MC_logo_2022.png" group-title="CINE",MC Multicinema (MX)(P) - ANDR 1
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZOYxPRYd0S4T4oGHtXjQ4G5pbDzpV3h4iGg&s" group-title="CINE",MC Multicinema (MX)(P) - ANDR 1
 http://tecnotv.club/FEB27/phpcode/lista01.php?c=278509&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MC_logo_2022.png" group-title="CINE",MULTICINEMA - - ANDR 3
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZOYxPRYd0S4T4oGHtXjQ4G5pbDzpV3h4iGg&s" group-title="CINE",MULTICINEMA - - ANDR 3
 http://tecnotv.club/FEB27/phpcode/android3.php?c=a0lo&token=tecnotokenplustv230516F
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MC_logo_2022.png" group-title="CINE",MULTICINEMA - TV9 SR REGIO
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZOYxPRYd0S4T4oGHtXjQ4G5pbDzpV3h4iGg&s" group-title="CINE",MULTICINEMA - TV9 SR REGIO
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/a4fcb1bf-cfa6-47b0-941a-7e09f802139e_m.jpg" group-title="CINE",MULTIPREMIER HD (MX)(P) - ANDR 1
 http://tecnotv.club/FEB27/phpcode/lista01.php?c=278510&token=tecnotokenplustv230516F&f=.m3u8
@@ -9613,6 +9613,7 @@ http://radiokn.ddns.net:7000/efir
 
 #EXTINF:-1,RETRO FM UA Romantic
 http://cast.radiogroup.com.ua:8000/retro_romantic
+
 
 
 
