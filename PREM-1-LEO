@@ -1817,7 +1817,7 @@ http://tecnotv.club/FEB27/phpcode/lista01.php?c=168600&token=tecnotokenplustv230
 #EXTINF:-1 tvg-id="180633" tvg-name="Ultra Clásico (p)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVAu49bFnj7bs2tTMxuPy9S3l6WoYPwrepHA&s" group-title="TV PREMIUM 2",Ultra Clásico (p) - ANDR 1
 http://tecnotv.club/FEB27/phpcode/lista01.php?c=180633&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFdgx-zQ6TU1HObenpqvS-ahxSdaZM2HJ16Q&s" group-title="CINE",CLARO CINEMA - TV8 SR REGIO
-http://200.59.188.3:8000/play/a043
+
 #EXTINF:-1 logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_5692_7_22692.png.e5fe062660250e2df713bdb2d0a8c40b.png" group-title="CINE",CLARO CINEMA (MX)(P) - ANDR 1
 http://tecnotv.club/FEB27/phpcode/lista01.php?c=278469&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_5692_7_22692.png.e5fe062660250e2df713bdb2d0a8c40b.png" group-title="CINE",CLARO CINEMA - ANDR 4
@@ -1826,24 +1826,30 @@ http://tecnotv.club/FEB27/phpcode/lista01.php?c=278469&token=tecnotokenplustv230
 
 #EXTINF:-1 logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_5692_7_22692.png.e5fe062660250e2df713bdb2d0a8c40b.png" group-title="CINE",CLARO CINEMA - LIS 6
 
-#EXTINF:-1 logo="https://dws.compradish.com/sites/compradish.com/pages/images/logo-ch-azteca-cinema.png" group-title="CINE",AZ CINEMA - ANDR 0
-http://clubtv.link/11agt/phpcode/android0.php?c=186&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 logo="https://dws.compradish.com/sites/compradish.com/pages/images/logo-ch-azteca-cinema.png" group-title="CINE",AZ CINEMA - ANDR 1
-http://clubtv.link/11agt/phpcode/android1.php?c=186&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 logo="https://dws.compradish.com/sites/compradish.com/pages/images/logo-ch-azteca-cinema.png" group-title="CINE",AZ CINEMA - ANDR 2
-http://clubtv.link/11agt/phpcode/android2.php?c=186&token=TecnoplusJunio03&f=.m3u8|User-Agent=plpro.org
-#EXTINF:-1 logo="https://dws.compradish.com/sites/compradish.com/pages/images/logo-ch-azteca-cinema.png" group-title="CINE",AZ CINEMA - ANDR 4
+#EXTINF:-1 logo="https://tvazteca.brightspotcdn.com/24/f8/6b61a723433b85fa4ef6af15553e/cinema-1920x1080-1.jpg" group-title="CINE",Az Cinema HD (MX)(i) - ANDR 1
+http://tecnotv.club/FEB27/phpcode/lista01.php?c=159209&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://tvazteca.brightspotcdn.com/24/f8/6b61a723433b85fa4ef6af15553e/cinema-1920x1080-1.jpg" group-title="CINE",Azteca CINEMA HD (MX)(P) - ANDR 1
+http://tecnotv.club/FEB27/phpcode/lista01.php?c=278465&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://tvazteca.brightspotcdn.com/24/f8/6b61a723433b85fa4ef6af15553e/cinema-1920x1080-1.jpg" group-title="CINE",Azteca CINEMA (MX)(P) - ANDR 1
+http://tecnotv.club/FEB27/phpcode/lista01.php?c=278464&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://tvazteca.brightspotcdn.com/24/f8/6b61a723433b85fa4ef6af15553e/cinema-1920x1080-1.jpg" group-title="CINE",AZ CINEMA - ANDR 4
 
-#EXTINF:-1 logo="https://dws.compradish.com/sites/compradish.com/pages/images/logo-ch-azteca-cinema.png" group-title="CINE",AZ CINEMA - ANDR 5
+#EXTINF:-1 logo="https://tvazteca.brightspotcdn.com/24/f8/6b61a723433b85fa4ef6af15553e/cinema-1920x1080-1.jpg" group-title="CINE",AZ CINEMA - ANDR 5
+
+#EXTINF:-1 logo="https://iroboxtv.com/wp-content/uploads/2025/09/GOLDEN-MULTIPLEX.jpg" group-title="CINE",GOLDEN MULTIPLEX HD i - ANDR 1
+http://tecnotv.club/FEB27/phpcode/lista01.php?c=298424&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://iroboxtv.com/wp-content/uploads/2025/09/GOLDEN-MULTIPLEX.jpg" group-title="CINE",GOLDEN MULTIPLEX - ANDR 1
+
+#EXTINF:-1 logo="https://iroboxtv.com/wp-content/uploads/2025/09/GOLDEN-MULTIPLEX.jpg" group-title="CINE",GOLDEN MULTIPLEX - ANDR 1
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYLx_K907PBpH9a9Zzu4M_YR_qJCnhP8q9r-ZJKkFy8ctFsbFoPTz1SyoF6tI3CWylvzY&usqp=CAU" group-title="CINE",GOLDEN - TV6 SR REGIO
 
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYLx_K907PBpH9a9Zzu4M_YR_qJCnhP8q9r-ZJKkFy8ctFsbFoPTz1SyoF6tI3CWylvzY&usqp=CAU" group-title="CINE",GOLDEN - ANDR 2
-
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYLx_K907PBpH9a9Zzu4M_YR_qJCnhP8q9r-ZJKkFy8ctFsbFoPTz1SyoF6tI3CWylvzY&usqp=CAU" group-title="CINE",GOLDEN - ANDR 4
-
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYLx_K907PBpH9a9Zzu4M_YR_qJCnhP8q9r-ZJKkFy8ctFsbFoPTz1SyoF6tI3CWylvzY&usqp=CAU" group-title="CINE",GOLDEN HD (MX)(P) - ANDR 1
+http://tecnotv.club/FEB27/phpcode/lista01.php?c=278483&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYLx_K907PBpH9a9Zzu4M_YR_qJCnhP8q9r-ZJKkFy8ctFsbFoPTz1SyoF6tI3CWylvzY&usqp=CAU" group-title="CINE",GOLDEN (MX)(P) - ANDR 1
+http://tecnotv.club/FEB27/phpcode/lista01.php?c=278479&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYLx_K907PBpH9a9Zzu4M_YR_qJCnhP8q9r-ZJKkFy8ctFsbFoPTz1SyoF6tI3CWylvzY&usqp=CAU" group-title="CINE",GOLDEN - LISP
-http://clubtv.link/11agt/phpcode/lista0.php?c=26&token=TecnoplusJunio03&f=.m3u8
+
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYLx_K907PBpH9a9Zzu4M_YR_qJCnhP8q9r-ZJKkFy8ctFsbFoPTz1SyoF6tI3CWylvzY&usqp=CAU" group-title="CINE",GOLDEN - LIS 6
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYLx_K907PBpH9a9Zzu4M_YR_qJCnhP8q9r-ZJKkFy8ctFsbFoPTz1SyoF6tI3CWylvzY&usqp=CAU" group-title="CINE",GOLDEN - TV2 SR REGIO
@@ -1860,12 +1866,12 @@ http://clubtv.link/11agt/phpcode/lista0.php?c=26&token=TecnoplusJunio03&f=.m3u8
 
 #EXTINF:-1 logo="https://etb.com/negocios/img1/guia/logos/logo-goldenphd.jpg" group-title="CINE",GOLDEN PREMIER HD - TV2 SR REGIO
 
-#EXTINF:-1 logo="https://etb.com/negocios/img1/guia/logos/logo-goldenphd.jpg" group-title="CINE",GOLDEN PREMIER HD - ANDR 4
-http://clubtv.link/11agt/phpcode/android4.php?c=46627&token=TecnoplusJunio03
-#EXTINF:-1 logo="https://etb.com/negocios/img1/guia/logos/logo-goldenphd.jpg" group-title="CINE",GOLDEN PREMIER - LISP 
-http://clubtv.link/11agt/phpcode/lista0.php?c=25&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 logo="https://etb.com/negocios/img1/guia/logos/logo-goldenphd.jpg" group-title="CINE",GOLDEN PREMIER 2 HD - TV6 SR REGIO
-
+#EXTINF:-1 logo="https://etb.com/negocios/img1/guia/logos/logo-goldenphd.jpg" group-title="CINE",GOLDEN PREMIER HD (MX)(P) - ANDR 1
+http://tecnotv.club/FEB27/phpcode/lista01.php?c=278486&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://etb.com/negocios/img1/guia/logos/logo-goldenphd.jpg" group-title="CINE",GOLDEN PREMIER HD i - ANDR 1 
+http://tecnotv.club/FEB27/phpcode/lista01.php?c=298426&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://etb.com/negocios/img1/guia/logos/logo-goldenphd.jpg" group-title="CINE",GOLDEN PREMIER 2HR HD i - ANDR 1
+http://tecnotv.club/FEB27/phpcode/lista01.php?c=298425&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://etb.com/negocios/img1/guia/logos/logo-goldenphd.jpg" group-title="CINE",GOLDEN PREMIER 2 HD - TV2 SR REGIO
 
 #EXTINF:-1 logo="https://etb.com/negocios/img1/guia/logos/logo-goldenphd.jpg" group-title="CINE",GOLDEN PREMIER 2 HD - ANDR 2
@@ -1876,24 +1882,30 @@ http://clubtv.link/11agt/phpcode/lista0.php?c=25&token=TecnoplusJunio03&f=.m3u8
 
 #EXTINF:-1 logo="https://www.citypng.com/public/uploads/preview/square-white-google-plus-icon-701751695132745umkvhdzc0c.png" group-title="CINE",GOLDEN PLUS - TV8 SR REGIO
 
-#EXTINF:-1 logo="https://www.citypng.com/public/uploads/preview/square-white-google-plus-icon-701751695132745umkvhdzc0c.png" group-title="CINE",GOLDEN PLUS HD - ANDR 3
-
-#EXTINF:-1 logo="https://www.citypng.com/public/uploads/preview/square-white-google-plus-icon-701751695132745umkvhdzc0c.png" group-title="CINE",GOLDEN PLUS HD - ANDR 4
-http://clubtv.link/11agt/phpcode/android4.php?c=46626&token=TecnoplusJunio03
-#EXTINF:-1 logo="https://www.citypng.com/public/uploads/preview/square-white-google-plus-icon-701751695132745umkvhdzc0c.png" group-title="CINE",GOLDEN PLUS OPC 2 - TV SR REGIO
-
+#EXTINF:-1 logo="https://www.citypng.com/public/uploads/preview/square-white-google-plus-icon-701751695132745umkvhdzc0c.png" group-title="CINE",GOLDEN PLUS HD (MX)(P) - ANDR 1
+http://tecnotv.club/FEB27/phpcode/lista01.php?c=278484&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://www.citypng.com/public/uploads/preview/square-white-google-plus-icon-701751695132745umkvhdzc0c.png" group-title="CINE",GOLDEN PLUS LQ (MX)(P) - ANDR 1
+http://tecnotv.club/FEB27/phpcode/lista01.php?c=278485&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://www.citypng.com/public/uploads/preview/square-white-google-plus-icon-701751695132745umkvhdzc0c.png" group-title="CINE",GOLDEN + MX (i) - ANDR 1
+http://tecnotv.club/FEB27/phpcode/lista01.php?c=158783&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://www.citypng.com/public/uploads/preview/square-white-google-plus-icon-701751695132745umkvhdzc0c.png" group-title="CINE",GOLDEN PLUS - LIS
 
 #EXTINF:-1 logo="https://www.citypng.com/public/uploads/preview/square-white-google-plus-icon-701751695132745umkvhdzc0c.png" group-title="CINE",GOLDEN PLUS - LIS 1
 
 #EXTINF:-1 logo="https://www.citypng.com/public/uploads/preview/square-white-google-plus-icon-701751695132745umkvhdzc0c.png" group-title="CINE",GOLDEN PLUS - LIS 4
 
-#EXTINF:-1 logo="https://startvmexico.com/wp-content/uploads/2018/10/gedge.png" group-title="CINE",G-EDGE - ANDR 0 
+#EXTINF:-1 logo="https://startvmexico.com/wp-content/uploads/2018/10/gedge.png" group-title="CINE",Golden Edge HD (MX)(P) - ANDR 1
+http://tecnotv.club/FEB27/phpcode/lista01.php?c=278481&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://startvmexico.com/wp-content/uploads/2018/10/gedge.png" group-title="CINE",GOLDEN EDGE (MX)(P) - ANDR 1
+http://tecnotv.club/FEB27/phpcode/lista01.php?c=278480&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://startvmexico.com/wp-content/uploads/2018/10/gedge.png" group-title="CINE",GOLDEN EDGE LQ (MX)(P) - ANDR 1
+http://tecnotv.club/FEB27/phpcode/lista01.php?c=278482&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUW-131s33-_AfbXS_ryyuxaa3nqkLeJe0Ew&s" group-title="CINE",Cine The Film Zone (i) - ANDR 1
+http://tecnotv.club/FEB27/phpcode/lista01.php?c=168599&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUW-131s33-_AfbXS_ryyuxaa3nqkLeJe0Ew&s" group-title="CINE",Cine The Film Zone - ANDR 1
 
-#EXTINF:-1 logo="https://startvmexico.com/wp-content/uploads/2018/10/gedge.png" group-title="CINE",G-EDGE - ANDR 1
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUW-131s33-_AfbXS_ryyuxaa3nqkLeJe0Ew&s" group-title="CINE",Cine The Film Zone - ANDR 1
 
-#EXTINF:-1 logo="https://startvmexico.com/wp-content/uploads/2018/10/gedge.png" group-title="CINE",G-EDGE HD - ANDR 4
-http://clubtv.link/11agt/phpcode/android4.php?c=46625&token=TecnoplusJunio03
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MC_logo_2022.png" group-title="CINE",MULTICINEMA - TV6 SR REGIO
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MC_logo_2022.png" group-title="CINE",MULTICINEMA - TV8 SR REGIO
@@ -9619,6 +9631,7 @@ http://radiokn.ddns.net:7000/efir
 
 #EXTINF:-1,RETRO FM UA Romantic
 http://cast.radiogroup.com.ua:8000/retro_romantic
+
 
 
 
