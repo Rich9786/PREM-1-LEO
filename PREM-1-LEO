@@ -2162,16 +2162,16 @@ http://tecnotv.club/FEB27/phpcode/lista01.php?c=159201&token=tecnotokenplustv230
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN2AHJWFWRvFOLKubN_vc5YfIMVUYRfq2JoxJh-FYTegTB-X4-oLJs9I-3VCuIVl9iBEU&usqp=CAU" group-title="CINE",SONY COMEDIAS - ANDR 6
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Sony_Movies_Logo.svg" group-title="CINE",SONY MOVIES HD - TV6 SR REGIO
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7hbdP0mlH_2fixqi5XPs-6GuoBvfeJgwRow&s" group-title="CINE",SONY MOVIES HD - TV6 SR REGIO
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Sony_Movies_Logo.svg" group-title="CINE",SONY MOVIES HD - GEO
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7hbdP0mlH_2fixqi5XPs-6GuoBvfeJgwRow&s" group-title="CINE",SONY MOVIES HD - GEO
 http://tecnotv.club/FEB27/phpcode/geomex.php?c=a03s&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Sony_Movies_Logo.svg" group-title="CINE",SONY MOVIES (MX)(P) - ANDR 1
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7hbdP0mlH_2fixqi5XPs-6GuoBvfeJgwRow&s" group-title="CINE",SONY MOVIES (MX)(P) - ANDR 1
 http://tecnotv.club/FEB27/phpcode/lista01.php?c=278471&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Sony_Movies_Logo.svg" group-title="CINE",SONY MOVIES HD - TV3
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7hbdP0mlH_2fixqi5XPs-6GuoBvfeJgwRow&s" group-title="CINE",SONY MOVIES HD - TV3
 http://45.5.119.43:4000/play/a03s/index.m3u8
 #EXTINF:-1 logo="https://thedailytelevision.com/sites/default/files/notas/imagenes/1sgrxzqa_400x400.jpg" group-title="CINE Y SERIES",CINECANAL O HD S1 - TV6 SR REGIO
-http://181.78.27.128:8000/play/a025/index.m3u8
+
 #EXTINF:-1 logo="https://thedailytelevision.com/sites/default/files/notas/imagenes/1sgrxzqa_400x400.jpg" group-title="CINE Y SERIES",CINECANAL O HD S1 - ANDR 3
 
 #EXTINF:-1 logo="https://thedailytelevision.com/sites/default/files/notas/imagenes/1sgrxzqa_400x400.jpg" group-title="CINE Y SERIES",CINECANAL O HD S1 - LIS 2
@@ -9621,6 +9621,7 @@ http://radiokn.ddns.net:7000/efir
 
 #EXTINF:-1,RETRO FM UA Romantic
 http://cast.radiogroup.com.ua:8000/retro_romantic
+
 
 
 
