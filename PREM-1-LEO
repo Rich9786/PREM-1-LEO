@@ -2234,15 +2234,15 @@ http://tecnotv.club/FEB27/phpcode/lista01.php?c=278467&token=tecnotokenplustv230
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_hbo-signature_m.png" group-title="CINE",HBO Signature - LISP
 
-#EXTINF:-1 logo="https://www.nicepng.com/png/detail/233-2333073_hbo-signature-latin-atlansia-hbo-signature-logo-png.png" group-title="CINE",HBO SIGNATURE HD (MX)(P) - ANDR 1
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/tvpediabrasil/images/5/5b/Hbosignature.jpg/revision/latest?cb=20161010163602&path-prefix=pt-br" group-title="CINE",HBO SIGNATURE HD (MX)(P) - ANDR 1
 http://tecnotv.club/FEB27/phpcode/lista01.php?c=278505&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 logo="https://www.nicepng.com/png/detail/233-2333073_hbo-signature-latin-atlansia-hbo-signature-logo-png.png" group-title="CINE",HBO SIGNATURE (MX)(P) - ANDR 1
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/tvpediabrasil/images/5/5b/Hbosignature.jpg/revision/latest?cb=20161010163602&path-prefix=pt-br" group-title="CINE",HBO SIGNATURE (MX)(P) - ANDR 1
 http://tecnotv.club/FEB27/phpcode/lista01.php?c=278504&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 logo="https://www.nicepng.com/png/detail/233-2333073_hbo-signature-latin-atlansia-hbo-signature-logo-png.png" group-title="CINE",HBO SIGNATURE LQ (MX)(P) - ANDR 1
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/tvpediabrasil/images/5/5b/Hbosignature.jpg/revision/latest?cb=20161010163602&path-prefix=pt-br" group-title="CINE",HBO SIGNATURE LQ (MX)(P) - ANDR 1
 
-#EXTINF:-1 logo="https://www.nicepng.com/png/detail/233-2333073_hbo-signature-latin-atlansia-hbo-signature-logo-png.png" group-title="CINE",HBO Signature - ANDR 1
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/tvpediabrasil/images/5/5b/Hbosignature.jpg/revision/latest?cb=20161010163602&path-prefix=pt-br" group-title="CINE",HBO Signature - ANDR 1
 
-#EXTINF:-1 logo="https://www.nicepng.com/png/detail/233-2333073_hbo-signature-latin-atlansia-hbo-signature-logo-png.png" group-title="CINE",HBO Signature - ANDR 1
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/tvpediabrasil/images/5/5b/Hbosignature.jpg/revision/latest?cb=20161010163602&path-prefix=pt-br" group-title="CINE",HBO Signature - ANDR 1
 
 
 
@@ -2260,13 +2260,15 @@ http://tecnotv.club/FEB27/phpcode/lista01.php?c=278500&token=tecnotokenplustv230
 
 
 
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png" group-title="CINE",HBO XTREME HD (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278508&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png" group-title="CINE",HBO XTREME (MX)(P) - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=278507&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png" group-title="CINE",HBO Xtreme - ANDR 1
 
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png" group-title="CINE",HBO Xtreme HD - ANDR 1
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ98tc8gQ_AIrnWAmdXWXXJwXhm5QrAYY9ZLw&s" group-title="CINE",HBO XTREME HD (MX)(P) - ANDR 1
+http://tecnotv.club/FEB27/phpcode/lista01.php?c=278508&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ98tc8gQ_AIrnWAmdXWXXJwXhm5QrAYY9ZLw&s" group-title="CINE",HBO XTREME (MX)(P) - ANDR 1
+http://tecnotv.club/FEB27/phpcode/lista01.php?c=278507&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ98tc8gQ_AIrnWAmdXWXXJwXhm5QrAYY9ZLw&s" group-title="CINE",HBO Xtreme - ANDR 1
+
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ98tc8gQ_AIrnWAmdXWXXJwXhm5QrAYY9ZLw&s" group-title="CINE",HBO Xtreme HD - ANDR 1
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png" group-title="CINE",HBO Xtreme - ANDR 1
 
@@ -2317,31 +2319,31 @@ http://tecnotv.club/FEB27/phpcode/lista01.php?c=278488&token=tecnotokenplustv230
 
 
 
-#EXTINF:-1 logo="https://brandslogos.com/wp-content/uploads/images/large/hbo-logo-1.png" group-title="CINE",HBO 2 HD (MX)(P) - ANDR 1
+#EXTINF:-1 logo="https://i.pinimg.com/736x/bc/a8/b8/bca8b8433dcc03c7ae0717938f022304.jpg" group-title="CINE",HBO 2 HD (MX)(P) - ANDR 1
 http://tecnotv.club/FEB27/phpcode/lista01.php?c=278493&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Hbo2.png" group-title="CINE",HBO 2 (MX)(P) - ANDR 1
+#EXTINF:-1 logo="https://i.pinimg.com/736x/bc/a8/b8/bca8b8433dcc03c7ae0717938f022304.jpg" group-title="CINE",HBO 2 (MX)(P) - ANDR 1
 http://tecnotv.club/FEB27/phpcode/lista01.php?c=278492&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Hbo2.png" group-title="CINE",HBO 2 HD - ANDR 1
+#EXTINF:-1 logo="https://i.pinimg.com/736x/bc/a8/b8/bca8b8433dcc03c7ae0717938f022304.jpg" group-title="CINE",HBO 2 HD - ANDR 1
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Hbo2.png" group-title="CINE",HBO 2 HD S2 - ANDR 1
+#EXTINF:-1 logo="https://i.pinimg.com/736x/bc/a8/b8/bca8b8433dcc03c7ae0717938f022304.jpg" group-title="CINE",HBO 2 HD S2 - ANDR 1
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Hbo2.png" group-title="CINE",HBO 2 - ANDR 1
+#EXTINF:-1 logo="https://i.pinimg.com/736x/bc/a8/b8/bca8b8433dcc03c7ae0717938f022304.jpg" group-title="CINE",HBO 2 - ANDR 1
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Hbo2.png" group-title="CINE",HBO 2 - ANDR 1
+#EXTINF:-1 logo="https://i.pinimg.com/736x/bc/a8/b8/bca8b8433dcc03c7ae0717938f022304.jpg" group-title="CINE",HBO 2 - ANDR 1
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Hbo2.png" group-title="CINE",HBO 2 HD - ANDR 1
+#EXTINF:-1 logo="https://i.pinimg.com/736x/bc/a8/b8/bca8b8433dcc03c7ae0717938f022304.jpg" group-title="CINE",HBO 2 HD - ANDR 1
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Hbo2.png" group-title="CINE",HBO 2 HD - ANDR 1
+#EXTINF:-1 logo="https://i.pinimg.com/736x/bc/a8/b8/bca8b8433dcc03c7ae0717938f022304.jpg" group-title="CINE",HBO 2 HD - ANDR 1
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Hbo2.png" group-title="CINE",HBO 2 HD - LISP
+#EXTINF:-1 logo="https://i.pinimg.com/736x/bc/a8/b8/bca8b8433dcc03c7ae0717938f022304.jpg" group-title="CINE",HBO 2 HD - LISP
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Hbo2.png" group-title="CINE",HBO 2 HD - ANDR 4
+#EXTINF:-1 logo="https://i.pinimg.com/736x/bc/a8/b8/bca8b8433dcc03c7ae0717938f022304.jpg" group-title="CINE",HBO 2 HD - ANDR 4
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Hbo2.png" group-title="CINE",HBO 2 HD - ANDR 3
+#EXTINF:-1 logo="https://i.pinimg.com/736x/bc/a8/b8/bca8b8433dcc03c7ae0717938f022304.jpg" group-title="CINE",HBO 2 HD - ANDR 3
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Hbo2.png" group-title="CINE",HBO 2 HD - ANDR 5
+#EXTINF:-1 logo="https://i.pinimg.com/736x/bc/a8/b8/bca8b8433dcc03c7ae0717938f022304.jpg" group-title="CINE",HBO 2 HD - ANDR 5
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Hbo2.png" group-title="CINE",HBO 2 HD - ANDR 6
+#EXTINF:-1 logo="https://i.pinimg.com/736x/bc/a8/b8/bca8b8433dcc03c7ae0717938f022304.jpg" group-title="CINE",HBO 2 HD - ANDR 6
 
 
 
@@ -2369,25 +2371,25 @@ http://tecnotv.club/FEB27/phpcode/lista01.php?c=278495&token=tecnotokenplustv230
 
 
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE",HBO plus - TV4 SR REGIO
+#EXTINF:-1 logo="https://i.ytimg.com/vi/uXFuTTpa6Xc/maxresdefault.jpg" group-title="CINE",HBO plus - TV4 SR REGIO
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE",HBO plus HD - TV8 SR REGIO
+#EXTINF:-1 logo="https://i.ytimg.com/vi/uXFuTTpa6Xc/maxresdefault.jpg" group-title="CINE",HBO plus HD - TV8 SR REGIO
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE",HBO plus - ANDR 0
+#EXTINF:-1 logo="https://i.ytimg.com/vi/uXFuTTpa6Xc/maxresdefault.jpg" group-title="CINE",HBO plus - ANDR 1
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE",HBO plus - ANDR 1
+#EXTINF:-1 logo="https://i.ytimg.com/vi/uXFuTTpa6Xc/maxresdefault.jpg" group-title="CINE",HBO plus - ANDR 1
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE",HBO plus HD - ANDR 0
+#EXTINF:-1 logo="https://i.ytimg.com/vi/uXFuTTpa6Xc/maxresdefault.jpg" group-title="CINE",HBO + HD (MX)(P) - ANDR 1
+http://tecnotv.club/FEB27/phpcode/lista01.php?c=278490&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://i.ytimg.com/vi/uXFuTTpa6Xc/maxresdefault.jpg" group-title="CINE",HBO + (MX)(P) - ANDR 1
+http://tecnotv.club/FEB27/phpcode/lista01.php?c=278489&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://i.ytimg.com/vi/uXFuTTpa6Xc/maxresdefault.jpg" group-title="CINE",HBO plus HD - LISP
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE",HBO plus HD - ANDR 1
+#EXTINF:-1 logo="https://i.ytimg.com/vi/uXFuTTpa6Xc/maxresdefault.jpg" group-title="CINE",HBO plus HD - ANDR 3
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE",HBO plus HD - LISP
+#EXTINF:-1 logo="https://i.ytimg.com/vi/uXFuTTpa6Xc/maxresdefault.jpg" group-title="CINE",HBO plus HD - ANDR 5
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE",HBO plus HD - ANDR 3
-
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE",HBO plus HD - ANDR 5
-
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE",HBO plus HD - ANDR 6
+#EXTINF:-1 logo="https://i.ytimg.com/vi/uXFuTTpa6Xc/maxresdefault.jpg" group-title="CINE",HBO plus HD - ANDR 6
 
 
 
@@ -5704,6 +5706,7 @@ http://radiokn.ddns.net:7000/efir
 
 #EXTINF:-1,RETRO FM UA Romantic
 http://cast.radiogroup.com.ua:8000/retro_romantic
+
 
 
 
