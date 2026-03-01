@@ -2124,30 +2124,30 @@ http://tecnotv.club/FEB27/phpcode/lista01.php?c=278423&token=tecnotokenplustv230
 
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/7/73/EUROCHANNEL_2007.jpg/revision/latest?cb=20210514180238&path-prefix=es" group-title="CINE",EURO Channel - ANDR 2
 
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/cl_film-arts_m.png" group-title="CINE Y SERIES",FILM & ARTS S2 - TV6 SR REGIO
-
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/cl_film-arts_m.png" group-title="CINE Y SERIES",FILM & ARTS HD - ANDR 0
-http://clubtv.link/11agt/phpcode/android0.php?c=149&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/cl_film-arts_m.png" group-title="CINE Y SERIES",FILM & ARTS HD - ANDR 1
-http://clubtv.link/11agt/phpcode/android1.php?c=149&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/cl_film-arts_m.png" group-title="CINE Y SERIES",FILM & ARTS S3 - LIS 4
-
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/cl_film-arts_m.png" group-title="CINE Y SERIES",Film & arts HD S1 -  GEO
+http://tecnotv.club/FEB27/phpcode/geomex.php?c=a0gs&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/cl_film-arts_m.png" group-title="CINE Y SERIES",FILM ARTS. (i) S1 - ANDR 1
+http://tecnotv.club/FEB27/phpcode/lista01.php?c=158682&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/cl_film-arts_m.png" group-title="CINE Y SERIES",FILM & ARTS HD (MX)(P) S2 - ANDR 1
+http://tecnotv.club/FEB27/phpcode/lista01.php?c=278424&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/cl_film-arts_m.png" group-title="CINE Y SERIES",FILM & ARTS (MX)(P) S2 - ANDR 1
+http://tecnotv.club/FEB27/phpcode/lista01.php?c=278400&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/cl_film-arts_m.png" group-title="CINE Y SERIES",FILM & ARTS S3 - LIS 6
 
 #EXTINF:-1 logo="https://www.newslinereport.com/online/nota_paramount-channel-expande-su-distribucin-a-travs-de-claro.jpg" group-title="CINE",PARAMOUNT CHANNEL - TV6 SR REGIO
 
 #EXTINF:-1 logo="https://www.newslinereport.com/online/nota_paramount-channel-expande-su-distribucin-a-travs-de-claro.jpg" group-title="CINE",PARAMOUNT CHANNEL HD - ANDR 0
-http://clubtv.link/11agt/phpcode/android0.php?c=647&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+
 #EXTINF:-1 logo="https://www.newslinereport.com/online/nota_paramount-channel-expande-su-distribucin-a-travs-de-claro.jpg" group-title="CINE",PARAMOUNT CHANNEL HD - ANDR 1 
-http://clubtv.link/11agt/phpcode/android1.php?c=647&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+
 #EXTINF:-1 logo="https://www.newslinereport.com/online/nota_paramount-channel-expande-su-distribucin-a-travs-de-claro.jpg" group-title="CINE",PARAMOUNT CHANNEL HD - ANDR 3
-http://clubtv.link/11agt/phpcode/android3.php?c=a03a&token=TecnoplusJunio03
+
 #EXTINF:-1 logo="https://www.newslinereport.com/online/nota_paramount-channel-expande-su-distribucin-a-travs-de-claro.jpg" group-title="CINE",PARAMOUNT CHANNEL - LIS 2
-http://clubtv.link/11agt/phpcode/lista2.php?c=a03a&f=.m3u8&token=TecnoplusJunio03
+
 #EXTINF:-1 logo="https://www.newslinereport.com/online/nota_paramount-channel-expande-su-distribucin-a-travs-de-claro.jpg" group-title="CINE",PARAMOUNT CHANNEL - LIS 5
-http://clubtv.link/11agt/phpcode/lista5.php?c=a03a&token=TecnoplusJunio03&f=.m3u8
+
 #EXTINF:-1 logo="https://www.newslinereport.com/online/nota_paramount-channel-expande-su-distribucin-a-travs-de-claro.jpg" group-title="CINE",PARAMOUNT CHANNEL - LISP
-http://clubtv.link/11agt/phpcode/lista0.php?c=12&token=TecnoplusJunio03&f=.m3u8
+
 #EXTINF:-1 logo="https://www.newslinereport.com/online/nota_paramount-channel-expande-su-distribucin-a-travs-de-claro.jpg" group-title="CINE",PARAMOUNT CHANNEL - TV6 SR REGIO
 
 #EXTINF:-1 logo="https://www.newslinereport.com/online/nota_paramount-channel-expande-su-distribucin-a-travs-de-claro.jpg" group-title="CINE",PARAMOUNT CHANNEL HD - TV8 SR REGIO
@@ -2156,8 +2156,8 @@ http://clubtv.link/11agt/phpcode/lista0.php?c=12&token=TecnoplusJunio03&f=.m3u8
 
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es" group-title="CINE",SONY CINE - INDEX GENBETA
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es" group-title="CINE",SONY CINE - ANDR 7
-
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es" group-title="CINE",SONY CINE - Sony HD (MX)(i) - ANDR 1
+http://tecnotv.club/FEB27/phpcode/lista01.php?c=159201&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN2AHJWFWRvFOLKubN_vc5YfIMVUYRfq2JoxJh-FYTegTB-X4-oLJs9I-3VCuIVl9iBEU&usqp=CAU" group-title="CINE",SONY COMEDIAS - ANDR 4
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN2AHJWFWRvFOLKubN_vc5YfIMVUYRfq2JoxJh-FYTegTB-X4-oLJs9I-3VCuIVl9iBEU&usqp=CAU" group-title="CINE",SONY COMEDIAS - ANDR 6
@@ -9621,6 +9621,7 @@ http://radiokn.ddns.net:7000/efir
 
 #EXTINF:-1,RETRO FM UA Romantic
 http://cast.radiogroup.com.ua:8000/retro_romantic
+
 
 
 
