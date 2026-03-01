@@ -2066,52 +2066,56 @@ http://45.5.119.43:4000/play/a0gy/index.m3u8
 
 #EXTINF:-1 logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-cinema-dark-logo.png" group-title="CINE",UNIVERSAL CINEMA ESTE HD - LIS 6
 
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQcA5OtBj1V_sz2ofup_bgNkbwLElRQVtfRg&s" group-title="CINE",Uni-versal Cinema HD (i) S1 - ANDR 1
-http://tecnotv.club/FEB27/phpcode/lista01.php?c=158697&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 logo="https://static.wikia.nocookie.net/tvcable/images/4/42/UniversalCinema.png/revision/latest?cb=20240130201240&path-prefix=es" group-title="SERIES Y CINE",Universal Cinema HD (MX)(P) - ANDR 1
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQcA5OtBj1V_sz2ofup_bgNkbwLElRQVtfRg&s" group-title="SERIES Y CINE",Universal Cinema HD (MX)(P) S1 - ANDR 1
 http://tecnotv.club/FEB27/phpcode/lista01.php?c=278472&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQcA5OtBj1V_sz2ofup_bgNkbwLElRQVtfRg&s" group-title="CINE",Uni-versal Cinema HD (i) S2 - ANDR 1
+http://tecnotv.club/FEB27/phpcode/lista01.php?c=158697&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQcA5OtBj1V_sz2ofup_bgNkbwLElRQVtfRg&s" group-title="CINE",UNIVERSAL CINEMA HD S2 - GEO
+http://tecnotv.club/FEB27/phpcode/geomex.php?c=a0kt&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQcA5OtBj1V_sz2ofup_bgNkbwLElRQVtfRg&s" group-title="SERIES Y CINE",UNIVERSAL CINEMA HD S2 - TV3
+http://45.5.119.43:4000/play/a0kt/index.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQcA5OtBj1V_sz2ofup_bgNkbwLElRQVtfRg&s" group-title="SERIES Y CINE",UNIVERSAL CINEMA - ANDR 1
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQcA5OtBj1V_sz2ofup_bgNkbwLElRQVtfRg&s" group-title="SERIES Y CINE",UNIVERSAL CINEMA - ANDR 2
 
-#EXTINF:-1 logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-cinema-dark-logo.png" group-title="CINE",UNIVERSAL CINEMA - TV8 SR REGIO
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQcA5OtBj1V_sz2ofup_bgNkbwLElRQVtfRg&s" group-title="CINE",UNIVERSAL CINEMA - TV8 SR REGIO
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQcA5OtBj1V_sz2ofup_bgNkbwLElRQVtfRg&s" group-title="CINE",UNIVERSAL CINEMA HD - TV10 SR REGIO
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="CINE",STUDIO UNIVERSAL - TV6 SR REGIO
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="CINE",STUDIO UNIVERSAL - TV8 SR REGIO
-http://200.59.188.3:8000/play/a06r
+
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="CINE",STUDIO UNIVERSAL - TV2 SR REGIO
-http://177.93.46.163:8000/play/a00r
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="CINE",STUDIO UNIVERSAL HD - ANDR 0
-http://clubtv.link/11agt/phpcode/android0.php?c=830&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="CINE",STUDIO UNIVERSAL HD - ANDR 1
-http://clubtv.link/11agt/phpcode/android1.php?c=830&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="CINE",STUDIO UNIVERSAL  - LISP
-http://clubtv.link/11agt/phpcode/lista0.php?c=70&token=TecnoplusJunio03&f=.m3u8
+
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="CINE",STUDIO UNIVERSAL HD (MX)(P) - ANDR 1
+http://tecnotv.club/FEB27/phpcode/lista01.php?c=278518&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="CINE",STUDIO UNIVERSAL (MX)(P) - ANDR 1
+http://tecnotv.club/FEB27/phpcode/lista01.php?c=278517&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="CINE",Studio Uni-versal (i)  - ANDR 1
+b/FEB27/phpcode/lista01.php?c=158794&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="CINE",STUDIO UNIVERSAL  - ANDR 1 
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="CINE",STUDIO UNIVERSAL - TV8 SR REGIO
 
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="CINE",STUDIO UNIVERSAL HD - TV8 SR REGIO
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png" group-title="CINE",EUROPA CHANNEL HD - ANDR 0
-http://clubtv.link/11agt/phpcode/android0.php?c=957&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png" group-title="CINE",EUROPA CHANNEL HD - ANDR 1
-http://clubtv.link/11agt/phpcode/android1.php?c=957&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png" group-title="CINE",EUROPA CHANNEL HD - ANDR 2
-http://clubtv.link/11agt/phpcode/android2.php?c=957&token=TecnoplusJunio03&f=.m3u8|User-Agent=plpro.org
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png" group-title="CINE",EUROPA CHANNEL - ANDR 4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREJGWLZ_MwyE8hI_w5OmYQpZD088n-ObSyWg&s" group-title="CINE",EUROPA EUROPA HD (MX)(P) - ANDR 1
+http://tecnotv.club/FEB27/phpcode/lista01.php?c=278399&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREJGWLZ_MwyE8hI_w5OmYQpZD088n-ObSyWg&s" group-title="CINE",EUROPA CHANNEL HD - ANDR 1
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png" group-title="CINE",EUROPA CHANNEL HD - ANDR 4
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREJGWLZ_MwyE8hI_w5OmYQpZD088n-ObSyWg&s" group-title="CINE",EUROPA CHANNEL HD - ANDR 2
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png" group-title="CINE",EUROPA CHANNEL HD - ANDR 0
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREJGWLZ_MwyE8hI_w5OmYQpZD088n-ObSyWg&s" group-title="CINE",EUROPA CHANNEL - ANDR 4
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png" group-title="CINE",EUROPA CHANNEL HD - ANDR 1
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREJGWLZ_MwyE8hI_w5OmYQpZD088n-ObSyWg&s" group-title="CINE",EUROPA CHANNEL HD - ANDR 4
 
-#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/7/73/EUROCHANNEL_2007.jpg/revision/latest?cb=20210514180238&path-prefix=es" group-title="CINE",EURO Channel - ANDR 3
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREJGWLZ_MwyE8hI_w5OmYQpZD088n-ObSyWg&s" group-title="CINE",EUROPA CHANNEL HD - ANDR 0
 
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREJGWLZ_MwyE8hI_w5OmYQpZD088n-ObSyWg&s" group-title="CINE",EUROPA CHANNEL HD - ANDR 1
+
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/7/73/EUROCHANNEL_2007.jpg/revision/latest?cb=20210514180238&path-prefix=es" group-title="CINE",EUROCHANNEL (MX)(P) - ANDR 1
+http://tecnotv.club/FEB27/phpcode/lista01.php?c=278423&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/7/73/EUROCHANNEL_2007.jpg/revision/latest?cb=20210514180238&path-prefix=es" group-title="CINE",EURO Channel - ANDR 4
 
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/7/73/EUROCHANNEL_2007.jpg/revision/latest?cb=20210514180238&path-prefix=es" group-title="CINE",EURO Channel - TV SR REGIO
@@ -9617,6 +9621,7 @@ http://radiokn.ddns.net:7000/efir
 
 #EXTINF:-1,RETRO FM UA Romantic
 http://cast.radiogroup.com.ua:8000/retro_romantic
+
 
 
 
