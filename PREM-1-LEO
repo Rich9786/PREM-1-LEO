@@ -2370,27 +2370,25 @@ http://tecnotv.club/FEB27/phpcode/lista01.php?c=278495&token=tecnotokenplustv230
 
 
 
+#EXTINF:-1 logo="https://www.superestudio.tv/case-studies/hbo+/hbo+-06.jpg" group-title="CINE",HBO plus HD - TV2 SR REGIO
 
-#EXTINF:-1 logo="https://i.ytimg.com/vi/uXFuTTpa6Xc/maxresdefault.jpg" group-title="CINE",HBO plus - TV4 SR REGIO
+#EXTINF:-1 logo="https://www.superestudio.tv/case-studies/hbo+/hbo+-06.jpg" group-title="CINE",HBO plus HD - TV3 SR REGIO
 
-#EXTINF:-1 logo="https://i.ytimg.com/vi/uXFuTTpa6Xc/maxresdefault.jpg" group-title="CINE",HBO plus HD - TV8 SR REGIO
+#EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/99e4d566975335.Y3JvcCwxMDMzLDgwOCwyMDIsMA.png" group-title="CINE",HBO plus - TV4 SR REGIO
 
-#EXTINF:-1 logo="https://i.ytimg.com/vi/uXFuTTpa6Xc/maxresdefault.jpg" group-title="CINE",HBO plus - ANDR 1
+#EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/99e4d566975335.Y3JvcCwxMDMzLDgwOCwyMDIsMA.png" group-title="CINE",HBO plus HD - TV8 SR REGIO
 
-#EXTINF:-1 logo="https://i.ytimg.com/vi/uXFuTTpa6Xc/maxresdefault.jpg" group-title="CINE",HBO plus - ANDR 1
+#EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/99e4d566975335.Y3JvcCwxMDMzLDgwOCwyMDIsMA.png" group-title="CINE",HBO plus - ANDR 1
 
-#EXTINF:-1 logo="https://i.ytimg.com/vi/uXFuTTpa6Xc/maxresdefault.jpg" group-title="CINE",HBO + HD (MX)(P) - ANDR 1
+#EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/99e4d566975335.Y3JvcCwxMDMzLDgwOCwyMDIsMA.png" group-title="CINE",HBO plus - ANDR 1
+
+#EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/99e4d566975335.Y3JvcCwxMDMzLDgwOCwyMDIsMA.png" group-title="CINE",HBO + HD (MX)(P) - ANDR 1
 http://tecnotv.club/FEB27/phpcode/lista01.php?c=278490&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 logo="https://i.ytimg.com/vi/uXFuTTpa6Xc/maxresdefault.jpg" group-title="CINE",HBO + (MX)(P) - ANDR 1
+#EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/99e4d566975335.Y3JvcCwxMDMzLDgwOCwyMDIsMA.png" group-title="CINE",HBO + (MX)(P) - ANDR 1
 http://tecnotv.club/FEB27/phpcode/lista01.php?c=278489&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 logo="https://i.ytimg.com/vi/uXFuTTpa6Xc/maxresdefault.jpg" group-title="CINE",HBO plus HD - LISP
+#EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/99e4d566975335.Y3JvcCwxMDMzLDgwOCwyMDIsMA.png" group-title="CINE",HBO plus HD - LISP
 
-#EXTINF:-1 logo="https://i.ytimg.com/vi/uXFuTTpa6Xc/maxresdefault.jpg" group-title="CINE",HBO plus HD - ANDR 3
-
-#EXTINF:-1 logo="https://i.ytimg.com/vi/uXFuTTpa6Xc/maxresdefault.jpg" group-title="CINE",HBO plus HD - ANDR 5
-
-#EXTINF:-1 logo="https://i.ytimg.com/vi/uXFuTTpa6Xc/maxresdefault.jpg" group-title="CINE",HBO plus HD - ANDR 6
-
+#EXTINF:-1 logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/99e4d566975335.Y3JvcCwxMDMzLDgwOCwyMDIsMA.png" group-title="CINE",HBO plus HD - ANDR 3
 
 
 
@@ -5706,6 +5704,7 @@ http://radiokn.ddns.net:7000/efir
 
 #EXTINF:-1,RETRO FM UA Romantic
 http://cast.radiogroup.com.ua:8000/retro_romantic
+
 
 
 
