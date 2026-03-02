@@ -86,7 +86,7 @@ https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8?Playlis
 https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8?TecnoPlaylist
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1798123170836418560/oWeHD3Sc_400x400.jpg" group-title="MEXICO",RTQ Queretaro - GEO
 https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel-landscape/674085089ecae4f3462694fa/d39ca83e5514c7d75dc7b78527e9b838?tr=w-1200,h-627,f-jpeg" group-title="MEXICO",NUEVE HD (MX)(P) - ANDR 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKUur0wbpNT8GzzPC2TEaScnnJfPE34jlcVA&s" group-title="MEXICO",NUEVE HD (MX)(P) - ANDR 1
 http://tecnotv.club/0203F/phpcode/lista01.php?c=278360&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel-landscape/674085089ecae4f3462694fa/d39ca83e5514c7d75dc7b78527e9b838?tr=w-1200,h-627,f-jpeg" group-title="MEXICO",NUEVE (MX)(P) - ANDR 1
 http://tecnotv.club/0203F/phpcode/lista01.php?c=278359&token=tecnotokenplustv230516F&f=.m3u8
@@ -5479,4 +5479,5 @@ http://radiokn.ddns.net:7000/efir
 
 #EXTINF:-1,RETRO FM UA Romantic
 http://cast.radiogroup.com.ua:8000/retro_romantic
+
 
