@@ -86,6 +86,12 @@ https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8?Playlis
 https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8?TecnoPlaylist
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1798123170836418560/oWeHD3Sc_400x400.jpg" group-title="MEXICO",RTQ Queretaro - GEO
 https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel-landscape/674085089ecae4f3462694fa/d39ca83e5514c7d75dc7b78527e9b838?tr=w-1200,h-627,f-jpeg" group-title="MEXICO",NUEVE HD (MX)(P) - ANDR 1
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278360&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel-landscape/674085089ecae4f3462694fa/d39ca83e5514c7d75dc7b78527e9b838?tr=w-1200,h-627,f-jpeg" group-title="MEXICO",NUEVE (MX)(P) - ANDR 1
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278359&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel-landscape/674085089ecae4f3462694fa/d39ca83e5514c7d75dc7b78527e9b838?tr=w-1200,h-627,f-jpeg" group-title="MEXICO",el9nueve SD - ANDR 3
+http://tecnotv.club/0203F/phpcode/android3.php?c=a0ow&token=tecnotokenplustv230516F
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3JOA6ueBRVsDl3BhI4jzfpgdiDeix6kqWcQ&s" group-title="MEXICO",Canal 10 Chiapas - FLUX
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/chunklist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3JOA6ueBRVsDl3BhI4jzfpgdiDeix6kqWcQ&s" group-title="MEXICO",Canal 10 Chiapas - GEO
@@ -108,10 +114,10 @@ https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274
 
 #EXTINF:-1 tvg-id="98123" tvg-name="Canal Catorce" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBlOmHS7YfYW1jaVexAOTG1RpUHAZme3VXmQ&s", Canal Catorce - TV6 SR REGIO
 
-#EXTINF:-1 tvg-id="98123" tvg-name="Canal Catorce" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBlOmHS7YfYW1jaVexAOTG1RpUHAZme3VXmQ&s", Canal Catorce HD (i) - ANDR 1
-http://tecnotv.club/0203F/phpcode/lista01.php?c=158624&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="98123" tvg-name="Canal Catorce" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBlOmHS7YfYW1jaVexAOTG1RpUHAZme3VXmQ&s", CANAL 14 (MX)(P) - ANDR 1
 http://tecnotv.club/0203F/phpcode/lista01.php?c=278323&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-id="98123" tvg-name="Canal Catorce" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBlOmHS7YfYW1jaVexAOTG1RpUHAZme3VXmQ&s",CANAL 14  - ANDR 3
+http://tecnotv.club/0203F/phpcode/android3.php?c=a0ax&token=tecnotokenplustv230516F
 #EXTINF:-1 logo="http://ccmpunila.weebly.com/uploads/1/5/5/3/15537570/8216048.jpg?368" group-title="MEXICO",CANAL 22 - TV6 SR REGIO
 
 #EXTINF:-1 logo="http://ccmpunila.weebly.com/uploads/1/5/5/3/15537570/8216048.jpg?368" group-title="MEXICO",Canal 22 Nacional (i) - ANDR 1
@@ -832,18 +838,16 @@ http://tecnotv.club/0203F/phpcode/geomex.php?c=a0g9&token=tecnotokenplustv230516
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnSHDEyFQMmYuCEW6VYPEKDgdl-Sntl2NhvbI4KvK3LZxMCLYNwtY0Xg0PIDBUtPG-9l8&usqp=CAU" group-title="ENTRETENIMIENTO",E! HD - TV4 SR REGIO
 
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnSHDEyFQMmYuCEW6VYPEKDgdl-Sntl2NhvbI4KvK3LZxMCLYNwtY0Xg0PIDBUtPG-9l8&usqp=CAU" group-title="ENTRETENIMIENTO",E! - ANDR 0
-
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnSHDEyFQMmYuCEW6VYPEKDgdl-Sntl2NhvbI4KvK3LZxMCLYNwtY0Xg0PIDBUtPG-9l8&usqp=CAU" group-title="ENTRETENIMIENTO",E! - ANDR 1
-
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnSHDEyFQMmYuCEW6VYPEKDgdl-Sntl2NhvbI4KvK3LZxMCLYNwtY0Xg0PIDBUtPG-9l8&usqp=CAU" group-title="ENTRETENIMIENTO",E! - ANDR 2
-
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnSHDEyFQMmYuCEW6VYPEKDgdl-Sntl2NhvbI4KvK3LZxMCLYNwtY0Xg0PIDBUtPG-9l8&usqp=CAU" group-title="ENTERTAINMENT",E! ENTERTAINMENT HD (MX)(P) - ANDR 1
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278418&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnSHDEyFQMmYuCEW6VYPEKDgdl-Sntl2NhvbI4KvK3LZxMCLYNwtY0Xg0PIDBUtPG-9l8&usqp=CAU" group-title="ENTRETENIMIENTO",E! Entertainment (MX)(P) - ANDR 1
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278417&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnSHDEyFQMmYuCEW6VYPEKDgdl-Sntl2NhvbI4KvK3LZxMCLYNwtY0Xg0PIDBUtPG-9l8&usqp=CAU" group-title="ENTRETENIMIENTO",E! Entertairment HD - GEO
+http://tecnotv.club/0203F/phpcode/geomex.php?c=a0gr&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdt4XRhHlfKDKlOzuYR1-_8-rNXTOT41VXIQ&s" group-title="SERIES Y CINE",CLAN (ES) - ESP
-http://clubtv.link/11agt/phpcode/esp.php?c=2565
-#EXTINF:-1 logo="https://yt3.googleusercontent.com/ytc/AOPolaS4dCt0-dWZaHtmO1K1-vSDDdIsDNMBvVX-TSqX=s900-c-k-c0x00ffffff-no-rj" group-title="ENTRETENIMIENTO",CANAL CLARO - TV8 SR REGIO
-http://200.59.188.3:8000/play/a07t
-#EXTINF:-1 logo="https://yt3.googleusercontent.com/ytc/AOPolaS4dCt0-dWZaHtmO1K1-vSDDdIsDNMBvVX-TSqX=s900-c-k-c0x00ffffff-no-rj" group-title="ENTRETENIMIENTO",CANAL CLARO HD - ANDR 3
 
+#EXTINF:-1 logo="https://yt3.googleusercontent.com/ytc/AOPolaS4dCt0-dWZaHtmO1K1-vSDDdIsDNMBvVX-TSqX=s900-c-k-c0x00ffffff-no-rj" group-title="ENTRETENIMIENTO",CANAL CLARO - TV3 SR REGIO
+http://45.5.119.43:4000/play/a0fv/index.m3u8
 #EXTINF:-1 logo="https://yt3.googleusercontent.com/ytc/AOPolaS4dCt0-dWZaHtmO1K1-vSDDdIsDNMBvVX-TSqX=s900-c-k-c0x00ffffff-no-rj" group-title="ENTRETENIMIENTO",CANAL CLARO HD - ANDR 4
 
 #EXTINF:-1 logo="https://yt3.googleusercontent.com/ytc/AOPolaS4dCt0-dWZaHtmO1K1-vSDDdIsDNMBvVX-TSqX=s900-c-k-c0x00ffffff-no-rj" group-title="ENTRETENIMIENTO",CANAL CLARO HD - LIS 4
@@ -859,15 +863,15 @@ http://200.59.188.3:8000/play/a07t
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1834642320307650560/CFJ6-GKG_400x400.jpg" group-title="ENTRETENIMIENTO",TLT - TV8 SR REGIO
 
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1879965482163580928/utqFr6QP_400x400.jpg" group-title="ENTRETENIMIENTO",UNICABLE - ANDR 0
-http://clubtv.link/11agt/phpcode/android0.php?c=98&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1879965482163580928/utqFr6QP_400x400.jpg" group-title="ENTRETENIMIENTO",UNICABLE - ANDR 1
-http://clubtv.link/11agt/phpcode/android1.php?c=98&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1879965482163580928/utqFr6QP_400x400.jpg" group-title="ENTRETENIMIENTO",UNICABLE HD - ANDR 0
-http://clubtv.link/11agt/phpcode/android0.php?c=653&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1879965482163580928/utqFr6QP_400x400.jpg" group-title="ENTRETENIMIENTO",UNICABLE HD - ANDR 1
-http://clubtv.link/11agt/phpcode/android1.php?c=653&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1879965482163580928/utqFr6QP_400x400.jpg" group-title="ENTRETENIMIENTO",UNICABLE - ANDR 2
-http://clubtv.link/11agt/phpcode/android2.php?c=98&token=TecnoplusJunio03&f=.m3u8|User-Agent=plpro.org
+
 #EXTINF:-1 logo="https://m.media-amazon.com/images/M/MV5BNTk3ZmM1N2MtZDEzNy00ODgzLWFkYjMtNTk0YjRkZjkyZjFjXkEyXkFqcGdeQXVyMzQxNzU3NA@@._V1_.jpg" group-title="ENTRETENIMIENTO",Miembros Al Aire - TV3 SR REGIO
 
 #EXTINF:-1 logo="https://st1.uvnimg.com/70/2c/9eebe35646ddb5a9ec0f8ae1ecce/altpreview.jpg" group-title="ENTRETENIMIENTO",GALAVISION - ANDR 0
@@ -1830,12 +1834,12 @@ http://tecnotv.club/0203F/phpcode/lista01.php?c=278469&token=tecnotokenplustv230
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFdgx-zQ6TU1HObenpqvS-ahxSdaZM2HJ16Q&s" group-title="CINE",CLARO CINEMA - LIS 6
 
-#EXTINF:-1 logo="https://tvazteca.brightspotcdn.com/24/f8/6b61a723433b85fa4ef6af15553e/cinema-1920x1080-1.jpg" group-title="CINE",Az Cinema HD (MX)(i) - ANDR 1
-http://tecnotv.club/0203F/phpcode/lista01.php?c=159209&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://tvazteca.brightspotcdn.com/24/f8/6b61a723433b85fa4ef6af15553e/cinema-1920x1080-1.jpg" group-title="CINE",Azteca CINEMA HD (MX)(P) - ANDR 1
 http://tecnotv.club/0203F/phpcode/lista01.php?c=278465&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://tvazteca.brightspotcdn.com/24/f8/6b61a723433b85fa4ef6af15553e/cinema-1920x1080-1.jpg" group-title="CINE",Azteca CINEMA (MX)(P) - ANDR 1
 http://tecnotv.club/0203F/phpcode/lista01.php?c=278464&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://tvazteca.brightspotcdn.com/24/f8/6b61a723433b85fa4ef6af15553e/cinema-1920x1080-1.jpg" group-title="CINE",Az Cinema HD (MX)(i) - ANDR 1
+http://tecnotv.club/0203F/phpcode/lista01.php?c=159209&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://tvazteca.brightspotcdn.com/24/f8/6b61a723433b85fa4ef6af15553e/cinema-1920x1080-1.jpg" group-title="CINE",AZ CINEMA - ANDR 4
 
 #EXTINF:-1 logo="https://tvazteca.brightspotcdn.com/24/f8/6b61a723433b85fa4ef6af15553e/cinema-1920x1080-1.jpg" group-title="CINE",AZ CINEMA - ANDR 5
@@ -5475,3 +5479,4 @@ http://radiokn.ddns.net:7000/efir
 
 #EXTINF:-1,RETRO FM UA Romantic
 http://cast.radiogroup.com.ua:8000/retro_romantic
+
