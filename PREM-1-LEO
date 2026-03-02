@@ -2647,25 +2647,27 @@ https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist&f=.m3u8
 #EXTINF:-1 logo="https://w7.pngwing.com/pngs/98/1022/png-transparent-microphone-logo-brand-font-microphone-white-electronics-microphone-thumbnail.png" group-title="CINE",+18 Penthouse - TV10 SR REGIO
 
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/tvcable/images/6/69/OM04E.jpg/revision/latest?cb=20110531221305&path-prefix=es" group-title="CINE",+18 SEX XTREME - ANDR 3
-http://clubtv.link/11agt/phpcode/android3.php?c=a09c&token=TecnoplusJunio03
-#EXTINF:-1 logo="https://static.wikia.nocookie.net/tvcable/images/6/69/OM04E.jpg/revision/latest?cb=20110531221305&path-prefix=es" group-title="CINE",+18 SEX XTREME - LIS 1
-http://clubtv.link/11agt/phpcode/lista1.php?c=a09c&token=TecnoplusJunio03&f=.m3u8
-#EXTINF:-1 logo="https://logowik.com/content/uploads/images/canal-venus7733.logowik.com.webp" group-title="CINE",+18 VENUS - ANDR 5
-http://clubtv.link/11agt/phpcode/lista5.php?c=a02u&token=TecnoplusJunio03&f=.m3u8
+http://tecnotv.club/FEB27/phpcode/android3.php?c=a09c&token=tecnotokenplustv230516F
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/tvcable/images/6/69/OM04E.jpg/revision/latest?cb=20110531221305&path-prefix=es" group-title="CINE",+18 SEX XTREME - LIS 2
+http://tecnotv.club/FEB27/phpcode/lista2.php?c=a09c&f=.m3u8&token=tecnotokenplustv230516F
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/tvcable/images/6/69/OM04E.jpg/revision/latest?cb=20110531221305&path-prefix=es" group-title="CINE",+18 SEX XTREME - LIS 4
+http://tecnotv.club/FEB27/phpcode/lista4.php?c=a09c&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://logowik.com/content/uploads/images/canal-venus7733.logowik.com.webp" group-title="CINE",+18 VENUS - ANDR 3
-http://clubtv.link/11agt/phpcode/android3.php?c=a09b&token=TecnoplusJunio03
-#EXTINF:-1 logo="https://logowik.com/content/uploads/images/canal-venus7733.logowik.com.webp" group-title="CINE",+18 VENUS - LIS 1
-http://clubtv.link/11agt/phpcode/lista1.php?c=a09b&token=TecnoplusJunio03&f=.m3u8
+http://tecnotv.club/FEB27/phpcode/android3.php?c=a09b&token=tecnotokenplustv230516F
+#EXTINF:-1 logo="https://logowik.com/content/uploads/images/canal-venus7733.logowik.com.webp" group-title="CINE",+18 VENUS - LIS 2
+http://tecnotv.club/FEB27/phpcode/lista2.php?c=a09b&f=.m3u8&token=tecnotokenplustv230516F
+#EXTINF:-1 logo="https://logowik.com/content/uploads/images/canal-venus7733.logowik.com.webp" group-title="CINE",+18 VENUS - LIS 4
+http://tecnotv.club/FEB27/phpcode/lista4.php?c=a09b&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://logowik.com/content/uploads/images/canal-venus7733.logowik.com.webp" group-title="CINE",+18 VENUS - ANDR 6
 
 #EXTINF:-1 logo="https://logowik.com/content/uploads/images/canal-venus7733.logowik.com.webp" group-title="CINE",+18 VENUS - LIS 6
 
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeCDfyMTwY5jLfdlwh_fcu7okKKcCcekGiBw&usqp=CAU" group-title="CINE",+18 Playboy - ANDR 5
-http://clubtv.link/11agt/phpcode/lista5.php?c=a02t&token=TecnoplusJunio03&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeCDfyMTwY5jLfdlwh_fcu7okKKcCcekGiBw&usqp=CAU" group-title="CINE",+18 Playboy - ANDR 3
-http://clubtv.link/11agt/phpcode/android3.php?c=a09a&token=TecnoplusJunio03
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeCDfyMTwY5jLfdlwh_fcu7okKKcCcekGiBw&usqp=CAU" group-title="CINE",+18 Playboy - LIS 1
-http://clubtv.link/11agt/phpcode/lista1.php?c=a09a&token=TecnoplusJunio03&f=.m3u8
+http://tecnotv.club/FEB27/phpcode/android3.php?c=a09a&token=tecnotokenplustv230516F
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeCDfyMTwY5jLfdlwh_fcu7okKKcCcekGiBw&usqp=CAU" group-title="CINE",+18 Playboy - LIS 2
+http://tecnotv.club/FEB27/phpcode/lista2.php?c=a09a&f=.m3u8&token=tecnotokenplustv230516F
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeCDfyMTwY5jLfdlwh_fcu7okKKcCcekGiBw&usqp=CAU" group-title="CINE",+18 Playboy - LIS 4
+http://tecnotv.club/FEB27/phpcode/lista4.php?c=a09a&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeCDfyMTwY5jLfdlwh_fcu7okKKcCcekGiBw&usqp=CAU" group-title="CINE",+18 Playboy - LIS 4
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeCDfyMTwY5jLfdlwh_fcu7okKKcCcekGiBw&usqp=CAU" group-title="CINE",+18 Playboy - LIS 6
@@ -5481,6 +5483,7 @@ http://radiokn.ddns.net:7000/efir
 
 #EXTINF:-1,RETRO FM UA Romantic
 http://cast.radiogroup.com.ua:8000/retro_romantic
+
 
 
 
