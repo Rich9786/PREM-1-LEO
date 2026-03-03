@@ -892,62 +892,61 @@ http://tecnotv.club/0203F/phpcode/lista01.php?c=158687&token=tecnotokenplustv230
 
 #EXTINF:-1 logo="https://w7.pngwing.com/pngs/540/660/png-transparent-televisa-logo-univision-broadcasting-u-miscellaneous-purple-television.png" group-title="ENTRETENIMIENTO",Univision HD - GEO
 http://tecnotv.club/0203F/phpcode/geomex.php?c=a0kr&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 logo="https://w7.pngwing.com/pngs/540/660/png-transparent-televisa-logo-univision-broadcasting-u-miscellaneous-purple-television.png" group-title="ENTRETENIMIENTO",UNIVISION HD - TV6 SR REGIO
-
+#EXTINF:-1 logo="https://w7.pngwing.com/pngs/540/660/png-transparent-televisa-logo-univision-broadcasting-u-miscellaneous-purple-television.png" group-title="ENTRETENIMIENTO",Univision HD - TV3 SR REGIO
+http://45.5.119.43:4000/play/a0kr/index.m3u8
 #EXTINF:-1 logo="https://w7.pngwing.com/pngs/540/660/png-transparent-televisa-logo-univision-broadcasting-u-miscellaneous-purple-television.png" group-title="ENTRETENIMIENTO",UNIVISION HD - TV10 SR REGIO
 
 #EXTINF:-1 logo="https://w7.pngwing.com/pngs/540/660/png-transparent-televisa-logo-univision-broadcasting-u-miscellaneous-purple-television.png" group-title="ENTRETENIMIENTO",UNIVISION HD - TV5
-http://45.228.234.167:8000/play/a05r/index.m3u8
+
 #EXTINF:-1 logo="https://w7.pngwing.com/pngs/540/660/png-transparent-televisa-logo-univision-broadcasting-u-miscellaneous-purple-television.png" group-title="ENTRETENIMIENTO",UNIVISION - LISP
-http://clubtv.link/11agt/phpcode/lista0.php?c=3&token=TecnoplusJunio03&f=.m3u8
+
 #EXTINF:-1 logo="https://w7.pngwing.com/pngs/540/660/png-transparent-televisa-logo-univision-broadcasting-u-miscellaneous-purple-television.png" group-title="ENTRETENIMIENTO",UNIVISION HD - LIS 6
 
 #EXTINF:-1 logo="https://e7.pngegg.com/pngimages/103/836/png-clipart-unimas-television-channel-logo-univision-bd-logo-television-text.png" group-title="ENTRETENIMIENTO",UNIMAS - ANDR 0
-http://clubtv.link/11agt/phpcode/android0.php?c=144&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+
 #EXTINF:-1 logo="https://e7.pngegg.com/pngimages/103/836/png-clipart-unimas-television-channel-logo-univision-bd-logo-television-text.png" group-title="ENTRETENIMIENTO",UNIMAS - ANDR 1
-http://clubtv.link/11agt/phpcode/android1.php?c=144&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+
 #EXTINF:-1 logo="https://e7.pngegg.com/pngimages/103/836/png-clipart-unimas-television-channel-logo-univision-bd-logo-television-text.png" group-title="ENTRETENIMIENTO",UNIMAS - ANDR 5
 
 #EXTINF:-1 logo="https://e7.pngegg.com/pngimages/103/836/png-clipart-unimas-television-channel-logo-univision-bd-logo-television-text.png" group-title="ENTRETENIMIENTO",UNIMAS - ANDR 6
 
-#EXTINF:-1 logo="https://play-lh.googleusercontent.com/GH6uk17KaI_yKY18JDjLl6Q7VdRfZSiN62QaDveOK-RgZbpXgTmV9s3ZNFtvHuXdcQ" group-title="ENTRETENIMIENTO",ESTRELLA TV
+#EXTINF:-1 logo="https://play-lh.googleusercontent.com/GH6uk17KaI_yKY18JDjLl6Q7VdRfZSiN62QaDveOK-RgZbpXgTmV9s3ZNFtvHuXdcQ" group-title="ENTRETENIMIENTO",ESTRELLA TV S1
 https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 logo="https://play-lh.googleusercontent.com/GH6uk17KaI_yKY18JDjLl6Q7VdRfZSiN62QaDveOK-RgZbpXgTmV9s3ZNFtvHuXdcQ" group-title="ENTRETENIMIENTO",ESTRELLA TV - ANDR 0
-http://clubtv.link/11agt/phpcode/android0.php?c=177&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+#EXTINF:-1 logo="https://play-lh.googleusercontent.com/GH6uk17KaI_yKY18JDjLl6Q7VdRfZSiN62QaDveOK-RgZbpXgTmV9s3ZNFtvHuXdcQ" group-title="ENTRETENIMIENTO",Estrella TV (KRCA) (i) S2 - ANDR 1
+http://tecnotv.club/0203F/phpcode/lista01.php?c=158680&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://play-lh.googleusercontent.com/GH6uk17KaI_yKY18JDjLl6Q7VdRfZSiN62QaDveOK-RgZbpXgTmV9s3ZNFtvHuXdcQ" group-title="ENTRETENIMIENTO",ESTRELLA TV - ANDR 1
-http://clubtv.link/11agt/phpcode/android1.php?c=177&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+
 #EXTINF:-1 logo="https://play-lh.googleusercontent.com/GH6uk17KaI_yKY18JDjLl6Q7VdRfZSiN62QaDveOK-RgZbpXgTmV9s3ZNFtvHuXdcQ" group-title="ENTRETENIMIENTO",ESTRELLA TV - ANDR 2
-http://clubtv.link/11agt/phpcode/android2.php?c=177&token=TecnoplusJunio03&f=.m3u8|User-Agent=plpro.org
+
 #EXTINF:-1 logo="https://play-lh.googleusercontent.com/MQ0U9totq-M7deoHGWrzqHy_04Zzd-zO1Pz8BXCH2MRuhCEJi1TunWoQUtS7i7I4bXg" group-title="ENTRETENIMIENTO",UNIVERSO - TV4 SR REGIO
 
 #EXTINF:-1 logo="https://play-lh.googleusercontent.com/MQ0U9totq-M7deoHGWrzqHy_04Zzd-zO1Pz8BXCH2MRuhCEJi1TunWoQUtS7i7I4bXg" group-title="ENTRETENIMIENTO",UNIVERSO - LISP
-http://clubtv.link/11agt/phpcode/lista0.php?c=68&token=TecnoplusJunio03&f=.m3u8
+
 #EXTINF:-1 logo="https://play-lh.googleusercontent.com/MQ0U9totq-M7deoHGWrzqHy_04Zzd-zO1Pz8BXCH2MRuhCEJi1TunWoQUtS7i7I4bXg" group-title="ENTRETENIMIENTO",UNIVERSO - ANDR 1
 
 #EXTINF:-1 logo="https://img-tomatazos.buscafs.com/148952/148952_945x532.jpg" group-title="24/7", EL CHAPULIN COLORADO - ANDR 2
-http://clubtv.link/11agt/phpcode/android2.php?c=418&token=TecnoplusJunio03&f=.m3u8|User-Agent=plpro.org
+
 #EXTINF:-1 logo="https://img-tomatazos.buscafs.com/148952/148952_945x532.jpg" group-title="24/7", EL CHAPULIN COLORADO - ANDR 5
 
 #EXTINF:-1 logo="https://borealtelevision.com/wp-content/uploads/2021/06/El-Chavo-del-Ocho.jpg" group-title="24/7", EL CHAVO DEL 8 - ANDR 0
-http://clubtv.link/11agt/phpcode/android0.php?c=400&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+
 #EXTINF:-1 logo="https://borealtelevision.com/wp-content/uploads/2021/06/El-Chavo-del-Ocho.jpg" group-title="24/7", EL CHAVO DEL 8 - ANDR 1
-http://clubtv.link/11agt/phpcode/android1.php?c=400&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
 
 #EXTINF:-1 logo="https://i.ytimg.com/vi/MM0swZ3TyEM/maxresdefault.jpg" group-title="24/7",Chespirito - ANDR 0
-http://clubtv.link/11agt/phpcode/android0.php?c=417&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+
 #EXTINF:-1 logo="https://i.ytimg.com/vi/MM0swZ3TyEM/maxresdefault.jpg" group-title="24/7",Chespirito - ANDR 1
-http://clubtv.link/11agt/phpcode/android1.php?c=417&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
+
 
 #EXTINF:-1 logo="https://i.imgur.com/pWW9ljW.jpg" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA - TV6 SR REGIO
 
-#EXTINF:-1 logo="https://i.imgur.com/pWW9ljW.jpg" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA - ANDR 0
-http://clubtv.link/11agt/phpcode/android0.php?c=32&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 logo="https://i.imgur.com/pWW9ljW.jpg" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA - ANDR 1
-http://clubtv.link/11agt/phpcode/android1.php?c=32&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 logo="https://i.imgur.com/pWW9ljW.jpg" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA  - ANDR 2
-http://clubtv.link/11agt/phpcode/android2.php?c=32&token=TecnoplusJunio03&f=.m3u8|User-Agent=plpro.org
-#EXTINF:-1 logo="https://i.imgur.com/pWW9ljW.jpg" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA  - LIS 4
-
+#EXTINF:-1 logo="https://i.imgur.com/pWW9ljW.jpg" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA HD (MX)(P) - ANDR 1
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278416&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/pWW9ljW.jpg" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA (MX)(P) - ANDR 1
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278415&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/pWW9ljW.jpg" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA  - ANDR 3
+http://tecnotv.club/0203F/phpcode/android3.php?c=a0ou&token=tecnotokenplustv230516F
+#EXTINF:-1 logo="https://i.imgur.com/pWW9ljW.jpg" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA  - TV3 SR REGIO
+http://45.5.119.43:4000/play/a05l/index.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/pWW9ljW.jpg" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA  HD OPC 1 - ANDR 5
 
 #EXTINF:-1 logo="https://i.imgur.com/pWW9ljW.jpg" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA  HD OPC 2 - ANDR 5
@@ -958,14 +957,14 @@ http://clubtv.link/11agt/phpcode/android2.php?c=32&token=TecnoplusJunio03&f=.m3u
 
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/tvpediabrasil/images/1/17/Comedycentral.jpg/revision/latest/top-crop/width/360/height/450?cb=20180804010106&path-prefix=pt-br" group-title="ENTRETENIMIENTO",COMEDY CENTRAL - TV6 SR REGIO
 
-#EXTINF:-1 logo="https://static.wikia.nocookie.net/tvpediabrasil/images/1/17/Comedycentral.jpg/revision/latest/top-crop/width/360/height/450?cb=20180804010106&path-prefix=pt-br" group-title="ENTRETENIMIENTO",COMEDY CENTRAL HD - ANDR 0
-http://clubtv.link/11agt/phpcode/android0.php?c=480&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 logo="https://static.wikia.nocookie.net/tvpediabrasil/images/1/17/Comedycentral.jpg/revision/latest/top-crop/width/360/height/450?cb=20180804010106&path-prefix=pt-br" group-title="ENTRETENIMIENTO",COMEDY CENTRAL HD - ANDR 1
-http://clubtv.link/11agt/phpcode/android1.php?c=480&token=TecnoplusJunio03&f=.m3u8|User-Agent=Ultimate Player/1.0.7
-#EXTINF:-1 logo="https://static.wikia.nocookie.net/tvpediabrasil/images/1/17/Comedycentral.jpg/revision/latest/top-crop/width/360/height/450?cb=20180804010106&path-prefix=pt-br" group-title="ENTRETENIMIENTO",COMEDY CENTRAL HD - ANDR 2
-http://clubtv.link/11agt/phpcode/android2.php?c=135&token=TecnoplusJunio03&f=.m3u8|User-Agent=plpro.org
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/tvpediabrasil/images/1/17/Comedycentral.jpg/revision/latest/top-crop/width/360/height/450?cb=20180804010106&path-prefix=pt-br" group-title="ENTRETENIMIENTO",COMEDY CENTRAL HD (MX)(P) - ANDR 1
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278410&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/tvpediabrasil/images/1/17/Comedycentral.jpg/revision/latest/top-crop/width/360/height/450?cb=20180804010106&path-prefix=pt-br" group-title="ENTRETENIMIENTO",COMEDY CENTRAL (MX)(P) - ANDR 1
+http://tecnotv.club/0203F/phpcode/lista01.php?c=278409&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/tvpediabrasil/images/1/17/Comedycentral.jpg/revision/latest/top-crop/width/360/height/450?cb=20180804010106&path-prefix=pt-br" group-title="ENTRETENIMIENTO",Comedy Central FHD. (i) - ANDR 1
+http://tecnotv.club/0203F/phpcode/lista01.php?c=158673&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/tvpediabrasil/images/1/17/Comedycentral.jpg/revision/latest/top-crop/width/360/height/450?cb=20180804010106&path-prefix=pt-br" group-title="ENTRETENIMIENTO",COMEDY CENTRAL - ANDR 3
-http://clubtv.link/11agt/phpcode/android3.php?c=a02h&token=TecnoplusJunio03
+
 #EXTINF:-1 logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVwZpFZhnt0eWI_KEB9pw87hA7tpgUsE5ingp0CVLi2utbz9XtCp0zkmA9pD_SL0oc_hiia-zudSCky2GaTyfZ4VJQoDDm6NOxYiXhQucNi7fIK4d_xBilRkeeMbnKaBlHI4Txi9DhTjg/s0/universal-comedy.png" group-title="SERIES Y CINE",UNIVERSAL COMEDY HD - TV4 SR REGIO
 
 #EXTINF:-1 logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVwZpFZhnt0eWI_KEB9pw87hA7tpgUsE5ingp0CVLi2utbz9XtCp0zkmA9pD_SL0oc_hiia-zudSCky2GaTyfZ4VJQoDDm6NOxYiXhQucNi7fIK4d_xBilRkeeMbnKaBlHI4Txi9DhTjg/s0/universal-comedy.png" group-title="SERIES Y CINE",UNIVERSAL COMEDY - TV8 SR REGIO
@@ -5479,6 +5478,7 @@ http://radiokn.ddns.net:7000/efir
 
 #EXTINF:-1,RETRO FM UA Romantic
 http://cast.radiogroup.com.ua:8000/retro_romantic
+
 
 
 
